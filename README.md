@@ -41,7 +41,7 @@ For more information about using Yuzu mods, [check out their guide](https://yuzu
 
 ### How was this made possible?
 
-- It's important to note that we are a team of just two people, and this takes a large amount of meticulous work. This is our first time doing a translation of a video game, so keep that in mind too.
+- It's important to note that our core team consists of just two people, and this takes a large amount of meticulous work. This is our first time doing a translation of a video game, so keep that in mind too.
 
 - We reverse-engineered the game assets to unpack them for modification. Afterwards we used [DeepL](https://www.deepl.com/en/whydeepl) deep learning translation as a base for the dialogue. This was then cross-referenced by other translation software and proofread by people. While we strive for a high-quality translation, you may encounter small errors, and we encourage readers to open a pull request for any errors they find so we can patch it out.
 

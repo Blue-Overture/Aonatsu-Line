@@ -755,27 +755,27 @@
 		},
 		{
 			"DATA": "48050000af000000ffffffff190000001a000000ffffffff",
-			"STRING": "起動時に最新のセーブファイルを自動的にロードするようにします"
+			"STRING": "Begin game by automatically loading latest save file"
 		},
 		{
 			"DATA": "4e060000af000000ffffffff1b0000001c000000ffffffff",
-			"STRING": "起動時に通常通りタイトル画面へ移行するようにします"
+			"STRING": "Begin game on title screen"
 		},
 		{
 			"DATA": "b2010000af000000ffffffff1d0000001e000000ffffffff",
-			"STRING": "メニューやボタンなどの簡易ヘルプを表示します"
+			"STRING": "Display simple help for buttons and menus"
 		},
 		{
 			"DATA": "b8020000af000000ffffffff1f00000020000000ffffffff",
-			"STRING": "簡易ヘルプを表示しないようにします"
+			"STRING": "Disable simple help"
 		},
 		{
 			"DATA": "b2010000fa000000ffffffff1d0000001e000000ffffffff",
-			"STRING": "エラーなどの情報メッセージを画面左下に表示します"
+			"STRING": "Display error and informational messages in the lower left corner"
 		},
 		{
 			"DATA": "b8020000fa000000ffffffff1f00000020000000ffffffff",
-			"STRING": "情報メッセージを表示しないようにします"
+			"STRING": "Disable informational messages"
 		},
 		{
 			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",

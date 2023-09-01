@@ -1,0 +1,50 @@
+{
+	"TABLE": [
+		2,
+		2,
+		2,
+		2,
+		2,
+		2,
+		2,
+		2,
+		2,
+		2,
+		2,
+		1
+	],
+	"ENTRIES": [
+		{
+			"DATA": "0000000000000000050000000100000001000000510100000a010000ffffffffffffffffffffffffffffffff",
+			"STRING": "Display tips"
+		},
+		{
+			"DATA": "0000000000000000050000000000000001000000f20100000a010000ffffffffffffffffffffffffffffffff",
+			"STRING": "Disable tips"
+		},
+		{
+			"DATA": "0000000001000000030000000100000000000000b201000008020000ffffffff2500000026000000ffffffff",
+			"STRING": "Auto save at start of events"
+		},
+		{
+			"DATA": "0000000001000000030000000000000000000000b802000008020000ffffffff2700000028000000ffffffff",
+			"STRING": "Disable auto save at start of events"
+		},
+		{
+			"DATA": "0000000001000000010000000100000000000000b201000016030000ffffffff3d0000003e000000ffffffff",
+			"STRING": "Stop at start of event when jumping to next option"
+		},
+		{
+			"DATA": "0000000001000000010000000000000000000000b802000016030000ffffffff3f00000040000000ffffffff",
+			"STRING": "Disable stopping at start of event when jumping to next option"
+		},
+		{
+			"DATA": "000000000100000002000000010000000000000048050000cb020000ffffffff3d0000003e000000ffffffff",
+			"STRING": "Stops at opening/ending when jumping to next option"
+		},
+		{
+			"DATA": "00000000010000000200000000000000000000004e060000cb020000ffffffff3f00000040000000ffffffff",
+			"STRING": "Disable stopping at opening/ending when jumping to next option"
+		}
+	]
+}

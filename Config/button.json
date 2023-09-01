@@ -631,11 +631,11 @@
 		},
 		{
 			"DATA": "b2010000db010000ffffffffffffffffffffffffffffffff",
-			"STRING": "Display 'loading' indicator when loading"
+			"STRING": "Display \"loading\" indicator when loading"
 		},
 		{
 			"DATA": "b8020000db010000ffffffffffffffffffffffffffffffff",
-			"STRING": "Disable 'loading' indicator"
+			"STRING": "Disable \"loading\" indicator"
 		},
 		{
 			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
@@ -667,19 +667,19 @@
 		},
 		{
 			"DATA": "b201000071020000ffffffff1d0000001e000000ffffffff",
-			"STRING": "Display 'Read' icon in the message window"
+			"STRING": "Display \"Read\" icon in the message window"
 		},
 		{
 			"DATA": "b802000071020000ffffffff1f00000020000000ffffffff",
-			"STRING": "Disable 'Read' icon"
+			"STRING": "Disable \"Read\" icon"
 		},
 		{
 			"DATA": "b2010000bc020000ffffffff1d0000001e000000ffffffff",
-			"STRING": "Display 'Confirm' icon when waiting to continue"
+			"STRING": "Display \"Confirm\" icon when waiting to continue"
 		},
 		{
 			"DATA": "b8020000bc020000ffffffff1f00000020000000ffffffff",
-			"STRING": "Disable 'Confirm' icon"
+			"STRING": "Disable \"Confirm\" icon"
 		},
 		{
 			"DATA": "b201000007030000ffffffff1d0000001e000000ffffffff",
@@ -755,27 +755,27 @@
 		},
 		{
 			"DATA": "48050000af000000ffffffff190000001a000000ffffffff",
-			"STRING": "Begin game by automatically loading latest save file"
+			"STRING": "起動時に最新のセーブファイルを自動的にロードするようにします"
 		},
 		{
 			"DATA": "4e060000af000000ffffffff1b0000001c000000ffffffff",
-			"STRING": "Begin game on title screen"
+			"STRING": "起動時に通常通りタイトル画面へ移行するようにします"
 		},
 		{
 			"DATA": "b2010000af000000ffffffff1d0000001e000000ffffffff",
-			"STRING": "Display simple help for buttons and menus"
+			"STRING": "メニューやボタンなどの簡易ヘルプを表示します"
 		},
 		{
 			"DATA": "b8020000af000000ffffffff1f00000020000000ffffffff",
-			"STRING": "Disable simple help"
+			"STRING": "簡易ヘルプを表示しないようにします"
 		},
 		{
 			"DATA": "b2010000fa000000ffffffff1d0000001e000000ffffffff",
-			"STRING": "Display error and informational messages in the lower left corner"
+			"STRING": "エラーなどの情報メッセージを画面左下に表示します"
 		},
 		{
 			"DATA": "b8020000fa000000ffffffff1f00000020000000ffffffff",
-			"STRING": "Disable informational messages"
+			"STRING": "情報メッセージを表示しないようにします"
 		},
 		{
 			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",

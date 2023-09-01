@@ -1183,7 +1183,7 @@
 		},
 		{
 			"DATA": "4a01000046010000ffffffff67000000680000006b000000",
-			"STRING": "Disabling this will cause all dialogue currently being typed out will be shown immediately."
+			"STRING": "Disabling this will cause all dialogue currently being typed out to be shown immediately."
 		},
 		{
 			"DATA": "4a01000091010000ffffffff67000000680000006b000000",

@@ -30,10 +30,10 @@ You must have installed custom firmware `Atmosphere`.
 - Select `Open Mod Data Location`
 - A window will open showing the directory `yuzu\load\01009B7015E68000`
 - In this folder, create a new folder named `English`
-- Move folders `exefs` and `romfs` into `yuzu\load\01009B7015E68000\English` and close the window
+- Move contents of `Full.zip` into `yuzu\load\01009B7015E68000\English` and close the window
 - In Yuzu, right click `アオナツライン` and select `Properties`
 - In the `Add-Ons` tab, make sure `English` is checked and close the window
-- If using the demo version, the path will be `yuzu\load\010082E016CFC000` instead
+- If using the demo version, the path will be `yuzu\load\010082E016CFC000` and you'll use the contents of `Demo.zip` instead
 - Enjoy!
 For more information about using Yuzu mods, [check out their guide](https://yuzu-emu.org/help/feature/game-modding/).
 

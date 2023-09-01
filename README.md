@@ -30,8 +30,8 @@ You must have installed custom firmware `Atmosphere`.
 - Select `Open Mod Data Location`
 - A window will open showing the directory `yuzu\load\01009B7015E68000`
 - In this folder, create a new folder named `English`
--- If using the retail release, move contents of `Full.zip` into `yuzu\load\01009B7015E68000\English` and close the window
--- If using the demo version, move contents of `Demo.zip` into `yuzu\load\010082E016CFC000\English` and close the window
+- If using the retail release, move contents of `Full.zip` into `yuzu\load\01009B7015E68000\English` and close the window
+- If using the demo version, move contents of `Demo.zip` into `yuzu\load\010082E016CFC000\English` and close the window
 - In Yuzu, right click `アオナツライン` and select `Properties`
 - In the `Add-Ons` tab, make sure `English` is checked and close the window
 - Enjoy!

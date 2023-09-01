@@ -1,0 +1,51 @@
+{
+	"TABLE": [
+		1,
+		2,
+		2,
+		2,
+		2,
+		2,
+		2,
+		2,
+		2,
+		2,
+		2,
+		2,
+		2
+	],
+	"ENTRIES": [
+		{
+			"NAME": "Tatsumi",
+			"DATA": "00000000ffffffff2000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+		},
+		{
+			"NAME": "Miki",
+			"DATA": "01000000000000002000000001000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+		},
+		{
+			"NAME": "Yui",
+			"DATA": "02000000010000002000000001000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+		},
+		{
+			"NAME": "Kotone",
+			"DATA": "03000000020000002000000001000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+		},
+		{
+			"NAME": "Chihiro",
+			"DATA": "04000000030000002000000001000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+		},
+		{
+			"NAME": "Male Character",
+			"DATA": "05000000040000002000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+		},
+		{
+			"NAME": "Female Character",
+			"DATA": "06000000050000002000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+		},
+		{
+			"NAME": "Other",
+			"DATA": "07000000ffffffff2000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+		}
+	]
+}

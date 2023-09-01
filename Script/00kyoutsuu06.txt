@@ -1,0 +1,552 @@
+{0x01B5}	LOAD_STRING	'Yui'
+{0x01B7}	LOAD_STRING	'@v00020299"Good morning, everyone!"'
+
+{0x01C1}	LOAD_STRING	'Chihiro'
+{0x01C3}	LOAD_STRING	'@v00040189"Yo."'
+
+{0x01CD}	LOAD_STRING	'Miki'
+{0x01CF}	LOAD_STRING	'@v00010206"Good morning, Yui-chan!"'
+
+{0x01DF}	LOAD_STRING	'Nakategawa came through the ticket gate, waving as usual.'
+
+{0x01E9}	LOAD_STRING	'Miki'
+{0x01EB}	LOAD_STRING	'@v00010207"It looks like you've gotten used to that ticket gate!"'
+
+{0x01F5}	LOAD_STRING	'Yui'
+{0x01F7}	LOAD_STRING	'@v00020300"Yes, thanks to you!"'
+
+{0x0201}	LOAD_STRING	'Chihiro'
+{0x0203}	LOAD_STRING	'@v00040190"You almost cried the first time."'
+
+{0x020D}	LOAD_STRING	'Yui'
+{0x020F}	LOAD_STRING	'@v00020301"Hey, I did not!"'
+
+{0x021F}	LOAD_STRING	'Now she's puffing her cheeks out.'
+
+{0x022F}	LOAD_STRING	'You know, Chihiro is only teasing you because he knows you'll get flustered.'
+
+{0x027B}	LOAD_STRING	'Tatsumi'
+{0x027D}	LOAD_STRING	'Okay, now we just wait for Shiino to get here.'
+
+{0x02BF}	LOAD_STRING	'Miki'
+{0x02C1}	LOAD_STRING	'@v00010208"I just got a message saying she's on her way."'
+
+{0x02CB}	LOAD_STRING	'Chihiro'
+{0x02CD}	LOAD_STRING	'@v00040191"So she's three minutes away, then."'
+
+{0x02DD}	LOAD_STRING	'Gakuenmae Station has only one track on the platform, so trains come and go from alternate directions.'
+
+{0x02ED}	LOAD_STRING	'Judging by the fact that Shiino's house is in the opposite direction of Nakategawa's, we've deduced that her train is arriving in about three minutes.'
+
+{0x02F7}	LOAD_STRING	'Chihiro'
+{0x02F9}	LOAD_STRING	'@v00040192"Hey, by the way... About Shiino."'
+
+{0x0309}	LOAD_STRING	'Reluctantly, Chihiro begins to say something.'
+
+{0x0313}	LOAD_STRING	'Miki'
+{0x0315}	LOAD_STRING	'@v00010209"Hmm? What's up?"'
+
+{0x031F}	LOAD_STRING	'Chihiro'
+{0x0321}	LOAD_STRING	'@v00040193"Honestly, what do you think of her?"'
+
+{0x032F}	LOAD_STRING	'Tatsumi'
+{0x0331}	LOAD_STRING	'That's a vague question coming from you.'
+
+{0x038B}	LOAD_STRING	'Yui'
+{0x038D}	LOAD_STRING	'@v00020302"Hmm, maybe it's..."'
+
+{0x0397}	LOAD_STRING	'Chihiro'
+{0x0399}	LOAD_STRING	'@v00040194"I'm not into her like that, okay?"'
+
+{0x03A3}	LOAD_STRING	'Yui'
+{0x03A5}	LOAD_STRING	'@v00020303"It's love, Chihiro-san!"@k'
+
+{0x03C2}	LOAD_STRING	'Chihiro'
+{0x03C4}	LOAD_STRING	'@v00040195"And what did I just... nevermind.@t0280@hCHIHIRO_A101MJ So, what do you think?"'
+
+{0x03CE}	LOAD_STRING	'Yui'
+{0x03D0}	LOAD_STRING	'@v00020304"She's such a pretty girl!"'
+
+{0x03DA}	LOAD_STRING	'Miki'
+{0x03DC}	LOAD_STRING	'@v00010210"I know, right? I'm jealous of her glowing skin."'
+
+{0x03EA}	LOAD_STRING	'Tatsumi'
+{0x03EC}	LOAD_STRING	'I don't know, I think you're both focused on just one thing.'
+
+{0x03FC}	LOAD_STRING	'If you ask me, both Miki and Nakategawa are glowing just as much as Shiino.'
+
+{0x0456}	LOAD_STRING	'Chihiro'
+{0x0458}	LOAD_STRING	'@v00040196"No, that's not what I'm asking..."'
+
+{0x0462}	LOAD_STRING	'Miki'
+{0x0464}	LOAD_STRING	'@v00010211"That doesn't sound like the Chi-kun I know. What are you getting at?"'
+
+{0x046E}	LOAD_STRING	'Chihiro'
+{0x0470}	LOAD_STRING	'@v00040197"Oh, uh... how do I say it...?"'
+
+{0x0480}	LOAD_STRING	'Chihiro closes his eyes and crosses his arms.'
+
+{0x048A}	LOAD_STRING	'Chihiro'
+{0x048C}	LOAD_STRING	'@v00040198"I'm worried that I won't really get along with her very well..."'
+
+{0x0496}	LOAD_STRING	'Miki'
+{0x0498}	LOAD_STRING	'@v00010212"Whaaat? Of course you will."'
+
+{0x04EA}	LOAD_STRING	'Yui'
+{0x04EC}	LOAD_STRING	'@v00020305"That's right. You're doing well with me, too."'
+
+{0x0512}	LOAD_STRING	'Chihiro'
+{0x0514}	LOAD_STRING	'@v00040199"Huh?@t0080@hCHIHIRO_A101KM3 Hmm?@t0160@hCHIHIRO_A101KN Uhh, okay.@t0400@hCHIHIRO_A102KM3 ...Okay...?"'
+
+{0x055C}	LOAD_STRING	'Chihiro tilts his head repeatedly as he watched Nakategawa's smiling face.'
+
+{0x05C6}	LOAD_STRING	'Tatsumi'
+{0x05C8}	LOAD_STRING	'Maybe it's because we've only just gotten to know each other, I guess only time will tell.'
+
+{0x05D8}	LOAD_STRING	'Come to think of it, Chihiro was the most nervous about Nakategawa joining us.'
+
+{0x05E8}	LOAD_STRING	'I think he's just naive.'
+
+{0x05F2}	LOAD_STRING	'Chihiro'
+{0x05F4}	LOAD_STRING	'@v00040200"Yeah, maybe you're right."'
+
+{0x0604}	LOAD_STRING	'Just as Chihiro agreed with me...'
+
+{0x060E}	LOAD_STRING	'Kotone'
+{0x0610}	LOAD_STRING	'@v00030069"Do seniors really meet up like this every day? How embarrassing."'
+
+{0x0620}	LOAD_STRING	'I suddenly heard such a cheeky line.'
+
+{0x06A7}	LOAD_STRING	'Chihiro'
+{0x06A9}	LOAD_STRING	'@v00040201"You... and without so much as a greeting."'
+
+{0x06B3}	LOAD_STRING	'Kotone'
+{0x06B5}	LOAD_STRING	'@v00030070"Oh, of course... Good morning."'
+
+{0x06BF}	LOAD_STRING	'Miki'
+{0x06C1}	LOAD_STRING	'@v00010213"Good morning, Koto-chan."@k'
+
+{0x070C}	LOAD_STRING	'Kotone'
+{0x070E}	LOAD_STRING	'@v00030071"Hey, Kohsaka-senpai... Don't hug me."'
+
+{0x0747}	LOAD_STRING	'Shiino pouts as she pulls away from Miki, who greets her with a hug.'
+
+{0x0755}	LOAD_STRING	'Tatsumi'
+{0x0757}	LOAD_STRING	'Good morning, Shiino.'
+
+{0x0761}	LOAD_STRING	'Kotone'
+{0x0763}	LOAD_STRING	'@v00030072"Yeah, good morning."'
+
+{0x07AD}	LOAD_STRING	'Yui'
+{0x07AF}	LOAD_STRING	'@v00020306"Good morning, Kotone-chan. Did you get on the train all right?"'
+
+{0x07B9}	LOAD_STRING	'Kotone'
+{0x07BB}	LOAD_STRING	'@v00030073"...Obviously. I've been riding since April after all."'
+
+{0x07C5}	LOAD_STRING	'Kotone'
+{0x07C7}	LOAD_STRING	'@v00030074"Oh, it seems Nakategawa-senpai has trouble with those things. She looks like someone who can barely manage to get through the ticket gates."'
+
+{0x07D1}	LOAD_STRING	'Yui'
+{0x07D3}	LOAD_STRING	'@v00020307"...That's not true, is it?"'
+
+{0x07E3}	LOAD_STRING	'Nakategawa looks away from Shiino and begins a denial.'
+
+{0x08AD}	LOAD_STRING	'Miki'
+{0x08AF}	LOAD_STRING	'@v00010214"Having five people is so refreshing!"'
+
+{0x08E5}	LOAD_STRING	'Chihiro'
+{0x08E7}	LOAD_STRING	'@v00040202"I have a feeling that people will just keep joining us... Because of a certain someone..."'
+
+{0x08F7}	LOAD_STRING	'Chihiro fires a grimacing look at Nakategawa.'
+
+{0x0905}	LOAD_STRING	'Tatsumi'
+{0x0907}	LOAD_STRING	'We've already decided it. Don't bring it up anymore.'
+
+{0x0911}	LOAD_STRING	'Chihiro'
+{0x0913}	LOAD_STRING	'@v00040203"But..."'
+
+{0x0965}	LOAD_STRING	'Kotone'
+{0x0967}	LOAD_STRING	'@v00030075"I can always leave if you don't like it."'
+
+{0x09A1}	LOAD_STRING	'Yui'
+{0x09A3}	LOAD_STRING	'@v00020308"Now now, Kotone-chan, don't say that.@t0380@hYUI_U102KT Hmm, that's right..."'
+
+{0x0A5D}	LOAD_STRING	'Nakategawa looked up at the sky, pondered for a moment, and began to speak.'
+
+{0x0A67}	LOAD_STRING	'Yui'
+{0x0A69}	LOAD_STRING	'@v00020309"I think that when Kotone-chan and I met in the pouring rain, our worlds must have collided, right?"'
+
+{0x0AC3}	LOAD_STRING	'Kotone'
+{0x0AC5}	LOAD_STRING	'@v00030076"..."'
+
+{0x0ACF}	LOAD_STRING	'Yui'
+{0x0AD1}	LOAD_STRING	'@v00020310"Think of it this way... If our current position in life is a dot, and the course of our life is a line..."'
+
+{0x0ADB}	LOAD_STRING	'Yui'
+{0x0ADD}	LOAD_STRING	'@v00020311"The way our 'lines' cross each other like this, through these kinds of coincidences...@t0590@hYUI_U101EG2 Isn't it wonderful?"'
+
+{0x0AE7}	LOAD_STRING	'Miki'
+{0x0AE9}	LOAD_STRING	'@v00010215"Yui-chan, that's a good point. I'll need to remember it."'
+
+{0x0B37}	LOAD_STRING	'Chihiro'
+{0x0B39}	LOAD_STRING	'@v00040204"What a load of..."'
+
+{0x0B6F}	LOAD_STRING	'Kotone'
+{0x0B71}	LOAD_STRING	'@v00030077"Does this mean that Nakategawa-senpai is doing this all for self-indulgence?"'
+
+{0x0B7F}	LOAD_STRING	'Tatsumi'
+{0x0B81}	LOAD_STRING	'You two seem to get along well together.'
+
+{0x0C13}	LOAD_STRING	'Kotone & Chihiro'
+{0x0C15}	LOAD_STRING	'@v00090903@s0004"Huh?"@k'
+
+{0x0CDF}	LOAD_STRING	'They both vocalized at the same time and looked away awkwardly.'
+
+{0x0DA3}	LOAD_STRING	'Tatsumi'
+{0x0DA5}	LOAD_STRING	'Anyway, see you at lunchtime.'
+
+{0x0DCB}	LOAD_STRING	'Yui'
+{0x0DCD}	LOAD_STRING	'@v00020312"Right. See you later, Kotone-chan."'
+
+{0x0DD7}	LOAD_STRING	'Kotone'
+{0x0DD9}	LOAD_STRING	'@v00030079"Hold it, do I have to go too?"'
+
+{0x0DE3}	LOAD_STRING	'Miki'
+{0x0DE5}	LOAD_STRING	'@v00010216"Huh? That's our rule, isn't it? We play basketball together at lunchtime!"'
+
+{0x0DEF}	LOAD_STRING	'Chihiro'
+{0x0DF1}	LOAD_STRING	'@v00040206"If anything happens in the classroom, tell us right away."'
+
+{0x0E01}	LOAD_STRING	'Chihiro talks to Shiino while putting on his jacket.'
+
+{0x0E0B}	LOAD_STRING	'Kotone'
+{0x0E0D}	LOAD_STRING	'@v00030080"You don't have to worry so much. I'm not a child."'
+
+{0x0E4A}	LOAD_STRING	'After replying to Chihiro's words with that, Shiino quickly heads off to class.'
+
+{0x0EDC}	LOAD_STRING	'Miki'
+{0x0EDE}	LOAD_STRING	'@v00010217"Ahaha, Koto-chan looked so happy, huh?"'
+
+{0x0EE8}	LOAD_STRING	'Chihiro'
+{0x0EEA}	LOAD_STRING	'@v00040207"Nah, just cocky..."'
+
+{0x0EF4}	LOAD_STRING	'Yui'
+{0x0EF6}	LOAD_STRING	'@v00020313"I don't think so. Kotone-chan is grateful to you, Chihiro-san."'
+
+{0x0F04}	LOAD_STRING	'Tatsumi'
+{0x0F06}	LOAD_STRING	'I should try to read behind the words. I'm not... really able to, though.'
+
+{0x0F10}	LOAD_STRING	'Chihiro'
+{0x0F12}	LOAD_STRING	'@v00040208"..."'
+
+{0x0F22}	LOAD_STRING	'We were saying these things to each other as we watched Shiino leave.'
+
+{0x1009}	LOAD_STRING	'Miki'
+{0x100B}	LOAD_STRING	'@v00010218"Hehe, what's this? A two point difference?"'
+
+{0x101B}	LOAD_STRING	'Miki brags as she follows through on the shot.'
+
+{0x104D}	LOAD_STRING	'Yui'
+{0x104F}	LOAD_STRING	'@v00020314"Huff, huff... What does that mean...?"@k'
+
+{0x1089}	LOAD_STRING	'And here is Nakategawa, who is not very athletic.'
+
+{0x1099}	LOAD_STRING	'However, it's not that she's getting in the way of the game. Rather, she was doing a good job, in her own way.'
+
+{0x10A9}	LOAD_STRING	'Her two-person defense with Shiino is notably good.'
+
+{0x1103}	LOAD_STRING	'Chihiro'
+{0x1105}	LOAD_STRING	'@v00040209"Whatever, it's three against two, so of course it's going to be a good match for them."'
+
+{0x112B}	LOAD_STRING	'Kotone'
+{0x112D}	LOAD_STRING	'@v00030081"It's lame to blame the team size, Sakaki-senpai."'
+
+{0x114B}	LOAD_STRING	'For what it's worth, Shiino, who is not athletic, passes the ball to Chihiro while holding her breath.'
+
+{0x1155}	LOAD_STRING	'Kotone'
+{0x1157}	LOAD_STRING	'@v00030082"Just try not to get wound up just because a girl is laughing at you."'
+
+{0x1161}	LOAD_STRING	'Chihiro'
+{0x1163}	LOAD_STRING	'@v00040210"Back up!@t0250@hCHIHIRO_A101EG3 Let's show them how we do, Tatsumi!"'
+
+{0x1173}	LOAD_STRING	'Chihiro smiles while palming a basketball.'
+
+{0x1181}	LOAD_STRING	'Tatsumi'
+{0x1183}	LOAD_STRING	'All right, I'll try.'
+
+{0x11E4}	LOAD_STRING	'Ayna'
+{0x11E6}	LOAD_STRING	'@v00900046"...Huh?"'
+
+{0x11F4}	LOAD_STRING	'Yuzuki'
+{0x11F6}	LOAD_STRING	'@v00900047"Hmm? What's up, Ayna?"'
+
+{0x1204}	LOAD_STRING	'Ayna'
+{0x1206}	LOAD_STRING	'@v00900048"There are... five people on the basketball court, is there one more now?"'
+
+{0x1214}	LOAD_STRING	'Yuzuki'
+{0x1216}	LOAD_STRING	'@v00900049"Oh, really?@t0290 Hey, that looks like Kotone!"'
+
+{0x1224}	LOAD_STRING	'Mayu'
+{0x1226}	LOAD_STRING	'@v00900050"Huh...?!"'
+
+{0x1234}	LOAD_STRING	'Ayna'
+{0x1236}	LOAD_STRING	'@v00900051"She... went over there? Why did she do that, Mayu?"'
+
+{0x1244}	LOAD_STRING	'Yuzuki'
+{0x1246}	LOAD_STRING	'@v00900052"What should we do? What do I tell Nezu-senpai?"'
+
+{0x1254}	LOAD_STRING	'Mayu'
+{0x1256}	LOAD_STRING	'@v00900053"...What the hell is she thinking?"'
+
+{0x12EC}	LOAD_STRING	'Kotone'
+{0x12EE}	LOAD_STRING	'@v00030083"..."'
+
+{0x1324}	LOAD_STRING	'Miki'
+{0x1326}	LOAD_STRING	'@v00010219"Hmm? Koto-chan, what's wrong?"'
+
+{0x1330}	LOAD_STRING	'Kotone'
+{0x1332}	LOAD_STRING	'@v00030084"...The classroom..."'
+
+{0x133C}	LOAD_STRING	'Miki'
+{0x133E}	LOAD_STRING	'@v00010220"...Ah.@t0280@hMIKI_A102BS Well, never mind them. Okay?"'
+
+{0x1348}	LOAD_STRING	'Kotone'
+{0x134A}	LOAD_STRING	'@v00030085"Yeah..."'
+
+{0x1354}	LOAD_STRING	'Miki'
+{0x1356}	LOAD_STRING	'@v00010221"Right! Let's have a strategy meeting."'
+
+{0x1360}	LOAD_STRING	'Yui'
+{0x1362}	LOAD_STRING	'@v00020315"All right, I'll be on the lookout for Tatsumi's long shot!"'
+
+{0x136C}	LOAD_STRING	'Kotone'
+{0x136E}	LOAD_STRING	'@v00030086"It's all for nothing if you give away our strategy, Nakategawa-senpai..."'
+
+{0x13AA}	LOAD_STRING	'Nakategawa's face turns blue at Shiino's criticism.'
+
+{0x1406}	LOAD_STRING	'Miki lightly pats Nakategawa on the shoulder with a smile that seems to encourage her.@k'
+
+{0x1440}	LOAD_STRING	'It's nice to see the ladies getting along, for what it's worth.'
+
+{0x1519}	LOAD_STRING	'Chihiro'
+{0x151B}	LOAD_STRING	'@v00040211"So, new girl! Any ideas for summer vacation plans?"'
+
+{0x1525}	LOAD_STRING	'Kotone'
+{0x1527}	LOAD_STRING	'@v00030087"Sakaki-senpai, there you go being abrupt again..."'
+
+{0x1537}	LOAD_STRING	'Shiino shoots Chihiro an annoyed look while sipping on her latte.'
+
+{0x1541}	LOAD_STRING	'Miki'
+{0x1543}	LOAD_STRING	'@v00010222"We have trouble coming up with ideas. Right, Yui-chan?"'
+
+{0x154D}	LOAD_STRING	'Yui'
+{0x154F}	LOAD_STRING	'@v00020316"That's right. I've been thinking about it for a while now..."'
+
+{0x155D}	LOAD_STRING	'Tatsumi'
+{0x155F}	LOAD_STRING	'Chihiro is being abrupt, but to be honest, I've also been thinking about it since April.'
+
+{0x156D}	LOAD_STRING	'Tatsumi'
+{0x156F}	LOAD_STRING	'Shiino, is there anything you want to do?'
+
+{0x1579}	LOAD_STRING	'Kotone'
+{0x157B}	LOAD_STRING	'@v00030088"Something I want to do?"'
+
+{0x1585}	LOAD_STRING	'Yui'
+{0x1587}	LOAD_STRING	'@v00020317"Anything is fine, as long as it's interesting and Kotone-chan wants to do it."'
+
+{0x1591}	LOAD_STRING	'Miki'
+{0x1593}	LOAD_STRING	'@v00010223"I wonder if a freshman like Koto-chan can come up with something fresh?"'
+
+{0x15A3}	LOAD_STRING	'With these words of encouragement, Shiino begins to discuss it.'
+
+{0x15AD}	LOAD_STRING	'Kotone'
+{0x15AF}	LOAD_STRING	'@v00030089"Like forming a dance team?"'
+
+{0x15B9}	LOAD_STRING	'Chihiro'
+{0x15BB}	LOAD_STRING	'@v00040212"Oh, that's all the rage right now."'
+
+{0x15C9}	LOAD_STRING	'Tatsumi'
+{0x15CB}	LOAD_STRING	'I've seen it on TV, but I don't know much else about that.'
+
+{0x1607}	LOAD_STRING	'Dancing... well, the only dancing I've done is during my neighborhood's Bon Odori festival.'
+
+{0x1617}	LOAD_STRING	'Nah, I don't think that counts as a real dance.'
+
+{0x1627}	LOAD_STRING	'I wonder if I can become good at dancing if I practice seriously.'
+
+{0x1671}	LOAD_STRING	'Miki'
+{0x1673}	LOAD_STRING	'@v00010224"Wow, youngsters have such robust ideas. That's great, Koto-chan!"'
+
+{0x167D}	LOAD_STRING	'Kotone'
+{0x167F}	LOAD_STRING	'@v00030090"Uh..."'
+
+{0x168D}	LOAD_STRING	'Tatsumi'
+{0x168F}	LOAD_STRING	'If it's us, we'll end up winning all the shirasudon!'
+
+{0x16AC}	LOAD_STRING	'Kotone'
+{0x16AE}	LOAD_STRING	'@v00030091@s0004"Shirasudon?!@t0100@hKOTONE_U101IK3 That's so disgusting!"@k'
+
+{0x16CB}	LOAD_STRING	'Yui'
+{0x16CD}	LOAD_STRING	'@v00020318"You don't like it, Kotone-chan?"'
+
+{0x16D7}	LOAD_STRING	'Kotone'
+{0x16D9}	LOAD_STRING	'@v00030092"Well... don't you feel sorry for them...? So many small lives being killed...@t0600@hKOTONE_U102IK3 How cruel can humans be?"'
+
+{0x16E3}	LOAD_STRING	'Chihiro'
+{0x16E5}	LOAD_STRING	'@v00040213"O-oh..."'
+
+{0x16F5}	LOAD_STRING	'Chihiro had a face that said "Is that how you feel about it?"'
+
+{0x1703}	LOAD_STRING	'Tatsumi'
+{0x1705}	LOAD_STRING	'Well, let's give up on the shirasudon. Shiino, anything else?'
+
+{0x170F}	LOAD_STRING	'Kotone'
+{0x1711}	LOAD_STRING	'@v00030093"Well, I don't like fish or the sea...@t0490@hKOTONE_U101TN Why don't we all go to Tokyo for fun?"'
+
+{0x175F}	LOAD_STRING	'Yui'
+{0x1761}	LOAD_STRING	'@v00020319"Wow! Let's do it!"'
+
+{0x1787}	LOAD_STRING	'Miki'
+{0x1789}	LOAD_STRING	'@v00010225"Yeah, but if you're serious, one day won't be enough for sightseeing.@t0440@hMIKI_U102EG2 Should we stay overnight?"'
+
+{0x17AF}	LOAD_STRING	'Yui'
+{0x17B1}	LOAD_STRING	'@v00020320"Do we stay in the same room? That's a wild night for a crush situation!"'
+
+{0x17BF}	LOAD_STRING	'Tatsumi'
+{0x17C1}	LOAD_STRING	'Nah, we'd have one room for each gender of course.'
+
+{0x17CB}	LOAD_STRING	'Chihiro'
+{0x17CD}	LOAD_STRING	'@v00040214"Tokyo is so crowded."'
+
+{0x17DD}	LOAD_STRING	'Chihiro gives me his opinion within earshot of the girls.'
+
+{0x17E7}	LOAD_STRING	'Yui'
+{0x17E9}	LOAD_STRING	'@v00020321"So Kotone-chan, have you ever been to Tokyo?"'
+
+{0x1837}	LOAD_STRING	'Kotone'
+{0x1839}	LOAD_STRING	'@v00030094"You know, there isn't a girl my age in this town that hasn't visited Tokyo..."'
+
+{0x1843}	LOAD_STRING	'Miki'
+{0x1845}	LOAD_STRING	'@v00010226"Koto-chan, are you the type to hang out in Tokyo?"'
+
+{0x184F}	LOAD_STRING	'Kotone'
+{0x1851}	LOAD_STRING	'@v00030095"I don't know if there is a "type", but, well..."'
+
+{0x185B}	LOAD_STRING	'Kotone'
+{0x185D}	LOAD_STRING	'@v00030096"I go to buy clothes and accessories from stores featured in blogs, I take pictures, and upload them to social apps."'
+
+{0x1867}	LOAD_STRING	'Yui'
+{0x1869}	LOAD_STRING	'@v00020322"Apps, huh? So cool!"'
+
+{0x1873}	LOAD_STRING	'Kotone'
+{0x1875}	LOAD_STRING	'@v00030097"Nah, everyone does it, right?"'
+
+{0x187F}	LOAD_STRING	'Yui'
+{0x1881}	LOAD_STRING	'@v00020323"So cool.. You're such a sleek, modern girl!"'
+
+{0x188B}	LOAD_STRING	'Kotone'
+{0x188D}	LOAD_STRING	'@v00030098"Huh...?"'
+
+{0x189D}	LOAD_STRING	'Nakategawa's eyes sparkle at Shiino, who seems puzzled by it.'
+
+{0x18E9}	LOAD_STRING	'Yui'
+{0x18EB}	LOAD_STRING	'@v00020324"Oh, um... Can you tell me what's trendy among modern girls?!"'
+
+{0x18F5}	LOAD_STRING	'Kotone'
+{0x18F7}	LOAD_STRING	'@v00030099"N-Nakategawa-senpai... you're standing so close..."@k'
+
+{0x1914}	LOAD_STRING	'Miki'
+{0x1916}	LOAD_STRING	'@v00010227"Koto-chan, spill it. I'm interested too!"'
+
+{0x1944}	LOAD_STRING	'Kotone'
+{0x1946}	LOAD_STRING	'@v00030100"Even so... I think Kohsaka-senpai is good-looking as it is."'
+
+{0x1950}	LOAD_STRING	'Miki'
+{0x1952}	LOAD_STRING	'@v00010228"Huh? Does that mean I can't be a modern girl?"'
+
+{0x195C}	LOAD_STRING	'Kotone'
+{0x195E}	LOAD_STRING	'@v00030101"That's not it...@t0240@hKOTONE_U102HE Kohsaka-senpai is natural and cute as she is now."'
+
+{0x1968}	LOAD_STRING	'Yui'
+{0x196A}	LOAD_STRING	'@v00020325"I agree with you. She has this... naturally popular aura about her."'
+
+{0x1974}	LOAD_STRING	'Miki'
+{0x1976}	LOAD_STRING	'@v00010229"Huh? Really? Am I a secret handsome devil girl?'
+
+{0x1980}	LOAD_STRING	'Kotone'
+{0x1982}	LOAD_STRING	'@v00030102"Not quite...@t0340@hKOTONE_U102HE But, I'm really curious to know what kind of makeup you wear, Kohsaka-senpai."'
+
+{0x19B8}	LOAD_STRING	'Miki'
+{0x19BA}	LOAD_STRING	'@v00010230"What do you mean...@t0130@hMIKI_U101EG It's just a normal kind, right?"'
+
+{0x19C4}	LOAD_STRING	'Yui'
+{0x19C6}	LOAD_STRING	'@v00020326"I'm also curious. Please pass on your womanly wisdom to us!"'
+
+{0x19D0}	LOAD_STRING	'Miki'
+{0x19D2}	LOAD_STRING	'@v00010231"No, no, what are you saying? Boys are weak against Yui-chan types, right?"'
+
+{0x19F8}	LOAD_STRING	'Kotone'
+{0x19FA}	LOAD_STRING	'@v00030103"That's right, Nakategawa-senpai is so stylish, she rocks the 'snow white' look!@t0750@hKOTONE_U102DY It looks like dyeing is worth it..."'
+
+{0x1A04}	LOAD_STRING	'Miki'
+{0x1A06}	LOAD_STRING	'@v00010232"Tak-kun and the others were so in love with Yui-chan at first."'
+
+{0x1A10}	LOAD_STRING	'Kotone'
+{0x1A12}	LOAD_STRING	'@v00030104"Huh? Is that true?"'
+
+{0x1A1C}	LOAD_STRING	'Miki'
+{0x1A1E}	LOAD_STRING	'@v00010233"Will you listen? Will you listen to May's sad love story?"'
+
+{0x1A2C}	LOAD_STRING	'Tatsumi'
+{0x1A2E}	LOAD_STRING	'I feel like I'm hearing some inaccurate information right now.'
+
+{0x1A3E}	LOAD_STRING	'Standing in front of three girls who are getting excited like that.'
+
+{0x1ABF}	LOAD_STRING	'Chihiro'
+{0x1AC1}	LOAD_STRING	'@v00040215"Hey, did they forget we're right here?"'
+
+{0x1ACF}	LOAD_STRING	'Tatsumi'
+{0x1AD1}	LOAD_STRING	'If we get out of our seat, we'll get scolded. Let's just let it be.'
+
+{0x1ADB}	LOAD_STRING	'Chihiro'
+{0x1ADD}	LOAD_STRING	'@v00040216"What?"'
+
+{0x1AEB}	LOAD_STRING	'Tatsumi'
+{0x1AED}	LOAD_STRING	'The girls are getting along, after all.'
+
+{0x1AF7}	LOAD_STRING	'Chihiro'
+{0x1AF9}	LOAD_STRING	'@v00040217"...I envy you for saying that."'
+
+{0x1B09}	LOAD_STRING	'Chihiro looks into the distance.'
+
+{0x1B19}	LOAD_STRING	'The three girls are laughing and talking about makeup and fashion.'
+
+{0x1B29}	LOAD_STRING	'About half the words they're using are completely unintelligible to us.'
+
+{0x1B37}	LOAD_STRING	'Tatsumi'
+{0x1B39}	LOAD_STRING	'I guess it's a man's job to go along with this.'
+
+{0x1B43}	LOAD_STRING	'Chihiro'
+{0x1B45}	LOAD_STRING	'@v00040218"I don't feel like I'm going along, I feel like I'm being left behind..."'
+
+{0x1B55}	LOAD_STRING	'After saying this, Chihiro sips his coffee.'
+
+{0x1BBC}	LOAD_STRING	'Miki's Dad'
+{0x1BBE}	LOAD_STRING	'@v00900054"..."'
+
+{0x1BCE}	LOAD_STRING	'From the kitchen, Miki's dad signals over to me and Chihiro with his hands, as if encouraging us.'
+
+{0x1BDE}	LOAD_STRING	'Well, Miki's dad was the only man in the house.'
+
+{0x1BEE}	LOAD_STRING	'He's used to this kind of development... Or rather, he had to get used to it.'
+
+{0x1C4C}	LOAD_STRING	'Chihiro'
+{0x1C4E}	LOAD_STRING	'@v00040219"Pops, can I get another coffee?"'
+
+{0x1C5C}	LOAD_STRING	'Tatsumi'
+{0x1C5E}	LOAD_STRING	'Oh, me too.'
+
+{0x1C6C}	LOAD_STRING	'Miki's Dad'
+{0x1C6E}	LOAD_STRING	'@v00900055"...Next round of drinks will be on the house."'
+
+{0x1CA2}	LOAD_STRING	'It was one evening where my bond with Miki's dad was stronger than with the three girls.'

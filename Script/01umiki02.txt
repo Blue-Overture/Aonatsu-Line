@@ -1,0 +1,591 @@
+{0x00B2}	LOAD_STRING	'Chihiro'
+{0x00B4}	LOAD_STRING	'@v00040493"'Erase the blackboard', right?"'
+
+{0x00C2}	LOAD_STRING	'Tatsumi'
+{0x00C4}	LOAD_STRING	'Classic Chihiro.'
+
+{0x00CE}	LOAD_STRING	'Miki'
+{0x00D0}	LOAD_STRING	'@v00010525"My guess is@t0200@hMIKI_A101EG 'will you stand up?'"'
+
+{0x00E0}	LOAD_STRING	'Three minutes before morning homeroom, we were joking around like that.'
+
+{0x00F0}	LOAD_STRING	'This is what we call a small bet.'
+
+{0x00FA}	LOAD_STRING	'Chihiro'
+{0x00FC}	LOAD_STRING	'@v00040494"No no, it's definitely 'erase the blackboard.'"'
+
+{0x010A}	LOAD_STRING	'Tatsumi'
+{0x010C}	LOAD_STRING	'I guess. It's all scribbled up in a nice way.'
+
+{0x011C}	LOAD_STRING	'Graffiti, but only to the extent of a small, strange rabbit mascot in one corner.'
+
+{0x012C}	LOAD_STRING	'But it's our homeroom teacher's personality to notice such small details.'
+
+{0x0136}	LOAD_STRING	'Miki'
+{0x0138}	LOAD_STRING	'@v00010526"Hehe... don't underestimate my wild intuition."'
+
+{0x0148}	LOAD_STRING	'With that said, Miki's chest is beating.'
+
+{0x01A9}	LOAD_STRING	'The classroom door opened and in came the homeroom teacher.'
+
+{0x01B9}	LOAD_STRING	'And then he took a breath, as usual, and then...'
+
+{0x01C7}	LOAD_STRING	'Sakuma'
+{0x01C9}	LOAD_STRING	'@v00900106"...@t0230@h Will you stand up?"'
+
+{0x020B}	LOAD_STRING	'Miki'
+{0x020D}	LOAD_STRING	'@v00010527@s0004"I TOLD YOU!!!"@k'
+
+{0x0230}	LOAD_STRING	'Said the person who guessed what the homeroom teacher would say upon coming into the classroom.'
+
+{0x0240}	LOAD_STRING	'Miki won such a small bet.'
+
+{0x02CA}	LOAD_STRING	'Miki'
+{0x02CC}	LOAD_STRING	'@v00010528"Sooo, what will I get Tak-kun and Chi-kun to do for me now...?"'
+
+{0x02DC}	LOAD_STRING	'During lunch break.'
+
+{0x02EC}	LOAD_STRING	'Miki, who was now the sole winner, had a face that embodied the word "chipper."'
+
+{0x033E}	LOAD_STRING	'Chihiro'
+{0x0340}	LOAD_STRING	'@v00040495"What, is today the day we bow down before her majesty?"'
+
+{0x0350}	LOAD_STRING	'Chihiro gives me a small earful, and he looks stunned, yet happy.'
+
+{0x035E}	LOAD_STRING	'Tatsumi'
+{0x0360}	LOAD_STRING	'It can't be helped... a bet is a bet.'
+
+{0x036A}	LOAD_STRING	'Chihiro'
+{0x036C}	LOAD_STRING	'@v00040496"That's right. This year... or rather, after Mika-san came to Tokyo, her majesty's demands have escalated, haven't they?"'
+
+{0x037A}	LOAD_STRING	'Tatsumi'
+{0x037C}	LOAD_STRING	'Maybe we're the new targets of her pampering.'
+
+{0x038C}	LOAD_STRING	'Miki and Mika were really close sisters, even though they fought a lot.'
+
+{0x039C}	LOAD_STRING	'Perhaps even the fights were a form of communication.'
+
+{0x03A6}	LOAD_STRING	'Chihiro'
+{0x03A8}	LOAD_STRING	'@v00040497"If that's the case, it's amazing that Mika-san took all this sweetness in stride."'
+
+{0x03B8}	LOAD_STRING	'I have to agree wholeheartedly with you on that.'
+
+{0x03C8}	LOAD_STRING	'From the side, Miki was spoiled by Mika-san, a typical youngest child attribute.'
+
+{0x0439}	LOAD_STRING	'Miki'
+{0x043B}	LOAD_STRING	'@v00010529"Ugh... that one is different too, and I had that one done last month,@t0460@hMIKI_A102EG2 what should I do...?"'
+
+{0x044B}	LOAD_STRING	'Miki, who had been groaning alone, stared casually out the window...'
+
+{0x0455}	LOAD_STRING	'Miki'
+{0x0457}	LOAD_STRING	'@v00010530"Yes!"'
+
+{0x0467}	LOAD_STRING	'She raised her voice and clapped her hands with a pop.'
+
+{0x0475}	LOAD_STRING	'Tatsumi'
+{0x0477}	LOAD_STRING	'Has the request been decided?'
+
+{0x0481}	LOAD_STRING	'Miki'
+{0x0483}	LOAD_STRING	'@v00010531"Demands are so impersonal. It's the just reward of the victor."'
+
+{0x04D5}	LOAD_STRING	'Chihiro'
+{0x04D7}	LOAD_STRING	'@v00040498"Heh, and what's your just reward?"'
+
+{0x04E7}	LOAD_STRING	'In response to Chihiro's question, Miki points to the blue sky outside the window.'
+
+{0x04F1}	LOAD_STRING	'Miki'
+{0x04F3}	LOAD_STRING	'@v00010532"It's sunny today for the first time in a while, right?"'
+
+{0x0501}	LOAD_STRING	'Tatsumi'
+{0x0503}	LOAD_STRING	'Yeah, it's been raining for a while now. It's supposed to start raining again in the evening, though.'
+
+{0x0513}	LOAD_STRING	'Because of this weather Miki can't play basketball, so she's building up stress like dog that can't go for a walk.'
+
+{0x051D}	LOAD_STRING	'Chihiro'
+{0x051F}	LOAD_STRING	'@v00040499"So, it's sunny. Where are we going with this?"'
+
+{0x0529}	LOAD_STRING	'Miki'
+{0x052B}	LOAD_STRING	'@v00010533"Actually... I've had a dream for a while..."'
+
+{0x0539}	LOAD_STRING	'Tatsumi'
+{0x053B}	LOAD_STRING	'Dream?'
+
+{0x0545}	LOAD_STRING	'Chihiro'
+{0x0547}	LOAD_STRING	'@v00040500"Not another dream I've never heard of before, is it?"'
+
+{0x0551}	LOAD_STRING	'Miki'
+{0x0553}	LOAD_STRING	'@v00010534"Ehehe, you two, lend me your ears..."'
+
+{0x05F5}	LOAD_STRING	'And Chihiro's expression turns indescribable when he hears Miki's words.'
+
+{0x05FF}	LOAD_STRING	'Chihiro'
+{0x0601}	LOAD_STRING	'@v00040501"...I've never heard of such a long-standing dream."'
+
+{0x060B}	LOAD_STRING	'Miki'
+{0x060D}	LOAD_STRING	'@v00010535"Right? I just thought of something."'
+
+{0x0617}	LOAD_STRING	'Chihiro'
+{0x0619}	LOAD_STRING	'@v00040502"Miki... you just said 'many years', right?"'
+
+{0x0627}	LOAD_STRING	'Tatsumi'
+{0x0629}	LOAD_STRING	'Something like that.'
+
+{0x0639}	LOAD_STRING	'I must have had a subtle expression on my face as I nudged Chihiro so.'
+
+{0x067B}	LOAD_STRING	'And then...'
+
+{0x0723}	LOAD_STRING	'Miki'
+{0x0725}	LOAD_STRING	'@v00010536"Wow, wow! I can see all the way across the gym!"'
+
+{0x0735}	LOAD_STRING	'Miki is filled with childlike wonder looking at the expansive view.'
+
+{0x073F}	LOAD_STRING	'Chihiro'
+{0x0741}	LOAD_STRING	'@v00040503"Well, would you look at that."'
+
+{0x075F}	LOAD_STRING	'The tower house floor on the special class side of campus where we are is the mountain club room.'
+
+{0x076F}	LOAD_STRING	'We climbed up the ladder provided there and reached the roof of that tower house.'
+
+{0x0801}	LOAD_STRING	'We can see a bird's eye view of this place from here.'
+
+{0x0819}	LOAD_STRING	'This might be the highest point of Kurigaoka.'
+
+{0x0823}	LOAD_STRING	'Chihiro'
+{0x0825}	LOAD_STRING	'@v00040504"But how did you manage to borrow the key to this place? I didn't think the guys from the mountain club would go along with it."'
+
+{0x0835}	LOAD_STRING	'Naturally, only members of the mountain club and school officials are allowed to come here.'
+
+{0x0843}	LOAD_STRING	'Tatsumi'
+{0x0845}	LOAD_STRING	'Well, you know, they lent it to me surprisingly easily.'
+
+{0x084F}	LOAD_STRING	'Chihiro'
+{0x0851}	LOAD_STRING	'@v00040505"It's all thanks to your signature 'Tatsumi' kind-guy attitude..."'
+
+{0x0861}	LOAD_STRING	'All I did was tell a member of the mountaineering club in the same class, "Miki said she wanted to see the clubroom of the mountaineering club, so could you lend me the key?"'
+
+{0x0871}	LOAD_STRING	'Maybe this is because this mountaineering club member is getting all excited about one of the most popular girls, Miki Kohsaka, visiting his clubroom.'
+
+{0x0881}	LOAD_STRING	'I'm not going to mention it any further because of his honor and all that.'
+
+{0x088F}	LOAD_STRING	'Tatsumi'
+{0x0891}	LOAD_STRING	'Chihiro is the one who is used to going shopping for pudding.'
+
+{0x08A1}	LOAD_STRING	'What Miki wanted was not sold at the school.'
+
+{0x08B1}	LOAD_STRING	'And they didn't allow any substitutions.'
+
+{0x08BB}	LOAD_STRING	'Chihiro'
+{0x08BD}	LOAD_STRING	'@v00040506"There are plenty of shortcuts from the school to the outside. It's good exercise. Here you go, custard pudding, as requested."'
+
+{0x091B}	LOAD_STRING	'Miki'
+{0x091D}	LOAD_STRING	'@v00010537"Hmm, I guess I'll accept that..."'
+
+{0x092D}	LOAD_STRING	'With a pompous attitude, Miki accepts the convenience store's limited edition 'Kiln Baked Toro Toro Custard Pudding'.'
+
+{0x0969}	LOAD_STRING	'The seaside convenience store is in the opposite direction from the school gate, so it would be a very long way without taking a shortcut.'
+
+{0x0979}	LOAD_STRING	'The way back home is also hilly, so stopping by the convenience store is quite the pain, even during lunch break.'
+
+{0x0989}	LOAD_STRING	'Chihiro can more than handle it though, taking the back roads and returning without a care in the world.'
+
+{0x09DF}	LOAD_STRING	'Miki'
+{0x09E1}	LOAD_STRING	'@v00010538"I should have called Yui and Koto-chan too!"'
+
+{0x09F1}	LOAD_STRING	'Since this was a match between just us three classmates, I didn't invite Nakategawa or Shiino.'
+
+{0x0A01}	LOAD_STRING	'Well, if the view is this nice, I certainly should have called them, but...'
+
+{0x0A11}	LOAD_STRING	'Sometimes it's not so bad to be with the three of us like this, just like the old days.'
+
+{0x0A1B}	LOAD_STRING	'Miki'
+{0x0A1D}	LOAD_STRING	'@v00010539"Well, still... I'm happy that one of my dreams came true."'
+
+{0x0A2D}	LOAD_STRING	'Miki peels off the lid of the pudding and is as pleased as can be.'
+
+{0x0A3B}	LOAD_STRING	'Tatsumi'
+{0x0A3D}	LOAD_STRING	'Eating your favorite pudding at the highest place in the school while looking at the view, eh?'
+
+{0x0A4D}	LOAD_STRING	'That seems to be one of Miki's dreams.'
+
+{0x0A57}	LOAD_STRING	'Chihiro'
+{0x0A59}	LOAD_STRING	'@v00040507"If Nakategawa was here, I know what she would say. Something about the mountain club having something in common with smoke; their love of heights."'
+
+{0x0A63}	LOAD_STRING	'Miki'
+{0x0A65}	LOAD_STRING	'@v00010540"Hmph, Yui wouldn't be so rude."'
+
+{0x0A75}	LOAD_STRING	'Miki's lips twitched as she scooped the pudding with a spoon...'
+
+{0x0A7F}	LOAD_STRING	'Miki'
+{0x0A81}	LOAD_STRING	'@v00010541"Mmm, this is so good! This, this, this texture!"'
+
+{0x0A91}	LOAD_STRING	'Soon her expression becomes a smile of triumph.'
+
+{0x0A9B}	LOAD_STRING	'Miki'
+{0x0A9D}	LOAD_STRING	'@v00010542"Eating Oven-baked tender custard pudding with a spectacular view of Kurigaoka. Am I living the life of luxury or what?"'
+
+{0x0AAB}	LOAD_STRING	'Tatsumi'
+{0x0AAD}	LOAD_STRING	'It seems you were satisfied.'
+
+{0x0AF7}	LOAD_STRING	'Chihiro'
+{0x0AF9}	LOAD_STRING	'@v00040508"I can see why Mika-san spoils you a bit."'
+
+{0x0B09}	LOAD_STRING	'If you smile so childishly... I mean, so cutely, I can't help but listen to one or two selfish requests.'
+
+{0x0B13}	LOAD_STRING	'Chihiro'
+{0x0B15}	LOAD_STRING	'@v00040509"But... Miki has a point, it is indeed a great view."'
+
+{0x0B25}	LOAD_STRING	'The air is clean after the rain, and Mt. Fuji is clear today.'
+
+{0x0B35}	LOAD_STRING	'It may come as a surprise to non-locals... especially those in more distant areas, but there are countless positions from Hotani City where you can see Mt. Fuji.'
+
+{0x0B45}	LOAD_STRING	'However, the rooftop of this mountain club room would be pretty high up on the list of best positions.'
+
+{0x0B4F}	LOAD_STRING	'Chihiro'
+{0x0B51}	LOAD_STRING	'@v00040510"This scene would be a hit on social media."'
+
+{0x0B61}	LOAD_STRING	'Chihiro tries to take out his phone while saying that...'
+
+{0x0B97}	LOAD_STRING	'Miki'
+{0x0B99}	LOAD_STRING	'@v00010543"Chi-kun. Don't look higher than me!"@k'
+
+{0x0BD6}	LOAD_STRING	'Miki jumps lightly and lightly hits Chihiro's head.'
+
+{0x0BE0}	LOAD_STRING	'Chihiro'
+{0x0BE2}	LOAD_STRING	'@v00040511"What are you talking about? We're just different heights."'
+
+{0x0BEC}	LOAD_STRING	'Miki'
+{0x0BEE}	LOAD_STRING	'@v00010544"That's an excuse and you're playing dumb."'
+
+{0x0BFC}	LOAD_STRING	'Tatsumi'
+{0x0BFE}	LOAD_STRING	'That's a terrible way to say... that you're spoiled.'
+
+{0x0C08}	LOAD_STRING	'Miki'
+{0x0C0A}	LOAD_STRING	'@v00010545"I'm the big winner, so I get to be the highest!"'
+
+{0x0C14}	LOAD_STRING	'Chihiro'
+{0x0C16}	LOAD_STRING	'@v00040512"What, you're saying I have to crouch down?"'
+
+{0x0C20}	LOAD_STRING	'Miki'
+{0x0C22}	LOAD_STRING	'@v00010546"No way. It's such a nice view, I will not permit this!"'
+
+{0x0C32}	LOAD_STRING	'I feel awful for him so far, but Miki pointed at me and then...'
+
+{0x0C44}	LOAD_STRING	'Miki'
+{0x0C46}	LOAD_STRING	'@v00010547"Tak-kun, you bend down."'
+
+{0x0C56}	LOAD_STRING	'Then she points to her feet.'
+
+{0x0C64}	LOAD_STRING	'Tatsumi'
+{0x0C66}	LOAD_STRING	'You know, I'm not sure about this...'
+
+{0x0C76}	LOAD_STRING	'Although somehow, I did understand what she was asking of me.'
+
+{0x0C80}	LOAD_STRING	'Miki'
+{0x0C82}	LOAD_STRING	'@v00010548"If you get my drift, then we don't have to discuss it."'
+
+{0x0C90}	LOAD_STRING	'Tatsumi'
+{0x0C92}	LOAD_STRING	'What? You seriously want me to... carry you on my shoulders?'
+
+{0x0C9C}	LOAD_STRING	'Miki'
+{0x0C9E}	LOAD_STRING	'@v00010549"Yep. Or do you mean to defy the grand winner's demands?"'
+
+{0x0CA8}	LOAD_STRING	'Chihiro'
+{0x0CAA}	LOAD_STRING	'@v00040513"Hahahah, that's right Tatsumi, you lost, so just obey."'
+
+{0x0CBA}	LOAD_STRING	'Chihiro already had a nasty smile on his face as he realized that he wasn't going to take the fall here.'
+
+{0x0D06}	LOAD_STRING	'Tatsumi'
+{0x0D08}	LOAD_STRING	'...No problem.'
+
+{0x0D18}	LOAD_STRING	'Realizing that no matter how much I argue, it's pointless. I bend down for Miki.'
+
+{0x0D22}	LOAD_STRING	'Miki'
+{0x0D24}	LOAD_STRING	'@v00010550"Hmph, thank you for the service."'
+
+{0x0D34}	LOAD_STRING	'Such words are followed by the feel of soft thighs.'
+
+{0x0D44}	LOAD_STRING	'The feeling, which I can't describe well other than soft, instantly turns my thoughts back to a blank slate.'
+
+{0x0D54}	LOAD_STRING	'An act that would have been fine when I was little...'
+
+{0x0D64}	LOAD_STRING	'I mean, I feel like I was made to do it often, but not anymore.'
+
+{0x0D74}	LOAD_STRING	'Because our bodies have grown up with each other and there is a clear gender difference.'
+
+{0x0D7E}	LOAD_STRING	'Miki'
+{0x0D80}	LOAD_STRING	'@v00010551"Here, here, stand up."'
+
+{0x0D8E}	LOAD_STRING	'Tatsumi'
+{0x0D90}	LOAD_STRING	'Ah... Ah.'
+
+{0x0D9A}	LOAD_STRING	'Nuno02'
+
+{0x0E21}	LOAD_STRING	'A peppy, rushed tap on my shoulder and I slowly stand up.'
+
+{0x0E2B}	LOAD_STRING	'Miki'
+{0x0E2D}	LOAD_STRING	'@v00010552"Sigh, isn't this just a marvelous view?"@k'
+
+{0x0E6D}	LOAD_STRING	'I can hear a happy Miki's voice over my head, but honestly I'm not that happy.'
+
+{0x0E77}	LOAD_STRING	'Miki'
+{0x0E79}	LOAD_STRING	'@v00010553"Chi-kun, is this what you see all the time? I envy you for being so tall."'
+
+{0x0E97}	LOAD_STRING	'Chihiro'
+{0x0E99}	LOAD_STRING	'@v00040514"If you were as tall as me, you'd be in the way, frankly."'
+
+{0x0EB7}	LOAD_STRING	'Miki'
+{0x0EB9}	LOAD_STRING	'@v00010554"Enlighten me."'
+
+{0x0ED7}	LOAD_STRING	'Chihiro'
+{0x0ED9}	LOAD_STRING	'@v00040515"If you're not careful, you'll hit your head on a door frame or something."'
+
+{0x0EF7}	LOAD_STRING	'Miki'
+{0x0EF9}	LOAD_STRING	'@v00010555"Haha, Chi-kun, you're just unaware of your surroundings!"'
+
+{0x0F17}	LOAD_STRING	'Chihiro'
+{0x0F19}	LOAD_STRING	'@v00040516"I'm just dizzy sometimes..."'
+
+{0x0F37}	LOAD_STRING	'Miki'
+{0x0F39}	LOAD_STRING	'@v00010556"Oh! Tak-kun, quick! I see an airplane!"'
+
+{0x0F49}	LOAD_STRING	'Miki raises her voice while tapping my forehead.'
+
+{0x0F57}	LOAD_STRING	'Tatsumi'
+{0x0F59}	LOAD_STRING	'Heheh, an airplane?'
+
+{0x0F69}	LOAD_STRING	'I was not in the mood while answering in such a dumbfounded voice.'
+
+{0x0F79}	LOAD_STRING	'Not to mention the feeling of her thighs squeezing my ears. @k'
+
+{0x0FBD}	LOAD_STRING	'This... from the back of my head to the back of my neck...'
+
+{0x0FCD}	LOAD_STRING	'Phew... I'll stop thinking about it now.'
+
+{0x0FD7}	LOAD_STRING	'Miki'
+{0x0FD9}	LOAD_STRING	'@v00010557"By the way, Tak-kun. We used to go up the back of the mountain and see Mt. Fuji and stuff, right?"@k'
+
+{0x1017}	LOAD_STRING	'Tatsumi'
+{0x1019}	LOAD_STRING	'Huh? When was this?'
+
+{0x1029}	LOAD_STRING	'When I was in elementary school, I spent every day of my free time running around with Miki to the mountains and the sea, so of course I saw Mt. Fuji and airplanes.'
+
+{0x1039}	LOAD_STRING	'I don't remember it that vividly, but I wonder if Miki does?'
+
+{0x1043}	LOAD_STRING	'Miki'
+{0x1045}	LOAD_STRING	'@v00010558"I saw it. The sun went down and I couldn't see my way home, and I cried, didn't I, Tak-kun?"'
+
+{0x1053}	LOAD_STRING	'Tatsumi'
+{0x1055}	LOAD_STRING	'Was I there for that?'
+
+{0x1065}	LOAD_STRING	'Come to think of it, Miki's unreasonable crying was always something that happened, so maybe it's accepted as a daily occurrence.'
+
+{0x106F}	LOAD_STRING	'Miki'
+{0x1071}	LOAD_STRING	'@v00010559"But you know, while I was crying, you took me home."@k'
+
+{0x10AF}	LOAD_STRING	'Tatsumi'
+{0x10B1}	LOAD_STRING	'...Is that true?'
+
+{0x10BB}	LOAD_STRING	'Miki'
+{0x10BD}	LOAD_STRING	'@v00010560"I was so happy that time. Thanks, Tak-kun."'
+
+{0x10CB}	LOAD_STRING	'Tatsumi'
+{0x10CD}	LOAD_STRING	'Oh, well, of course.'
+
+{0x10DD}	LOAD_STRING	'How many years late is this thank you? But, I digress.'
+
+{0x10E7}	LOAD_STRING	'Miki'
+{0x10E9}	LOAD_STRING	'@v00010561"But I miss it. Do you still see Mt. Fuji when you go to the back of the mountain?"'
+
+{0x10F7}	LOAD_STRING	'Tatsumi'
+{0x10F9}	LOAD_STRING	'Come on.'
+
+{0x1117}	LOAD_STRING	'Chihiro'
+{0x1119}	LOAD_STRING	'@v00040517"Heh. Back of the mountain, huh...?"'
+
+{0x113D}	LOAD_STRING	'I felt a little bad getting into it with Miki in front of Chihiro, talking about childhood memories.'
+
+{0x1147}	LOAD_STRING	'Miki'
+{0x1149}	LOAD_STRING	'@v00010562"This view, you know, is more amazing than the mountains behind us back then. Oh, do you want some pudding too, Tak-kun?"'
+
+{0x1159}	LOAD_STRING	'Suddenly, a pudding on a spoon appears in my sight.'
+
+{0x1167}	LOAD_STRING	'Tatsumi'
+{0x1169}	LOAD_STRING	'No, I'm fine. I just ate my lunch.'
+
+{0x1173}	LOAD_STRING	'Miki'
+{0x1175}	LOAD_STRING	'@v00010563"It's okay, it's okay."@k'
+
+{0x11B5}	LOAD_STRING	'Miki forces pudding into my mouth.@k'
+
+{0x11F9}	LOAD_STRING	'Indirect kissing... It happened so quickly that I can't even process any emotions.'
+
+{0x1203}	LOAD_STRING	'Miki'
+{0x1205}	LOAD_STRING	'@v00010564"How is it? Tasty, isn't it?"@k'
+
+{0x1243}	LOAD_STRING	'Tatsumi'
+{0x1245}	LOAD_STRING	'Sweet...'
+
+{0x1263}	LOAD_STRING	'Chihiro'
+{0x1265}	LOAD_STRING	'@v00040518"What the heck, Tatsumi's the only one who gets a taste? Give me a bite too."'
+
+{0x1283}	LOAD_STRING	'Miki'
+{0x1285}	LOAD_STRING	'@v00010565"Chi-kun, even if I told you to eat one bite, with this pudding you'd eat half of it."'
+
+{0x1295}	LOAD_STRING	'The sweetness in my mouth... Might not just be from the pudding.'
+
+{0x12A5}	LOAD_STRING	'My mind is just racing right now.'
+
+{0x12E9}	LOAD_STRING	'Miki'
+{0x12EB}	LOAD_STRING	'@v00010566"...Hey, thanks, you two."'
+
+{0x12FB}	LOAD_STRING	'Suddenly Miki muttered those words.'
+
+{0x1319}	LOAD_STRING	'Chihiro'
+{0x131B}	LOAD_STRING	'@v00040519"You're welcome."'
+
+{0x133D}	LOAD_STRING	'Tatsumi'
+{0x133F}	LOAD_STRING	'A fair reward for the winner.'
+
+{0x134F}	LOAD_STRING	'Even though she joked around, she thanks me honestly in the end.'
+
+{0x135F}	LOAD_STRING	'It's because of Miki's personality that Chihiro and I are able to get along so well.'
+
+{0x1401}	LOAD_STRING	'Yui'
+{0x1403}	LOAD_STRING	'@v00020509"Hmm, is that what happened? That's lovely!"'
+
+{0x140D}	LOAD_STRING	'Kotone'
+{0x140F}	LOAD_STRING	'@v00030378"I mean, it's kinda childish..."'
+
+{0x141F}	LOAD_STRING	'Nakategawa looks very envious and Shiino looks very dismayed.'
+
+{0x142F}	LOAD_STRING	'After school, Miki happily tells them about the events of lunchtime as soon as they join her.'
+
+{0x1439}	LOAD_STRING	'Miki'
+{0x143B}	LOAD_STRING	'@v00010567"Hey, I'm still a kid, aren't I?"'
+
+{0x1445}	LOAD_STRING	'Kotone'
+{0x1447}	LOAD_STRING	'@v00030379"That's not the way to go about it."'
+
+{0x149F}	LOAD_STRING	'Yui'
+{0x14A1}	LOAD_STRING	'@v00020510"I wonder if... Tatsumi can give me a shoulder ride too..."'
+
+{0x14AF}	LOAD_STRING	'Tatsumi'
+{0x14B1}	LOAD_STRING	'Huh?!'
+
+{0x14BB}	LOAD_STRING	'Yui'
+{0x14BD}	LOAD_STRING	'@v00020511"I-it's okay! I promise I'm not as heavy as I look!"'
+
+{0x14CB}	LOAD_STRING	'Tatsumi'
+{0x14CD}	LOAD_STRING	'No, I meant... Maybe some other time?'
+
+{0x14D7}	LOAD_STRING	'Yui'
+{0x14D9}	LOAD_STRING	'@v00020512"Yes! Let's play together next time, okay?"'
+
+{0x14E7}	LOAD_STRING	'Tatsumi'
+{0x14E9}	LOAD_STRING	'Y-yeah.'
+
+{0x155D}	LOAD_STRING	'Kotone'
+{0x155F}	LOAD_STRING	'@v00030380"What is up with you guys..."'
+
+{0x1569}	LOAD_STRING	'Chihiro'
+{0x156B}	LOAD_STRING	'@v00040520"What is it? Are you frustrated because you're not being included?"'
+
+{0x1575}	LOAD_STRING	'Kotone'
+{0x1577}	LOAD_STRING	'@v00030381"No, I just don't get it. I definitely don't wanna ride on anyone's shoulders...@t0530@hKOTONE_A102KM Oh, it's starting to rain..."@k'
+
+{0x16C8}	LOAD_STRING	'Shiino's feet stop.'
+
+{0x16D2}	LOAD_STRING	'Miki'
+{0x16D4}	LOAD_STRING	'@v00010568"Oh, she's right. It was so sunny earlier, too."'
+
+{0x16DE}	LOAD_STRING	'Chihiro'
+{0x16E0}	LOAD_STRING	'@v00040521"Ah crap. I don't have an umbrella."'
+
+{0x16EA}	LOAD_STRING	'Kotone'
+{0x16EC}	LOAD_STRING	'@v00030382"Really? That's too bad."'
+
+{0x170A}	LOAD_STRING	'Shiino takes out a fine flower-patterned umbrella as she says so.'
+
+{0x1779}	LOAD_STRING	'Yui'
+{0x177B}	LOAD_STRING	'@v00020513"Oh, Kotone-chan's umbrella is so cute!"'
+
+{0x1799}	LOAD_STRING	'Nakategawa takes out an umbrella with a lace pattern that looks expensive.'
+
+{0x17FB}	LOAD_STRING	'Miki'
+{0x17FD}	LOAD_STRING	'@v00010569"I didn't bring an umbrella either. The three of us will have to go home wet."'
+
+{0x180B}	LOAD_STRING	'Tatsumi'
+{0x180D}	LOAD_STRING	'Speak for yourself.'
+
+{0x181D}	LOAD_STRING	'I just so happened to be watching the forecast recently.'
+
+{0x183B}	LOAD_STRING	'I take out a cheap folding compact umbrella out of my bag.'
+
+{0x1845}	LOAD_STRING	'Miki'
+{0x1847}	LOAD_STRING	'@v00010570"Ah! Tak-kun, how could you?!"'
+
+{0x1851}	LOAD_STRING	'Chihiro'
+{0x1853}	LOAD_STRING	'@v00040522"Hey, Tatsumi!"'
+
+{0x1861}	LOAD_STRING	'Tatsumi'
+{0x1863}	LOAD_STRING	'Nah, I'm not gonna betray you guys.'
+
+{0x187B}	LOAD_STRING	'Miki'
+{0x187D}	LOAD_STRING	'@v00010571"Alright, then, the three of us should get under this umbrella."'
+
+{0x188B}	LOAD_STRING	'Tatsumi'
+{0x188D}	LOAD_STRING	'Wow, this thing is pretty small...'
+
+{0x189D}	LOAD_STRING	'But Miki ignores my protests and tries to force her way into the umbrella.'
+
+{0x18E1}	LOAD_STRING	'Chihiro'
+{0x18E3}	LOAD_STRING	'@v00040523"Yeah, it's not that far to Mico."'
+
+{0x18ED}	LOAD_STRING	'Yui'
+{0x18EF}	LOAD_STRING	'@v00020514"Sigh... It comes so naturally to you..."'
+
+{0x18FF}	LOAD_STRING	'Nakategawa lets out a heated sigh when he sees us three entering the folding umbrella.'
+
+{0x1972}	LOAD_STRING	'Tatsumi'
+{0x1974}	LOAD_STRING	'Nakategawa, you wanna join us?'
+
+{0x197E}	LOAD_STRING	'Yui'
+{0x1980}	LOAD_STRING	'@v00020515"What, are you sure?!"'
+
+{0x19D2}	LOAD_STRING	'Kotone'
+{0x19D4}	LOAD_STRING	'@v00030383"Nakategawa-senpai, you're going back in the wrong direction. It's this way, right?"'
+
+{0x19E4}	LOAD_STRING	'Pulling Nakategawa along, Shiino leaves the elevator entrance.'
+
+{0x19EE}	LOAD_STRING	'Yui'
+{0x19F0}	LOAD_STRING	'@v00020516"Oh! Hey Kotone, do you want to share umbrellas?"'
+
+{0x19FA}	LOAD_STRING	'Kotone'
+{0x19FC}	LOAD_STRING	'@v00030384"Huh? Do we have to? We have enough umbrellas for each of us..."'
+
+{0x1A06}	LOAD_STRING	'Yui'
+{0x1A08}	LOAD_STRING	'@v00020517"Oh, Kotone-chan, are you embarrassed?"'
+
+{0x1A12}	LOAD_STRING	'Kotone'
+{0x1A14}	LOAD_STRING	'@v00030385"I'm not embarrassed!"'
+
+{0x1A34}	LOAD_STRING	'We three decide to follow them out of the elevator.'
+
+{0x1BE3}	LOAD_STRING	'Chihiro'
+{0x1BE5}	LOAD_STRING	'@v00040524"Wow, that's really narrow."'
+
+{0x1BF3}	LOAD_STRING	'Tatsumi'
+{0x1BF5}	LOAD_STRING	'Chihiro's body is too big.'
+
+{0x1BFF}	LOAD_STRING	'Miki'
+{0x1C01}	LOAD_STRING	'@v00010572"Tak-kun, scoot this way a bit. Hup hup!"@k'
+
+{0x1C26}	LOAD_STRING	'Chihiro'
+{0x1C28}	LOAD_STRING	'@v00040525"Tatsumi, quit pushing."'
+
+{0x1C36}	LOAD_STRING	'Tatsumi'
+{0x1C38}	LOAD_STRING	'What do you want from me...'
+
+{0x1C48}	LOAD_STRING	'Not that I was inspired by Nakategawa's 'youth' comment, but...'
+
+{0x1C58}	LOAD_STRING	'This isn't such a bad way to walk home.'

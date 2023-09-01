@@ -1,0 +1,441 @@
+{0x009E}	LOAD_STRING	'Tatsumi'
+{0x00A0}	LOAD_STRING	'Hey, Shiino...'
+
+{0x00B0}	LOAD_STRING	'Our usual basketball match during lunchtime.'
+
+{0x00C0}	LOAD_STRING	'I try and talk to Shiino, who is sitting right next to me, in a calm tone.'
+
+{0x0135}	LOAD_STRING	'Kotone'
+{0x0137}	LOAD_STRING	'@v00030532"What is it? I'm busy, stop bugging me."'
+
+{0x0147}	LOAD_STRING	'I get a cold reply.'
+
+{0x0157}	LOAD_STRING	'I feel like I'm not getting through to her.'
+
+{0x0191}	LOAD_STRING	'Tatsumi'
+{0x0193}	LOAD_STRING	'Um... So, that's your phone? That's the same model I have, isn't it?'
+
+{0x01A1}	LOAD_STRING	'Kotone'
+{0x01A3}	LOAD_STRING	'@v00030533"Oh, is that so..."'
+
+{0x01B1}	LOAD_STRING	'Tatsumi'
+{0x01B3}	LOAD_STRING	'Mhm.'
+
+{0x01C3}	LOAD_STRING	'She keeps replying without really paying any attention.'
+
+{0x01D3}	LOAD_STRING	'We're sitting on the same bench, but you could probably fit two people in the distance between us.'
+
+{0x01E3}	LOAD_STRING	'I'm not trying to be so close that we seem like a couple, but I feel like this is too far.'
+
+{0x01F1}	LOAD_STRING	'Tatsumi'
+{0x01F3}	LOAD_STRING	'Shiino, you type so quickly.'
+
+{0x0203}	LOAD_STRING	'Shiino's thumbs moved with a steady rhythm.'
+
+{0x0211}	LOAD_STRING	'Kotone'
+{0x0213}	LOAD_STRING	'@v00030534"Is that so. Isn't that just normal?"'
+
+{0x0221}	LOAD_STRING	'Tatsumi'
+{0x0223}	LOAD_STRING	'I guess so.'
+
+{0x0231}	LOAD_STRING	'Kotone'
+{0x0233}	LOAD_STRING	'@v00030535"Maybe you're just slow."'
+
+{0x0241}	LOAD_STRING	'Tatsumi'
+{0x0243}	LOAD_STRING	'Maybe, but...'
+
+{0x0253}	LOAD_STRING	'Well, I ran out of topics to chat about.'
+
+{0x0263}	LOAD_STRING	'I'm not exactly the most apt at communication, but I really have my work cut out for me here.'
+
+{0x0273}	LOAD_STRING	'It's probably a good sign that she hasn't outright ignored or rejected me.'
+
+{0x0291}	LOAD_STRING	'Yui'
+{0x0293}	LOAD_STRING	'@v00020781"You two have a close match! Whatever the case, you have three games left, let's go!"'
+
+{0x02A3}	LOAD_STRING	'On the bench next to me, Nakategawa, who has no way of knowing what's on my mind, is cheering for Miki and Chihiro as they play one-on-one.'
+
+{0x02B1}	LOAD_STRING	'Tatsumi'
+{0x02B3}	LOAD_STRING	'Huh...?! What's going on...?'
+
+{0x0350}	LOAD_STRING	'As Nakategawa's voice draws me in, my vision falls on Miki and Chihiro.'
+
+{0x035A}	LOAD_STRING	'Chihiro'
+{0x035C}	LOAD_STRING	'@v00040722"Huh? Oh hey, Tatsumi, you're in the broadcasting club, right?"'
+
+{0x036C}	LOAD_STRING	'He must've thought of that when he caught me looking at them.'
+
+{0x037C}	LOAD_STRING	'Of course, his eyes remain fixed on Miki.'
+
+{0x038A}	LOAD_STRING	'Tatsumi'
+{0x038C}	LOAD_STRING	'Give me the song list, I'll hand it off to my juniors.'
+
+{0x0396}	LOAD_STRING	'Chihiro'
+{0x0398}	LOAD_STRING	'@v00040723"Oh yeah, you sure about that?"'
+
+{0x03A2}	LOAD_STRING	'Miki'
+{0x03A4}	LOAD_STRING	'@v00010856"Tak-kun, you shouldn't neglect your duties!"'
+
+{0x03B4}	LOAD_STRING	'There's a reason for all of this.'
+
+{0x03C2}	LOAD_STRING	'Tatsumi'
+{0x03C4}	LOAD_STRING	'Well, today, two of my juniors were scheduled to join me alone in the broadcast room. One boy and one girl...'
+
+{0x0437}	LOAD_STRING	'Yui'
+{0x0439}	LOAD_STRING	'@v00020782"Oh! I get it now!"'
+
+{0x0449}	LOAD_STRING	'Nakategawa stands up after raising her hand.'
+
+{0x0453}	LOAD_STRING	'Yui'
+{0x0455}	LOAD_STRING	'@v00020783"So they're lovers! And you wanted to give them some time alone!"'
+
+{0x0463}	LOAD_STRING	'Tatsumi'
+{0x0465}	LOAD_STRING	'Not quite, but you're getting closer.'
+
+{0x04E7}	LOAD_STRING	'Miki'
+{0x04E9}	LOAD_STRING	'@v00010857"Is he trying to become closer to her?"'
+
+{0x04F7}	LOAD_STRING	'Tatsumi'
+{0x04F9}	LOAD_STRING	'Something like that. He's been interested in her for a while, and I think he followed her and enrolled in the same school.'
+
+{0x0503}	LOAD_STRING	'Chihiro'
+{0x0505}	LOAD_STRING	'@v00040724"Huh... Okay, now I get it. So that's why he became a member of broadcasting club?"'
+
+{0x0513}	LOAD_STRING	'Tatsumi'
+{0x0515}	LOAD_STRING	'He only did it so he could have this opportunity.'
+
+{0x0525}	LOAD_STRING	'I admire his energy, even though he's only a year younger.'
+
+{0x0533}	LOAD_STRING	'Tatsumi'
+{0x0535}	LOAD_STRING	'So, I'm here today because of his roundabout request.'
+
+{0x053F}	LOAD_STRING	'Miki'
+{0x0541}	LOAD_STRING	'@v00010858"That's so thoughtful, Tak-kun!"'
+
+{0x0551}	LOAD_STRING	'She does a twirl and smiles at me.'
+
+{0x05C4}	LOAD_STRING	'Kotone'
+{0x05C6}	LOAD_STRING	'@v00030536"Oikawa-senpai... You're in the broadcasting club?"'
+
+{0x05D6}	LOAD_STRING	'Shiino also gives me a surprising look.'
+
+{0x05E6}	LOAD_STRING	'Sounds like we've piqued her interest.'
+
+{0x05F4}	LOAD_STRING	'Tatsumi'
+{0x05F6}	LOAD_STRING	'Well, yeah, but I never got the chance to tell you.'
+
+{0x0600}	LOAD_STRING	'Chihiro'
+{0x0602}	LOAD_STRING	'@v00040725"They play a special playlist every week, I bet you've heard it too, Shiino."'
+
+{0x060C}	LOAD_STRING	'Kotone'
+{0x060E}	LOAD_STRING	'@v00030537"You mean that it was you who broadcasted the new single from Miss Blue Apple the other day?!"'
+
+{0x061E}	LOAD_STRING	'Miss Blue Apple is a popular group with young women nowadays.'
+
+{0x062C}	LOAD_STRING	'Tatsumi'
+{0x062E}	LOAD_STRING	'No, that... That was probably chosen by one of the juniors.'
+
+{0x063E}	LOAD_STRING	'I'm not really a fan of Miss Blue Apple, but I don't really dislike them either.'
+
+{0x064E}	LOAD_STRING	'But I think I can see why they are popular with girls like Shiino.'
+
+{0x065E}	LOAD_STRING	'They have a bright sound, and all the members are really fashinoable.'
+
+{0x0668}	LOAD_STRING	'Miki'
+{0x066A}	LOAD_STRING	'@v00010859"Tak-kun is mainly in charge of the playlist on Thursdays."'
+
+{0x0678}	LOAD_STRING	'Tatsumi'
+{0x067A}	LOAD_STRING	'That's right, I'm just helping out today.'
+
+{0x0684}	LOAD_STRING	'Kotone'
+{0x0686}	LOAD_STRING	'@v00030538"Thursday?@t0200@hKOTONE_U101TN Oh, the day when they play all those weird songs..."'
+
+{0x06C2}	LOAD_STRING	'Shiino rapidly loses interest, looks away from me and starts fiddling with her phone again.'
+
+{0x06D2}	LOAD_STRING	'Is my music taste that weird?'
+
+{0x06E2}	LOAD_STRING	'Maybe it's time to really switch up the playlist.'
+
+{0x0783}	LOAD_STRING	'Miki'
+{0x0785}	LOAD_STRING	'@v00010860"Oh, by the way, Tak-kun. You didn't return that one yet, did you?"'
+
+{0x0795}	LOAD_STRING	'While dribbling, Miki changes the subject.'
+
+{0x07A3}	LOAD_STRING	'Tatsumi'
+{0x07A5}	LOAD_STRING	'That, uh... What do you mean, "that"?'
+
+{0x07AF}	LOAD_STRING	'Miki'
+{0x07B1}	LOAD_STRING	'@v00010861"THAT that, of course. We've known each other since we were kids, right? I should be able to get through to you."'
+
+{0x07BB}	LOAD_STRING	'Yui'
+{0x07BD}	LOAD_STRING	'@v00020784"Oh, like reading each other..."'
+
+{0x07C7}	LOAD_STRING	'Chihiro'
+{0x07C9}	LOAD_STRING	'@v00040726"No, it's not so easy, even for a childhood friend."'
+
+{0x07D3}	LOAD_STRING	'Miki'
+{0x07D5}	LOAD_STRING	'@v00010862"Come on, you know! Let's see, the thing... for a week?"'
+
+{0x0855}	LOAD_STRING	'Miki attempts to pull Chihiro through the legs, but her moves are read easily.'
+
+{0x0863}	LOAD_STRING	'Tatsumi'
+{0x0865}	LOAD_STRING	'A week...? Oh, that.'
+
+{0x0875}	LOAD_STRING	'Finally I understand what Miki is trying to say.'
+
+{0x0883}	LOAD_STRING	'Tatsumi'
+{0x0885}	LOAD_STRING	'It can be returned whenever.'
+
+{0x088F}	LOAD_STRING	'Miki'
+{0x0891}	LOAD_STRING	'@v00010863"Got it. By the way, that was fun, wasn't it?"'
+
+{0x08A1}	LOAD_STRING	'Apparently, Miki has good good eye for things like this.'
+
+{0x08B1}	LOAD_STRING	'I can't tell you how happy it makes me to know that someone likes a work I recommended.'
+
+{0x090D}	LOAD_STRING	'Kotone'
+{0x090F}	LOAD_STRING	'@v00030539"Huh? Oikawa-senpai, are you by chance reading 'One Week Amigo'"?'
+
+{0x091F}	LOAD_STRING	'And, having misunderstood something, Shiino leaned forward as if interested again.'
+
+{0x0929}	LOAD_STRING	'Kotone'
+{0x092B}	LOAD_STRING	'@v00030540"God, that is so weird that you're reading a shoujo manga...@t0660@hKOTONE_U101EG But, you have good taste."'
+
+{0x093B}	LOAD_STRING	'"One Week Amigo" is a really popular shoujo manga right now, huh?'
+
+{0x094B}	LOAD_STRING	'The plot involves a girl who tries to learn Spanish because the boy she likes is Spanish.'
+
+{0x095B}	LOAD_STRING	'I've heard at least a synopsis that it's a sad love story where somehow, after a week, she forgets what she learned.'
+
+{0x096B}	LOAD_STRING	'Unfortunately, I haven't read it.'
+
+{0x0979}	LOAD_STRING	'Tatsumi'
+{0x097B}	LOAD_STRING	'Even if I did, it's really mean to call me weird about it.'
+
+{0x09E1}	LOAD_STRING	'Miki'
+{0x09E3}	LOAD_STRING	'@v00010864"Oh, Koto-chan... It wasn't 'One Week Amigo', it was 'One Week Later'."'
+
+{0x09ED}	LOAD_STRING	'Miki'
+{0x09EF}	LOAD_STRING	'@v00010865"You know, that famous zombie movie. You know, the one where the zombies run? Haha, isn't that so scary?"'
+
+{0x09FD}	LOAD_STRING	'Tatsumi'
+{0x09FF}	LOAD_STRING	'Well, not exactly zombies.'
+
+{0x0A0F}	LOAD_STRING	'It's a patient infected with an unknown virus and turned violent, but it's just a human.'
+
+{0x0A5B}	LOAD_STRING	'Kotone'
+{0x0A5D}	LOAD_STRING	'@v00030541"Zombies... Really, Oikawa-senpai?"'
+
+{0x0A6D}	LOAD_STRING	'And Shiino returns to the end of the bench, as if she has lost interest again.'
+
+{0x0A7B}	LOAD_STRING	'Kotone'
+{0x0A7D}	LOAD_STRING	'@v00030542"Why are you even watching that movie?"'
+
+{0x0A8B}	LOAD_STRING	'Tatsumi'
+{0x0A8D}	LOAD_STRING	'Why? Well, I thought it was interesting.'
+
+{0x0AC9}	LOAD_STRING	'Of course, I could go on and on about how great the movie was.'
+
+{0x0AD9}	LOAD_STRING	'The plot, camerawork, performances and music...'
+
+{0x0AE9}	LOAD_STRING	'But I didn't watch it for any of those details.'
+
+{0x0AF9}	LOAD_STRING	'At the end of the day, I didn't know what it was going to be like. I picked it up because it looked interesting.'
+
+{0x0B07}	LOAD_STRING	'Kotone'
+{0x0B09}	LOAD_STRING	'@v00030543"Hmph, is that so."'
+
+{0x0B19}	LOAD_STRING	'Shiino responds while tapping away on her phone.'
+
+{0x0B23}	LOAD_STRING	'Chihiro'
+{0x0B25}	LOAD_STRING	'@v00040727"Hahaha, its amazing the way you change your mood so quickly. You go from interested to indifferent all in the same minute."'
+
+{0x0B35}	LOAD_STRING	'I agree with Chihiro, but I don't think it's so egregious.'
+
+{0x0B45}	LOAD_STRING	'You have to remember that Shiino is surrounded by seniors.'
+
+{0x0B55}	LOAD_STRING	'It's only natural to feel like you don't really belong.'
+
+{0x0B65}	LOAD_STRING	'I'd like her to let her guard down around us.'
+
+{0x0B75}	LOAD_STRING	'...But I'm not really helping on that front.'
+
+{0x0B8B}	LOAD_STRING	'Kotone'
+{0x0B8D}	LOAD_STRING	'@v00030544"Well, Oikawa-senpai, you're exactly the way I thought you would be."'
+
+{0x0B9D}	LOAD_STRING	'Shiino says this while keeping her eyes on her phone.'
+
+{0x0BAB}	LOAD_STRING	'Tatsumi'
+{0x0BAD}	LOAD_STRING	'What way did you think I would be?'
+
+{0x0BBB}	LOAD_STRING	'Kotone'
+{0x0BBD}	LOAD_STRING	'@v00030545"Boring, I mean."'
+
+{0x0BCD}	LOAD_STRING	'What is with this attitude?'
+
+{0x0BDB}	LOAD_STRING	'Tatsumi'
+{0x0BDD}	LOAD_STRING	'Wow, that's, uh... A little hurtful.'
+
+{0x0BE7}	LOAD_STRING	'Chihiro'
+{0x0BE9}	LOAD_STRING	'@v00040728"Well, it does describe you a little bit..."'
+
+{0x0BF3}	LOAD_STRING	'Yui'
+{0x0BF5}	LOAD_STRING	'@v00020785"Tatsumi-san is very kind."'
+
+{0x0C05}	LOAD_STRING	'I've been told a lot of things, but I don't know about that one...'
+
+{0x0C13}	LOAD_STRING	'Kotone'
+{0x0C15}	LOAD_STRING	'@v00030546"Well, you're into some really weird songs, aren't you?"'
+
+{0x0C97}	LOAD_STRING	'Miki'
+{0x0C99}	LOAD_STRING	'@v00010866"The song that Tak-kun listens to the most is..."'
+
+{0x0CA7}	LOAD_STRING	'Tatsumi'
+{0x0CA9}	LOAD_STRING	'I don't really like to lock myself to one genre.'
+
+{0x0CB3}	LOAD_STRING	'Chihiro'
+{0x0CB5}	LOAD_STRING	'@v00040729"I know you like rock, punk and prog. In addition to that... A.O.R. thing."'
+
+{0x0CBF}	LOAD_STRING	'Yui'
+{0x0CC1}	LOAD_STRING	'@v00020786"Now that I think of it, Thursdays are amazing... I always hear such wonderful songs!"'
+
+{0x0CD1}	LOAD_STRING	'I felt a little better after Nakategawa's compliments.'
+
+{0x0CDF}	LOAD_STRING	'Tatsumi'
+{0x0CE1}	LOAD_STRING	'Oh, but our teacher asked me to stop playing prog music during lunch.'
+
+{0x0CEB}	LOAD_STRING	'Miki'
+{0x0CED}	LOAD_STRING	'@v00010867"Huh? Why? Are you not allowed to express yourself freely?!"'
+
+{0x0CFB}	LOAD_STRING	'Tatsumi'
+{0x0CFD}	LOAD_STRING	'Apparently he can't concentrate on eating his rice.'
+
+{0x0D07}	LOAD_STRING	'Chihiro'
+{0x0D09}	LOAD_STRING	'@v00040730"Hahaha, I actually kind of get that.'
+
+{0x0D13}	LOAD_STRING	'Yui'
+{0x0D15}	LOAD_STRING	'@v00020787"Then how about heavy metal? It will cheer you up, right?"'
+
+{0x0D23}	LOAD_STRING	'Tatsumi'
+{0x0D25}	LOAD_STRING	'Good luck substituting it like that.'
+
+{0x0D77}	LOAD_STRING	'Kotone'
+{0x0D79}	LOAD_STRING	'@v00030547"So you like lame music, dumb movies, and you suck at basketball. Is there anything you're good at?"'
+
+{0x0D89}	LOAD_STRING	'She's really cutting me deep.'
+
+{0x0D99}	LOAD_STRING	'But I envy her for her ability to speak out so frankly.'
+
+{0x0DA7}	LOAD_STRING	'Tatsumi'
+{0x0DA9}	LOAD_STRING	'Hmm, I'm not sure.'
+
+{0x0DB9}	LOAD_STRING	'Something like a talent...?'
+
+{0x0DC9}	LOAD_STRING	'I'll think it over, but nothing is coming to me right now.'
+
+{0x0DD9}	LOAD_STRING	'I've tried musical instruments, I've tried sports, but I'm not very good at either.'
+
+{0x0DE9}	LOAD_STRING	'I'm completely outclassed by my peers and friends.'
+
+{0x0DF7}	LOAD_STRING	'Kotone'
+{0x0DF9}	LOAD_STRING	'@v00030548"Why do you hang out with Kohsaka-senpai and Sakaki-senpai?"@k'
+
+{0x0EA5}	LOAD_STRING	'Shiino shoots a glare at me.'
+
+{0x0EB5}	LOAD_STRING	'I'm glad you took your eyes off your phone, but the look you're giving me is not the happy kind.'
+
+{0x0EC3}	LOAD_STRING	'Tatsumi'
+{0x0EC5}	LOAD_STRING	'What are you talking about? We're friends, is that not enough?'
+
+{0x0ED3}	LOAD_STRING	'Kotone'
+{0x0ED5}	LOAD_STRING	'@v00030549"Friends? I think you're the only one who thinks so."'
+
+{0x0EE3}	LOAD_STRING	'Tatsumi'
+{0x0EE5}	LOAD_STRING	'What?'
+
+{0x0EF3}	LOAD_STRING	'Kotone'
+{0x0EF5}	LOAD_STRING	'@v00030550"I don't want to say too much, but you're off in your own world, Oikawa-senpai. Everyone in my class thinks so, too."'
+
+{0x0EFF}	LOAD_STRING	'Chihiro'
+{0x0F01}	LOAD_STRING	'@v00040731"Shiino, I think you'd better―"'
+
+{0x0F11}	LOAD_STRING	'Chihiro goes to intervene, but I stop him.'
+
+{0x0F1F}	LOAD_STRING	'Tatsumi'
+{0x0F21}	LOAD_STRING	'Shiino can think what she wants. But I consider Miki, Chihiro, and Nakategawa friends of mine. I even consider you my friend, Shiino.'
+
+{0x0F63}	LOAD_STRING	'Kotone'
+{0x0F65}	LOAD_STRING	'@v00030551"...Is that so."'
+
+{0x0F75}	LOAD_STRING	'The sparkle behind Shiino's eyes seemed to waver.@k'
+
+{0x0FED}	LOAD_STRING	'Like Chihiro, I don't want to blatantly condemn her, but I was beginning to lose the will to continue the conversation any longer.'
+
+{0x0FFD}	LOAD_STRING	'As I thought earlier, I'm not the most capable person.'
+
+{0x100D}	LOAD_STRING	'Besides, Shiino's not entirely off the mark.'
+
+{0x101F}	LOAD_STRING	'Miki'
+{0x1021}	LOAD_STRING	'@v00010868"Ahahah, oh Koto-chan. You're still a little girl if you can't see the good in Tak-kun.@t0670@hMIKI_0101EG Hup!"@k'
+
+{0x1051}	LOAD_STRING	'Miki goes for a jumpshot as she sees an opening.'
+
+{0x10A3}	LOAD_STRING	'Yui'
+{0x10A5}	LOAD_STRING	'@v00020788"Miki-san is right! 'Great courage is like cowardice, and great wisdom is like folly', right?"'
+
+{0x10B5}	LOAD_STRING	'Sounds like Nakategawa is on board.'
+
+{0x10CD}	LOAD_STRING	'Yui'
+{0x10CF}	LOAD_STRING	'@v00020789"Tatsumi-san, can you lend me that movie next time?"'
+
+{0x10DD}	LOAD_STRING	'Tatsumi'
+{0x10DF}	LOAD_STRING	'Ah, of course.'
+
+{0x10EF}	LOAD_STRING	'I'll have to lend it to Nakategawa as a thank you for following up, and of course, in the interest of more like-minded people.'
+
+{0x1135}	LOAD_STRING	'Kotone'
+{0x1137}	LOAD_STRING	'@v00030552"Hmph. Kohsaka-senpai and Nakategawa-senpai, huh?"'
+
+{0x1141}	LOAD_STRING	'Chihiro'
+{0x1143}	LOAD_STRING	'@v00040732"What, you're annoyed because you're being treated like a child?"'
+
+{0x114D}	LOAD_STRING	'Kotone'
+{0x114F}	LOAD_STRING	'@v00030553"No! Please don't assume things like that on your own."'
+
+{0x115F}	LOAD_STRING	'Chihiro grabs the basketball that has rolled at his feet with one hand.'
+
+{0x1169}	LOAD_STRING	'Chihiro'
+{0x116B}	LOAD_STRING	'@v00040733"Then isn't your image of Tatsumi also an arbitrary assumption?"'
+
+{0x1175}	LOAD_STRING	'Kotone'
+{0x1177}	LOAD_STRING	'@v00030554"That's..."'
+
+{0x1187}	LOAD_STRING	'Shiino looked at me, reservedly.'
+
+{0x1197}	LOAD_STRING	'I don't sense any judgment or indifference in her gaze.'
+
+{0x1224}	LOAD_STRING	'Miki'
+{0x1226}	LOAD_STRING	'@v00010869"Well, well, you two. We're going to be friends for a long time now. Right? Chi-kun?"'
+
+{0x1230}	LOAD_STRING	'Chihiro'
+{0x1232}	LOAD_STRING	'@v00040734"Will we?"'
+
+{0x123C}	LOAD_STRING	'Miki'
+{0x123E}	LOAD_STRING	'@v00010870"Of course.@t0290@hMIKI_0101EG2 Come on, Chi-kun."'
+
+{0x1282}	LOAD_STRING	'Miki resumes the game while Chihiro remains at a standstill.'
+
+{0x128C}	LOAD_STRING	'Miki'
+{0x128E}	LOAD_STRING	'@v00010871"Why don't you stay here for a while, Koto-chan, and watch Tak-kun up close? Maybe your perspective will change a little."'
+
+{0x1301}	LOAD_STRING	'Kotone'
+{0x1303}	LOAD_STRING	'@v00030555"Huh? There's nothing interesting to see, it's just Oikawa-senpai."'
+
+{0x132F}	LOAD_STRING	'The cheeky junior, while speaking hatefully, gives me a glancing glance in my direction.'
+
+{0x133F}	LOAD_STRING	'Oh, she looks a lot... Kinder than before.'
+
+{0x134D}	LOAD_STRING	'Tatsumi'
+{0x134F}	LOAD_STRING	'Eheheh...'
+
+{0x135F}	LOAD_STRING	'Did I ever smile at her?'

@@ -1,0 +1,570 @@
+{0x00F8}	LOAD_STRING	'Miki'
+{0x00FA}	LOAD_STRING	'@v00010482"Good morning, here's your coffee and tea!"'
+
+{0x0125}	LOAD_STRING	'Tatsumi'
+{0x0127}	LOAD_STRING	'Thank you.'
+
+{0x014E}	LOAD_STRING	'Chihiro'
+{0x0150}	LOAD_STRING	'@v00040463"Oh, thanks!"'
+
+{0x0177}	LOAD_STRING	'Yui'
+{0x0179}	LOAD_STRING	'@v00020477"Thank you."'
+
+{0x020E}	LOAD_STRING	'After bringing us our order, she sits with us.'
+
+{0x0226}	LOAD_STRING	'Miki'
+{0x0228}	LOAD_STRING	'@v00010483"And this is mine."'
+
+{0x0236}	LOAD_STRING	'Tatsumi'
+{0x0238}	LOAD_STRING	'This is sooo sweet...'
+
+{0x0248}	LOAD_STRING	'Miki brings her own drink from the kitchen, which was a bit too much for me.'
+
+{0x0252}	LOAD_STRING	'Yui'
+{0x0254}	LOAD_STRING	'@v00020478"Really? I think it looks delicious."'
+
+{0x025E}	LOAD_STRING	'Miki'
+{0x0260}	LOAD_STRING	'@v00010484"It's a fresh cream, chocolate and strawberry frappe!@t0300@hMIKI_U102EG2 I named it: Miki's Special."'
+
+{0x026A}	LOAD_STRING	'Chihiro'
+{0x026C}	LOAD_STRING	'@v00040464"Heh, I see..."'
+
+{0x0276}	LOAD_STRING	'Miki'
+{0x0278}	LOAD_STRING	'@v00010485"Uwah, what's with the cold stare?"'
+
+{0x0286}	LOAD_STRING	'Tatsumi'
+{0x0288}	LOAD_STRING	'Nah, I feel like I'm getting heartburn just looking at it.'
+
+{0x0298}	LOAD_STRING	'I won't go into detail, but the dish (?) that Miki is eating is right in front of me.'
+
+{0x02A2}	LOAD_STRING	'Miki'
+{0x02A4}	LOAD_STRING	'@v00010486"Uwah, well if you don't like it, you don't have to look at it."'
+
+{0x02AE}	LOAD_STRING	'Chihiro'
+{0x02B0}	LOAD_STRING	'@v00040465"You'll see it even if you don't want to..."'
+
+{0x02BA}	LOAD_STRING	'Yui'
+{0x02BC}	LOAD_STRING	'@v00020479"This is 'eye candy' on another level!"'
+
+{0x02CC}	LOAD_STRING	'Nakategawa seems to take an interest in Miki's creation.'
+
+{0x02D6}	LOAD_STRING	'Miki'
+{0x02D8}	LOAD_STRING	'@v00010487"You just get me, Yui-chan. I'll make it for you later!"'
+
+{0x02E2}	LOAD_STRING	'Yui'
+{0x02E4}	LOAD_STRING	'@v00020480"Are you sure?"'
+
+{0x02EE}	LOAD_STRING	'Miki'
+{0x02F0}	LOAD_STRING	'@v00010488"Of course, we still have plenty of ingredients left!"'
+
+{0x0300}	LOAD_STRING	'I turn and look towards the kitchen.@k'
+
+{0x035D}	LOAD_STRING	'Miki's Father'
+{0x035F}	LOAD_STRING	'@v00900102"..."'
+
+{0x0369}	LOAD_STRING	'Chihiro'
+{0x036B}	LOAD_STRING	'@v00040466"Pops over there has a soft spot for Miki."'
+
+{0x037B}	LOAD_STRING	'You can only imagine what his face looks like when Chihiro says something like that.'
+
+{0x0389}	LOAD_STRING	'Tatsumi'
+{0x038B}	LOAD_STRING	'It's like he's already half-gone.'
+
+{0x0400}	LOAD_STRING	'Chihiro'
+{0x0402}	LOAD_STRING	'@v00040467"Well, I've always just used the kitchen whenever I wanted."'
+
+{0x0448}	LOAD_STRING	'Yui'
+{0x044A}	LOAD_STRING	'@v00020481"Really?"'
+
+{0x0454}	LOAD_STRING	'Miki'
+{0x0456}	LOAD_STRING	'@v00010489"It's rude to just say you do things 'whenever you want.'@t0400@hMIKI_A102ZT I'm actually contributing to this place, by coming up with new creations for the menu."'
+
+{0x0466}	LOAD_STRING	'Miki's babbling and pouting while sucking down her frappe like a child.'
+
+{0x0470}	LOAD_STRING	'Yui'
+{0x0472}	LOAD_STRING	'@v00020482"I see, I see."'
+
+{0x0480}	LOAD_STRING	'Tatsumi'
+{0x0482}	LOAD_STRING	'Well, even though I'm involved as well, I can't really comment on that.'
+
+{0x048C}	LOAD_STRING	'Yui'
+{0x048E}	LOAD_STRING	'@v00020483"Tatsumi-san, you're involved?"'
+
+{0x049C}	LOAD_STRING	'Tatsumi'
+{0x049E}	LOAD_STRING	'I help out when the cafe gets busy, Miki helps me out in my affairs from time to time as well.'
+
+{0x04A8}	LOAD_STRING	'Chihiro'
+{0x04AA}	LOAD_STRING	'@v00040468"Yep, but I'm exempt from that responsibility!"'
+
+{0x04D0}	LOAD_STRING	'Miki'
+{0x04D2}	LOAD_STRING	'@v00010490"Chi-kun lives alone and cooks for himself, you'd feel sad if you rubbed him the wrong way out here too."'
+
+{0x04E0}	LOAD_STRING	'Tatsumi'
+{0x04E2}	LOAD_STRING	'I don't mind being candid with him...'
+
+{0x04EC}	LOAD_STRING	'Miki'
+{0x04EE}	LOAD_STRING	'@v00010491"No way, Tak-kun. You know that my home cooking is always a treat!"'
+
+{0x04FC}	LOAD_STRING	'Tatsumi'
+{0x04FE}	LOAD_STRING	'Yeah, I have to agree.'
+
+{0x050E}	LOAD_STRING	'I know she's putting me on the spot, but it's the truth... Miki's food is awesome.'
+
+{0x051E}	LOAD_STRING	'Miki often covers her dad's shifts, and her food is very well-received.'
+
+{0x0528}	LOAD_STRING	'Miki'
+{0x052A}	LOAD_STRING	'@v00010492"Hmph, but I'm still the signboard girl."'
+
+{0x0534}	LOAD_STRING	'Yui'
+{0x0536}	LOAD_STRING	'@v00020484"It's not that surprising that some customers would come here just for Miki, right?@t0480@hYUI_A202TR2 Have you ever been asked out here?"'
+
+{0x0546}	LOAD_STRING	'Nakategawa asks Miki, and she starts blushing...'
+
+{0x0550}	LOAD_STRING	'Miki'
+{0x0552}	LOAD_STRING	'@v00010493"Huh? H-hey, that's...!"'
+
+{0x0562}	LOAD_STRING	'Miki started stammering.'
+
+{0x05AC}	LOAD_STRING	'Chihiro'
+{0x05AE}	LOAD_STRING	'@v00040469"That would be... Impossible.'
+
+{0x05BC}	LOAD_STRING	'Tatsumi'
+{0x05BE}	LOAD_STRING	'Yeah.'
+
+{0x05CE}	LOAD_STRING	'Then, Chihiro and I look towards the kitchen.@k'
+
+{0x062D}	LOAD_STRING	'There's a man there with a stern look on his face.。'
+
+{0x0637}	LOAD_STRING	'Yui'
+{0x0639}	LOAD_STRING	'@v00020485"Ah..."'
+
+{0x0643}	LOAD_STRING	'Chihiro'
+{0x0645}	LOAD_STRING	'@v00040470"Well, if anyone wanted to ask her out here, I'd respect it."'
+
+{0x0655}	LOAD_STRING	'About that...'
+
+{0x0663}	LOAD_STRING	'Miki's Father'
+{0x0665}	LOAD_STRING	'@v00900103"...Miki."'
+
+{0x0675}	LOAD_STRING	'A deep voice called out to Miki.'
+
+{0x06EA}	LOAD_STRING	'Miki'
+{0x06EC}	LOAD_STRING	'@v00010494"Hmm? What's up?"'
+
+{0x0727}	LOAD_STRING	'Miki gets up from her seat and patters off to the kitchen.'
+
+{0x0765}	LOAD_STRING	'Chihiro'
+{0x0767}	LOAD_STRING	'@v00040471"Genes are so weird, huh?"'
+
+{0x0775}	LOAD_STRING	'Tatsumi'
+{0x0777}	LOAD_STRING	'I agree.'
+
+{0x07A1}	LOAD_STRING	'Yui'
+{0x07A3}	LOAD_STRING	'@v00020486"You have similar perspectives, don't you?"'
+
+{0x07B3}	LOAD_STRING	'Nakategawa got the meaning of what Chihiro and I said.'
+
+{0x07BD}	LOAD_STRING	'Chihiro'
+{0x07BF}	LOAD_STRING	'@v00040472"Really? What do you mean?"'
+
+{0x07C9}	LOAD_STRING	'Yui'
+{0x07CB}	LOAD_STRING	'@v00020487"Well, why don't you take a look? That curve there, for example..."'
+
+{0x07D5}	LOAD_STRING	'Chihiro'
+{0x07D7}	LOAD_STRING	'@v00040473"H-hey, it's rude to stare at her dad like that, isn't it?"'
+
+{0x081B}	LOAD_STRING	'People who might not know any better would probably say that her father is distinct from her.'
+
+{0x082B}	LOAD_STRING	'In reality, Miki's mom is very much in love with her dad.'
+
+{0x083B}	LOAD_STRING	'Still, Beauty and the Beast is a more apt description.'
+
+{0x089D}	LOAD_STRING	'Tatsumi'
+{0x089F}	LOAD_STRING	'Well, Mika is more like her mother.'
+
+{0x08A9}	LOAD_STRING	'Yui'
+{0x08AB}	LOAD_STRING	'@v00020488"Mika?"'
+
+{0x08B5}	LOAD_STRING	'Chihiro'
+{0x08B7}	LOAD_STRING	'@v00040474"Oh, Miki's sister. She's a college student in Tokyo now."'
+
+{0x08C1}	LOAD_STRING	'Yui'
+{0x08C3}	LOAD_STRING	'@v00020489"Oh, I see, that must be nice... I'm an only child."'
+
+{0x08E9}	LOAD_STRING	'Chihiro'
+{0x08EB}	LOAD_STRING	'@v00040475"Not sure I would say that... Tatsumi, what about you?"'
+
+{0x08FB}	LOAD_STRING	'He asks me, an only child as well.'
+
+{0x0909}	LOAD_STRING	'Tatsumi'
+{0x090B}	LOAD_STRING	'I don't really know, either way.'
+
+{0x091B}	LOAD_STRING	'Since I was a child, I basically liked to play alone, so I was never particularly unhappy being an only child.'
+
+{0x092B}	LOAD_STRING	'Or rather, when I was lonely, Miki was there for me.'
+
+{0x093B}	LOAD_STRING	'I guess I could say that Miki was like a little sister to me... Actually, just a sister?'
+
+{0x0949}	LOAD_STRING	'Tatsumi'
+{0x094B}	LOAD_STRING	'Chihiro, have you ever been involved in a fight between Mika and Miki?'
+
+{0x0955}	LOAD_STRING	'Chihiro'
+{0x0957}	LOAD_STRING	'@v00040476"Oh, well..."'
+
+{0x0967}	LOAD_STRING	'A man should not interfere in a quarrel between women. If possible, he should leave the scene.'
+
+{0x098D}	LOAD_STRING	'Yui'
+{0x098F}	LOAD_STRING	'@v00020490"But isn't that also a good thing? In the first place, if you don't have siblings, you can't even fight."'
+
+{0x099D}	LOAD_STRING	'Tatsumi'
+{0x099F}	LOAD_STRING	'You're as positive as ever...'
+
+{0x09AF}	LOAD_STRING	'I was just talking about that...'
+
+{0x09FB}	LOAD_STRING	'Miki'
+{0x09FD}	LOAD_STRING	'@v00010495"Have a nice day!"'
+
+{0x0A0D}	LOAD_STRING	'I heard such a cheerful voice from Miki.'
+
+{0x0A1B}	LOAD_STRING	'Miki's Father'
+{0x0A1D}	LOAD_STRING	'@v00900104"..."'
+
+{0x0A2D}	LOAD_STRING	'Miki's father nods silently at his daughter's words and leaves the store.'
+
+{0x0A7B}	LOAD_STRING	'Chihiro'
+{0x0A7D}	LOAD_STRING	'@v00040477"Huh? Where's he going?"'
+
+{0x0A87}	LOAD_STRING	'Miki'
+{0x0A89}	LOAD_STRING	'@v00010496"Wellll, you know... He ran out of some ingredients, so he went to go shopping for more."'
+
+{0x0A97}	LOAD_STRING	'Tatsumi'
+{0x0A99}	LOAD_STRING	'Hmm, that's odd.'
+
+{0x0AA9}	LOAD_STRING	'Miki's dad's facial expression doesn't look so good, but he is undeniably good at food management.'
+
+{0x0AB3}	LOAD_STRING	'Miki'
+{0x0AB5}	LOAD_STRING	'@v00010497"Nah, it's not odd!"'
+
+{0x0AC5}	LOAD_STRING	'Miki looks at her own drink, reluctant to admit it.'
+
+{0x0ACF}	LOAD_STRING	'Yui'
+{0x0AD1}	LOAD_STRING	'@v00020491"Did you use up what he needed?"'
+
+{0x0ADB}	LOAD_STRING	'Miki'
+{0x0ADD}	LOAD_STRING	'@v00010498"...Okay, yes, I did. The life of a cook is hard."'
+
+{0x0AED}	LOAD_STRING	'Miki nods as if she convinced herself.@k'
+
+{0x0B25}	LOAD_STRING	'Tatsumi'
+{0x0B27}	LOAD_STRING	'Nah, I don't think that's related.'
+
+{0x0B31}	LOAD_STRING	'Miki'
+{0x0B33}	LOAD_STRING	'@v00010499"Oh, shut up already.@t0250@hMIKI_U102ZT I'm not gonna let you eat any more of my delicious home-cooked meals anymore!"'
+
+{0x0B43}	LOAD_STRING	'Miki, puffing out her cheeks like a child, mouthing childish lines.'
+
+{0x0B69}	LOAD_STRING	'Yui'
+{0x0B6B}	LOAD_STRING	'@v00020492"Oh...@t0100@hYUI_U201MS Forget I said anything, okay?"'
+
+{0x0B7B}	LOAD_STRING	'Nakategawa takes the opposite stance. She has a good personality.'
+
+{0x0B85}	LOAD_STRING	'Yui'
+{0x0B87}	LOAD_STRING	'@v00020493"More importantly, is the store safe?"'
+
+{0x0B91}	LOAD_STRING	'Miki'
+{0x0B93}	LOAD_STRING	'@v00010500"We're fine, I don't think we'll have that many guests."'
+
+{0x0BD7}	LOAD_STRING	'It's the evening now.'
+
+{0x0BE7}	LOAD_STRING	'There aren't that many customers around this time. Dinner time is also not that crowded if it is Monday through Thursday.'
+
+{0x0BF7}	LOAD_STRING	'So we can just sit, relax and have a nice chat.'
+
+{0x0C45}	LOAD_STRING	'Miki'
+{0x0C47}	LOAD_STRING	'@v00010501"If guests come, Tak-kun and I can handle it."'
+
+{0x0C57}	LOAD_STRING	'Miki says that with pride.'
+
+{0x0C61}	LOAD_STRING	'Chihiro'
+{0x0C63}	LOAD_STRING	'@v00040478"Wow, you've excluded me completely."'
+
+{0x0C6D}	LOAD_STRING	'Miki'
+{0x0C6F}	LOAD_STRING	'@v00010502"You want in?"'
+
+{0x0C79}	LOAD_STRING	'Chihiro'
+{0x0C7B}	LOAD_STRING	'@v00040479"No thanks."'
+
+{0x0CA9}	LOAD_STRING	'Yui'
+{0x0CAB}	LOAD_STRING	'@v00020494"Miki... you sound too confident."'
+
+{0x0CB9}	LOAD_STRING	'Tatsumi'
+{0x0CBB}	LOAD_STRING	'What do you mean?'
+
+{0x0CC5}	LOAD_STRING	'Yui'
+{0x0CC7}	LOAD_STRING	'@v00020495"It could end up manifesting a crowd..."'
+
+{0x0CD7}	LOAD_STRING	'The moment Nakategawa said such a disturbing thing...'
+
+{0x0D56}	LOAD_STRING	'Miki'
+{0x0D58}	LOAD_STRING	'@v00010503"Wow, that was awesome, Yui-chan!"'
+
+{0x0D62}	LOAD_STRING	'Yui'
+{0x0D64}	LOAD_STRING	'@v00020496"Huh? Oh, it was just a little joke..."'
+
+{0x0D74}	LOAD_STRING	'It was a group of tourists who came to the store. By a rough count, there were probably more than ten of them.'
+
+{0x0DD6}	LOAD_STRING	'Miki'
+{0x0DD8}	LOAD_STRING	'@v00010504"Well, that's just the way it is."'
+
+{0x0DE8}	LOAD_STRING	'Miki stands up as if she were hungry.'
+
+{0x0DF2}	LOAD_STRING	'Miki'
+{0x0DF4}	LOAD_STRING	'@v00010505"Well then, Tak-kun, I'm counting on you."'
+
+{0x0E04}	LOAD_STRING	'She smiles while patting me on the shoulder.@k'
+
+{0x0E58}	LOAD_STRING	'Tatsumi'
+{0x0E5A}	LOAD_STRING	'...All right. Don't expect too much from me.'
+
+{0x0E64}	LOAD_STRING	'Miki'
+{0x0E66}	LOAD_STRING	'@v00010506"What are you saying?@t0190@hMIKI_U102EG2 I already told you, I'm counting on you."'
+
+{0x0E76}	LOAD_STRING	'I'm happy to hear you need me, but you're putting a lot of pressure on me...'
+
+{0x0EEE}	LOAD_STRING	'Miki'
+{0x0EF0}	LOAD_STRING	'@v00010507"Order up! Table 5's carbonara is ready."'
+
+{0x0EFE}	LOAD_STRING	'Tatsumi'
+{0x0F00}	LOAD_STRING	'On it.'
+
+{0x0F53}	LOAD_STRING	'Following Miki's delegation, the food is served up to the guests.'
+
+{0x0F63}	LOAD_STRING	'As she said, it's a job I've helped with many times. My body remembers it in its own way.'
+
+{0x0FD4}	LOAD_STRING	'Chihiro'
+{0x0FD6}	LOAD_STRING	'@v00040480"Tatsumi, keep up the good work!"'
+
+{0x0FE6}	LOAD_STRING	'Chihiro's cheering me on while sipping on his coffee.'
+
+{0x1010}	LOAD_STRING	'Yui'
+{0x1012}	LOAD_STRING	'@v00020497"Tatsumi-san, Miki-san, good luck~"'
+
+{0x1022}	LOAD_STRING	'And here is Nakategawa cheering us on with a serious expression.'
+
+{0x1032}	LOAD_STRING	'I appreciate it, but I'm a little embarrassed when she cheers so enthusiastically.'
+
+{0x1083}	LOAD_STRING	'Tatsumi'
+{0x1085}	LOAD_STRING	'How's it going over there?'
+
+{0x1095}	LOAD_STRING	'After serving, I return to the kitchen and chit-chat with Miki.'
+
+{0x109F}	LOAD_STRING	'Miki'
+{0x10A1}	LOAD_STRING	'@v00010508"Hmmm, I guess it's going okayish."'
+
+{0x10B1}	LOAD_STRING	'Miki is now making a pizza toast with bacon and potatoes, one of the restaurant's specialties.'
+
+{0x10BF}	LOAD_STRING	'Tatsumi'
+{0x10C1}	LOAD_STRING	'Got it.'
+
+{0x1136}	LOAD_STRING	'After saying that, I line up next to Miki and pick up an onion.'
+
+{0x1146}	LOAD_STRING	'By the way, almost all the ingredients in this store are carefully selected by Miki's father.'
+
+{0x1164}	LOAD_STRING	'Tatsumi'
+{0x1166}	LOAD_STRING	'This is how thinly you slice the onion?'
+
+{0x1176}	LOAD_STRING	'Asking Miki while moving the knife.'
+
+{0x1180}	LOAD_STRING	'Miki'
+{0x1182}	LOAD_STRING	'@v00010509"Looks good!"'
+
+{0x11AA}	LOAD_STRING	'As soon as Miki uttered that, the microwave in the kitchen dinged.'
+
+{0x11B4}	LOAD_STRING	'Miki'
+{0x11B6}	LOAD_STRING	'@v00010510"Ah, Tak-kun, can you get that for me?"'
+
+{0x11CE}	LOAD_STRING	'Tatsumi'
+{0x11D0}	LOAD_STRING	'On it.'
+
+{0x11DA}	LOAD_STRING	'Miki'
+{0x11DC}	LOAD_STRING	'@v00010511"Thanks!"@k'
+
+{0x121C}	LOAD_STRING	'I give Miki a slice of bread and she thanks me in a light tone.'
+
+{0x1226}	LOAD_STRING	'Miki'
+{0x1228}	LOAD_STRING	'@v00010512"This is how it's done."'
+
+{0x1236}	LOAD_STRING	'Tatsumi'
+{0x1238}	LOAD_STRING	'Yes, that's right. It was for that old man, so the flavor should be light.'
+
+{0x1248}	LOAD_STRING	'I lightly advise while watching Miki spread ketchup on the bread in the corner of my eye.'
+
+{0x1256}	LOAD_STRING	'Tatsumi'
+{0x1258}	LOAD_STRING	''Hoy.'
+
+{0x1268}	LOAD_STRING	'And just before Miki's right hand moves, I offer her some dried basil.'
+
+{0x1282}	LOAD_STRING	'Miki'
+{0x1284}	LOAD_STRING	'@v00010513"Thankies~"'
+
+{0x1294}	LOAD_STRING	'Hearing her say that, I cut the bacon into about an inch pieces.'
+
+{0x12AC}	LOAD_STRING	'Tatsumi'
+{0x12AE}	LOAD_STRING	'Hey-o.'
+
+{0x12B8}	LOAD_STRING	'Miki'
+{0x12BA}	LOAD_STRING	'@v00010514"Okay!"'
+
+{0x12CA}	LOAD_STRING	'Miki puts the onions I cut, bacon, and potatoes I just took out of the microwave on the bread, then sprinkles mixed cheese on top.'
+
+{0x12D8}	LOAD_STRING	'Tatsumi'
+{0x12DA}	LOAD_STRING	''Hoy, mayo.'
+
+{0x12E4}	LOAD_STRING	'Miki'
+{0x12E6}	LOAD_STRING	'@v00010515"Oh, you're so clever!"'
+
+{0x12F6}	LOAD_STRING	'Miki sprinkles some black pepper on top of the mayonnaise.'
+
+{0x1300}	LOAD_STRING	'Miki'
+{0x1302}	LOAD_STRING	'@v00010516"'Hoy, I'll take care of the rest."@k'
+
+{0x1344}	LOAD_STRING	'Tatsumi'
+{0x1346}	LOAD_STRING	'Five more minutes, right?'
+
+{0x1350}	LOAD_STRING	'Miki'
+{0x1352}	LOAD_STRING	'@v00010517"Oh, that's nothing."'
+
+{0x1370}	LOAD_STRING	'Without skipping a beat, it's oven time.'
+
+{0x137A}	LOAD_STRING	'Miki'
+{0x137C}	LOAD_STRING	'@v00010518"Oh, Tak-kun, get that thing ready."'
+
+{0x138A}	LOAD_STRING	'Tatsumi'
+{0x138C}	LOAD_STRING	'Get what thing ready?'
+
+{0x139C}	LOAD_STRING	'I say this while offering Miki a metal bowl.'
+
+{0x13A6}	LOAD_STRING	'Miki'
+{0x13A8}	LOAD_STRING	'@v00010519"You know what I mean."@k'
+
+{0x13EC}	LOAD_STRING	'For the next order, I guess I'll be making omurice next.'
+
+{0x13FC}	LOAD_STRING	'The prediction seems to have been right, and Miki takes an egg out of the fridge, laughing happily.'
+
+{0x140A}	LOAD_STRING	'Tatsumi'
+{0x140C}	LOAD_STRING	'Don't skimp on the butter.'
+
+{0x1416}	LOAD_STRING	'Miki'
+{0x1418}	LOAD_STRING	'@v00010520"Oh, please!"'
+
+{0x1476}	LOAD_STRING	'Well, this is how Miki and I steadily put away orders.'
+
+{0x1486}	LOAD_STRING	'When was the first time I helped in the Mico kitchen like this?'
+
+{0x1496}	LOAD_STRING	'I think around the time home economics class started in elementary school, Miki suggested, 'Do you wanna try it?''
+
+{0x14A6}	LOAD_STRING	'I guess it wasn't a suggestion, but rather just a convenient way for Miki to ask me for help.'
+
+{0x14B0}	LOAD_STRING	'Miki'
+{0x14B2}	LOAD_STRING	'@v00010521"Whew, looks like I managed to get it all done.@t0300@hMIKI_A102EG Thanks, Tak-kun!"'
+
+{0x14C2}	LOAD_STRING	'Then there was a time when I couldn't lend a hand at Mico for about a year and a half.'
+
+{0x14D2}	LOAD_STRING	'Still, the combination of the two of us didn't falter.'
+
+{0x1528}	LOAD_STRING	'Yui'
+{0x152A}	LOAD_STRING	'@v00020498"It's like they both breathe in unison!"'
+
+{0x1534}	LOAD_STRING	'Chihiro'
+{0x1536}	LOAD_STRING	'@v00040481"That's because they've known each other since they were kids, apparently.@t0330@hCHIHIRO_U201BS How about you, can you cook anything?"'
+
+{0x1540}	LOAD_STRING	'Yui'
+{0x1542}	LOAD_STRING	'@v00020499"Oh, um..."'
+
+{0x154C}	LOAD_STRING	'Chihiro'
+{0x154E}	LOAD_STRING	'@v00040482"...Nevermind, I got what I needed from your reaction".'
+
+{0x1558}	LOAD_STRING	'Yui'
+{0x155A}	LOAD_STRING	'@v00020500"Hahaha... can you tell?"'
+
+{0x1564}	LOAD_STRING	'Chihiro'
+{0x1566}	LOAD_STRING	'@v00040483"Maybe your father didn't let you carry a knife?"'
+
+{0x1570}	LOAD_STRING	'Yui'
+{0x1572}	LOAD_STRING	'@v00020501"Hah, how did you know?"'
+
+{0x157C}	LOAD_STRING	'Chihiro'
+{0x157E}	LOAD_STRING	'@v00040484"Tell me your story."'
+
+{0x1588}	LOAD_STRING	'Yui'
+{0x158A}	LOAD_STRING	'@v00020502"Have you ever tried cooking?@t0310@hYUI_U201AS Well, I tried three different times, but got into a commotion each time. Since then, my father has forbidden me from doing so."'
+
+{0x1594}	LOAD_STRING	'Chihiro'
+{0x1596}	LOAD_STRING	'@v00040485"Oh, is that so...?"'
+
+{0x15A0}	LOAD_STRING	'Yui'
+{0x15A2}	LOAD_STRING	'@v00020503"My father is really overprotective. I'm so embarrassed..."'
+
+{0x15AC}	LOAD_STRING	'Chihiro'
+{0x15AE}	LOAD_STRING	'@v00040486"There's no need to be ashamed. For what it's worth, they allowed you to change schools, so it's not like they're totally oblivious parents."'
+
+{0x15B8}	LOAD_STRING	'Yui'
+{0x15BA}	LOAD_STRING	'@v00020504"Yes, but...@t0190@hYUI_U202KM They just need to trust me more."'
+
+{0x15F0}	LOAD_STRING	'Chihiro'
+{0x15F2}	LOAD_STRING	'@v00040487"Hahaha... You're a lot better off with parents who care about you, you know?"'
+
+{0x15FC}	LOAD_STRING	'Chihiro'
+{0x15FE}	LOAD_STRING	'@v00040488"If you want to learn how to cook, how about having Miki and Tatsumi mentor you?"'
+
+{0x1608}	LOAD_STRING	'Yui'
+{0x160A}	LOAD_STRING	'@v00020505"Huh?"'
+
+{0x1614}	LOAD_STRING	'Chihiro'
+{0x1616}	LOAD_STRING	'@v00040489"Look, I was a terrible cook myself. Thanks to these guys, I've managed to cook for myself."'
+
+{0x1620}	LOAD_STRING	'Yui'
+{0x1622}	LOAD_STRING	'@v00020506"Is that okay? It won't be a problem for those two?"'
+
+{0x162C}	LOAD_STRING	'Chihiro'
+{0x162E}	LOAD_STRING	'@v00040490"There's only one way to find out, right? Don't be shy."'
+
+{0x1664}	LOAD_STRING	'Yui'
+{0x1666}	LOAD_STRING	'@v00020507"Y-yes, you're right!"'
+
+{0x16A0}	LOAD_STRING	'Tatsumi'
+{0x16A2}	LOAD_STRING	'Sir. Aren't you nursing that cup of coffee too much?'
+
+{0x16B2}	LOAD_STRING	'Chihiro is talking happily with Nakategawa before I go to interrupt him.'
+
+{0x1708}	LOAD_STRING	'Chihiro'
+{0x170A}	LOAD_STRING	'@v00040491"Looks like you managed to get it over with, good job."'
+
+{0x171A}	LOAD_STRING	'Like he just pointed out, we just finished serving all 12 orders.'
+
+{0x1724}	LOAD_STRING	'Miki'
+{0x1726}	LOAD_STRING	'@v00010522"Thanks to Chi-kun and Yui-chan's support! It seems like the friendship between the two of you has deepened."'
+
+{0x1730}	LOAD_STRING	'Yui'
+{0x1732}	LOAD_STRING	'@v00020508"Yes, Chihiro-san is a good person. He's a little bit difficult to get to know."'
+
+{0x173C}	LOAD_STRING	'Chihiro'
+{0x173E}	LOAD_STRING	'@v00040492"One word too many, but yes."'
+
+{0x17B5}	LOAD_STRING	'Miki'
+{0x17B7}	LOAD_STRING	'@v00010523"Hahaha...@t0160@hMIKI_U101EG2 Oh, welcome back!"'
+
+{0x17C7}	LOAD_STRING	'Just then, Miki's father came back.'
+
+{0x17D5}	LOAD_STRING	'Miki's Father'
+{0x17D7}	LOAD_STRING	'@v00900105"..."'
+
+{0x17E7}	LOAD_STRING	'The unexpectedly large turnout moved his eyebrows for a moment, but when he realized that Miki and I had it covered, he gave a strong thumbs up.'
+
+{0x17F1}	LOAD_STRING	'Miki'
+{0x17F3}	LOAD_STRING	'@v00010524"Good work today, Tak-kun. Maybe my dad will pay you for the part-time job?"'
+
+{0x1801}	LOAD_STRING	'Tatsumi'
+{0x1803}	LOAD_STRING	'I hope so.'
+
+{0x1813}	LOAD_STRING	'Miki and I also clenched our fists together and wished each other well.'

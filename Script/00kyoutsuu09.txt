@@ -1,0 +1,1140 @@
+{0x00C5}	LOAD_STRING	'The next day, the sky looked like it was going to start crying in the morning.'
+
+{0x0123}	LOAD_STRING	'Kotone'
+{0x0125}	LOAD_STRING	'@v00030191"I'm sorry..."'
+
+{0x0135}	LOAD_STRING	'Shiino comes over to apologize in a somber voice while looking down at my new jacket.'
+
+{0x0143}	LOAD_STRING	'Tatsumi'
+{0x0145}	LOAD_STRING	'You don't need to apologize, Shiino.'
+
+{0x014F}	LOAD_STRING	'Kotone'
+{0x0151}	LOAD_STRING	'@v00030192"But..."'
+
+{0x0161}	LOAD_STRING	'I don't like the stuck-up Shiino, but I'm equally as uncomfortable around her when she's so quiet.'
+
+{0x016F}	LOAD_STRING	'Tatsumi'
+{0x0171}	LOAD_STRING	'Besides, I've got new slippers, so I'm excited to break those in.'
+
+{0x0181}	LOAD_STRING	'Not the best follow-up, but I'm trying to cheer her up with my mood.'
+
+{0x020B}	LOAD_STRING	'Miki'
+{0x020D}	LOAD_STRING	'@v00010268"Yeah, it's a good way to feel fresh and new!"'
+
+{0x0217}	LOAD_STRING	'Chihiro'
+{0x0219}	LOAD_STRING	'@v00040270"Tatsumi's right, let's start today nice and fresh."'
+
+{0x0223}	LOAD_STRING	'Yui'
+{0x0225}	LOAD_STRING	'@v00020344"That's right, it's not good to be so gloomy in the morning."'
+
+{0x0235}	LOAD_STRING	'Feeling concerned for Shiino, the others join in.'
+
+{0x02AE}	LOAD_STRING	'Kotone'
+{0x02B0}	LOAD_STRING	'@v00030193"..."'
+
+{0x02BE}	LOAD_STRING	'Tatsumi'
+{0x02C0}	LOAD_STRING	'Shiino... Don't look at me like that.'
+
+{0x02CA}	LOAD_STRING	'Kotone'
+{0x02CC}	LOAD_STRING	'@v00030194"But, it's my fault..."'
+
+{0x02D6}	LOAD_STRING	'Miki'
+{0x02D8}	LOAD_STRING	'@v00010269"If Tak-kun says it's okay, then you should just take it easy, Koto-chan."'
+
+{0x02E2}	LOAD_STRING	'Yui'
+{0x02E4}	LOAD_STRING	'@v00020345"You're just as fine as always, Kotone-chan. Just let me know if you hear anything else, okay?"'
+
+{0x02EE}	LOAD_STRING	'Kotone'
+{0x02F0}	LOAD_STRING	'@v00030195"Kohsaka-senpai... Nakategawa-senpai..."'
+
+{0x02FA}	LOAD_STRING	'Chihiro'
+{0x02FC}	LOAD_STRING	'@v00040271"Anyway, what are you gonna do?"'
+
+{0x030C}	LOAD_STRING	'Where do we go from here?'
+
+{0x0394}	LOAD_STRING	'Miki'
+{0x0396}	LOAD_STRING	'@v00010270"Well, shouldn't we tell the teacher?"'
+
+{0x03A0}	LOAD_STRING	'Yui'
+{0x03A2}	LOAD_STRING	'@v00020346"I agree. We can't tell who did it at this point, but wouldn't reporting it to a teacher give us more of a grasp on the situation?"'
+
+{0x03B0}	LOAD_STRING	'Tatsumi'
+{0x03B2}	LOAD_STRING	'Well, I get what you guys are saying...'
+
+{0x03C2}	LOAD_STRING	'Miki and Nakategawa have a point.'
+
+{0x03D2}	LOAD_STRING	'However...'
+
+{0x03E0}	LOAD_STRING	'Tatsumi'
+{0x03E2}	LOAD_STRING	'I thought it would be a lot easier to make a breakthrough if we wait until the right time for a clearer approach.'
+
+{0x03EC}	LOAD_STRING	'Miki'
+{0x03EE}	LOAD_STRING	'@v00010271"You mean, wait until we have more evidence to progress?"'
+
+{0x03FC}	LOAD_STRING	'Tatsumi'
+{0x03FE}	LOAD_STRING	'Yeah, something like that.'
+
+{0x043A}	LOAD_STRING	'Maybe Nezu-senpai is feeling antsy.'
+
+{0x044A}	LOAD_STRING	'We keep a straight face through the harassment anyway.'
+
+{0x045A}	LOAD_STRING	'Now it's Nezu-senpai's turn to make the next move.'
+
+{0x046A}	LOAD_STRING	'And I'm sure he'll come up with something easy and quick.'
+
+{0x047A}	LOAD_STRING	'Then he'll make his move.'
+
+{0x048A}	LOAD_STRING	'...When he decides it's time, he'll take the shot.'
+
+{0x0498}	LOAD_STRING	'Tatsumi'
+{0x049A}	LOAD_STRING	'(However...)'
+
+{0x04AA}	LOAD_STRING	'I've never had a total stranger express such malice towards me.'
+
+{0x04BA}	LOAD_STRING	'...It's still a little hurtful.'
+
+{0x04CA}	LOAD_STRING	'Of course, I can't really express that around Shiino.'
+
+{0x0560}	LOAD_STRING	'Miki'
+{0x0562}	LOAD_STRING	'@v00010272"For now, as we discussed, Koto-chan will not leave our side if we can help it."'
+
+{0x056C}	LOAD_STRING	'Chihiro'
+{0x056E}	LOAD_STRING	'@v00040272"Also, don't talk to anyone who might be friends with this Nezu dude."'
+
+{0x0578}	LOAD_STRING	'Yui'
+{0x057A}	LOAD_STRING	'@v00020347"If you need anything, please don't forget to message me."'
+
+{0x0584}	LOAD_STRING	'Kotone'
+{0x0586}	LOAD_STRING	'@v00030196"Yes... Thank you."'
+
+{0x05CE}	LOAD_STRING	'Shiino's fading voice clouded Nakategawa's and Miki's expressions.'
+
+{0x063A}	LOAD_STRING	'And so, lunchtime came around, and the situation remained uneventful for the time being.'
+
+{0x06AF}	LOAD_STRING	'Chihiro'
+{0x06B1}	LOAD_STRING	'@v00040273"...Well, I can see why you're so bothered."'
+
+{0x06C1}	LOAD_STRING	'Chihiro smiles brightly as he dexterously twirls the basketball around his fingertips.'
+
+{0x06CF}	LOAD_STRING	'Tatsumi'
+{0x06D1}	LOAD_STRING	'Ah, can you really tell, Chihiro?'
+
+{0x06DB}	LOAD_STRING	'Chihiro'
+{0x06DD}	LOAD_STRING	'@v00040274"We've known each other for a long time, haven't we?"'
+
+{0x06EB}	LOAD_STRING	'Tatsumi'
+{0x06ED}	LOAD_STRING	'So what, we're all just fools then?'
+
+{0x06F7}	LOAD_STRING	'Chihiro'
+{0x06F9}	LOAD_STRING	'@v00040275"Must be."'
+
+{0x0707}	LOAD_STRING	'Tatsumi'
+{0x0709}	LOAD_STRING	'Oh, I see, you must be too cool for us, huh?'
+
+{0x0713}	LOAD_STRING	'Chihiro'
+{0x0715}	LOAD_STRING	'@v00040276"That's right. And macho."'
+
+{0x0725}	LOAD_STRING	'Chihiro gives a light glance to the trio, who are having lunch together on a bench.'
+
+{0x072F}	LOAD_STRING	'Chihiro'
+{0x0731}	LOAD_STRING	'@v00040277"I got it... Why don't we use this as a means to settle it with that guy?"'
+
+{0x073B}	LOAD_STRING	'Chihiro'
+{0x073D}	LOAD_STRING	'@v00040278"Looks like it's gonna rain... So let's get started."'
+
+{0x076B}	LOAD_STRING	'Chihiro begins by passing the ball.'
+
+{0x0779}	LOAD_STRING	'Tatsumi'
+{0x077B}	LOAD_STRING	'I wonder if Chihiro has a point...'
+
+{0x078B}	LOAD_STRING	'It sounds like a really guyish way to settle it, but it's really more just Chihiro's style than anything else.'
+
+{0x07FC}	LOAD_STRING	'Chihiro'
+{0x07FE}	LOAD_STRING	'@v00040279"So, you'll go first."'
+
+{0x080C}	LOAD_STRING	'Tatsumi'
+{0x080E}	LOAD_STRING	'Don't hold back.'
+
+{0x0862}	LOAD_STRING	'After saying that, I start dribbling and run towards the goal.'
+
+{0x0872}	LOAD_STRING	'Of course, Chihiro doesn't just stand by and watch.'
+
+{0x089E}	LOAD_STRING	'He tries to block me with manoeuvers that I didn't expect from someone with his stature.'
+
+{0x08AC}	LOAD_STRING	'Tatsumi'
+{0x08AE}	LOAD_STRING	'Well, that's what happens when you...!'
+
+{0x08BE}	LOAD_STRING	'In a way, Chihiro's play is to be expected. I just have to deal with it now.'
+
+{0x08CE}	LOAD_STRING	'He stops dead in his tracks and leaps straight upwards, using his knees like springs.'
+
+{0x091E}	LOAD_STRING	'Don't shoot the ball too hard, just release softly.'
+
+{0x09C4}	LOAD_STRING	'Tatsumi'
+{0x09C6}	LOAD_STRING	'All right...'
+
+{0x09D6}	LOAD_STRING	'I mutter quietly and imagine the sight of the ball being sucked into the basket...'
+
+{0x09F2}	LOAD_STRING	'Tatsumi'
+{0x09F4}	LOAD_STRING	'Huh...?'
+
+{0x0A04}	LOAD_STRING	'It was just like I envisioned. By every calculation I made, this should have been a perfect shot.'
+
+{0x0A22}	LOAD_STRING	'And yet, the ball bounced off the ring and rolled onto the ground.'
+
+{0x0A7C}	LOAD_STRING	'Chihiro'
+{0x0A7E}	LOAD_STRING	'@v00040280"What's up, you not eating enough or something?"'
+
+{0x0A9D}	LOAD_STRING	'Chihiro fetches the ball with a smug look on his face.'
+
+{0x0B27}	LOAD_STRING	'Miki'
+{0x0B29}	LOAD_STRING	'@v00010273"Ahaha, Tak-kun, Good luck!"
+
+{0x0B33}	LOAD_STRING	'Yui'
+{0x0B35}	LOAD_STRING	'@v00020348"Tatsumi-san, you haven't been shooting very well lately..."'
+
+{0x0B45}	LOAD_STRING	'Miki's enthusiasm is overshadowed by Nakategawa's worried voice.'
+
+{0x0B4F}	LOAD_STRING	'Kotone'
+{0x0B51}	LOAD_STRING	'@v00030197"You always miss..."'
+
+{0x0B5B}	LOAD_STRING	'Yui'
+{0x0B5D}	LOAD_STRING	'@v00020349"That's not true. Tatsumi-san can make consecutive long shots if he puts his mind to it."'
+
+{0x0B67}	LOAD_STRING	'Kotone'
+{0x0B69}	LOAD_STRING	'@v00030198"Is that so...?"'
+
+{0x0B73}	LOAD_STRING	'Miki'
+{0x0B75}	LOAD_STRING	'@v00010274"I guess the problem is the he rarely gets 'in the zone.'@t0440@hMIKI_A101AS Ahaha..."'
+
+{0x0B7F}	LOAD_STRING	'Kotone'
+{0x0B81}	LOAD_STRING	'@v00030199"I'm sorry..."'
+
+{0x0B91}	LOAD_STRING	'Shiino was staring at me while frowning painfully.'
+
+{0x0B9F}	LOAD_STRING	'Tatsumi'
+{0x0BA1}	LOAD_STRING	'Nah, don't worry about it. You had nothing to do with it, Shiino―'
+
+{0x0BB1}	LOAD_STRING	'As I was trying to console Shiino...'
+
+{0x0C41}	LOAD_STRING	'Kotone'
+{0x0C43}	LOAD_STRING	'@v00030200"?!"'
+
+{0x0C53}	LOAD_STRING	'Shiino gulped and picked up her phone, shaking.'
+
+{0x0C5D}	LOAD_STRING	'Yui'
+{0x0C5F}	LOAD_STRING	'@v00020350"Kotone-chan, what's wrong?"'
+
+{0x0C6F}	LOAD_STRING	'Nakategawa looks worriedly at Shiino's expression.'
+
+{0x0C79}	LOAD_STRING	'Kotone'
+{0x0C7B}	LOAD_STRING	'@v00030201"It's from... Nezu-senpai..."'
+
+{0x0C8B}	LOAD_STRING	'...Okay. Progress has finally come.'
+
+{0x0CDD}	LOAD_STRING	'Chihiro'
+{0x0CDF}	LOAD_STRING	'@v00040281"...I'll answer it."'
+
+{0x0CFF}	LOAD_STRING	'Chihiro takes the phone from Shiino's trembling hand and calls out to the person on the other end of the line.'
+
+{0x0D5B}	LOAD_STRING	'Chihiro'
+{0x0D5D}	LOAD_STRING	'@v00040282"Are you Nezu?"'
+
+{0x0D6D}	LOAD_STRING	'Chihiro's tone made it hard to believe that he was an underclassman.'
+
+{0x0D77}	LOAD_STRING	'Chihiro'
+{0x0D79}	LOAD_STRING	'@v00040283"Oh, sorry about that. You see, I only address upperclassmen as seniors if I respect them."'
+
+{0x0D83}	LOAD_STRING	'Chihiro'
+{0x0D85}	LOAD_STRING	'@v00040284"Yeah? Well, don't get mad at me. You should know all too well that you're a senior who doesn't deserve respect, don't you?"'
+
+{0x0D8F}	LOAD_STRING	'Chihiro'
+{0x0D91}	LOAD_STRING	'@v00040285"So where― Ahaha, everything, man."'
+
+{0x0D9B}	LOAD_STRING	'Chihiro'
+{0x0D9D}	LOAD_STRING	'@v00040286"Oh, my bad. It's not about disrespecting you as a senior, you're not even respectable as a human being."'
+
+{0x0DAD}	LOAD_STRING	'Chihiro just rips into Nezu-senpai on the other end of the phone.'
+
+{0x0DBD}	LOAD_STRING	'When it comes to him, he's unrivaled at this.'
+
+{0x0DCB}	LOAD_STRING	'Tatsumi'
+{0x0DCD}	LOAD_STRING	'Chihiro, put him on speaker.'
+
+{0x0DD7}	LOAD_STRING	'Chihiro'
+{0x0DD9}	LOAD_STRING	'@v00040287"Yo, wait..."'
+
+{0x0DF7}	LOAD_STRING	'Chihiro looks at us three sitting on the bench, but reluctantly switches to speakerphone.'
+
+{0x0E31}	LOAD_STRING	'Tatsumi'
+{0x0E33}	LOAD_STRING	'Nice to meet you, Nezu-SENPAI.'
+
+{0x0E43}	LOAD_STRING	'I purposely added emphasis on the "senpai" part.'
+
+{0x0E53}	LOAD_STRING	'It only serves to add salt to the wound caused by Chihiro's prior words.'
+
+{0x0E73}	LOAD_STRING	'Nezu'
+{0x0E75}	LOAD_STRING	'@v00900056"Hmm? Are you by any chance... Oikawa?"'
+
+{0x0E85}	LOAD_STRING	'And then I heard his strangely irritating voice.'
+
+{0x0E93}	LOAD_STRING	'Tatsumi'
+{0x0E95}	LOAD_STRING	'I'm Tatsumi Oikawa. Pleased to meet you.'
+
+{0x0EA3}	LOAD_STRING	'Nezu'
+{0x0EA5}	LOAD_STRING	'@v00900057"Hey, Oikawa. You know, Kotone-chan was supposed to play with me sometime ago. How are you gonna make it up to me for that?"'
+
+{0x0EB3}	LOAD_STRING	'Nezu'
+{0x0EB5}	LOAD_STRING	'@v00900058"If you got a thing for Kotone-chan, you should have run that by me first."'
+
+{0x0EC3}	LOAD_STRING	'Nezu'
+{0x0EC5}	LOAD_STRING	'@v00900059"It's low to swipe someone's girl from the side like this."'
+
+{0x0ED3}	LOAD_STRING	'Tatsumi'
+{0x0ED5}	LOAD_STRING	'Shiino is with us now. That's the choice she herself made.'
+
+{0x0EE3}	LOAD_STRING	'Nezu'
+{0x0EE5}	LOAD_STRING	'@v00900060"Don't you know that you should have manners and respect for your seniors?"'
+
+{0x0EF3}	LOAD_STRING	'Tatsumi'
+{0x0EF5}	LOAD_STRING	'I won't be told to show respect... by someone who clearly lacks basic humanity and respect for his underclassmen.'
+
+{0x0F03}	LOAD_STRING	'Nezu'
+{0x0F05}	LOAD_STRING	'@v00900061"Huh? What's that?@t0300 Don't get cocky now!"'
+
+{0x0F15}	LOAD_STRING	'He's getting me angry.'
+
+{0x0F25}	LOAD_STRING	'...That plan we were coming up with sounds like it could work now.'
+
+{0x0F33}	LOAD_STRING	'Tatsumi'
+{0x0F35}	LOAD_STRING	'If you have nothing more to add, then we're going to keep going in circles.'
+
+{0x0F43}	LOAD_STRING	'Tatsumi'
+{0x0F45}	LOAD_STRING	'I'm not trying to take Shiino away. You're just complaining about being stolen from.'
+
+{0x0F53}	LOAD_STRING	'Nezu'
+{0x0F55}	LOAD_STRING	'@v00900062"If you knew about that―"'
+
+{0x0F63}	LOAD_STRING	'Tatsumi'
+{0x0F65}	LOAD_STRING	'So, I have a compromise.'
+
+{0x0F75}	LOAD_STRING	'Nezu-senpai tries to continue his rant, but my words cancel them out.'
+
+{0x0F83}	LOAD_STRING	'Nezu'
+{0x0F85}	LOAD_STRING	'@v00900063"...Hmm?"'
+
+{0x0F95}	LOAD_STRING	'The sudden change of topic left Nezu-senpai puzzled.'
+
+{0x0FA5}	LOAD_STRING	'If there's a time to fold, now is the time to do so...'
+
+{0x0FB3}	LOAD_STRING	'Tatsumi'
+{0x0FB5}	LOAD_STRING	'Nezu-senpai. Let's play one-on-one, right now.'
+
+{0x0FC3}	LOAD_STRING	'Tatsumi'
+{0x0FC5}	LOAD_STRING	'If you win, we'll remove Shiino from our group. Then you can do whatever you want with her.'
+
+{0x1036}	LOAD_STRING	'Kotone'
+{0x1038}	LOAD_STRING	'@v00030202"..."@k'
+
+{0x105B}	LOAD_STRING	'I could see Shiino's shoulders shake a little as I said that.'
+
+{0x1065}	LOAD_STRING	'Miki'
+{0x1067}	LOAD_STRING	'@v00010275"W-wait a moment... Tak-kun...?"'
+
+{0x1071}	LOAD_STRING	'Yui'
+{0x1073}	LOAD_STRING	'@v00020351"Tatsumi-san... that's...!"'
+
+{0x1083}	LOAD_STRING	'Miki and Nakategawa also voiced their concerns, but I continued on regardless.'
+
+{0x1091}	LOAD_STRING	'Tatsumi'
+{0x1093}	LOAD_STRING	'On the other hand, if I win... You promise to never approach Shiino again.'
+
+{0x10A1}	LOAD_STRING	'Tatsumi'
+{0x10A3}	LOAD_STRING	'Sound good?'
+
+{0x10DD}	LOAD_STRING	'Nezu'
+{0x10DF}	LOAD_STRING	'@v00900064"Hmm... I see..."'
+
+{0x10EF}	LOAD_STRING	'Nezu-senpai is silent for a while, and then...'
+
+{0x10FD}	LOAD_STRING	'Nezu'
+{0x10FF}	LOAD_STRING	'@v00900065"Haha, no way, man. I don't have any experience playing basketball. This makes no sense to me."'
+
+{0x110D}	LOAD_STRING	'Tatsumi'
+{0x110F}	LOAD_STRING	'Are you running away?'
+
+{0x111D}	LOAD_STRING	'Nezu'
+{0x111F}	LOAD_STRING	'@v00900066"Huh? Don't get carried away, man. Who would take up a challenge with a disadvantage like this?"'
+
+{0x112D}	LOAD_STRING	'Tatsumi'
+{0x112F}	LOAD_STRING	'I'm not very good either... So let's go.'
+
+{0x113D}	LOAD_STRING	'Nezu'
+{0x113F}	LOAD_STRING	'@v00900067"Hmm?"'
+
+{0x114D}	LOAD_STRING	'Tatsumi'
+{0x114F}	LOAD_STRING	'You can even pick someone else to play on your behalf. Experienced players, anyone.'
+
+{0x115D}	LOAD_STRING	'Tatsumi'
+{0x115F}	LOAD_STRING	'If I lose, it's still the same. Shiino will belong to you.'
+
+{0x1169}	LOAD_STRING	'Kotone'
+{0x116B}	LOAD_STRING	'@v00030203"..."'
+
+{0x117B}	LOAD_STRING	'Of course, Shiino doesn't "belong" to anyone.'
+
+{0x118B}	LOAD_STRING	'I'm only using this language to get his attention.'
+
+{0x1199}	LOAD_STRING	'Nezu'
+{0x119B}	LOAD_STRING	'@v00900068"...Anyone?"'
+
+{0x11A9}	LOAD_STRING	'Tatsumi'
+{0x11AB}	LOAD_STRING	'Yeah.'
+
+{0x11B9}	LOAD_STRING	'Nezu'
+{0x11BB}	LOAD_STRING	'@v00900069"..."'
+
+{0x11CB}	LOAD_STRING	'Is he gonna take the bait...?'
+
+{0x11DB}	LOAD_STRING	'Another moment of silence.'
+
+{0x11EB}	LOAD_STRING	'I can imagine the dirty smile on the other end of the phone as Nezu-senpai says this:'
+
+{0x11F9}	LOAD_STRING	'Nezu'
+{0x11FB}	LOAD_STRING	'@v00900070"...All right, you're on.@t0400 I choose you,@t0680 Sakaki. You're the one."'
+
+{0x120B}	LOAD_STRING	'...He took it.'
+
+{0x1241}	LOAD_STRING	'Chihiro'
+{0x1243}	LOAD_STRING	'@v00040288"Huh?"'
+
+{0x1311}	LOAD_STRING	'Nezu'
+{0x1313}	LOAD_STRING	'@v00900071"I heard you were on the basketball team at your old school and left after two years."'
+
+{0x1321}	LOAD_STRING	'Nezu'
+{0x1323}	LOAD_STRING	'@v00900072"I've heard most of what you did. It would be bad if it spread."'
+
+{0x132D}	LOAD_STRING	'Chihiro'
+{0x132F}	LOAD_STRING	'@v00040289"..."'
+
+{0x133D}	LOAD_STRING	'Nezu'
+{0x133F}	LOAD_STRING	'@v00900073"So you'll face Oikawa, instead of me. Hahaha."'
+
+{0x13C9}	LOAD_STRING	'Kotone'
+{0x13CB}	LOAD_STRING	'@v00030204"..."'
+
+{0x13D5}	LOAD_STRING	'Miki'
+{0x13D7}	LOAD_STRING	'@v00010276"Tak-kun... and Chi-kun?!"'
+
+{0x13E1}	LOAD_STRING	'Yui'
+{0x13E3}	LOAD_STRING	'@v00020352"But...@t0150@hYUI_A101IK2 Tatsumi-san?!"'
+
+{0x1401}	LOAD_STRING	'Tatsumi'
+{0x1403}	LOAD_STRING	'...I see. I didn't think you would do something like that.'
+
+{0x1413}	LOAD_STRING	'Nezu-senpai, who only comes to school to check out the freshmen girls, doesn't have any friends of his own to play basketball for him.'
+
+{0x1423}	LOAD_STRING	'Naturally, this means the pool of nominees to pick from is slim.'
+
+{0x1433}	LOAD_STRING	'So he went and picked Chihiro, an ex-basketball star with plenty to be blackmailed with, as my opponent.'
+
+{0x1443}	LOAD_STRING	'It's the obvious choice.'
+
+{0x1451}	LOAD_STRING	'Tatsumi'
+{0x1453}	LOAD_STRING	'It can't be helped. Let's go, Chihiro.'
+
+{0x145D}	LOAD_STRING	'Chihiro'
+{0x145F}	LOAD_STRING	'@v00040290"..."'
+
+{0x146D}	LOAD_STRING	'Tatsumi'
+{0x146F}	LOAD_STRING	'Don't forget, Nezu-senpai. If I beat Chihiro, you'll stay away from Shiino from now on.'
+
+{0x147D}	LOAD_STRING	'Nezu'
+{0x147F}	LOAD_STRING	'@v00900074"I got it. If you lose, Kotone-chan is mine."'
+
+{0x148D}	LOAD_STRING	'Nezu'
+{0x148F}	LOAD_STRING	'@v00900075"Hey, Sakaki... I'd better not see you throwing the game on purpose. Crush Oikawa like I know you do."'
+
+{0x149D}	LOAD_STRING	'Nezu'
+{0x149F}	LOAD_STRING	'@v00900076"I may just be watching from afar, but I can easily see if you're not taking it seriously, got it?"'
+
+{0x14AF}	LOAD_STRING	'...He can see us?'
+
+{0x14BF}	LOAD_STRING	'Then, out of the corner of my eye, Nakategawa pointed toward the school building.'
+
+{0x1547}	LOAD_STRING	'Chihiro'
+{0x1549}	LOAD_STRING	'@v00040291"It's Nezu... He's got a rotten look on his face."'
+
+{0x1559}	LOAD_STRING	'Chihiro spat as he glared at the person looking at him through the window of the school building.'
+
+{0x1569}	LOAD_STRING	'As expected, there are some first year girls beside Nezu-senpai who look familiar.'
+
+{0x1579}	LOAD_STRING	'Nezu must have thought I was gonna pull the punches.'
+
+{0x1589}	LOAD_STRING	'But then he caught wind that Chihiro used to beat me regularly during lunchtime, probably by the girls would would watch him.'
+
+{0x15EB}	LOAD_STRING	'Ayna'
+{0x15ED}	LOAD_STRING	'@v00900077"If it's Sakaki-senpai, then there's nothing to worry about. He used to be on the basketball team!"'
+
+{0x15FB}	LOAD_STRING	'Mayu'
+{0x15FD}	LOAD_STRING	'@v00900078"It's gonna be okay, Nezu-senpai. I've never seen Sakaki-senpai lose to him!"'
+
+{0x160D}	LOAD_STRING	'Of course, it was later found out that Chihiro used to be on the team.'
+
+{0x161D}	LOAD_STRING	'I guess he must have sounded as pleased as he did earlier by concluding that there was no backstory to my proposal.'
+
+{0x162D}	LOAD_STRING	'He was probably thinking I didn't expect him to pick Chihiro as my opponent at all.'
+
+{0x163D}	LOAD_STRING	'At this point, I have to pretend to be surprised.'
+
+{0x167F}	LOAD_STRING	'Tatsumi'
+{0x1681}	LOAD_STRING	'Then it's settled. The rules are simple: whoever gets 20 points first wins.'
+
+{0x168F}	LOAD_STRING	'Tatsumi'
+{0x1691}	LOAD_STRING	'Defense and offense don't swap every on every point. You only switch sides when the opponent misses a shot or you get the ball yourself.'
+
+{0x169F}	LOAD_STRING	'Tatsumi'
+{0x16A1}	LOAD_STRING	'We have to follow all of the rules of basketball. All right?'
+
+{0x16AF}	LOAD_STRING	'Nezu'
+{0x16B1}	LOAD_STRING	'@v00900079"Yeah, got it. Let's just do this."'
+
+{0x1726}	LOAD_STRING	'Chihiro'
+{0x1728}	LOAD_STRING	'@v00040292"Tatsumi... Are you sure about this?"'
+
+{0x1738}	LOAD_STRING	'He knows me well enough to know the extent of my abilities, which made him anxious.'
+
+{0x1746}	LOAD_STRING	'Tatsumi'
+{0x1748}	LOAD_STRING	'It's okay. Just like Nezu-senpai said, play your best, Chihiro.'
+
+{0x1752}	LOAD_STRING	'Chihiro'
+{0x1754}	LOAD_STRING	'@v00040293"I don't mind if he blabbers about my time on the team..."'
+
+{0x1762}	LOAD_STRING	'Tatsumi'
+{0x1764}	LOAD_STRING	'Just pretend like you do care about it... For now.'
+
+{0x176E}	LOAD_STRING	'Chihiro'
+{0x1770}	LOAD_STRING	'@v00040294"Yeah, but enough to cut corners so they don't find out."'
+
+{0x177E}	LOAD_STRING	'Tatsumi'
+{0x1780}	LOAD_STRING	'No. You can't give him any reason to doubt your performance later.'
+
+{0x178E}	LOAD_STRING	'Tatsumi'
+{0x1790}	LOAD_STRING	'If you try to throw the game, he'll use that to his advantage. Just play normally.'
+
+{0x179A}	LOAD_STRING	'Chihiro'
+{0x179C}	LOAD_STRING	'@v00040295"...Got it."'
+
+{0x17EA}	LOAD_STRING	'Miki'
+{0x17EC}	LOAD_STRING	'@v00010277"H-hang on! That's crazy!"'
+
+{0x17FA}	LOAD_STRING	'Tatsumi'
+{0x17FC}	LOAD_STRING	'Miki...'
+
+{0x1806}	LOAD_STRING	'Miki'
+{0x1808}	LOAD_STRING	'@v00010278"Are you seriously going up against Chi-kun?!"'
+
+{0x1816}	LOAD_STRING	'Tatsumi'
+{0x1818}	LOAD_STRING	'Yeah.'
+
+{0x1822}	LOAD_STRING	'Miki'
+{0x1824}	LOAD_STRING	'@v00010279"Won't you just end up losing? And then Koto-chan will be..."'
+
+{0x1832}	LOAD_STRING	'Tatsumi'
+{0x1834}	LOAD_STRING	'Don't worry. I'll win.'
+
+{0x183E}	LOAD_STRING	'Miki'
+{0x1840}	LOAD_STRING	'@v00010280"Why does it... Have to come to this..."'
+
+{0x184E}	LOAD_STRING	'Tatsumi'
+{0x1850}	LOAD_STRING	'Now I'm in the zone.'
+
+{0x185A}	LOAD_STRING	'Miki'
+{0x185C}	LOAD_STRING	'@v00010281"..."'
+
+{0x1918}	LOAD_STRING	'Miki's gaze naturally turns to Shiino sitting on the bench.'
+
+{0x1928}	LOAD_STRING	'Anxious, fearful, and faintly hopeful ― a mixture of emotions.'
+
+{0x1936}	LOAD_STRING	'Tatsumi'
+{0x1938}	LOAD_STRING	'Above all... I can't let a girl cry.'
+
+{0x1948}	LOAD_STRING	'As soon as I said that, Shiino's gaze met mine.'
+
+{0x1952}	LOAD_STRING	'Kotone'
+{0x1954}	LOAD_STRING	'@v00030205"Oikawa-senpai..."'
+
+{0x1964}	LOAD_STRING	'I called out to Shiino, who mouthed my name in a quiet voice, trying to sound as calm as possible.'
+
+{0x1972}	LOAD_STRING	'Tatsumi'
+{0x1974}	LOAD_STRING	'Shiino... Check this out.'
+
+{0x197E}	LOAD_STRING	'Kotone'
+{0x1980}	LOAD_STRING	'@v00030206"..."'
+
+{0x1990}	LOAD_STRING	'She might be a stuck-up and tiresome underclassman... But she means a lot to us.'
+
+{0x19A0}	LOAD_STRING	'That's why I don't want to see her cry anymore.'
+
+{0x19FE}	LOAD_STRING	'Tatsumi'
+{0x1A00}	LOAD_STRING	'Well, let's get going...'
+
+{0x1A0A}	LOAD_STRING	'Chihiro'
+{0x1A0C}	LOAD_STRING	'@v00040296"...Yeah."'
+
+{0x1A1C}	LOAD_STRING	'And for the first time, I go up against an opponent I could never beat.'
+
+{0x1B9B}	LOAD_STRING	'Tatsumi'
+{0x1B9D}	LOAD_STRING	'Huff... Huff...'
+
+{0x1BAD}	LOAD_STRING	'This isn't looking good... The gap between Chihiro and my skill levels were beginning to show.'
+
+{0x1BBD}	LOAD_STRING	'The score is already 12-0, showing no signs of letting up.'
+
+{0x1BCD}	LOAD_STRING	'On top of that, the rain is starting to come down harder, making conditions on the court worse.'
+
+{0x1BDB}	LOAD_STRING	'Nezu'
+{0x1BDD}	LOAD_STRING	'@v00900080"Hey, what's the problem? You're not looking so good for someone who was just talking a big game!"'
+
+{0x1BED}	LOAD_STRING	'Nezu-senpai's amused voice echoes.'
+
+{0x1BFD}	LOAD_STRING	'The shit-talk was no longer coming in through the phone, but from the classroom.'
+
+{0x1C0D}	LOAD_STRING	'Like I said earlier, this match isn't the kind where the offense switches with defense on every point.'
+
+{0x1C1D}	LOAD_STRING	'The right to offense is only gained by stealing or missing a shot.'
+
+{0x1C2D}	LOAD_STRING	'So, if Chihiro is feeling amped, it tends to be one-sided like this.'
+
+{0x1C3D}	LOAD_STRING	'But... There's a reason I chose to play by these rules.'
+
+{0x1C4D}	LOAD_STRING	'Finally, Chihiro misses his shot and the game starts with my ball.'
+
+{0x1C5B}	LOAD_STRING	'Tatsumi'
+{0x1C5D}	LOAD_STRING	'Still, I can't let up yet...'
+
+{0x1C9D}	LOAD_STRING	'Muttering to myself, Chihiro looks at me for an opening.'
+
+{0x1CAD}	LOAD_STRING	'I change the rhythm of my dribble and begin to fake him out with my movements and eyes.'
+
+{0x1CB7}	LOAD_STRING	'Chihiro'
+{0x1CB9}	LOAD_STRING	'@v00040297"..."'
+
+{0x1CC9}	LOAD_STRING	'But... Chihiro really is an awesome basketball player.'
+
+{0x1CD9}	LOAD_STRING	'It's true that he was on the basketball team at his old school, and he's even been scouted a few times while playing basketball here during his lunch break.'
+
+{0x1D17}	LOAD_STRING	'Tatsumi'
+{0x1D19}	LOAD_STRING	'...!'
+
+{0x1D29}	LOAD_STRING	'The moment I see him drop his focus, I take him head-on.'
+
+{0x1D39}	LOAD_STRING	'It happens so quickly that I get dizzy.'
+
+{0x1D49}	LOAD_STRING	'I can finally chart a path at a straight shot, with nothing between me and the basket.'
+
+{0x1D87}	LOAD_STRING	'Tatsumi'
+{0x1D89}	LOAD_STRING	'!!'
+
+{0x1D99}	LOAD_STRING	'But the raindrops that are falling are making me lose dexterity in my fingers.'
+
+{0x1DA3}	LOAD_STRING	'Kotone'
+{0x1DA5}	LOAD_STRING	'@v00030207"...!"'
+
+{0x1DB5}	LOAD_STRING	'I could feel Shiino let out an inaudible scream.'
+
+{0x1F84}	LOAD_STRING	'A parabolic ball falls to the ground without hitting the ring.'
+
+{0x1FB6}	LOAD_STRING	'Nezu'
+{0x1FB8}	LOAD_STRING	'@v00900081"Wahahaha! You, when are you gonna score at least one point?"'
+
+{0x1FC8}	LOAD_STRING	'I can hear Nezu-senpai talking shit, as if he's already convinced he's going to win.'
+
+{0x1FD8}	LOAD_STRING	'I'm sure in his perverted mind, he's already plotting out what he's going to do with Shiino... No, what he's going to do TO Shiino.'
+
+{0x1FFE}	LOAD_STRING	'Chihiro'
+{0x2000}	LOAD_STRING	'@v00040298"Tatsumi...!"'
+
+{0x2010}	LOAD_STRING	'Chihiro, with the ball in his hand, says my name in a quiet voice.'
+
+{0x2020}	LOAD_STRING	'He's gonna try and tell me that he can still throw the game inconspicuously.'
+
+{0x2030}	LOAD_STRING	'But, that's not good enough for me.'
+
+{0x203E}	LOAD_STRING	'Tatsumi'
+{0x2040}	LOAD_STRING	'It's all right... I'm almost there.'
+
+{0x2050}	LOAD_STRING	'I can see Chihiro's movement, I'm getting a sense of distance from the goal.'
+
+{0x2060}	LOAD_STRING	'All that's left is to... Fine-tune it.'
+
+{0x206A}	LOAD_STRING	'Chihiro'
+{0x206C}	LOAD_STRING	'@v00040299"But, Tatsumi... No matter how hard you try,@t0250@hCHIHIRO_A102KM3 a three-point in this rain is―!"'
+
+{0x207C}	LOAD_STRING	'I stop him from finishing his sentence.'
+
+{0x208A}	LOAD_STRING	'Tatsumi'
+{0x208C}	LOAD_STRING	'Trust me.'
+
+{0x20B8}	LOAD_STRING	'It's as if I'm talking to myself. But, Chihiro nodded with a serious look.@k'
+
+{0x20D9}	LOAD_STRING	'Tatsumi'
+{0x20DB}	LOAD_STRING	'I think just two fingers will make it happen...'
+
+{0x20EB}	LOAD_STRING	'I muttered, as I made my shot.'
+
+{0x22AC}	LOAD_STRING	'The rain kept coming.'
+
+{0x22BC}	LOAD_STRING	'The moment looped in my head.'
+
+{0x2448}	LOAD_STRING	'But then, something felt different.@k'
+
+{0x2462}	LOAD_STRING	'My vision feels strangely limited. But not in a bad way.'
+
+{0x2472}	LOAD_STRING	'In my vision, I saw Miki and Nakategawa cheering me on, and Shiino with her hands folded in prayer.'
+
+{0x2482}	LOAD_STRING	'But now I can only see Chihiro playing defense and the net.'
+
+{0x2492}	LOAD_STRING	'I can't hear Nezu-senpai's trash-talk, nor the sound of the rain.'
+
+{0x24A2}	LOAD_STRING	'All I can hear is the sound of the ball bouncing and Chihiro's hushed breathing.'
+
+{0x24B0}	LOAD_STRING	'Tatsumi'
+{0x24B2}	LOAD_STRING	'Is this finally gonna...'
+
+{0x24C2}	LOAD_STRING	'There was a strange sense of relief inside me.'
+
+{0x250A}	LOAD_STRING	'Tatsumi'
+{0x250C}	LOAD_STRING	'Let's go...!'
+
+{0x251C}	LOAD_STRING	'The rain... Won't be a problem anymore.'
+
+{0x2718}	LOAD_STRING	'I can clearly feel the friction between my fingers and the ball.'
+
+{0x2728}	LOAD_STRING	'How hard should I bend my wrist?'
+
+{0x2738}	LOAD_STRING	'When should I let it go?'
+
+{0x2748}	LOAD_STRING	'I can feel it all so clearly.'
+
+{0x2758}	LOAD_STRING	'And...'
+
+{0x2B3A}	LOAD_STRING	'I can only hear one, pleasant sound right now.'
+
+{0x2B6E}	LOAD_STRING	'Miki'
+{0x2B70}	LOAD_STRING	'@v00010282"Yes!"'
+
+{0x2B7A}	LOAD_STRING	'Yui'
+{0x2B7C}	LOAD_STRING	'@v00020353"Wow, that's amazing! That's a three-point, wasn't it?"'
+
+{0x2B8C}	LOAD_STRING	'I could begin to hear small, distant cheering.'
+
+{0x2B96}	LOAD_STRING	'Kotone'
+{0x2B98}	LOAD_STRING	'@v00030208"Oikawa-senpai...!"'
+
+{0x2BA8}	LOAD_STRING	'And Shiino's surprised remark.'
+
+{0x2BCE}	LOAD_STRING	'Chihiro'
+{0x2BD0}	LOAD_STRING	'@v00040300"Why do you... Always try that three-point move...?"'
+
+{0x2BDE}	LOAD_STRING	'Tatsumi'
+{0x2BE0}	LOAD_STRING	'I can't win in close-combat with you.'
+
+{0x2BEA}	LOAD_STRING	'Chihiro'
+{0x2BEC}	LOAD_STRING	'@v00040301"But it's still 16-3, can you keep it up?"'
+
+{0x2BFC}	LOAD_STRING	'Chihiro's lips twisted as he said that.'
+
+{0x2C0A}	LOAD_STRING	'Tatsumi'
+{0x2C0C}	LOAD_STRING	'Of course. It's no problem at all.'
+
+{0x2C1C}	LOAD_STRING	'Sorry for bringing it up again, but this match isn't one where the offense and defense switch after each point.'
+
+{0x2C2C}	LOAD_STRING	'I mean...'
+
+{0x2C3A}	LOAD_STRING	'Tatsumi'
+{0x2C3C}	LOAD_STRING	'I just have to make the same shot, six times in a row.'
+
+{0x2C46}	LOAD_STRING	'Chihiro'
+{0x2C48}	LOAD_STRING	'@v00040302"Haha, if you say so."'
+
+{0x2C68}	LOAD_STRING	'In a weird way, it looks like Chihiro is on fire.'
+
+{0x2C78}	LOAD_STRING	'Surely the defense after this will be more caustic than before.'
+
+{0x2C88}	LOAD_STRING	'Still...'
+
+{0x2C96}	LOAD_STRING	'Tatsumi'
+{0x2C98}	LOAD_STRING	'I won't miss.'
+
+{0x2CA8}	LOAD_STRING	'It wasn't a line I said to myself, it was just a conviction I had inside me.'
+
+{0x2D11}	LOAD_STRING	'Kotone'
+{0x2D13}	LOAD_STRING	'@v00030209"...!"'
+
+{0x2D23}	LOAD_STRING	'Shiino...'
+
+{0x2D33}	LOAD_STRING	'I'll help you now.'
+
+{0x3042}	LOAD_STRING	'Nezu'
+{0x3044}	LOAD_STRING	'@v00900082"Cheating! You're cheating!"'
+
+{0x3054}	LOAD_STRING	'I heard an angry voice emerge from the window of the classroom.'
+
+{0x307A}	LOAD_STRING	'Chihiro'
+{0x307C}	LOAD_STRING	'@v00040303"What do you mean?@t0250@hCHIHIRO_A101IK There's nothing I can do, it's not my ball, and three-pointers are Tatsumi's gift."'
+
+{0x309E}	LOAD_STRING	'Chihiro'
+{0x30A0}	LOAD_STRING	'@v00040304"Clear as day, the score is 21-16, a decisive victory for Tatsumi."'
+
+{0x30AE}	LOAD_STRING	'Nezu'
+{0x30B0}	LOAD_STRING	'@v00900083"Gah..."'
+
+{0x30C0}	LOAD_STRING	'Unlike in a normal match, I had the ability to pull off consecutive three-pointers in this game.'
+
+{0x30D0}	LOAD_STRING	'I used three-pointers not as a way to beat Chihiro, but rather to not let Nezu-senpai have anything to complain about.'
+
+{0x30DA}	LOAD_STRING	'Chihiro'
+{0x30DC}	LOAD_STRING	'@v00040305"Or what, are you saying that the ball and goal are secretly connected by a fishing line?"'
+
+{0x30EA}	LOAD_STRING	'Tatsumi'
+{0x30EC}	LOAD_STRING	'At least your senior friends who were watching with you will be convinced, right?'
+
+{0x32B3}	LOAD_STRING	'I guess they wanted the juniors who crossed them to be miserable.'
+
+{0x32C3}	LOAD_STRING	'Nezu-senpai was nice enough to not only invite all the underclassmen girls he was talking with,'
+
+{0x32D3}	LOAD_STRING	'but also all of his acquaintances from all grades, to watch the game with him.'
+
+{0x32E3}	LOAD_STRING	'And it looks like someone from every class also showed up.'
+
+{0x32F3}	LOAD_STRING	'Apparently, there was quite the audience forming, and we didn't even notice it.'
+
+{0x3303}	LOAD_STRING	'A lot of witnesses, so everyone could see if we were cheating or not.'
+
+{0x3313}	LOAD_STRING	'I think I don't need to say any more about it.'
+
+{0x3321}	LOAD_STRING	'Nezu'
+{0x3323}	LOAD_STRING	'@v00900084"You... assholes..."'
+
+{0x3331}	LOAD_STRING	'Tatsumi'
+{0x3333}	LOAD_STRING	'I win this match. Now you'll keep your promise, senpai.'
+
+{0x338D}	LOAD_STRING	'Chihiro'
+{0x338F}	LOAD_STRING	'@v00040306"See you, senpai."'
+
+{0x339F}	LOAD_STRING	'After saying that, Chihiro and I took our gazes away from Nezu-senpai, who was gritting his teeth in the classroom building.'
+
+{0x33AF}	LOAD_STRING	'It's like he's saying, 'I'll never let you out of my sight again.''
+
+{0x341D}	LOAD_STRING	'Miki'
+{0x341F}	LOAD_STRING	'@v00010283"Tak-kun! That's my best friend!"@k'
+
+{0x3467}	LOAD_STRING	'Tatsumi'
+{0x3469}	LOAD_STRING	'I-I― Oh, Miki! You're right!'
+
+{0x3479}	LOAD_STRING	'I'm blushing from the high praise given to me by my childhood friend.'
+
+{0x34A8}	LOAD_STRING	'Yui'
+{0x34AA}	LOAD_STRING	'@v00020354"So cool, so awesome, so amazing!@t0250@hYUI_A101EG3 Tatsumi-san, you had a plan all along, and Nezu-senpai can't accuse you of cheating!"@k'
+
+{0x34C5}	LOAD_STRING	'Tatsumi'
+{0x34C7}	LOAD_STRING	'...Yeah, I guess so, huh?'
+
+{0x34D7}	LOAD_STRING	'I wish I could say something to make me look cool right now.'
+
+{0x36B4}	LOAD_STRING	'Kotone'
+{0x36B6}	LOAD_STRING	'@v00030210"U-um... Oikawa-senpai..."'
+
+{0x36C6}	LOAD_STRING	'And the last person who approached me was Shiino.'
+
+{0x36D4}	LOAD_STRING	'Tatsumi'
+{0x36D6}	LOAD_STRING	'Oh, sorry. Did I make you cringe?'
+
+{0x36E6}	LOAD_STRING	'I don't envy her position in this situation, after all.'
+
+{0x36F0}	LOAD_STRING	'Kotone'
+{0x36F2}	LOAD_STRING	'@v00030211"That's... Not true."'
+
+{0x3700}	LOAD_STRING	'Tatsumi'
+{0x3702}	LOAD_STRING	'Well, this should be the end of Nezu-senpai's tyranny.'
+
+{0x3712}	LOAD_STRING	'After all, he was just humiliated in front of a huge crowd. He can't make a wrong move now.'
+
+{0x3722}	LOAD_STRING	'Actually... I guess he could, but it would be much easier to deal with it now.'
+
+{0x372C}	LOAD_STRING	'Kotone'
+{0x372E}	LOAD_STRING	'@v00030212"Y-yeah..."@k'
+
+{0x3759}	LOAD_STRING	'But Shiino's voice lacks its usual vivacity.'
+
+{0x3769}	LOAD_STRING	'Is she still worried about something?'
+
+{0x3773}	LOAD_STRING	'Kotone'
+{0x3775}	LOAD_STRING	'@v00030213"U-um... Oikawa-senpai..."'
+
+{0x3783}	LOAD_STRING	'Tatsumi'
+{0x3785}	LOAD_STRING	'Hmm? What's up?'
+
+{0x3795}	LOAD_STRING	'To my question, Shiino takes a deep breath and then...'
+
+{0x379F}	LOAD_STRING	'Kotone'
+{0x37A1}	LOAD_STRING	'@v00030214"Thank you... So much..."'
+
+{0x37D5}	LOAD_STRING	'She bows deeply and tearfully.'
+
+{0x3867}	LOAD_STRING	'Afternoon classes were uncomfortable with wet uniforms stuck to our bodies, but we got through it by borrowing towels.'
+
+{0x3877}	LOAD_STRING	'I hope no one catches a cold...'
+
+{0x3887}	LOAD_STRING	'And after school, I was called in by the life guidance teacher who made a reluctant face.'
+
+{0x38C1}	LOAD_STRING	'Maruyama'
+{0x38C3}	LOAD_STRING	'@v00900085"...Well, now I understand what all the commotion was about."'
+
+{0x38D3}	LOAD_STRING	'More than I expected, it seems that the lunchtime incident spread throughout the school and became some sort of big event.'
+
+{0x38E3}	LOAD_STRING	'I was called in to explain myself as the source of it all.'
+
+{0x38F1}	LOAD_STRING	'Maruyama'
+{0x38F3}	LOAD_STRING	'@v00900086"But... Nezu said something like that to an underclassman..."'
+
+{0x392F}	LOAD_STRING	'When I told him what happened during lunch break, the life guidance teacher scratched his head, his chiseled face contorted.'
+
+{0x393F}	LOAD_STRING	'I told him the truth of it.'
+
+{0x394F}	LOAD_STRING	'Of course, I don't have any good feelings about Nezu-senpai, but I was careful not to get emotional.'
+
+{0x395F}	LOAD_STRING	'A calm report is more effective in such a case.'
+
+{0x3999}	LOAD_STRING	'Maruyama'
+{0x399B}	LOAD_STRING	'@v00900087"I've heard from people other than you kids about this Nezu guy..."'
+
+{0x39A9}	LOAD_STRING	'Maruyama'
+{0x39AB}	LOAD_STRING	'@v00900088"We will now investigate carefully and take appropriate action.@t0550 Sorry about the trouble."'
+
+{0x39B9}	LOAD_STRING	'Tatsumi'
+{0x39BB}	LOAD_STRING	'Not at all, thank you.'
+
+{0x39CB}	LOAD_STRING	'There is no one more trustworthy in the school than this teacher.'
+
+{0x39DB}	LOAD_STRING	'The fact that Kurigaoka has a relatively free, healthy school culture is largely due to the efforts of this man.'
+
+{0x39E9}	LOAD_STRING	'Maruyama'
+{0x39EB}	LOAD_STRING	'@v00900089"...By the way, Sakaki isn't involved in this, is he?"'
+
+{0x39F9}	LOAD_STRING	'Tatsumi'
+{0x39FB}	LOAD_STRING	'He was roped in against his will. This all began as a problem Nezu-senpai had with me and Shiino.'
+
+{0x3A09}	LOAD_STRING	'Maruyama'
+{0x3A0B}	LOAD_STRING	'@v00900090"That's fine, but..."'
+
+{0x3A1B}	LOAD_STRING	'After saying this, he has difficulty admitting something.'
+
+{0x3A29}	LOAD_STRING	'Maruyama'
+{0x3A2B}	LOAD_STRING	'@v00900091"I've overheard things about Sakaki's days at Hoyanan, too.@t0750 I was just curious."'
+
+{0x3AA9}	LOAD_STRING	'The moment I hear that, I have a flashback of us in the past.'
+
+{0x3B21}	LOAD_STRING	'Tatsumi'
+{0x3B23}	LOAD_STRING	'I don't think you have to worry about that.'
+
+{0x3B33}	LOAD_STRING	'I close my eyes to try to get rid of the mental imagery.'
+
+{0x3B41}	LOAD_STRING	'Maruyama'
+{0x3B43}	LOAD_STRING	'@v00900092"Well, I hear Sakaki has become much more rounded thanks to you, Oikawa."'
+
+{0x3B51}	LOAD_STRING	'Maruyama'
+{0x3B53}	LOAD_STRING	'@v00900093"Your grades aren't bad, and you're doing well in the broadcasting club, so I trust you there."'
+
+{0x3B63}	LOAD_STRING	'Maybe the teacher meant it as a compliment to me, but...'
+
+{0x3B71}	LOAD_STRING	'Tatsumi'
+{0x3B73}	LOAD_STRING	'If anything... It's Chihiro that helps me out.'
+
+{0x3B83}	LOAD_STRING	'That's all I could think to say.'
+
+{0x3C58}	LOAD_STRING	'Kotone'
+{0x3C5A}	LOAD_STRING	'@v00030215 Sigh...'
+
+{0x3C6A}	LOAD_STRING	'I sat up in bed and took a small breath alone.'
+
+{0x3C7A}	LOAD_STRING	'A few days have passed since that day... Oikawa-senpai won the game against Nezu-senpai.'
+
+{0x3C84}	LOAD_STRING	'Kotone'
+{0x3C86}	LOAD_STRING	'@v00030216 It might be bad to say I'm looking over my shoulder, but...'
+
+{0x3C96}	LOAD_STRING	'The days have been so uneventful that it's almost anticlimactic.'
+
+{0x3CA6}	LOAD_STRING	'I don't see the seniors laughing or grinning anymore.'
+
+{0x3CB0}	LOAD_STRING	'Kotone'
+{0x3CB2}	LOAD_STRING	'@v00030217 When your reputation crumbles, they say your world turns upside-down...'
+
+{0x3CC2}	LOAD_STRING	'Nezu-senpai is in a tight spot right now.'
+
+{0x3CD2}	LOAD_STRING	'He is basically under house arrest until the academy's investigation is complete. No matter how light the punishment is, he won't be able to avoid suspension for the rest of the semester.'
+
+{0x3CE2}	LOAD_STRING	'No, of course you won't get any sympathy.'
+
+{0x3CEC}	LOAD_STRING	'Kotone'
+{0x3CEE}	LOAD_STRING	'@v00030218 Finding a way out of trouble would be like finding a needle in a haystack...'
+
+{0x3CFE}	LOAD_STRING	'The whole thing led to everyone finding out about Nezu-senpai's evil ways.'
+
+{0x3D0E}	LOAD_STRING	'The girls in the first and second years who were actually affected also began to speak out, and he was verbally accused.'
+
+{0x3D1E}	LOAD_STRING	'His old cronies are pretending to never have been close with him.'
+
+{0x3D2E}	LOAD_STRING	'Even if he could return to the school from the second semester, would there really be a place left for him?'
+
+{0x3D38}	LOAD_STRING	'Kotone'
+{0x3D3A}	LOAD_STRING	'@v00030219 Well, Nezu-senpai... Doesn't matter right now...'
+
+{0x3D4A}	LOAD_STRING	'Right... I'm in trouble now.'
+
+{0x3D9C}	LOAD_STRING	'Kotone'
+{0x3D9E}	LOAD_STRING	'@v00030220 Oikawa-senpai...'
+
+{0x3F3B}	LOAD_STRING	'Behind my eyelids, the scene of that day is still visible.'
+
+{0x3F4B}	LOAD_STRING	'In the downpour, almost like magic, ball after ball was sucked into the ring.'
+
+{0x3F5B}	LOAD_STRING	'This isn't fiction.'
+
+{0x3F6B}	LOAD_STRING	'That's what he did for me... To free me from Nezu-senpai.'
+
+{0x3F7B}	LOAD_STRING	'Usually, he's just a boring guy... But his longshot is so impressive...'
+
+{0x3F8B}	LOAD_STRING	'Just thinking about it makes my heart skip a beat.'
+
+{0x404F}	LOAD_STRING	'Kotone'
+{0x4051}	LOAD_STRING	'@v00030221"If I don't do this, it'll be over..."'
+
+{0x4061}	LOAD_STRING	'The words that stopped me.'
+
+{0x4071}	LOAD_STRING	'The hand that held mine was stronger than I thought.'
+
+{0x4081}	LOAD_STRING	'I've treated you like such a jerk, and yet, when you look at me, your eyes are so kind.'
+
+{0x4091}	LOAD_STRING	'You could have just chalked it up to my crappy attitude and left me...'
+
+{0x40D5}	LOAD_STRING	'Kotone'
+{0x40D7}	LOAD_STRING	'@v00030222 No, no... It's not like that. I respect him as I would any senior.'
+
+{0x41A3}	LOAD_STRING	'I say that, but I know how I really feel.'
+
+{0x41B3}	LOAD_STRING	'Since that day, I've been unconsciously following Oikawa-senpai with my eyes.'
+
+{0x41C3}	LOAD_STRING	'And every time I look at his profile, a sweet pain wells up inside my chest.'
+
+{0x41CD}	LOAD_STRING	'Kotone'
+{0x41CF}	LOAD_STRING	'@v00030223 ...@t0250@hKOTONE_U302TR I don't understand...'
+
+{0x41DF}	LOAD_STRING	'Such a blurry, unfamiliar feeling...'
+
+{0x41EF}	LOAD_STRING	'I'm sure it's not like that.'
+
+{0x41FF}	LOAD_STRING	'It's not like that... it shouldn't be.'
+
+{0x4251}	LOAD_STRING	'Kotone'
+{0x4253}	LOAD_STRING	'@v00030224 Sigh... I'm going to take a bath and go to bed.'
+
+{0x4263}	LOAD_STRING	'The moment I said that...'
+
+{0x427B}	LOAD_STRING	'Kotone'
+{0x427D}	LOAD_STRING	'@v00030225 ?!'
+
+{0x428D}	LOAD_STRING	'The moment I heard the message beep, the face that came to mind was Oikawa-senpai's...'
+
+{0x429D}	LOAD_STRING	'But the name the message displayed showed...'
+
+{0x42A7}	LOAD_STRING	'Kotone'
+{0x42A9}	LOAD_STRING	'@v00030226"Mayu?"'
+
+{0x42D1}	SPECIAL_TEXT	0x0	'"Kotone, I'm so sorry"'
+
+{0x42F7}	LOAD_STRING	'Mayu(Message)'
+{0x42FB}	LOAD_CUSTOM_TEXT	0x1	'"Kotone, I'm so sorry"'
+
+{0x4392}	SPECIAL_TEXT	0x1	'"I didn't know about Nezu-senpai  "'
+
+{0x43B8}	LOAD_STRING	'Mayu(Message)'
+{0x43BC}	LOAD_CUSTOM_TEXT	0x1	'"I didn't know about Nezu-senpai"'
+
+{0x4453}	SPECIAL_TEXT	0x2	'"Everyone's falling apart  @nand idk what to do"'
+
+{0x4479}	LOAD_STRING	'Mayu(Message)'
+{0x447D}	LOAD_CUSTOM_TEXT	0x1	'"Everyone's falling apart@nand idk what to do"'
+
+{0x4526}	LOAD_STRING	'The name of a classmate who crossed me, and a sentence so weak that I couldn't imagine her in her normal state.'
+
+{0x4536}	LOAD_STRING	'What does she want now? Does she think she can have it all?'
+
+{0x4546}	LOAD_STRING	'Getting close to Nezu-senpai and falling out with me were all Mayu's choices.'
+
+{0x4556}	LOAD_STRING	'Nezu-senpai's fall from grace and my situation is a result of that.'
+
+{0x4576}	SPECIAL_TEXT	0x3	'"Mayu, you're not bad"'
+
+{0x459C}	LOAD_STRING	'Kotone(Message)'
+{0x45A0}	LOAD_CUSTOM_TEXT	0x1	'"Mayu, you're not bad"'
+
+{0x4637}	SPECIAL_TEXT	0x4	'"I'm sorry about that too"'
+
+{0x465D}	LOAD_STRING	'Kotone(Message)'
+{0x4661}	LOAD_CUSTOM_TEXT	0x1	'"I'm sorry about that too"'
+
+{0x470A}	LOAD_STRING	'But my fingers... Were typing all on their own.'
+
+{0x470E}	SPECIAL_TEXT	0x5	'"Kotone, please come back, we miss you   "'
+
+{0x4734}	LOAD_STRING	'Mayu(Message)'
+{0x4738}	LOAD_CUSTOM_TEXT	0x1	'"Kotone, please come back, we miss you"'
+
+{0x47E1}	LOAD_STRING	'Maybe she meant this, too.'
+
+{0x47F1}	LOAD_STRING	'I don't see why I can't go with Mayu. I'm feeling enough confidence to do so.'
+
+{0x4801}	LOAD_STRING	'I also have a childish thought that... I might be able to return to the hot girl group I've always wanted to be a part of.'
+
+{0x4811}	LOAD_STRING	'But...'
+
+{0x4831}	SPECIAL_TEXT	0x6	'"Sorry, I can't go back yet"'
+
+{0x4857}	LOAD_STRING	'Kotone(Message)'
+{0x485B}	LOAD_CUSTOM_TEXT	0x1	'"Sorry, I can't go back yet"'
+
+{0x48F2}	SPECIAL_TEXT	0x7	'"At least not until the end of summer  "'
+
+{0x4918}	LOAD_STRING	'Kotone(Message)'
+{0x491C}	LOAD_CUSTOM_TEXT	0x1	'"At least not until the end of summer"'
+
+{0x49C5}	LOAD_STRING	'...'
+
+{0x49D3}	LOAD_STRING	'Kotone'
+{0x49D5}	LOAD_STRING	'@v00030227(Honestly... I'm not ready.)'
+
+{0x49DF}	LOAD_STRING	'Kotone'
+{0x49E1}	LOAD_STRING	'@v00030228(I was just casually looking out the classroom window at lunchtime in that space.)'
+
+{0x49EB}	LOAD_STRING	'Kotone'
+{0x49ED}	LOAD_STRING	'@v00030229(That space that was created by nosy seniors who unexpectedly drifted away.)'
+
+{0x4A11}	SPECIAL_TEXT	0x8	'"Yeah... I'll wait"'
+
+{0x4A37}	LOAD_STRING	'Mayu(Message)'
+{0x4A3B}	LOAD_CUSTOM_TEXT	0x1	'"Yeah... I'll wait"'
+
+{0x4AD2}	SPECIAL_TEXT	0x9	'"I'll be waiting for you, Kotone, ok?  "'
+
+{0x4AF8}	LOAD_STRING	'Mayu(Message)'
+{0x4AFC}	LOAD_CUSTOM_TEXT	0x1	'"I'll be waiting for you, Kotone, ok?"'
+
+{0x4BA5}	LOAD_STRING	'I throw my phone on the bed without replying to that message.'
+
+{0x4C09}	LOAD_STRING	'Kotone'
+{0x4C0B}	LOAD_STRING	'@v00030230 Yeah...@t0250@hKOTONE_U302HE At least til the end of summer.'
+
+{0x4C15}	LOAD_STRING	'Kotone'
+{0x4C17}	LOAD_STRING	'@v00030231(Surely by then, I'll know the name... Of the emotion I feel in my chest.)'

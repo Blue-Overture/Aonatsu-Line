@@ -1,0 +1,442 @@
+{0x0063}	LOAD_STRING	'Miki'
+{0x0065}	LOAD_STRING	'@v00010085"So... Nakategawa-san isn't confessing to Tak-kun?"'
+
+{0x006F}	LOAD_STRING	'Yui'
+{0x0071}	LOAD_STRING	'@v00020098"Right. I'd like to join you in your summer vacation."'
+
+{0x007B}	LOAD_STRING	'Miki'
+{0x007D}	LOAD_STRING	'@v00010086"I see now..."'
+
+{0x0087}	LOAD_STRING	'Chihiro'
+{0x0089}	LOAD_STRING	'@v00040066"..."'
+
+{0x0099}	LOAD_STRING	'Miki nods in agreement, while Chihiro sits next to her, silently drinking his iced coffee.'
+
+{0x0147}	LOAD_STRING	'We came here, to Mico, an old-fashioned family diner run by Miki's parents.'
+
+{0x0157}	LOAD_STRING	'It's a popular place to get a good specialty coffee with a view of the ocean.'
+
+{0x0167}	LOAD_STRING	'Miki works here as a signboard girl, and if they are short-staffed, I'll step in and lend a hand.'
+
+{0x0177}	LOAD_STRING	'The pay rate usually varies from a cup of coffee, all the way to a fixed wage for the day.'
+
+{0x01DB}	LOAD_STRING	'Yui'
+{0x01DD}	LOAD_STRING	'@v00020099"I understand how much this vacation means to you, but I really was looking forward to joining you..."'
+
+{0x022B}	LOAD_STRING	'Miki'
+{0x022D}	LOAD_STRING	'@v00010087"Well, it is important, that's true."'
+
+{0x0237}	LOAD_STRING	'Miki'
+{0x0239}	LOAD_STRING	'@v00010088"Next year, I'll be busy with an entrance exam, so I want to enjoy this summer to the fullest!"'
+
+{0x0243}	LOAD_STRING	'Chihiro'
+{0x0245}	LOAD_STRING	'@v00040067"...We've been planning this since spring."'
+
+{0x0255}	LOAD_STRING	'Chihiro finally speaks up, albeit in an unusally quiet tone.'
+
+{0x025F}	LOAD_STRING	'Miki'
+{0x0261}	LOAD_STRING	'@v00010089"Huh? Are you against it, Chi-kun? It might be more lively with more members."'
+
+{0x0287}	LOAD_STRING	'Chihiro'
+{0x0289}	LOAD_STRING	'@v00040068"I'm not against the idea."'
+
+{0x02C5}	LOAD_STRING	'There was no rule saying it HAD to be limited to the three of us.'
+
+{0x02D5}	LOAD_STRING	'We really just agreed that we should all get together and do something during the summer.'
+
+{0x02E5}	LOAD_STRING	'Yui can join the band, or join us in the shirasudon challenge, or whatever else.'
+
+{0x02F5}	LOAD_STRING	'There is no rule saying that Nakategawa-san isn't allowed to join us.'
+
+{0x034F}	LOAD_STRING	'Chihiro'
+{0x0351}	LOAD_STRING	'@v00040069"I heard you transferred from Shichiyou Academy."'
+
+{0x0377}	LOAD_STRING	'Yui'
+{0x0379}	LOAD_STRING	'@v00020100"Y-yes!@t0130@hYUI_U201AS Eheh... How is all this information getting around?"'
+
+{0x0383}	LOAD_STRING	'Miki'
+{0x0385}	LOAD_STRING	'@v00010090"I just can't believe you transferred all the way to our school. You're so aggressive... I mean, reckless, Nakategawa-san..."'
+
+{0x038F}	LOAD_STRING	'Yui'
+{0x0391}	LOAD_STRING	'@v00020101"My parents say the same thing..."'
+
+{0x039B}	LOAD_STRING	'Miki'
+{0x039D}	LOAD_STRING	'@v00010091"Oh, don't worry. They say a girl should be reckless!"'
+
+{0x03AB}	LOAD_STRING	'Tatsumi'
+{0x03AD}	LOAD_STRING	'I've never heard that before... Who says that?'
+
+{0x03BB}	LOAD_STRING	'Miki's Father'
+{0x03BD}	LOAD_STRING	'@v00900025"I do..."'
+
+{0x0435}	LOAD_STRING	'I look towards the deep voice that just spoke.'
+
+{0x0443}	LOAD_STRING	'Tatsumi'
+{0x0445}	LOAD_STRING	'Oh, thank you.'
+
+{0x0455}	LOAD_STRING	'A stern-looking man looks at you with a blank expression.'
+
+{0x0465}	LOAD_STRING	'His daughter, Miki, says, "He looks like he kills people on the job."'
+
+{0x0475}	LOAD_STRING	'Nah, he's quiet and unassuming, but he's actually a nice guy.'
+
+{0x04CF}	LOAD_STRING	'Chihiro'
+{0x04D1}	LOAD_STRING	'@v00040070"If your dad says so, then it's true. Women should be reckless!"'
+
+{0x04E1}	LOAD_STRING	'Chihiro respects Miki's father, so whatever he says is an affirmation to him.'
+
+{0x04F1}	LOAD_STRING	'Well, he is also Chihiro's surfing instructor, so maybe its only natural.'
+
+{0x0503}	LOAD_STRING	'Chihiro'
+{0x0505}	LOAD_STRING	'@v00040071"So, reckless young lady..."'
+
+{0x0557}	LOAD_STRING	'Yui'
+{0x0559}	LOAD_STRING	'@v00020102"Ah, yes!"'
+
+{0x0563}	LOAD_STRING	'Chihiro'
+{0x0565}	LOAD_STRING	'@v00040072"Why did you transfer here? Wasn't it fun over there?"'
+
+{0x056F}	LOAD_STRING	'Yui'
+{0x0571}	LOAD_STRING	'@v00020103"Well, yes..."'
+
+{0x0581}	LOAD_STRING	'Nakategawa-san shifted her view, and looked outside the window to the seascape.'
+
+{0x0599}	LOAD_STRING	'Yui'
+{0x059B}	LOAD_STRING	'@v00020104"I had many friends at Shichiyou Academy."'
+
+{0x05A5}	LOAD_STRING	'Yui'
+{0x05A7}	LOAD_STRING	'@v00020105"We worked hard on our studies and club activities, had a fulfilling sports festival and cultural festival, accomplished many things, and laughed and cried together."'
+
+{0x05B1}	LOAD_STRING	'Yui'
+{0x05B3}	LOAD_STRING	'@v00020106"For me, it was a form of youth."'
+
+{0x05BD}	LOAD_STRING	'Miki'
+{0x05BF}	LOAD_STRING	'@v00010092"Youth..."'
+
+{0x0643}	LOAD_STRING	'Miki started to follow Nakategawa's gaze.'
+
+{0x0653}	LOAD_STRING	'Youth.'
+
+{0x0663}	LOAD_STRING	'Even we, who are supposedly in the middle of it, don't usually say that word.'
+
+{0x0673}	LOAD_STRING	'But Nakategawa-san said it so romantically.'
+
+{0x06C5}	LOAD_STRING	'Yui'
+{0x06C7}	LOAD_STRING	'@v00020107"But at the same time, I felt as though something was different."'
+
+{0x06D1}	LOAD_STRING	'Yui'
+{0x06D3}	LOAD_STRING	'@v00020108"I felt like I was in a controlled environment, like a box garden. All my friends were girls, and we were made to 'Behave like an impeccable student of Shichiyou Academy.'"'
+
+{0x06DD}	LOAD_STRING	'Miki'
+{0x06DF}	LOAD_STRING	'@v00010093"But it would be cool to join an all-girl's school, wouldn't you agree?"'
+
+{0x06ED}	LOAD_STRING	'Tatsumi'
+{0x06EF}	LOAD_STRING	'Miki would be very popular if she joined Shichiyou.'
+
+{0x06F9}	LOAD_STRING	'Miki'
+{0x06FB}	LOAD_STRING	'@v00010094"Really? Should I give it some thought?"'
+
+{0x0705}	LOAD_STRING	'Chihiro'
+{0x0707}	LOAD_STRING	'@v00040073"Pay attention."'
+
+{0x0711}	LOAD_STRING	'Yui'
+{0x0713}	LOAD_STRING	'@v00020109"I thought, 'Is this the way my youth should be? Isn't there a different way to experience it?'"'
+
+{0x071D}	LOAD_STRING	'Yui'
+{0x071F}	LOAD_STRING	'@v00020110"Of course, I won't deny that I had a good life and friends at Shichiyo Academy."'
+
+{0x0769}	LOAD_STRING	'Yui'
+{0x076B}	LOAD_STRING	'@v00020111"But, I wanted to jump out of that box garden right away."'
+
+{0x07C6}	LOAD_STRING	'My eyes met Nakategawa's and I looked away instinctively.'
+
+{0x0820}	LOAD_STRING	'Miki'
+{0x0822}	LOAD_STRING	'@v00010095"I see, so you wanted a boy friend!"'
+
+{0x0830}	LOAD_STRING	'Tatsumi'
+{0x0832}	LOAD_STRING	'You're jumping to conclusions!'
+
+{0x0858}	LOAD_STRING	'Chihiro'
+{0x085A}	LOAD_STRING	'@v00040074"Miki, don't be ridiculous."'
+
+{0x086A}	LOAD_STRING	'Chihiro signaled to me and Miki with his eyes, "She's being serious."'
+
+{0x0874}	LOAD_STRING	'Miki'
+{0x0876}	LOAD_STRING	'@v00010096"Sorry..."'
+
+{0x08AC}	LOAD_STRING	'Yui'
+{0x08AE}	LOAD_STRING	'@v00020112"Eheheh... Well, there is truth in that, actually.@t0450@hYUI_U201BS Isn't it unhealthy to not be exposed to boys until you grow up?"'
+
+{0x08B8}	LOAD_STRING	'Miki'
+{0x08BA}	LOAD_STRING	'@v00010097"Yeah, but co-ed schools are a pain in the butt too, you know?"'
+
+{0x08CA}	LOAD_STRING	'I think Miki went though some trouble when she first came to Kurigaoka.'
+
+{0x08DA}	LOAD_STRING	'Chihiro kept a close eye on her, so thankfully nothing serious got to her.'
+
+{0x08E4}	LOAD_STRING	'Yui'
+{0x08E6}	LOAD_STRING	'@v00020113"I came here knowing the risks, and..."' 
+
+{0x08F4}	LOAD_STRING	'Tatsumi'
+{0x08F6}	LOAD_STRING	'What?'
+
+{0x0900}	LOAD_STRING	'Yui'
+{0x0902}	LOAD_STRING	'@v00020114"It was none other than Tatsumi-san who gave me the courage to step outside of the box garden... I mean, it was all of you, really!"'
+
+{0x0938}	LOAD_STRING	'Chihiro'
+{0x093A}	LOAD_STRING	'@v00040075"Huh?!"'
+
+{0x0960}	LOAD_STRING	'Miki'
+{0x0962}	LOAD_STRING	'@v00010098"What does that mean?"'
+
+{0x09AC}	LOAD_STRING	'...'
+
+{0x0A4E}	LOAD_STRING	'Tatsumi & Miki & Chihiro'
+{0x0A50}	LOAD_STRING	'@v00090901@s0005"Whaaaaaaaaat?!"@k'
+
+{0x0AB8}	LOAD_STRING	'Miki's Father'
+{0x0ABA}	LOAD_STRING	'@v00900026"Ahem..."'
+
+{0x0AC4}	LOAD_STRING	'Chihiro'
+{0x0AC6}	LOAD_STRING	'@v00040077"Oh, excuse me!"'
+
+{0x0AD4}	LOAD_STRING	'Tatsumi'
+{0x0AD6}	LOAD_STRING	'Excuse me...'
+
+{0x0AE6}	LOAD_STRING	'There are other customers here. We need to keep our voices down.'
+
+{0x0B40}	LOAD_STRING	'Miki'
+{0x0B42}	LOAD_STRING	'@v00010100"...You're not lying, are you?"'
+
+{0x0B4C}	LOAD_STRING	'Yui'
+{0x0B4E}	LOAD_STRING	'@v00020115"Right. I met you all about six months ago."'
+
+{0x0B74}	LOAD_STRING	'Chihiro'
+{0x0B76}	LOAD_STRING	'@v00040078"When and where?!"'
+
+{0x0B80}	LOAD_STRING	'Yui'
+{0x0B82}	LOAD_STRING	'@v00020116"Hehe, let's keep that a secret for now. You all looked really nice at the time."'
+
+{0x0BA8}	LOAD_STRING	'Yui'
+{0x0BAA}	LOAD_STRING	'@v00020117"Especially Tatsumi-san, for being so nice to me..."'
+
+{0x0BB8}	LOAD_STRING	'Tatsumi'
+{0x0BBA}	LOAD_STRING	'@s0005Me?!@k'
+
+{0x0C36}	LOAD_STRING	'Miki'
+{0x0C38}	LOAD_STRING	'@v00010101"Tak-kun, don't you remember?"'
+
+{0x0C46}	LOAD_STRING	'Tatsumi'
+{0x0C48}	LOAD_STRING	'...I don't, unfortunately...'
+
+{0x0C6E}	LOAD_STRING	'Chihiro'
+{0x0C70}	LOAD_STRING	'@v00040079"I knew it, you fell for Tatsumi's kindness."'
+
+{0x0C7E}	LOAD_STRING	'Tatsumi'
+{0x0C80}	LOAD_STRING	'Don't talk like that.'
+
+{0x0C90}	LOAD_STRING	'Chihiro and Miki often refer to me that way.'
+
+{0x0CA0}	LOAD_STRING	'I don't really do anything that noteworthy...'
+
+{0x0CFA}	LOAD_STRING	'Yui'
+{0x0CFC}	LOAD_STRING	'@v00020118"Tatsumi-san, you didn't notice me at all when I transferred to your school. I was a little hurt, but..."'
+
+{0x0D0A}	LOAD_STRING	'Tatsumi'
+{0x0D0C}	LOAD_STRING	'Oh... Sorry.'
+
+{0x0D16}	LOAD_STRING	'Yui'
+{0x0D18}	LOAD_STRING	'@v00020119"I was the only one who was thrilled. I won't forgive you anymore until you remember, okay?"'
+
+{0x0D26}	LOAD_STRING	'Tatsumi'
+{0x0D28}	LOAD_STRING	'Gulp...'
+
+{0x0D32}	LOAD_STRING	'Yui'
+{0x0D34}	LOAD_STRING	'@v00020120"Hehe, I'm only half-kidding."'
+
+{0x0D42}	LOAD_STRING	'Tatsumi'
+{0x0D44}	LOAD_STRING	'Half...?'
+
+{0x0D4E}	LOAD_STRING	'Yui'
+{0x0D50}	LOAD_STRING	'@v00020121"...Well, meeting you all pushed me to do this. I hope to make my youth come true, with all of you, if I can."'
+
+{0x0D5A}	LOAD_STRING	'Miki'
+{0x0D5C}	LOAD_STRING	'@v00010102"Is this something you can't do... without us?"'
+
+{0x0D66}	LOAD_STRING	'Yui'
+{0x0D68}	LOAD_STRING	'@v00020122"Right. My sixth sense tells me so!"'
+
+{0x0D72}	LOAD_STRING	'Yui'
+{0x0D74}	LOAD_STRING	'@v00020123"Please... can't you indulge me?"'
+
+{0x0D7E}	LOAD_STRING	'Yui'
+{0x0D80}	LOAD_STRING	'@v00020124"If you let me join you in your summer plans, I'll find a way to repay the favor."'
+
+{0x0DB8}	LOAD_STRING	'After saying this, Nakategawa-san bowed her head graciously.'
+
+{0x0E12}	LOAD_STRING	'Chihiro'
+{0x0E14}	LOAD_STRING	'@v00040080"I feel like you're acting selfishly..."'
+
+{0x0E24}	LOAD_STRING	'Miki, Chihiro and I have been hit by her serious energy.'
+
+{0x0E2E}	LOAD_STRING	'Miki'
+{0x0E30}	LOAD_STRING	'@v00010103"Wow, that's amazing, Nakategawa-san. You really chased after Tak-kun all the way here!"'
+
+{0x0E42}	LOAD_STRING	'Chihiro'
+{0x0E44}	LOAD_STRING	'@v00040081"..."'
+
+{0x0E54}	LOAD_STRING	'Chihiro looks at me, as if asking for help.'
+
+{0x0EA7}	LOAD_STRING	'Then he looks at Miki's dad, scratching his head.'
+
+{0x0EB5}	LOAD_STRING	'Miki's Father'
+{0x0EB7}	LOAD_STRING	'@v00900027"..."'
+
+{0x0F11}	LOAD_STRING	'Chihiro'
+{0x0F13}	LOAD_STRING	'@v00040082"Well, if you put it that way, I have to hand it to you."'
+
+{0x0F23}	LOAD_STRING	'Nakategawa-san's wish resonated through me.'
+
+{0x0F33}	LOAD_STRING	'Or rather, it feels like it did in my former self.'
+
+{0x0F3D}	LOAD_STRING	'Yui'
+{0x0F3F}	LOAD_STRING	'@v00020125"Ah, well..."'
+
+{0x0F57}	LOAD_STRING	'Chihiro'
+{0x0F59}	LOAD_STRING	'@v00040083"You have a phone, right?"'
+
+{0x0F7F}	LOAD_STRING	'Yui'
+{0x0F81}	LOAD_STRING	'@v00020126"Y-yes!"'
+
+{0x0F8B}	LOAD_STRING	'Chihiro'
+{0x0F8D}	LOAD_STRING	'@v00040084"Do you have the Messenger App? It's a must-have."'
+
+{0x0F97}	LOAD_STRING	'Yui'
+{0x0F99}	LOAD_STRING	'@v00020127"I can download it, it used to be prohibited at Shichiyou, but now I'm free!"'
+
+{0x0FA3}	LOAD_STRING	'Chihiro'
+{0x0FA5}	LOAD_STRING	'@v00040085"We also play basketball everyday at lunchtime. You can join us without being a wimp, right?"'
+
+{0x0FAF}	LOAD_STRING	'Yui'
+{0x0FB1}	LOAD_STRING	'@v00020128"I'm not in the best shape, but I'll do my best!"'
+
+{0x0FBF}	LOAD_STRING	'Tatsumi'
+{0x0FC1}	LOAD_STRING	'No, you don't have to do that if you don't want to, okay?'
+
+{0x1036}	LOAD_STRING	'Miki'
+{0x1038}	LOAD_STRING	'@v00010104"Nakategawa-san, let's exchange Messenger IDs!"'
+
+{0x1048}	LOAD_STRING	'Once her app finishes installing, Miki rubs shoulders with Nakategawa-san.'
+
+{0x1060}	LOAD_STRING	'Yui'
+{0x1062}	LOAD_STRING	'@v00020129"Oh, yes... Like this?"'
+
+{0x106C}	LOAD_STRING	'Miki'
+{0x106E}	LOAD_STRING	'@v00010105"Let's see... Like this. Scan this code..."'
+
+{0x1078}	LOAD_STRING	'Miki'
+{0x107A}	LOAD_STRING	'@v00010106"Okay, there we go. Nakategawa's first time getting it!"'
+
+{0x1086}	SPECIAL_TEXT	0x0	'（Best Regards Stamp）'
+
+{0x10AC}	LOAD_STRING	'Miki（Message）'
+{0x10B0}	LOAD_CUSTOM_TEXT	0x1	'（Best Regards Stamp）'
+
+{0x114B}	LOAD_STRING	'Chihiro'
+{0x114D}	LOAD_STRING	'@v00040086"I'll send you mine.'
+
+{0x115B}	LOAD_STRING	'Tatsumi'
+{0x115D}	LOAD_STRING	'Yeah, me too.'
+
+{0x1161}	SPECIAL_TEXT	0x1	'"Yoooo"'
+
+{0x1187}	LOAD_STRING	'Chihiro（Message）'
+{0x118B}	LOAD_CUSTOM_TEXT	0x1	'"Yoooo"'
+
+{0x1222}	SPECIAL_TEXT	0x2	'（Slightly Racy Hello Stamp）'
+
+{0x1248}	LOAD_STRING	'Tatsumi（Message）'
+{0x124C}	LOAD_CUSTOM_TEXT	0x1	'（Slightly Racy Hello Stamp）'
+
+{0x1317}	LOAD_STRING	'Yui'
+{0x1319}	LOAD_STRING	'@v00020130"Tatsumi-san, Sakaki-san, thank you!"'
+
+{0x1327}	LOAD_STRING	'Tatsumi'
+{0x1329}	LOAD_STRING	'Now we can connect anytime, anywhere.'
+
+{0x1333}	LOAD_STRING	'Yui'
+{0x1335}	LOAD_STRING	'@v00020131"Yes! Oh, this is so awesome. I'll do my best to meet your expectations!"'
+
+{0x133F}	LOAD_STRING	'Miki'
+{0x1341}	LOAD_STRING	'@v00010107"Ahaha, relax a bit!"'
+
+{0x134F}	LOAD_STRING	'Tatsumi'
+{0x1351}	LOAD_STRING	'Take it easy, it's not like a trial period for a part-time job or anything like that.'
+
+{0x13AF}	LOAD_STRING	'Chihiro'
+{0x13B1}	LOAD_STRING	'@v00040087"Well, it's good that Miki finally has a girl friend now."'
+
+{0x140B}	LOAD_STRING	'Miki'
+{0x140D}	LOAD_STRING	'@v00010108"That's rude! I have plenty of girl friends. It just happens that my best friends are Tak-kun and Chi-kun."'
+
+{0x141B}	LOAD_STRING	'Tatsumi'
+{0x141D}	LOAD_STRING	'That's right.'
+
+{0x142D}	LOAD_STRING	'My childhood friend, puffing her chest out.'
+
+{0x1437}	LOAD_STRING	'Miki'
+{0x1439}	LOAD_STRING	'@v00010109"Basically, everyone is welcome. My motto is, don't reject potential friends, and follow those who leave@t0740@hMIKI_U202BS to the ends of hell, right?'
+
+{0x1493}	LOAD_STRING	'Chihiro'
+{0x1495}	LOAD_STRING	'@v00040088"...Who are you chasing to the ends of hell, exactly?"'
+
+{0x14EF}	LOAD_STRING	'Miki'
+{0x14F1}	LOAD_STRING	'@v00010110"Huh? Well, Tak-kun and Chi-kun, of course. And,@t0580@hMIKI_U201EG Nakategawa-san starting today, right?"'
+
+{0x14FB}	LOAD_STRING	'Yui'
+{0x14FD}	LOAD_STRING	'@v00020132"Oh, that's... Um..."'
+
+{0x150B}	LOAD_STRING	'Tatsumi'
+{0x150D}	LOAD_STRING	'...Are we all okay with this?'
+
+{0x1567}	LOAD_STRING	'Chihiro'
+{0x1569}	LOAD_STRING	'@v00040089"That's just Miki's way of showing affection... Right?"'
+
+{0x15C3}	LOAD_STRING	'Miki'
+{0x15C5}	LOAD_STRING	'@v00010111"What do you mean? Are Tak-kun and Chi-kun going to wave goodbye happily when I leave them?"'
+
+{0x161F}	LOAD_STRING	'Chihiro'
+{0x1621}	LOAD_STRING	'@v00040090"Oh, you're leaving?"'
+
+{0x167B}	LOAD_STRING	'Miki'
+{0x167D}	LOAD_STRING	'@v00010112"That's... not true... okay? Who knows, I might!"'
+
+{0x168B}	LOAD_STRING	'Tatsumi'
+{0x168D}	LOAD_STRING	'Your eyes are watering.'
+
+{0x16E7}	LOAD_STRING	'Chihiro'
+{0x16E9}	LOAD_STRING	'@v00040091"You said that without thinking."'
+
+{0x1743}	LOAD_STRING	'Miki'
+{0x1745}	LOAD_STRING	'@v00010113"What the hell? You two are just cold and loveless! I just said we're best friends, didn't I?!"'
+
+{0x1755}	LOAD_STRING	'Miki begins to pout and protest.'
+
+{0x17AF}	LOAD_STRING	'Yui'
+{0x17B1}	LOAD_STRING	'@v00020133"Pffft...@t0090@hYUI_U201EG3 Hahahahaha!"'
+
+{0x17BF}	LOAD_STRING	'Tatsumi'
+{0x17C1}	LOAD_STRING	'Nakategawa-san...?'
+
+{0x17D1}	LOAD_STRING	'Nakategawa-san suddenly burst into laughter, and we stopped and paid attention to her.'
+
+{0x17DB}	LOAD_STRING	'Yui'
+{0x17DD}	LOAD_STRING	'@v00020134"You guys are so close, aren't you?"'
+
+{0x17ED}	LOAD_STRING	'She laughs softly now.'
+
+{0x1881}	LOAD_STRING	'The three of us... are now the four of us, and this moment...'
+
+{0x1891}	LOAD_STRING	'...Is a big moment for us.'
+
+{0x18A1}	LOAD_STRING	'I can feel it.'

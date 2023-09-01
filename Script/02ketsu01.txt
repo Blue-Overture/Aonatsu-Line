@@ -1,0 +1,596 @@
+{0x0096}	LOAD_STRING	'Miki'
+{0x0098}	LOAD_STRING	'@v00010721"Oh yeah, Chi-kun's meal seems like a man made it."'
+
+{0x00E2}	LOAD_STRING	'Chihiro'
+{0x00E4}	LOAD_STRING	'@v00040604"A man DID make it."'
+
+{0x00F4}	LOAD_STRING	'They're laughing at Chihiro's self-made lunch.'
+
+{0x0122}	LOAD_STRING	'During lunch break, we each bring our lunch boxes from home and eat them in the classroom, then play basketball in the extra time.'
+
+{0x0132}	LOAD_STRING	'The other day, Nakategawa from Class C joined the group.'
+
+{0x015C}	LOAD_STRING	'Yui'
+{0x015E}	LOAD_STRING	'@v00020522"A fist-sized onigiri, karaage, an omelet...and fried sausage?"'
+
+{0x0168}	LOAD_STRING	'Chihiro'
+{0x016A}	LOAD_STRING	'@v00040605"Hmm? Are you stingy or something?"'
+
+{0x0174}	LOAD_STRING	'Yui'
+{0x0176}	LOAD_STRING	'@v00020523"Nooo, it's not that."'
+
+{0x0186}	LOAD_STRING	'Nakategawa shakes her head, smiling softly as usual.'
+
+{0x0190}	LOAD_STRING	'Yui'
+{0x0192}	LOAD_STRING	'@v00020524"I just think you should eat some more vegetables."'
+
+{0x01A0}	LOAD_STRING	'Tatsumi'
+{0x01A2}	LOAD_STRING	'That goes without saying.'
+
+{0x01B2}	LOAD_STRING	'Chihiro's lunch might be more "manly" than expected, but he is meeting the nutritional guidelines set in home economics class.'
+
+{0x01EC}	LOAD_STRING	'Miki'
+{0x01EE}	LOAD_STRING	'@v00010722"Yeah, Yui-chan, tell him!"'
+
+{0x0228}	LOAD_STRING	'Chihiro'
+{0x022A}	LOAD_STRING	'@v00040606"It's all good. I can just take vitamins."'
+
+{0x023A}	LOAD_STRING	'Chihiro sniffed in frustration, but his gaze was on the bento box Miki was holding.'
+
+{0x0244}	LOAD_STRING	'Chihiro'
+{0x0246}	LOAD_STRING	'@v00040607"Now THAT looks really good."'
+
+{0x0254}	LOAD_STRING	'Tatsumi'
+{0x0256}	LOAD_STRING	'The complete opposite of the way your's looks.'
+
+{0x0290}	LOAD_STRING	'Yui'
+{0x0292}	LOAD_STRING	'@v00020525"Yes, it looks really delicious! And the presentation is lovely too."'
+
+{0x02A2}	LOAD_STRING	'If I had to describe Miki's lunch in one word, it would be "feminine."'
+
+{0x02B2}	LOAD_STRING	'The ingredients, the amount, the presentation, everything was the opposite of Chihiro's.'
+
+{0x02BC}	LOAD_STRING	'Yui'
+{0x02BE}	LOAD_STRING	'@v00020526"Miki, did you make this yourself?"'
+
+{0x0304}	LOAD_STRING	'Miki'
+{0x0306}	LOAD_STRING	'@v00010723"Of course. It looks homemade, but I have a restaurant, remember?"'
+
+{0x0314}	LOAD_STRING	'Tatsumi'
+{0x0316}	LOAD_STRING	'You always were good at cooking.'
+
+{0x0320}	LOAD_STRING	'Miki'
+{0x0322}	LOAD_STRING	'@v00010724"Muh, doesn't that make it sound like I'm only good at cooking?"'
+
+{0x0330}	LOAD_STRING	'Tatsumi'
+{0x0332}	LOAD_STRING	'Don't read into it too much.'
+
+{0x037C}	LOAD_STRING	'Yui'
+{0x037E}	LOAD_STRING	'@v00020527"I admire both Miki and Chihiro for being able to cook for themselves!"'
+
+{0x038E}	LOAD_STRING	'Surely, the Kurigaoka students who make their own lunches are probably few and far between.'
+
+{0x039E}	LOAD_STRING	'I should be grateful to my parents for making my lunch box every morning.'
+
+{0x03A8}	LOAD_STRING	'Miki'
+{0x03AA}	LOAD_STRING	'@v00010725"Don't treat it like that! Cooking is just a matter of following a recipe."'
+
+{0x03B4}	LOAD_STRING	'Miki'
+{0x03B6}	LOAD_STRING	'@v00010725b"As long as you don't take shortcuts or stray too far from the recipe, it'll work itself out."'
+
+{0x03C4}	LOAD_STRING	'Tatsumi'
+{0x03C6}	LOAD_STRING	'It's a little hard to take it for granted.'
+
+{0x03D0}	LOAD_STRING	'Chihiro'
+{0x03D2}	LOAD_STRING	'@v00040608"Nakategawa doesn't seem to make her own food."'
+
+{0x03DC}	LOAD_STRING	'Yui'
+{0x03DE}	LOAD_STRING	'@v00020528"Yes...It's a little embarrassing."'
+
+{0x03EC}	LOAD_STRING	'Tatsumi'
+{0x03EE}	LOAD_STRING	'Don't worry, we all have our situations.'
+
+{0x03F8}	LOAD_STRING	'Yui'
+{0x03FA}	LOAD_STRING	'@v00020529"It's been challenging, you know?@t0240@hYUI_U202KN I've tried and failed three times now..."'
+
+{0x0404}	LOAD_STRING	'Miki'
+{0x0406}	LOAD_STRING	'@v00010726"Ah..."'
+
+{0x0410}	LOAD_STRING	'Yui'
+{0x0412}	LOAD_STRING	'@v00020530"Because of that, my father won't let me prepare food anymore..."'
+
+{0x0420}	LOAD_STRING	'Tatsumi'
+{0x0422}	LOAD_STRING	'No wonder.'
+
+{0x042C}	LOAD_STRING	'Yui'
+{0x042E}	LOAD_STRING	'@v00020531"My father worries too much and is too narrow-minded. I can't believe he won't allow me to make even the slightest mistake. 'Failure is the mother of success,' right?"'
+
+{0x0438}	LOAD_STRING	'Chihiro'
+{0x043A}	LOAD_STRING	'@v00040609"I hope your parents will be safe until you succeed..."'
+
+{0x0444}	LOAD_STRING	'Yui'
+{0x0446}	LOAD_STRING	'@v00020532"Ugh, Chihiro-san, you're so mean."'
+
+{0x0482}	LOAD_STRING	'With a pout of her lips, Nakategawa puts her lunch box on the desk.'
+
+{0x0492}	LOAD_STRING	'It was a fancy wooden bento, which was also compact and feminine.'
+
+{0x04E4}	LOAD_STRING	'Miki'
+{0x04E6}	LOAD_STRING	'@v00010727"It looks... normal."'
+
+{0x04F0}	LOAD_STRING	'Yui'
+{0x04F2}	LOAD_STRING	'@v00020533"Yes?"'
+
+{0x0528}	LOAD_STRING	'Chihiro'
+{0x052A}	LOAD_STRING	'@v00040610"Nah...We just heard a little rumor."'
+
+{0x054A}	LOAD_STRING	'Miki confirms all the intel she gathered about Nakategawa before.'
+
+{0x0594}	LOAD_STRING	'Yui'
+{0x0596}	LOAD_STRING	'@v00020534"Oh, ah, I'm so sorry about that!"'
+
+{0x05A6}	LOAD_STRING	'Nakategawa bows her head, her cheeks dyed with embarrassment.'
+
+{0x05B0}	LOAD_STRING	'Yui'
+{0x05B2}	LOAD_STRING	'@v00020535"My family and I still haven't fully learned how to adjust our school lunches..."'
+
+{0x05BC}	LOAD_STRING	'Yui'
+{0x05BE}	LOAD_STRING	'@v00020536"It's just enough for one person...This is a good amount."'
+
+{0x05CE}	LOAD_STRING	'So the rumors about her having an elegant stacked lunch box were true.'
+
+{0x05D8}	LOAD_STRING	'Miki'
+{0x05DA}	LOAD_STRING	'@v00010728"No, no, no, don't apologize. I only heard rumors, and I think such a lunch would be lovely, you know?"'
+
+{0x05E4}	LOAD_STRING	'Chihiro'
+{0x05E6}	LOAD_STRING	'@v00040611"Even though it looks smaller..."'
+
+{0x05F4}	LOAD_STRING	'Tatsumi'
+{0x05F6}	LOAD_STRING	'After all, it's a ryotei-style lunch...'
+
+{0x0600}	LOAD_STRING	'Yui'
+{0x0602}	LOAD_STRING	'@v00020537"Muh, please don't stare at me like that, okay?"'
+
+{0x063E}	LOAD_STRING	'When she opened the lid, various ingredients were packed in the fine partitions.'
+
+{0x064E}	LOAD_STRING	'It's like a bento made for a theatrical intermission, and not particularly fancy in appearance alone, but...'
+
+{0x06A0}	LOAD_STRING	'Miki'
+{0x06A2}	LOAD_STRING	'@v00010729"Wow, this looks delicious! This is beef shigureni, right? And chicken teriyaki..."'
+
+{0x06AC}	LOAD_STRING	'Chihiro'
+{0x06AE}	LOAD_STRING	'@v00040612"This is so elaborate..."'
+
+{0x06BE}	LOAD_STRING	'Looking at the two of them as they come to slyly look at me.'
+
+{0x0708}	LOAD_STRING	'Yui'
+{0x070A}	LOAD_STRING	'@v00020538"Ah, why don't we share lunches? I've always wanted to do that!"'
+
+{0x071A}	LOAD_STRING	'Nakategawa suggests.'
+
+{0x0754}	LOAD_STRING	'Miki'
+{0x0756}	LOAD_STRING	'@v00010730"Okay! Let's trade, then."'
+
+{0x0760}	LOAD_STRING	'Chihiro'
+{0x0762}	LOAD_STRING	'@v00040613"Sweet, Miki, you can have my onigiri..."'
+
+{0x076C}	LOAD_STRING	'Miki'
+{0x076E}	LOAD_STRING	'@v00010731"That's not something a girl should eat. Just look at how big you made it."'
+
+{0x077E}	LOAD_STRING	'So, we started sharing our lunches...'
+
+{0x07D4}	LOAD_STRING	'Tatsumi'
+{0x07D6}	LOAD_STRING	'After all...this is ryotei-style food.'
+
+{0x07FC}	LOAD_STRING	'Chihiro'
+{0x07FE}	LOAD_STRING	'@v00040614"Oh, I've never been to a ryotei, but this is definitely out of a ryotei."'
+
+{0x0834}	LOAD_STRING	'Miki'
+{0x0836}	LOAD_STRING	'@v00010732"It looks like regular grilled fish, but it tastes elegant!"'
+
+{0x08E6}	LOAD_STRING	'Our impressions of each bite of the grilled fish Nakategawa gave us were in perfect agreement.'
+
+{0x08F6}	LOAD_STRING	'Miki is right, it looks ordinary. But the taste is top-notch.'
+
+{0x0906}	LOAD_STRING	'The skill of the cook who can produce that level of discrepancy must be top notch.'
+
+{0x0958}	LOAD_STRING	'Yui'
+{0x095A}	LOAD_STRING	'@v00020539"Really? Miki's egg rolls are just as good. They are so sweet, I could eat as many as I want."'
+
+{0x0990}	LOAD_STRING	'Miki'
+{0x0992}	LOAD_STRING	'@v00010733"Right? Sweet egg rolls are the best!"'
+
+{0x09A2}	LOAD_STRING	'While saying that, Miki gives me and Chihiro a mischievous look.'
+
+{0x09AC}	LOAD_STRING	'Miki'
+{0x09AE}	LOAD_STRING	'@v00010734"No, Tak-kun and Chi-kun say that sweet omelettes are evil."'
+
+{0x09BC}	LOAD_STRING	'Tatsumi'
+{0x09BE}	LOAD_STRING	'I wouldn't go so far as to say they're evil.'
+
+{0x09C8}	LOAD_STRING	'Chihiro'
+{0x09CA}	LOAD_STRING	'@v00040615"That's more of a dessert than a meal."'
+
+{0x0A00}	LOAD_STRING	'Yui'
+{0x0A02}	LOAD_STRING	'@v00020540"I see, dessert!@t0230@hYUI_U202EG3 I want to try making sweet egg rolls too!"'
+
+{0x0A0C}	LOAD_STRING	'Miki'
+{0x0A0E}	LOAD_STRING	'@v00010735"Yay, bestie! If it's Yui-chan, I'll teach you how to do it perfectly!"'
+
+{0x0A18}	LOAD_STRING	'Yui'
+{0x0A1A}	LOAD_STRING	'@v00020541"Hehe, and when I've finished, I'll ask you two to taste it..."'
+
+{0x0A24}	LOAD_STRING	'Chihiro'
+{0x0A26}	LOAD_STRING	'@v00040616"Ah, about that..."'
+
+{0x0A34}	LOAD_STRING	'Tatsumi'
+{0x0A36}	LOAD_STRING	'I'll have to pass on that for now.'
+
+{0x0A46}	LOAD_STRING	'Somehow, I feel like she could change our taste preferences.'
+
+{0x0A56}	LOAD_STRING	'Just as soon as Nakategawa stands in the kitchen,'
+
+{0x0A66}	LOAD_STRING	'"Breaking news! Fire breaks out at the old MICO Cafe, and it burns down!" ...At least I hope it doesn't end up like that.'
+
+{0x0A76}	LOAD_STRING	'I can't help but think of things I can't say to Nakategawa.'
+
+{0x0B02}	LOAD_STRING	'Yui'
+{0x0B04}	LOAD_STRING	'@v00020542"Ah, I can't wait to go to Otojima this weekend."'
+
+{0x0B14}	LOAD_STRING	'Nakategawa mumbles with an enraptured expression as she picks up her shared lunch.'
+
+{0x0B1E}	LOAD_STRING	'Chihiro'
+{0x0B20}	LOAD_STRING	'@v00040617"I'm looking forward to it, but..."'
+
+{0x0B30}	LOAD_STRING	'Is he holding something back? It feels like he swallowed whatever he really wanted to say, before shrugging his shoulders.'
+
+{0x0B3A}	LOAD_STRING	'Yui'
+{0x0B3C}	LOAD_STRING	'@v00020543"This is the first time I'm going on a trip with a group of friends..."'
+
+{0x0B4A}	LOAD_STRING	'Tatsumi'
+{0x0B4C}	LOAD_STRING	'You didn't go with the kids from Shichiyou?'
+
+{0x0B56}	LOAD_STRING	'Yui'
+{0x0B58}	LOAD_STRING	'@v00020544"Yes. I played a lot in the Yokohama and Tokyo area, but this will be my first time on Otojima."'
+
+{0x0BAA}	LOAD_STRING	'Yui'
+{0x0BAC}	LOAD_STRING	'@v00020545"Especially with a man my age..."'
+
+{0x0BBC}	LOAD_STRING	'Nakategawa wiggles her body and gets embarrassed when her eyes meet mine.'
+
+{0x0C0E}	LOAD_STRING	'Miki'
+{0x0C10}	LOAD_STRING	'@v00010736"I get it though. Tourist attractions are a lot farther away from the locals than you'd think!"'
+
+{0x0C46}	LOAD_STRING	'Chihiro'
+{0x0C48}	LOAD_STRING	'@v00040618"During Golden Week, its just people here, people there, a bunch of people. You can't even see the scenery."'
+
+{0x0C56}	LOAD_STRING	'Tatsumi'
+{0x0C58}	LOAD_STRING	'When you think about it, it's a waste. There are places of interest so close by that attract people from all over the country.'
+
+{0x0C62}	LOAD_STRING	'Chihiro'
+{0x0C64}	LOAD_STRING	'@v00040619"Uh,@t0120@hCHIHIRO_U202KM3 What do you call this?"'
+
+{0x0C6E}	LOAD_STRING	'Miki'
+{0x0C70}	LOAD_STRING	'@v00010737"...@t0150@h Waste of treasure?"'
+
+{0x0C7A}	LOAD_STRING	'Chihiro'
+{0x0C7C}	LOAD_STRING	'@v00040620"That's it!@t0080@hCHIHIRO_U202KM3 ...Actually, not really, huh...?"'
+
+{0x0C8C}	LOAD_STRING	'I get what Chihiro means.'
+
+{0x0CD6}	LOAD_STRING	'Yui'
+{0x0CD8}	LOAD_STRING	'@v00020546"'A closed book is nothing but an unremarkable mass...'@t0310@hYUI_U202EG3 Hehe, this isn't right either, is it?"'
+
+{0x0CE8}	LOAD_STRING	'Nakategawa laughs a little bit.'
+
+{0x0CF2}	LOAD_STRING	'Miki'
+{0x0CF4}	LOAD_STRING	'@v00010738"Hey, Yui-chan... Are you guys talking in prose or something? I've never heard of some of these expressions..."'
+
+{0x0CFE}	LOAD_STRING	'Yui'
+{0x0D00}	LOAD_STRING	'@v00020547"Ah, I'm sorry!"'
+
+{0x0D0A}	LOAD_STRING	'Chihiro'
+{0x0D0C}	LOAD_STRING	'@v00040621"Oh, it's all good. But because of that, sometimes I don't understand what Nakategawa is talking about.."'
+
+{0x0D1A}	LOAD_STRING	'Tatsumi'
+{0x0D1C}	LOAD_STRING	'That's an English proverb, isn't it?'
+
+{0x0D2C}	LOAD_STRING	'At least, something out of the scope of many young female students.'
+
+{0x0D36}	LOAD_STRING	'Yui'
+{0x0D38}	LOAD_STRING	'@v00020548"Oh, actually...@t0390@hYUI_U201EG I've been really into reading proverbs and poems lately..."'
+
+{0x0D48}	LOAD_STRING	'That's quite a...Unique hobby.'
+
+{0x0D52}	LOAD_STRING	'Miki'
+{0x0D54}	LOAD_STRING	'@v00010739"Wow, from a proverbial dictionary?"'
+
+{0x0D5E}	LOAD_STRING	'Chihiro'
+{0x0D60}	LOAD_STRING	'@v00040622"You're a woman of curiosity. All I get from reading a dictionary is a headache."'
+
+{0x0D6A}	LOAD_STRING	'Yui'
+{0x0D6C}	LOAD_STRING	'@v00020549"That's not true. I feel the weight of history in each proverb."'
+
+{0x0D76}	LOAD_STRING	'Yui'
+{0x0D78}	LOAD_STRING	'@v00020550"The fact that it has survived to the present day means that the proverb was so real."'
+
+{0x0D82}	LOAD_STRING	'Chihiro'
+{0x0D84}	LOAD_STRING	'@v00040623"Muh..."'
+
+{0x0D8E}	LOAD_STRING	'Miki'
+{0x0D90}	LOAD_STRING	'@v00010740"So, then, Yui-chan, what's your favorite foreign proverb?"'
+
+{0x0D9A}	LOAD_STRING	'Yui'
+{0x0D9C}	LOAD_STRING	'@v00020551"'There is no time like the present.'"'
+
+{0x0DAC}	LOAD_STRING	'To Miki's question, Nakategawa answered in pleasantly fluent English.'
+
+{0x0DB6}	LOAD_STRING	'Chihiro'
+{0x0DB8}	LOAD_STRING	'@v00040624"Oh...how about in Japanese...?"'
+
+{0x0DC2}	LOAD_STRING	'Yui'
+{0x0DC4}	LOAD_STRING	'@v00020552"@rOmoi tatta ga kichijitsu@思い立ったが吉@"'
+
+{0x0DD2}	LOAD_STRING	'Tatsumi'
+{0x0DD4}	LOAD_STRING	'Pft...It's so like you, Nakategawa.'
+
+{0x0DE4}	LOAD_STRING	'Perfectly fitting for someone who goes out of Shichiyou Academy with a bang.'
+
+{0x0E36}	LOAD_STRING	'Miki'
+{0x0E38}	LOAD_STRING	'@v00010741"What other hobbies does Yui-chan have?"'
+
+{0x0E48}	LOAD_STRING	'Miki repeats the question a little impatiently.'
+
+{0x0E52}	LOAD_STRING	'Miki'
+{0x0E54}	LOAD_STRING	'@v00010742"Like Tak-kun and Chikun, I just play games at home."'
+
+{0x0E5E}	LOAD_STRING	'Miki'
+{0x0E60}	LOAD_STRING	'@v00010743"Chi-kun lives alone, so Tak-kun is always there, right?"'
+
+{0x0E6A}	LOAD_STRING	'Chihiro'
+{0x0E6C}	LOAD_STRING	'@v00040625"You are, too. You like to turn people's homes into convenient hangout spots."'
+
+{0x0E76}	LOAD_STRING	'Miki'
+{0x0E78}	LOAD_STRING	'@v00010744"Ehe..."'
+
+{0x0EC2}	LOAD_STRING	'Yui'
+{0x0EC4}	LOAD_STRING	'@v00020553"Ah, that's nice. I also...enjoy a bit of gaming..."'
+
+{0x0ECE}	LOAD_STRING	'Miki'
+{0x0ED0}	LOAD_STRING	'@v00010745"Oh, Yui-chan plays games too! Let's play at Chi-kun's next time."'
+
+{0x0EDA}	LOAD_STRING	'Yui'
+{0x0EDC}	LOAD_STRING	'@v00020554"Yes! Please!"'
+
+{0x0EEA}	LOAD_STRING	'Tatsumi'
+{0x0EEC}	LOAD_STRING	'Anything else? Music, movies...'
+
+{0x0EF6}	LOAD_STRING	'Yui'
+{0x0EF8}	LOAD_STRING	'@v00020555"Oh, I listen to a lot of Western music and watch a few movies."'
+
+{0x0F02}	LOAD_STRING	'Miki'
+{0x0F04}	LOAD_STRING	'@v00010746"Hey, I also started listening to Western music thanks to Tak-kun and Chi-kun. What genre of music do you like?"'
+
+{0x0F16}	LOAD_STRING	'Yui'
+{0x0F18}	LOAD_STRING	'@v00020556"I've been really fond of heavy metal lately."'
+
+{0x0F22}	LOAD_STRING	'Miki'
+{0x0F24}	LOAD_STRING	'@v00010747"Uh..."'
+
+{0x0F32}	LOAD_STRING	'Tatsumi'
+{0x0F34}	LOAD_STRING	'...'
+
+{0x0F44}	LOAD_STRING	'No, there's no rule against girls listening to heavy metal.'
+
+{0x0F54}	LOAD_STRING	'Still, it really seems out of character for her.'
+
+{0x0FA8}	LOAD_STRING	'Chihiro'
+{0x0FAA}	LOAD_STRING	'@v00040626"Hey, you like Hebbi metal. Actually, I don't mind it either."'
+
+{0x0FB4}	LOAD_STRING	'Yui'
+{0x0FB6}	LOAD_STRING	'@v00020557"It's good, the guitars and vocals feel like they're wired directly to my brain.@t0700@hYUI_A201MJ But, Chihiro-san?"'
+
+{0x0FC0}	LOAD_STRING	'Chihiro'
+{0x0FC2}	LOAD_STRING	'@v00040627"Hmm?"'
+
+{0x1014}	LOAD_STRING	'Yui'
+{0x1016}	LOAD_STRING	'@v00020558"It's not "Hebbi metal." It's pronounced "Heavy metal." Heh-VEE."'
+
+{0x1020}	LOAD_STRING	'Chihiro'
+{0x1022}	LOAD_STRING	'@v00040628"Hmm? What? Did I say it wrong?"'
+
+{0x102C}	LOAD_STRING	'Yui'
+{0x102E}	LOAD_STRING	'@v00020559"If you say it like that, it sounds derogatory. So please be careful."'
+
+{0x1038}	LOAD_STRING	'Chihiro'
+{0x103A}	LOAD_STRING	'@v00040629"Oh, I see. My bad."'
+
+{0x104A}	LOAD_STRING	'Chihiro bows his head, as if pressured by Nakategawa.'
+
+{0x1058}	LOAD_STRING	'Tatsumi'
+{0x105A}	LOAD_STRING	'But, haven't Idols been playing heavy metal lately? Is this where the fascination comes from?"'
+
+{0x106C}	LOAD_STRING	'Yui'
+{0x106E}	LOAD_STRING	'@v00020560"Actually, heavy metal first began in the 70s..."'
+
+{0x1078}	LOAD_STRING	'Miki'
+{0x107A}	LOAD_STRING	'@v00010748"Oh, you're into it...historically?"'
+
+{0x1084}	LOAD_STRING	'Chihiro'
+{0x1086}	LOAD_STRING	'@v00040630"For real...?"'
+
+{0x1096}	LOAD_STRING	'Looks like I was off.'
+
+{0x110E}	LOAD_STRING	'Yui'
+{0x1110}	LOAD_STRING	'@v00020561"...And so, that's how heavy metal came to be."'
+
+{0x1120}	LOAD_STRING	'Nakategawa wraps it up...'
+
+{0x112A}	LOAD_STRING	'Yui'
+{0x112C}	LOAD_STRING	'@v00020562"Oh, um...I'm sorry, that was rather boring, wasn't it?"'
+
+{0x113C}	LOAD_STRING	'She immediately looks our way anxiously.'
+
+{0x1146}	LOAD_STRING	'Miki'
+{0x1148}	LOAD_STRING	'@v00010749"Huh?@t0040@hMIKI_A202EG2 ...Nah! Not boring, I thought it was interesting!"'
+
+{0x1152}	LOAD_STRING	'Chihiro'
+{0x1154}	LOAD_STRING	'@v00040631"I got it without knowing anything prior to today."'
+
+{0x1162}	LOAD_STRING	'Tatsumi'
+{0x1164}	LOAD_STRING	'Is that so...'
+
+{0x11A0}	LOAD_STRING	'Heavy metal is a bunch of guys with long hair and full body tattoos, distorting the sound of their guitars and playing grotesque and destructive music.'
+
+{0x11B0}	LOAD_STRING	'I can't deny that this is the image portrayed in popular culture.'
+
+{0x11C0}	LOAD_STRING	'Nevertheless, in the last few minutes, my preconceptions were turned sideways.'
+
+{0x11D0}	LOAD_STRING	'Having grown up listening to self-proclaimed sophisticated music like jazz and 80s rock with my dad, I had gotten the wrong idea.'
+
+{0x1222}	LOAD_STRING	'Yui'
+{0x1224}	LOAD_STRING	'@v00020563"But I only started listening to heavy metal this year.@t0630@hYUI_U201AS You can never learn too much."'
+
+{0x122E}	LOAD_STRING	'Miki'
+{0x1230}	LOAD_STRING	'@v00010750"I agree!@t0330@hMIKI_U202BS By the way, what did you listen to before?"'
+
+{0x123A}	LOAD_STRING	'Yui'
+{0x123C}	LOAD_STRING	'@v00020564"Irish folk music."'
+
+{0x1246}	LOAD_STRING	'Chihiro'
+{0x1248}	LOAD_STRING	'@v00040632"Wow, that's like, the total opposite."'
+
+{0x1258}	LOAD_STRING	'How did your tastes change from Irish folk music to heavy metal-'
+
+{0x1262}	LOAD_STRING	'Yui'
+{0x1264}	LOAD_STRING	'@v00020565"Actually, there is a heavy metal band based on Irish folk music, and that's how I got interested in it."'
+
+{0x12AA}	LOAD_STRING	'Chihiro'
+{0x12AC}	LOAD_STRING	'@v00040633"I see..."'
+
+{0x12BC}	LOAD_STRING	'Well, Nakategawa's ever-evolving interests aside-'
+
+{0x12CA}	LOAD_STRING	'Tatsumi'
+{0x12CC}	LOAD_STRING	'Nakategawa, you're very good at explaining things.'
+
+{0x1302}	LOAD_STRING	'Miki'
+{0x1304}	LOAD_STRING	'@v00010751"Yes, it was very easy to understand."'
+
+{0x133A}	LOAD_STRING	'Chihiro'
+{0x133C}	LOAD_STRING	'@v00040634"You're good with metaphors and stuff."'
+
+{0x134C}	LOAD_STRING	'Teaching the uninformed is harder than it seems.'
+
+{0x135C}	LOAD_STRING	'Someone who can do that might be considered to have a good foundation.'
+
+{0x1392}	LOAD_STRING	'Miki'
+{0x1394}	LOAD_STRING	'@v00010752"Yui-chan is so clever!"'
+
+{0x13CA}	LOAD_STRING	'Chihiro'
+{0x13CC}	LOAD_STRING	'@v00040635"Yeah, she answered all our questions without hesitation."'
+
+{0x13DC}	LOAD_STRING	'It was almost like her work was completely cut out for her.'
+
+{0x13EC}	LOAD_STRING	'The speed at which you answer questions can show how sharp your wit is.'
+
+{0x13FC}	LOAD_STRING	'In that sense, I felt that Nakategawa would be a good teacher.'
+
+{0x1442}	LOAD_STRING	'Yui'
+{0x1444}	LOAD_STRING	'@v00020566"T-that's not true! Please don't praise me so much..."'
+
+{0x1454}	LOAD_STRING	'Nakategawa's cheeks are dyed in embarrassment.'
+
+{0x145E}	LOAD_STRING	'Miki'
+{0x1460}	LOAD_STRING	'@v00010753"Sorry about that! But, you get good grades, don't you, Yui-chan?"'
+
+{0x146A}	LOAD_STRING	'Chihiro'
+{0x146C}	LOAD_STRING	'@v00040636"Well, she's from Shichiyou Academy, after all."'
+
+{0x147A}	LOAD_STRING	'Tatsumi'
+{0x147C}	LOAD_STRING	'How did your midterms go last week?'
+
+{0x1486}	LOAD_STRING	'Yui'
+{0x1488}	LOAD_STRING	'@v00020567"O-oh, yeah...@t0260@hYUI_U202BS I guess... not bad?"'
+
+{0x1498}	LOAD_STRING	'After saying that, she smiles softly, like usual.'
+
+{0x14A2}	LOAD_STRING	'Chihiro'
+{0x14A4}	LOAD_STRING	'@v00040637"Hey, girls who act all humble like that..."'
+
+{0x14B4}	LOAD_STRING	'Chihiro whispered in my ear so that she couldn't hear me.'
+
+{0x152E}	LOAD_STRING	'Miki'
+{0x1530}	LOAD_STRING	'@v00010754"No way, you're top of the class, aren't you?"'
+
+{0x1574}	LOAD_STRING	'Yui'
+{0x1576}	LOAD_STRING	'@v00020568"Huh?!@t0130@hYUI_A201AS Eheheh..."'
+
+{0x15B2}	LOAD_STRING	'Miki passes to Nakategawa, but she drops the ball like a goof.'
+
+{0x15C2}	LOAD_STRING	'During rest of the lunch break, we're all gathered on the basketball court, and the main topic of conversation is still about the midterms.'
+
+{0x15D2}	LOAD_STRING	'As a sign of our closeness, Nakategawa shared her grades with us.'
+
+{0x161A}	LOAD_STRING	'Tatsumi'
+{0x161C}	LOAD_STRING	'All right...So, 487 points in 5 subjects combined.'
+
+{0x1642}	LOAD_STRING	'Chihiro'
+{0x1644}	LOAD_STRING	'@v00040638"Oh man, Nakategawa's English, Japanese and Math classes make up a better grade overall than all my classes combined..."'
+
+{0x1662}	LOAD_STRING	'Chihiro cuts and passes the ball to Miki, admitting he is averaging 60 points per class.'
+
+{0x1672}	LOAD_STRING	'It's not good, but it's not exactly going to have him held back a year yet.'
+
+{0x1680}	LOAD_STRING	'Tatsumi'
+{0x1682}	LOAD_STRING	'I see that Nakategawa is the only one who got a perfect score in Japanese, English, and mathematics'
+
+{0x16EF}	LOAD_STRING	'Miki'
+{0x16F1}	LOAD_STRING	'@v00010755"Nah, it's not good to be that sharp, or else you'll become the teacher's pet."'
+
+{0x171E}	LOAD_STRING	'Miki's layup is clean and my team with Nakategawa is back on defense.'
+
+{0x1774}	LOAD_STRING	'Chihiro'
+{0x1776}	LOAD_STRING	'@v00040639"So? How does it feel to transfer schools and suddenly blaze through to valedictorian status?"'
+
+{0x1780}	LOAD_STRING	'Yui'
+{0x1782}	LOAD_STRING	'@v00020569"I don't believe it, it's just..."'
+
+{0x1790}	LOAD_STRING	'Tatsumi'
+{0x1792}	LOAD_STRING	'Just?'
+
+{0x17A2}	LOAD_STRING	'Nakategawa shrugs.'
+
+{0x17AC}	LOAD_STRING	'Yui'
+{0x17AE}	LOAD_STRING	'@v00020570"I promised my father. He said I shouldn't neglect my schoolwork even if I change schools.@t0690@hYUI_A201KM He said if I score 2nd or lower, he'd send me right back to Shichiyou."'
+
+{0x17BC}	LOAD_STRING	'Tatsumi'
+{0x17BE}	LOAD_STRING	'Oh...'
+
+{0x17C8}	LOAD_STRING	'Yui'
+{0x17CA}	LOAD_STRING	'@v00020571"I also don't want him thinking I'm just chasing after boys, right? I'm just not falling behind on homework."'
+
+{0x17D4}	LOAD_STRING	'Miki'
+{0x17D6}	LOAD_STRING	'@v00010756"You're so sweet,@t0180@hMIKI_A201EG3 Yui-chan!"'
+
+{0x17E6}	LOAD_STRING	'Miki puts her arms over her eyes and strikes a pose of lying and crying.'
+
+{0x184F}	LOAD_STRING	'Chihiro'
+{0x1851}	LOAD_STRING	'@v00040640"You brought a pretty cool chick over here, Tatsumi-san."'
+
+{0x185F}	LOAD_STRING	'Tatsumi'
+{0x1861}	LOAD_STRING	'Nah, I didn't bring her anywhere.'
+
+{0x1871}	LOAD_STRING	'I cut the pass between Miki and Chihiro.'
+
+{0x188F}	LOAD_STRING	'And then, I give the ball to the girl next to me, who is also a very nice girl.'
+
+{0x1899}	LOAD_STRING	'Chihiro'
+{0x189B}	LOAD_STRING	'@v00040641"Haha. By the way, I'm sure the brilliant students of Kurigaoka are shocked to be suddenly knocked out by a new student who just transferred."'
+
+{0x18A5}	LOAD_STRING	'Miki'
+{0x18A7}	LOAD_STRING	'@v00010757"No wonder they resent you.@t0290@hMIKI_A202OD Yui-chan, be careful heading home today, okay?"'
+
+{0x1914}	LOAD_STRING	'Yui'
+{0x1916}	LOAD_STRING	'@v00020572"Ah...?@t0200@hYUI_A202KM I just want a normal school life!"@k'
+
+{0x195E}	LOAD_STRING	'With that said, Nakategawa's shot landed far in front of the ring.'

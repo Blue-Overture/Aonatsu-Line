@@ -1,0 +1,2161 @@
+{
+	"TABLE": [
+		2,
+		2,
+		2,
+		2,
+		2,
+		2,
+		1
+	],
+	"ENTRIES": [
+		{
+			"DATA": "0000000000000000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "0400000000000000ffffffff28000000ffffffffffffffff",
+			"STRING": "Scroll up"
+		},
+		{
+			"DATA": "0500000093020000ffffffff29000000ffffffffffffffff",
+			"STRING": "Scroll down"
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "000000000b000000ffffffff0100000002000000ffffffff",
+			"STRING": "Fix/unfix panel"
+		},
+		{
+			"DATA": "2e0000000b000000ffffffff03000000ffffffffffffffff",
+			"STRING": "Close window"
+		},
+		{
+			"DATA": "590000000b000000ffffffff05000000ffffffffffffffff",
+			"STRING": "Play audio"
+		},
+		{
+			"DATA": "880000000b000000ffffffff06000000ffffffffffffffff",
+			"STRING": "Jump to previous option"
+		},
+		{
+			"DATA": "b40000000b000000ffffffff07000000ffffffffffffffff",
+			"STRING": "Show backlog"
+		},
+		{
+			"DATA": "df0000000b000000ffffffff08000000ffffffffffffffff",
+			"STRING": "Enable Auto Mode"
+		},
+		{
+			"DATA": "0e0100000b000000ffffffff09000000ffffffffffffffff",
+			"STRING": "Enable Skip Mode"
+		},
+		{
+			"DATA": "3d0100000b000000ffffffff0a000000ffffffffffffffff",
+			"STRING": "Jump to next option"
+		},
+		{
+			"DATA": "700100000b000000ffffffff0b000000ffffffffffffffff",
+			"STRING": "Open save menu"
+		},
+		{
+			"DATA": "bd0100000b000000ffffffff0c000000ffffffffffffffff",
+			"STRING": "Open load menu"
+		},
+		{
+			"DATA": "0a0200000b000000ffffffff0d000000ffffffffffffffff",
+			"STRING": "Open settings menu"
+		},
+		{
+			"DATA": "630200000b000000ffffffff0e000000ffffffffffffffff",
+			"STRING": "Return to title screen"
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "0b00000000000000ffffffff28000000ffffffffffffffff",
+			"STRING": "Scroll up"
+		},
+		{
+			"DATA": "000000002d000000ffffffff01000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "00000000a5000000ffffffff01000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "000000001d010000ffffffff01000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "0000000095010000ffffffff01000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "000000000d020000ffffffff01000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "0000000085020000ffffffff01000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "00000000fd020000ffffffff01000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "0000000075030000ffffffff01000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "00000000c1010000ffffffff01000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "00000000f5010000ffffffff01000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "0000000029020000ffffffff01000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "000000005d020000ffffffff01000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "0000000091020000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "00000000c5020000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "00000000f9020000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "000000002d030000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "0000000061030000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "0000000095030000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "00000000c9030000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "00000000fd030000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "0b000000e8030000ffffffff29000000ffffffffffffffff",
+			"STRING": "Scroll down"
+		},
+		{
+			"DATA": "0d00000010040000ffffffff2b0000002a000000ffffffff",
+			"STRING": "Fix/unfix panel"
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "2800000065000000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "e803000065000000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "28000000a2010000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "e8030000a2010000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "28000000df020000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "e8030000df020000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "0000000000000000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "0000000000000000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "0000000000000000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "0000000000000000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "0000000000000000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "0000000000000000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "0000000000000000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "0000000000000000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "0000000000000000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "0000000000000000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "0000000000000000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "0000000000000000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "0000000000000000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "0000000000000000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "2600000004000000ffffffff01000000ffffffffffffffff",
+			"STRING": "Open save menu"
+		},
+		{
+			"DATA": "7400000004000000ffffffff02000000ffffffffffffffff",
+			"STRING": "Open load menu"
+		},
+		{
+			"DATA": "c200000004000000ffffffff03000000ffffffffffffffff",
+			"STRING": "Open settings menu"
+		},
+		{
+			"DATA": "1c01000004000000ffffffff04000000ffffffffffffffff",
+			"STRING": "Return to title screen"
+		},
+		{
+			"DATA": "6501000004000000ffffffff05000000ffffffffffffffff",
+			"STRING": "Exit game"
+		},
+		{
+			"DATA": "a301000004000000ffffffff06000000ffffffffffffffff",
+			"STRING": "Close menu"
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "1700000003000000ffffffff0200000003000000ffffffff",
+			"STRING": "Fix/unfix panel"
+		},
+		{
+			"DATA": "5400000003000000ffffffff04000000ffffffffffffffff",
+			"STRING": "Exit Auto Mode"
+		},
+		{
+			"DATA": "c90000001300000002010000000000000100000002000000",
+			"STRING": "Change Auto Mode speed"
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "1700000003000000ffffffff0500000006000000ffffffff",
+			"STRING": "Fix/unfix panel"
+		},
+		{
+			"DATA": "5400000003000000ffffffff07000000ffffffffffffffff",
+			"STRING": "Exit Skip Mode"
+		},
+		{
+			"DATA": "c90000001300000002010000000000000100000002000000",
+			"STRING": "Change Skip Mode speed"
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "2800000029000000ffffffff0100000002000000ffffffff",
+			"STRING": "ゲーム画面をフルスクリーンで表示します"
+		},
+		{
+			"DATA": "6e00000029000000ffffffff0300000004000000ffffffff",
+			"STRING": "ゲーム画面をフルスクリーンで表示します（アスペクト比・解像度固定）"
+		},
+		{
+			"DATA": "b400000029000000ffffffff0500000006000000ffffffff",
+			"STRING": "ゲーム画面をウィンドウモードで表示します"
+		},
+		{
+			"DATA": "3900000051000000ffffffff0700000008000000ffffffff",
+			"STRING": "Make all dialogue skippable"
+		},
+		{
+			"DATA": "a300000051000000ffffffff090000000a000000ffffffff",
+			"STRING": "Only previously read dialogue is skippable"
+		},
+		{
+			"DATA": "350000007800000074000000000000000100000002000000",
+			"STRING": "Change message display speed"
+		},
+		{
+			"DATA": "35000000a000000074000000000000000100000002000000",
+			"STRING": "Change transparency of window"
+		},
+		{
+			"DATA": "35000000c800000074000000000000000100000002000000",
+			"STRING": "Change voiceover playback speed"
+		},
+		{
+			"DATA": "35000000f000000074000000000000000100000002000000",
+			"STRING": "Set master volume"
+		},
+		{
+			"DATA": "4100000007010000ffffffff67000000680000000d000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "4000000000000000ffffffff020000000300000038000000",
+			"STRING": "Go to save states 1 - 6"
+		},
+		{
+			"DATA": "a600000000000000ffffffff040000000500000039000000",
+			"STRING": "Go to save states 7 - 12"
+		},
+		{
+			"DATA": "0c01000000000000ffffffff06000000070000003a000000",
+			"STRING": "Go to save states 13 - 18"
+		},
+		{
+			"DATA": "7201000000000000ffffffff08000000090000003b000000",
+			"STRING": "Go to save states 19 - 24"
+		},
+		{
+			"DATA": "d801000000000000ffffffff0a0000000b0000003c000000",
+			"STRING": "Go to save states 25 - 30"
+		},
+		{
+			"DATA": "3e02000000000000ffffffff0c0000000d0000003d000000",
+			"STRING": "Go to save states 31 - 36"
+		},
+		{
+			"DATA": "a402000000000000ffffffff0e0000000f0000003e000000",
+			"STRING": "Go to save states 37 - 42"
+		},
+		{
+			"DATA": "0a03000000000000ffffffff10000000110000003f000000",
+			"STRING": "Go to save states 43 - 48"
+		},
+		{
+			"DATA": "7003000000000000ffffffff120000001300000040000000",
+			"STRING": "Go to save states 49 - 54"
+		},
+		{
+			"DATA": "d603000000000000ffffffff140000001500000041000000",
+			"STRING": "Go to save states 55 - 60"
+		},
+		{
+			"DATA": "3c04000000000000ffffffff160000001700000042000000",
+			"STRING": "Go to auto saves 1 - 6"
+		},
+		{
+			"DATA": "a204000000000000ffffffff180000001900000043000000",
+			"STRING": "Go to auto saves 7 - 12"
+		},
+		{
+			"DATA": "0805000000000000ffffffff1a0000001b00000044000000",
+			"STRING": "Go to quick save"
+		},
+		{
+			"DATA": "2206000000000000ffffffff1c0000001d000000ffffffff",
+			"STRING": "Move save data"
+		},
+		{
+			"DATA": "8806000000000000ffffffff1e0000001f000000ffffffff",
+			"STRING": "Delete save data"
+		},
+		{
+			"DATA": "ee06000000000000ffffffff2000000021000000ffffffff",
+			"STRING": "Edit memo on save data"
+		},
+		{
+			"DATA": "1e00000006000000ffffffff220000002300000045000000",
+			"STRING": "Go to ADV settings"
+		},
+		{
+			"DATA": "9600000006000000ffffffff240000002500000046000000",
+			"STRING": "Go to system settings"
+		},
+		{
+			"DATA": "2c01000006000000ffffffff260000002700000047000000",
+			"STRING": "Go to display settings"
+		},
+		{
+			"DATA": "c201000006000000ffffffff280000002900000048000000",
+			"STRING": "Go to message settings part 1"
+		},
+		{
+			"DATA": "8002000006000000ffffffff2a0000002b00000049000000",
+			"STRING": "Go to message settings part 2"
+		},
+		{
+			"DATA": "3e03000006000000ffffffff2c0000002d0000004a000000",
+			"STRING": "Go to audio settings"
+		},
+		{
+			"DATA": "d403000006000000ffffffff2e0000002f0000004b000000",
+			"STRING": "Go to voice settings"
+		},
+		{
+			"DATA": "dc03000006000000ffffffffffffffffffffffffffffffff",
+			"STRING": "Go to touchscreen settings"
+		},
+		{
+			"DATA": "a404000006000000ffffffffffffffffffffffffffffffff",
+			"STRING": "Go to gamepad settings"
+		},
+		{
+			"DATA": "a405000006000000ffffffff35000000ffffffff34000000",
+			"STRING": "Reset displayed page settings to default"
+		},
+		{
+			"DATA": "7c06000006000000ffffffff37000000ffffffff36000000",
+			"STRING": "Reset all settings to default"
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "1600000004000000ffffffff0f000000ffffffffffffffff",
+			"STRING": "Play previous track"
+		},
+		{
+			"DATA": "4300000004000000ffffffff100000000e000000ffffffff",
+			"STRING": "Play or pause track"
+		},
+		{
+			"DATA": "7000000004000000ffffffff12000000ffffffffffffffff",
+			"STRING": "Stop playing track"
+		},
+		{
+			"DATA": "9d00000004000000ffffffff11000000ffffffffffffffff",
+			"STRING": "Play next track"
+		},
+		{
+			"DATA": "ca00000004000000ffffffff15000000ffffffffffffffff",
+			"STRING": "Loop current track"
+		},
+		{
+			"DATA": "ca00000004000000ffffffff14000000ffffffffffffffff",
+			"STRING": "Play tracks in sequential order"
+		},
+		{
+			"DATA": "ca00000004000000ffffffff13000000ffffffffffffffff",
+			"STRING": "Shuffle tracks"
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "fbffffffffffffffffffffff01000000ffffffffffffffff",
+			"STRING": "Hide buttons and thumbnails"
+		},
+		{
+			"DATA": "22000000ffffffffffffffff02000000ffffffffffffffff",
+			"STRING": "Return to title screen"
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "3400000003000000ffffffff0100000002000000ffffffff",
+			"STRING": "Fix/unfix panel"
+		},
+		{
+			"DATA": "7000000003000000ffffffff03000000ffffffffffffffff",
+			"STRING": "Exit slideshow"
+		},
+		{
+			"DATA": "ac00000003000000ffffffff04000000ffffffffffffffff",
+			"STRING": "Show previous CG"
+		},
+		{
+			"DATA": "e800000003000000ffffffff05000000ffffffffffffffff",
+			"STRING": "Show next CG"
+		},
+		{
+			"DATA": "680100001000000002010000000000000100000002000000",
+			"STRING": "Change slideshow speed"
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "9a00000015000000ffffffff0100000002000000ffffffff",
+			"STRING": "Enter CG mode"
+		},
+		{
+			"DATA": "3501000015000000ffffffff0300000004000000ffffffff",
+			"STRING": "Enter music mode"
+		},
+		{
+			"DATA": "3501000015000000ffffffffffffffffffffffffffffffff",
+			"STRING": "Enter replay mode"
+		},
+		{
+			"DATA": "cf01000015000000ffffffff0700000008000000ffffffff",
+			"STRING": "Enter event mode"
+		},
+		{
+			"DATA": "6a02000015000000ffffffffffffffffffffffffffffffff",
+			"STRING": "Enter character mode"
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "7effffff24000000ffffffffffffffffffffffff0d000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "8200000024000000ffffffffffffffffffffffff0e000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "9dfeffff75000000ffffffff0f0000001000000011000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "fc0000006a000000ffffffffffffffffffffffffffffffff",
+			"STRING": "Use save panel function"
+		},
+		{
+			"DATA": "750100006a000000ffffffffffffffffffffffffffffffff",
+			"STRING": "Disable save panel function"
+		},
+		{
+			"DATA": "5101000088000000ffffffffffffffffffffffffffffffff",
+			"STRING": "Use quick settings function"
+		},
+		{
+			"DATA": "f201000088000000ffffffffffffffffffffffffffffffff",
+			"STRING": "Disable quick settings function"
+		},
+		{
+			"DATA": "b2010000af000000ffffffff1d0000001e000000ffffffff",
+			"STRING": "Use NEW icon for most recent save data"
+		},
+		{
+			"DATA": "b8020000af000000ffffffff1f00000020000000ffffffff",
+			"STRING": "Disable NEW icon for most recent save data"
+		},
+		{
+			"DATA": "b2010000fa000000ffffffff1d0000001e000000ffffffff",
+			"STRING": "Display voice playback gauge"
+		},
+		{
+			"DATA": "b8020000fa000000ffffffff1f00000020000000ffffffff",
+			"STRING": "Disables voice playback gauge"
+		},
+		{
+			"DATA": "b201000045010000ffffffff1d0000001e000000ffffffff",
+			"STRING": "Display Auto Mode delay gauge"
+		},
+		{
+			"DATA": "b802000045010000ffffffff1f00000020000000ffffffff",
+			"STRING": "Disable Auto Mode delay gauge"
+		},
+		{
+			"DATA": "b201000090010000ffffffff1d0000001e000000ffffffff",
+			"STRING": "Display BGM track name in top right corner"
+		},
+		{
+			"DATA": "b802000090010000ffffffff1f00000020000000ffffffff",
+			"STRING": "Disable track name display"
+		},
+		{
+			"DATA": "b2010000db010000ffffffffffffffffffffffffffffffff",
+			"STRING": "Display \"loading\" indicator when loading"
+		},
+		{
+			"DATA": "b8020000db010000ffffffffffffffffffffffffffffffff",
+			"STRING": "Disable \"loading\" indicator"
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "510100006d010000ffffffffffffffffffffffffffffffff",
+			"STRING": "Selections blink when highlighted"
+		},
+		{
+			"DATA": "f20100006d010000ffffffffffffffffffffffffffffffff",
+			"STRING": "Disable blinking on highlighted selections"
+		},
+		{
+			"DATA": "5101000081010000ffffffffffffffffffffffffffffffff",
+			"STRING": "Enable mouth animations during voice dialogue"
+		},
+		{
+			"DATA": "f201000081010000ffffffffffffffffffffffffffffffff",
+			"STRING": "Disable mouth animations"
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "fe010000210200005f010000000000000100000002000000",
+			"STRING": "Change transparency of window"
+		},
+		{
+			"DATA": "b201000071020000ffffffff1d0000001e000000ffffffff",
+			"STRING": "Display \"Read\" icon in the message window"
+		},
+		{
+			"DATA": "b802000071020000ffffffff1f00000020000000ffffffff",
+			"STRING": "Disable \"Read\" icon"
+		},
+		{
+			"DATA": "b2010000bc020000ffffffff1d0000001e000000ffffffff",
+			"STRING": "Display \"Confirm\" icon when waiting to continue"
+		},
+		{
+			"DATA": "b8020000bc020000ffffffff1f00000020000000ffffffff",
+			"STRING": "Disable \"Confirm\" icon"
+		},
+		{
+			"DATA": "b201000007030000ffffffff1d0000001e000000ffffffff",
+			"STRING": "Underline messages"
+		},
+		{
+			"DATA": "b802000007030000ffffffff1f00000020000000ffffffff",
+			"STRING": "Disables message underlining"
+		},
+		{
+			"DATA": "eb0000004f030000ffffffff67000000680000006a000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "5f00000016040000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "350100007e000000ffffffffffffffffffffffffffffffff",
+			"STRING": "ゲーム画面をフルスクリーンで表示します"
+		},
+		{
+			"DATA": "a00100007e000000ffffffffffffffffffffffffffffffff",
+			"STRING": "ゲーム画面をフルスクリーンで表示します（アスペクト比・解像度固定）"
+		},
+		{
+			"DATA": "0c0200007e000000ffffffffffffffffffffffffffffffff",
+			"STRING": "ゲーム画面をウィンドウモードで表示します"
+		},
+		{
+			"DATA": "360100006a000000ffffffffffffffffffffffffffffffff",
+			"STRING": "ゲーム画面のウィンドウサイズを320x180にします"
+		},
+		{
+			"DATA": "a10100006a000000ffffffffffffffffffffffffffffffff",
+			"STRING": "ゲーム画面のウィンドウサイズを640x360にします"
+		},
+		{
+			"DATA": "0d0200006a000000ffffffffffffffffffffffffffffffff",
+			"STRING": "ゲーム画面のウィンドウサイズを800x450にします"
+		},
+		{
+			"DATA": "790200006a000000ffffffffffffffffffffffffffffffff",
+			"STRING": "ゲーム画面のウィンドウサイズを1024x576にします"
+		},
+		{
+			"DATA": "e50200006a000000ffffffffffffffffffffffffffffffff",
+			"STRING": "ゲーム画面のウィンドウサイズを1280x720にします"
+		},
+		{
+			"DATA": "510300006a000000ffffffffffffffffffffffffffffffff",
+			"STRING": "ゲーム画面のウィンドウサイズを1600x900にします"
+		},
+		{
+			"DATA": "bd0300006a000000ffffffffffffffffffffffffffffffff",
+			"STRING": "ゲーム画面のウィンドウサイズを1920x1080にします"
+		},
+		{
+			"DATA": "0000000073000000ffffffffffffffffffffffffffffffff",
+			"STRING": "ゲーム画面のウィンドウサイズを0000x0000にします"
+		},
+		{
+			"DATA": "5101000092000000ffffffffffffffffffffffffffffffff",
+			"STRING": "起動時に最新のアップデートファイルがないか確認するようにします（要ネット環境）"
+		},
+		{
+			"DATA": "f201000092000000ffffffffffffffffffffffffffffffff",
+			"STRING": "起動時にアップデートファイルの確認を行わないようにします"
+		},
+		{
+			"DATA": "48050000af000000ffffffff190000001a000000ffffffff",
+			"STRING": "Begin game by automatically loading latest save file"
+		},
+		{
+			"DATA": "4e060000af000000ffffffff1b0000001c000000ffffffff",
+			"STRING": "Begin game on title screen"
+		},
+		{
+			"DATA": "b2010000af000000ffffffff1d0000001e000000ffffffff",
+			"STRING": "Display simple help for buttons and menus"
+		},
+		{
+			"DATA": "b8020000af000000ffffffff1f00000020000000ffffffff",
+			"STRING": "Disable simple help"
+		},
+		{
+			"DATA": "b2010000fa000000ffffffff1d0000001e000000ffffffff",
+			"STRING": "Display error and informational messages in the lower left corner"
+		},
+		{
+			"DATA": "b8020000fa000000ffffffff1f00000020000000ffffffff",
+			"STRING": "Disable informational messages"
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "6400000004010000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "6400000018010000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "640000002c010000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "6400000040010000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "c902000004010000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "48050000fa000000ffffffff2500000026000000ffffffff",
+			"STRING": "Supress auto sleep during auto skip"
+		},
+		{
+			"DATA": "4e060000fa000000ffffffff2700000028000000ffffffff",
+			"STRING": "Allow auto sleep during auto skip"
+		},
+		{
+			"DATA": "c902000040010000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "b2010000bd010000ffffffff2500000026000000ffffffff",
+			"STRING": "Auto save during heroine selection"
+		},
+		{
+			"DATA": "b8020000bd010000ffffffff2700000028000000ffffffff",
+			"STRING": "Disable auto save during heroine selection"
+		},
+		{
+			"DATA": "48050000bd010000ffffffff2500000026000000ffffffff",
+			"STRING": "Auto save during loading"
+		},
+		{
+			"DATA": "4e060000bd010000ffffffff2700000028000000ffffffff",
+			"STRING": "Disable auto save during loading"
+		},
+		{
+			"DATA": "4805000008020000ffffffff2500000026000000ffffffff",
+			"STRING": "Auto save previous save when overwriting"
+		},
+		{
+			"DATA": "4e06000008020000ffffffff2700000028000000ffffffff",
+			"STRING": "Disable auto saving previous save when overwriting"
+		},
+		{
+			"DATA": "b20100000e010000ffffffffffffffffffffffffffffffff",
+			"STRING": "Auto save when ending game"
+		},
+		{
+			"DATA": "b80200000e010000ffffffffffffffffffffffffffffffff",
+			"STRING": "Disable auto saving when ending game"
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "b2010000cb020000ffffffff3d0000003e000000ffffffff",
+			"STRING": "Stops at unread dialogue when jumping ahead"
+		},
+		{
+			"DATA": "b8020000cb020000ffffffff3f00000040000000ffffffff",
+			"STRING": "Disables stopping at unread dialogue"
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "b2010000af000000ffffffff490000004a000000ffffffff",
+			"STRING": "Show confirmation window during save"
+		},
+		{
+			"DATA": "b8020000af000000ffffffff4b0000004c000000ffffffff",
+			"STRING": "Disable confirmation window during save"
+		},
+		{
+			"DATA": "48050000af000000ffffffff490000004a000000ffffffff",
+			"STRING": "Show confirmation window during load"
+		},
+		{
+			"DATA": "4e060000af000000ffffffff4b0000004c000000ffffffff",
+			"STRING": "Disable confirmation window during load"
+		},
+		{
+			"DATA": "b2010000fa000000ffffffff490000004a000000ffffffff",
+			"STRING": "Show confirmation window during quick save"
+		},
+		{
+			"DATA": "b8020000fa000000ffffffff4b0000004c000000ffffffff",
+			"STRING": "Disable confirmation window during quick save"
+		},
+		{
+			"DATA": "48050000fa000000ffffffff490000004a000000ffffffff",
+			"STRING": "Show confirmatino window during quick load"
+		},
+		{
+			"DATA": "4e060000fa000000ffffffff4b0000004c000000ffffffff",
+			"STRING": "Disable confirmation window during quick load"
+		},
+		{
+			"DATA": "1602000045010000ffffffffffffffffffffffffffffffff",
+			"STRING": "Show confirmation window when saving from save menu"
+		},
+		{
+			"DATA": "1c03000045010000ffffffffffffffffffffffffffffffff",
+			"STRING": "Disable confirmation window when saving from save menu"
+		},
+		{
+			"DATA": "ac05000045010000ffffffffffffffffffffffffffffffff",
+			"STRING": "Show confirmation window when loading from save menu"
+		},
+		{
+			"DATA": "b206000045010000ffffffffffffffffffffffffffffffff",
+			"STRING": "Disable confirmation window when loading from save menu"
+		},
+		{
+			"DATA": "b201000045010000ffffffff490000004a000000ffffffff",
+			"STRING": "Show confirmation window when moving save data"
+		},
+		{
+			"DATA": "b802000045010000ffffffff4b0000004c000000ffffffff",
+			"STRING": "Disable confirmation window when moving save data"
+		},
+		{
+			"DATA": "4805000045010000ffffffff490000004a000000ffffffff",
+			"STRING": "Show confirmation window when deleting save data"
+		},
+		{
+			"DATA": "4e06000045010000ffffffff4b0000004c000000ffffffff",
+			"STRING": "Disable confirmation window when deleting save data"
+		},
+		{
+			"DATA": "b201000090010000ffffffff490000004a000000ffffffff",
+			"STRING": "Show confirmation window when restoring default settings"
+		},
+		{
+			"DATA": "b802000090010000ffffffff4b0000004c000000ffffffff",
+			"STRING": "Disable confirmation window when restoring default settings"
+		},
+		{
+			"DATA": "4805000090010000ffffffff490000004a000000ffffffff",
+			"STRING": "Show confirmation window during quick jump"
+		},
+		{
+			"DATA": "4e06000090010000ffffffff4b0000004c000000ffffffff",
+			"STRING": "Disable confirmation window during quick jump"
+		},
+		{
+			"DATA": "b2010000db010000ffffffff490000004a000000ffffffff",
+			"STRING": "Show confirmation window when jumping to previous selection"
+		},
+		{
+			"DATA": "b8020000db010000ffffffff4b0000004c000000ffffffff",
+			"STRING": "Disable confirmation window when jumping to previous selection"
+		},
+		{
+			"DATA": "48050000db010000ffffffff490000004a000000ffffffff",
+			"STRING": "Show confirmation window when jumping to next selection"
+		},
+		{
+			"DATA": "4e060000db010000ffffffff4b0000004c000000ffffffff",
+			"STRING": "Disable confirmation window when jumping to next selection"
+		},
+		{
+			"DATA": "b201000026020000ffffffffffffffffffffffffffffffff",
+			"STRING": "Show confirmation window when suspending gameplay"
+		},
+		{
+			"DATA": "b802000026020000ffffffffffffffffffffffffffffffff",
+			"STRING": "Disable confirmation window when suspending gameplay"
+		},
+		{
+			"DATA": "4805000026020000ffffffffffffffffffffffffffffffff",
+			"STRING": "Show confirmation window when ending game"
+		},
+		{
+			"DATA": "4e06000026020000ffffffffffffffffffffffffffffffff",
+			"STRING": "Disable confirmation window when ending game"
+		},
+		{
+			"DATA": "b201000026020000ffffffff490000004a000000ffffffff",
+			"STRING": "Show confirmation window when returning to title screen"
+		},
+		{
+			"DATA": "b802000026020000ffffffff4b0000004c000000ffffffff",
+			"STRING": "Disable confirmation window when returning to title screen"
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "33010000b20200005f010000ffffffffffffffffffffffff",
+			"STRING": "Set menu background red values"
+		},
+		{
+			"DATA": "69020000b20200005f010000ffffffffffffffffffffffff",
+			"STRING": "Set menu background green values"
+		},
+		{
+			"DATA": "9f030000b20200005f010000ffffffffffffffffffffffff",
+			"STRING": "Set menu background blue values"
+		},
+		{
+			"DATA": "f9030000b2020000ffffffffffffffffffffffffffffffff",
+			"STRING": "Revert menu background colors to default"
+		},
+		{
+			"DATA": "f4010000c702000055010000000000000100000002000000",
+			"STRING": "Set transparency of menu background"
+		},
+		{
+			"DATA": "96050000c702000055010000000000000100000002000000",
+			"STRING": "Set interlacing strength of menu background"
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "33010000a20300005f010000ffffffffffffffffffffffff",
+			"STRING": "Set overall gameplay speed"
+		},
+		{
+			"DATA": "33010000ca0300005f010000ffffffffffffffffffffffff",
+			"STRING": "Set scene gameplay speed"
+		},
+		{
+			"DATA": "33010000f20300005f010000ffffffffffffffffffffffff",
+			"STRING": "Set character performance speed"
+		},
+		{
+			"DATA": "9f030000ca0300005f010000ffffffffffffffffffffffff",
+			"STRING": "Set window speed"
+		},
+		{
+			"DATA": "f40100001403000055010000000000000100000002000000",
+			"STRING": "Set menu speed"
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "48030000af000000ffffffffffffffffffffffffffffffff",
+			"STRING": "Set character font type"
+		},
+		{
+			"DATA": "20020000af000000ffffffffffffffffffffffffffffffff",
+			"STRING": "Set character font type"
+		},
+		{
+			"DATA": "68040000af000000ffffffffffffffffffffffffffffffff",
+			"STRING": "Set character font type"
+		},
+		{
+			"DATA": "b2010000af000000ffffffff290000002a000000ffffffff",
+			"STRING": "Disable font gradient"
+		},
+		{
+			"DATA": "2a020000af000000ffffffff2b0000002c000000ffffffff",
+			"STRING": "Set light font gradient"
+		},
+		{
+			"DATA": "b6020000af000000ffffffff2d0000002e000000ffffffff",
+			"STRING": "Set normal font gradient"
+		},
+		{
+			"DATA": "2e030000af000000ffffffff2f00000030000000ffffffff",
+			"STRING": "Set dark font gradient"
+		},
+		{
+			"DATA": "ce01000086010000ffffffffffffffffffffffffffffffff",
+			"STRING": "Disable bold text"
+		},
+		{
+			"DATA": "7c02000086010000ffffffffffffffffffffffffffffffff",
+			"STRING": "Set bold text"
+		},
+		{
+			"DATA": "2a03000086010000ffffffffffffffffffffffffffffffff",
+			"STRING": "Set even bolder text"
+		},
+		{
+			"DATA": "ce010000cc010000ffffffffffffffffffffffffffffffff",
+			"STRING": "Disable text outlining"
+		},
+		{
+			"DATA": "7c020000cc010000ffffffffffffffffffffffffffffffff",
+			"STRING": "Set light text outlining"
+		},
+		{
+			"DATA": "2a030000cc010000ffffffffffffffffffffffffffffffff",
+			"STRING": "Set strong text outlining"
+		},
+		{
+			"DATA": "48050000af000000ffffffff3100000032000000ffffffff",
+			"STRING": "Disable text shadows"
+		},
+		{
+			"DATA": "f6050000af000000ffffffff3300000034000000ffffffff",
+			"STRING": "Set light text shadows"
+		},
+		{
+			"DATA": "a4060000af000000ffffffff3500000036000000ffffffff",
+			"STRING": "Set strong text shadows"
+		},
+		{
+			"DATA": "c0030000fa000000ffffffffffffffffffffffffffffffff",
+			"STRING": "Set font colors for each character"
+		},
+		{
+			"DATA": "d0020000fa000000ffffffff62000000ffffffffffffffff",
+			"STRING": "Set font colors for previous character"
+		},
+		{
+			"DATA": "b0040000fa000000ffffffff63000000ffffffffffffffff",
+			"STRING": "Set font colors for next character"
+		},
+		{
+			"DATA": "c00100004001000054010000000000000100000002000000",
+			"STRING": "Set red values for current character font"
+		},
+		{
+			"DATA": "890300004001000054010000000000000100000002000000",
+			"STRING": "Set green values for current character font"
+		},
+		{
+			"DATA": "690500004001000054010000000000000100000002000000",
+			"STRING": "Set blue values for current character font"
+		},
+		{
+			"DATA": "6009000068010000ffffffffffffffffffffffffffffffff",
+			"STRING": "Restore font color defaults for current character"
+		},
+		{
+			"DATA": "fc030000a4010000ffffffffffffffffffffffff66000000",
+			"STRING": "Display or hide display message"
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "c00100008b02000054010000000000000100000002000000",
+			"STRING": "Change message display speed"
+		},
+		{
+			"DATA": "690500008b02000054010000000000000100000002000000",
+			"STRING": "Change Auto Mode speed"
+		},
+		{
+			"DATA": "c0010000d602000054010000000000000100000002000000",
+			"STRING": "Change Skip Mode speed"
+		},
+		{
+			"DATA": "b201000025030000ffffffff2100000022000000ffffffff",
+			"STRING": "Make all dialogue skippable"
+		},
+		{
+			"DATA": "b802000025030000ffffffff2300000024000000ffffffff",
+			"STRING": "Only previously read dialogue is skippable"
+		},
+		{
+			"DATA": "4805000025030000ffffffff2500000026000000ffffffff",
+			"STRING": "Add weight to punctuation"
+		},
+		{
+			"DATA": "4e06000025030000ffffffff2700000028000000ffffffff",
+			"STRING": "Disables weighed punctuation"
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "4a010000b0000000ffffffff67000000680000006b000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "4a010000fb000000ffffffff67000000680000006b000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "4a01000046010000ffffffff67000000680000006b000000",
+			"STRING": "Disabling this will cause all dialogue currently being typed out to be shown immediately."
+		},
+		{
+			"DATA": "4a01000091010000ffffffff67000000680000006b000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "4a010000dc010000ffffffff67000000680000006b000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "4a01000027020000ffffffff67000000680000006b000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "4a01000072020000ffffffff67000000680000006b000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "4a010000bd020000ffffffff67000000680000006b000000",
+			"STRING": "Enable to auto-hide the message window and only play voiceovers"
+		},
+		{
+			"DATA": "4a01000008030000ffffffff67000000680000006b000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "4a01000053030000ffffffff67000000680000006b000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "20030000ac0000008a020000000000000100000002000000",
+			"STRING": "Set master volume"
+		},
+		{
+			"DATA": "20030000f70000008a020000000000000100000002000000",
+			"STRING": "Set background music volume"
+		},
+		{
+			"DATA": "58020000f7000000ffffffff64000000ffffffffffffffff",
+			"STRING": "Test background music"
+		},
+		{
+			"DATA": "20030000420100008a020000000000000100000002000000",
+			"STRING": "Set sound effects volume"
+		},
+		{
+			"DATA": "5802000042010000ffffffff64000000ffffffffffffffff",
+			"STRING": "Test sound effects"
+		},
+		{
+			"DATA": "200300008d0100008a020000000000000100000002000000",
+			"STRING": "Set voice playback volume"
+		},
+		{
+			"DATA": "580200008d010000ffffffff64000000ffffffffffffffff",
+			"STRING": "Test voice playback"
+		},
+		{
+			"DATA": "20030000db0100008a020000ffffffffffffffffffffffff",
+			"STRING": "Set looping voice volume"
+		},
+		{
+			"DATA": "58020000db010000ffffffffffffffffffffffffffffffff",
+			"STRING": "Test looping voice"
+		},
+		{
+			"DATA": "20030000d80100008a020000000000000100000002000000",
+			"STRING": "Set system sounds volume"
+		},
+		{
+			"DATA": "58020000d8010000ffffffff64000000ffffffffffffffff",
+			"STRING": "Test system sounds"
+		},
+		{
+			"DATA": "20030000230200008a020000000000000100000002000000",
+			"STRING": "Set system voice volume"
+		},
+		{
+			"DATA": "5802000023020000ffffffff64000000ffffffffffffffff",
+			"STRING": "Test system voice"
+		},
+		{
+			"DATA": "40010000bd020000ffffffff67000000680000006a000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "4001000008030000ffffffff67000000680000006a000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "cc0100008c0100005f010000ffffffffffffffffffffffff",
+			"STRING": "Set audio playback speed"
+		},
+		{
+			"DATA": "c800000046010000ffffffff67000000680000006b000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "c8000000b0000000ffffffff67000000680000006b000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "18010000fb000000ffffffff67000000680000006b000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "88040000a8020000ffffffff64000000ffffffffffffffff",
+			"STRING": "Test voice playback"
+		},
+		{
+			"DATA": "8204000016030000ffffffff4d0000004e000000ffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "4005000016030000ffffffff4f00000050000000ffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "31040000d00200005f010000000000000100000002000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "7800000028020000ffffffff67000000680000006a000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "7503000093000000ffffffff01000000ffffffffffffffff",
+			"STRING": "Close window"
+		},
+		{
+			"DATA": "bb03000093000000ffffffff02000000ffffffffffffffff",
+			"STRING": "Play audio"
+		},
+		{
+			"DATA": "0104000093000000ffffffff03000000ffffffffffffffff",
+			"STRING": "Jump to previous option"
+		},
+		{
+			"DATA": "4704000093000000ffffffff04000000ffffffffffffffff",
+			"STRING": "Display backlog"
+		},
+		{
+			"DATA": "8d04000093000000ffffffff05000000ffffffffffffffff",
+			"STRING": "Enable Auto Mode"
+		},
+		{
+			"DATA": "75030000e3000000ffffffff06000000ffffffffffffffff",
+			"STRING": "Skip dialogue while button is pressed"
+		},
+		{
+			"DATA": "bb030000e3000000ffffffff07000000ffffffffffffffff",
+			"STRING": "Enable Skip Mode"
+		},
+		{
+			"DATA": "01040000e3000000ffffffff08000000ffffffffffffffff",
+			"STRING": "Skip all dialogue while button is pressed"
+		},
+		{
+			"DATA": "47040000e3000000ffffffff09000000ffffffffffffffff",
+			"STRING": "Enable Skip All Mode"
+		},
+		{
+			"DATA": "8d040000e3000000ffffffff0a000000ffffffffffffffff",
+			"STRING": "Jump to next option"
+		},
+		{
+			"DATA": "7503000033010000ffffffff0b000000ffffffffffffffff",
+			"STRING": "Open save menu"
+		},
+		{
+			"DATA": "bb03000033010000ffffffff0c000000ffffffffffffffff",
+			"STRING": "Open load menu"
+		},
+		{
+			"DATA": "0104000033010000ffffffff0d000000ffffffffffffffff",
+			"STRING": "Quick save"
+		},
+		{
+			"DATA": "4704000033010000ffffffff0e000000ffffffffffffffff",
+			"STRING": "Quick load"
+		},
+		{
+			"DATA": "8d04000033010000ffffffff0f000000ffffffffffffffff",
+			"STRING": "Open settings menu"
+		},
+		{
+			"DATA": "7503000083010000ffffffff10000000ffffffffffffffff",
+			"STRING": "Return to title screen"
+		},
+		{
+			"DATA": "bb03000083010000ffffffff11000000ffffffffffffffff",
+			"STRING": "ゲームウィンドウを最小化します"
+		},
+		{
+			"DATA": "0104000083010000ffffffff12000000ffffffffffffffff",
+			"STRING": "Enable Panic Mode"
+		},
+		{
+			"DATA": "4704000083010000ffffffff13000000ffffffffffffffff",
+			"STRING": "ゲームをセーブして終了します"
+		},
+		{
+			"DATA": "8d04000083010000ffffffff14000000ffffffffffffffff",
+			"STRING": "Exit game"
+		},
+		{
+			"DATA": "75030000d3010000ffffffff15000000ffffffffffffffff",
+			"STRING": "フルスクリーン、ウィンドウモードへ切り替えます"
+		},
+		{
+			"DATA": "bb030000d3010000ffffffff16000000ffffffffffffffff",
+			"STRING": "ボタンの選択箇所を切り替えます"
+		},
+		{
+			"DATA": "01040000d3010000ffffffff17000000ffffffffffffffff",
+			"STRING": "左クリックと同等の動作をします"
+		},
+		{
+			"DATA": "47040000d3010000ffffffff18000000ffffffffffffffff",
+			"STRING": "ホイールクリックと同等の動作をします"
+		},
+		{
+			"DATA": "8d040000d3010000ffffffff19000000ffffffffffffffff",
+			"STRING": "右クリックと同等の動作をします"
+		},
+		{
+			"DATA": "7503000023020000ffffffff1a000000ffffffffffffffff",
+			"STRING": "Take a screenshot"
+		},
+		{
+			"DATA": "bb03000023020000ffffffff1b000000ffffffffffffffff",
+			"STRING": "ボタンを押している間、処理を高速化させます"
+		},
+		{
+			"DATA": "0104000023020000ffffffffffffffffffffffffffffffff",
+			"STRING": "Displays Tips menu"
+		},
+		{
+			"DATA": "0104000023020000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "0104000023020000ffffffff1c000000ffffffffffffffff",
+			"STRING": "Removes function assignment"
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "c800000069000000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "f000000069000000ffffffff01000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "1801000069000000ffffffff02000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "4001000069000000ffffffff03000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "7c01000069000000ffffffff04000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "a401000069000000ffffffff05000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "cc01000069000000ffffffff06000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "f401000069000000ffffffff07000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "3002000069000000ffffffff08000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "5802000069000000ffffffff09000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "8002000069000000ffffffff0a000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "a802000069000000ffffffff0b000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "a0000000a5000000ffffffff0c000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "c8000000a5000000ffffffff0d000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "f0000000a5000000ffffffff0e000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "18010000a5000000ffffffff0f000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "40010000a5000000ffffffff10000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "68010000a5000000ffffffff11000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "90010000a5000000ffffffff12000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "b8010000a5000000ffffffff13000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "e0010000a5000000ffffffff14000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "08020000a5000000ffffffff15000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "30020000a5000000ffffffff16000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "58020000a5000000ffffffff17000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "80020000a5000000ffffffff18000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "a8020000a5000000ffffffff19000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "82000000cd000000ffffffff1a000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "b4000000cd000000ffffffff1b000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "dc000000cd000000ffffffff1c000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "04010000cd000000ffffffff1d000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "2c010000cd000000ffffffff1e000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "54010000cd000000ffffffff1f000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "7c010000cd000000ffffffff20000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "a4010000cd000000ffffffff21000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "cc010000cd000000ffffffff22000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "f4010000cd000000ffffffff23000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "1c020000cd000000ffffffff24000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "44020000cd000000ffffffff25000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "6c020000cd000000ffffffff26000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "c8000000f5000000ffffffff27000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "f0000000f5000000ffffffff28000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "18010000f5000000ffffffff29000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "40010000f5000000ffffffff2a000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "68010000f5000000ffffffff2b000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "90010000f5000000ffffffff2c000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "b8010000f5000000ffffffff2d000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "e0010000f5000000ffffffff2e000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "08020000f5000000ffffffff2f000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "30020000f5000000ffffffff30000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "58020000f5000000ffffffff31000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "80020000f5000000ffffffff32000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "960000001d010000ffffffff33000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "dc0000001d010000ffffffff34000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "040100001d010000ffffffff35000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "2c0100001d010000ffffffff36000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "540100001d010000ffffffff37000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "7c0100001d010000ffffffff38000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "a40100001d010000ffffffff39000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "cc0100001d010000ffffffff3a000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "f40100001d010000ffffffff3b000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "1c0200001d010000ffffffff3c000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "440200001d010000ffffffff3d000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "6c0200001d010000ffffffff3e000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "9e0200001d010000ffffffff3f000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "8c00000045010000ffffffff40000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "7c01000045010000ffffffff41000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "a802000045010000ffffffff42000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "580200009f010000ffffffff43000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "800200009f010000ffffffff44000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "a80200009f010000ffffffff45000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "30020000c7010000ffffffff46000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "58020000c7010000ffffffff47000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "80020000c7010000ffffffff48000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "30020000ef010000ffffffff49000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "58020000ef010000ffffffff4a000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "80020000ef010000ffffffff4b000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "a8020000db010000ffffffff4c000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "3002000017020000ffffffff4d000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "5802000017020000ffffffff4e000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "8002000017020000ffffffff4f000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "440200003f020000ffffffff50000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "800200003f020000ffffffff51000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "4100000082010000ffffffff67000000680000006b000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "360100006a000000ffffffff3700000038000000ffffffff",
+			"STRING": "ホイールによるスクロールの速度を低速にします"
+		},
+		{
+			"DATA": "a10100006a000000ffffffff390000003a000000ffffffff",
+			"STRING": "ホイールによるスクロールの速度を通常にします"
+		},
+		{
+			"DATA": "0c0200006a000000ffffffff3b0000003c000000ffffffff",
+			"STRING": "ホイールによるスクロールの速度を高速にします"
+		},
+		{
+			"DATA": "640000007d000000ffffffff67000000680000006b000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "6400000091000000ffffffff67000000680000006b000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "64000000a5000000ffffffff67000000680000006b000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "1a010000d2000000ffffffff0f00000010000000ffffffff",
+			"STRING": "Ａタイプのマウスカーソルを使用します"
+		},
+		{
+			"DATA": "54010000d2000000ffffffff1100000012000000ffffffff",
+			"STRING": "Ｂタイプのマウスカーソルを使用します"
+		},
+		{
+			"DATA": "8e010000d2000000ffffffff1300000014000000ffffffff",
+			"STRING": "Ｃタイプのマウスカーソルを使用します"
+		},
+		{
+			"DATA": "c8010000d2000000ffffffff1500000016000000ffffffff",
+			"STRING": "Ｄタイプのマウスカーソルを使用します"
+		},
+		{
+			"DATA": "02020000d2000000ffffffff1700000018000000ffffffff",
+			"STRING": "システムのマウスカーソルを使用します"
+		},
+		{
+			"DATA": "200100001f010000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "200100006f010000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "20010000bf010000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "200100000f020000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "530200001f010000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "5302000015020000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "d10100009a010000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "d50200009a010000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "640000006a000000ffffffff67000000680000006b000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "d7000000bc000000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "d70000009a010000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "690000002e010000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "450100002e010000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "45010000fb010000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "94020000bb000000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "940200000b010000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "940200005b010000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "94020000ab010000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "94020000fb010000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "640000006a000000ffffffff67000000680000006b000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "cd000000bb000000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "cd0000000b010000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "cd0000005b010000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "cd000000ab010000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "cd000000fb010000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "c7010000bb000000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "c70100000b010000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "c70100005b010000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "c7010000ab010000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "c7010000fb010000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "c1020000bb000000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "c10200000b010000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "c10200005b010000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "c1020000ab010000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "c1020000fb010000ffffffff00000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "2e06000064000000ffffffff01000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "2e060000e6000000ffffffff02000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "2e06000068010000ffffffff03000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "2e060000ea010000ffffffff04000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "2e0600006c020000ffffffff05000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "2e060000ee020000ffffffff06000000ffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "2e06000070030000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "2e060000f2030000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "b0030000e0010000ffffffff9700000098000000a5000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "14040000e0010000ffffffff990000009a000000a6000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "78040000e0010000ffffffff9b0000009c000000a7000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "dc040000e0010000ffffffff9d0000009e000000a8000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "40050000e0010000ffffffff9f000000a0000000a9000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "a4050000e0010000ffffffffa1000000a2000000aa000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "b0030000e0010000ffffffffa3000000a4000000ab000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "14040000e0010000ffffffffa3000000a4000000ab000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "78040000e0010000ffffffffa3000000a4000000ab000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "dc040000e0010000ffffffffa3000000a4000000ab000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "40050000e0010000ffffffff9f000000a0000000a9000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "a4050000e0010000ffffffffa1000000a2000000aa000000",
+			"STRING": ""
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "b0030000e0010000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "14040000e0010000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "78040000e0010000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "dc040000e0010000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "40050000e0010000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "a4050000e0010000ffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "c8000000bc020000ffffffff7300000074000000ffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "4a010000bc020000ffffffff7500000076000000ffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "cc010000bc020000ffffffff7700000078000000ffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "4e020000bc020000ffffffff790000007a000000ffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "d0020000bc020000ffffffff7b0000007c000000ffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "c8000000bc020000ffffffff7d0000007e000000ffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "4a010000bc020000ffffffff7f00000080000000ffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "cc010000bc020000ffffffff8100000082000000ffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "4e020000bc020000ffffffff8300000084000000ffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "d0020000bc020000ffffffff8500000086000000ffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		},
+		{
+			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
+			"STRING": ""
+		}
+	]
+}

@@ -1,0 +1,1086 @@
+{0x0005}	LOAD_STRING	'Back to the beginning.'
+
+{0x0198}	SPECIAL_TEXT	0x0	'(Good Morning Stamp)'
+
+{0x01BE}	LOAD_STRING	'Miki(Message)'
+{0x01C2}	LOAD_CUSTOM_TEXT	0x1	'(Good Morning Stamp)'
+
+{0x0271}	SPECIAL_TEXT	0x1	'"Mornin!"'
+
+{0x0297}	LOAD_STRING	'Miki(Message)'
+{0x029B}	LOAD_CUSTOM_TEXT	0x1	'"Mornin~"'
+
+{0x0332}	SPECIAL_TEXT	0x2	'"Good Morning."'
+
+{0x0358}	LOAD_STRING	'Tatsumi(Message)'
+{0x035C}	LOAD_CUSTOM_TEXT	0x1	'"Good Morning."'
+
+{0x03F3}	SPECIAL_TEXT	0x3	'"You awake, Chihiro? "'
+
+{0x0419}	LOAD_STRING	'Tatsumi(Message)'
+{0x041D}	LOAD_CUSTOM_TEXT	0x1	'"You awake, Chihiro? "'
+
+{0x04B4}	SPECIAL_TEXT	0x4	'"I'm up."'
+
+{0x04DA}	LOAD_STRING	'Chihiro(Message)'
+{0x04DE}	LOAD_CUSTOM_TEXT	0x1	'"I'm up."'
+
+{0x0575}	SPECIAL_TEXT	0x5	'(OK Stamp)'
+
+{0x059B}	LOAD_STRING	'Miki(Message)'
+{0x059F}	LOAD_CUSTOM_TEXT	0x1	'(OK Stamp)'
+
+{0x062E}	SPECIAL_TEXT	0x6	'"Okay, see ya later."'
+
+{0x0654}	LOAD_STRING	'Miki(Message)'
+{0x0658}	LOAD_CUSTOM_TEXT	0x1	'"Okay, see ya later."'
+
+{0x06EF}	SPECIAL_TEXT	0x7	'"Oui!"'
+
+{0x0715}	LOAD_STRING	'Tatsumi(Message)'
+{0x0719}	LOAD_CUSTOM_TEXT	0x1	'"Oui!"'
+
+{0x07B0}	SPECIAL_TEXT	0x8	'"Chi-kun, please eat!"'
+
+{0x07D6}	LOAD_STRING	'Miki(Message)'
+{0x07DA}	LOAD_CUSTOM_TEXT	0x1	'"Chi-kun, please eat!"'
+
+{0x0871}	SPECIAL_TEXT	0x9	'(OK Stamp)'
+
+{0x0897}	LOAD_STRING	'Chihiro(Message)'
+{0x089B}	LOAD_CUSTOM_TEXT	0x1	'(OK Stamp)'
+
+{0x09C6}	LOAD_STRING	'Miki'
+{0x09C8}	LOAD_STRING	'@v00010040"Ahh, the breeze feels nice."'
+
+{0x0A24}	LOAD_STRING	'Chihiro'
+{0x0A26}	LOAD_STRING	'@v00040031"Some of these people are even wearing their summer uniforms."'
+
+{0x0A80}	LOAD_STRING	'Miki'
+{0x0A82}	LOAD_STRING	'@v00010041"It's starting to get hot lately, huh?@t0442@hMIKI_A202OD Do you think I'm okay like this? I mean, do you think my clothes are getting too tight?"'
+
+{0x0A8C}	LOAD_STRING	'Chihiro'
+{0x0A8E}	LOAD_STRING	'@v00040032"Nah, I'm not seeing a difference. I think you've stopped growing."'
+
+{0x0A98}	LOAD_STRING	'Miki'
+{0x0A9A}	LOAD_STRING	'@v00010042"Hey, I'm still getting bigger!@t0325@hMIKI_A201EG2 Right, Tak-kun?"'
+
+{0x0AA8}	LOAD_STRING	'Tatsumi'
+{0x0AAA}	LOAD_STRING	'Whew...'
+
+{0x0ACA}	LOAD_STRING	'This road downhill leads to school.'
+
+{0x0ADA}	LOAD_STRING	'While I listen to them ramble, I let out a big yawn.'
+
+{0x0B2C}	LOAD_STRING	'Miki'
+{0x0B2E}	LOAD_STRING	'@v00010043"That's the fifth time you've yawned today!"'
+
+{0x0B3E}	LOAD_STRING	'My friend, Miki Kohsaka, said teasingly.'
+
+{0x0B48}	LOAD_STRING	'Miki'
+{0x0B4A}	LOAD_STRING	'@v00010044"You look really sleepy."'
+
+{0x0B70}	LOAD_STRING	'Chihiro'
+{0x0B72}	LOAD_STRING	'@v00040033"Did you stay up after we split up last night?"'
+
+{0x0B82}	LOAD_STRING	'My best and worst friend, Chihiro Sakaki, butts into the conversation.'
+
+{0x0B90}	LOAD_STRING	'Tatsumi'
+{0x0B92}	LOAD_STRING	'Nah, I'm just curious, how do you guys have so much energy?'
+
+{0x0BA2}	LOAD_STRING	'We should have gone to bed around the same time, how are these two not sleepy?'
+
+{0x0BAC}	LOAD_STRING	'Miki'
+{0x0BAE}	LOAD_STRING	'@v00010045"Tak-kun, are you getting weaker?"'
+
+{0x0BB8}	LOAD_STRING	'Chihiro'
+{0x0BBA}	LOAD_STRING	'@v00040034"Isn't it normal for young people to stay up one or two nights in a row?"'
+
+{0x0BC4}	LOAD_STRING	'Miki'
+{0x0BC6}	LOAD_STRING	'@v00010046"That's right!"'
+
+{0x0C42}	LOAD_STRING	'Chihiro and Miki laugh and bump fists with each other. '
+
+{0x0C86}	LOAD_STRING	'As we reach the bottom of the hill, the view opens up.'
+
+{0x0C96}	LOAD_STRING	'The seaside is calm as ever, reflecting sunlight peacefully.'
+
+{0x0D30}	LOAD_STRING	'As we are quickly joined by commuters coming off the train, we find our walk becoming more lively.'
+
+{0x0D40}	LOAD_STRING	'In stark contrast to the walk downhill, the way uphill from here makes commuting by bike really difficult.'
+
+{0x0D82}	LOAD_STRING	'Miki'
+{0x0D84}	LOAD_STRING	'@v00010047"So, I was thinking last night and..."'
+
+{0x0D8E}	LOAD_STRING	'Miki'
+{0x0D90}	LOAD_STRING	'@v00010048"We should start a band, right?!"'
+
+{0x0DA0}	LOAD_STRING	'Miki blurted out.'
+
+{0x0DAA}	LOAD_STRING	'Chihiro'
+{0x0DAC}	LOAD_STRING	'@v00040035"You should sing, and I'll handle the drums."'
+
+{0x0DB6}	LOAD_STRING	'Miki'
+{0x0DB8}	LOAD_STRING	'@v00010049"Yes, I want to sing!"'
+
+{0x0DC8}	LOAD_STRING	'She says as she plays an air guitar.'
+
+{0x0DD2}	LOAD_STRING	'Miki'
+{0x0DD4}	LOAD_STRING	'@v00010050"You know, I really admire female singers who play guitar!"'
+
+{0x0DE2}	LOAD_STRING	'Tatsumi'
+{0x0DE4}	LOAD_STRING	'You can sing, but you can't play guitar, can you?'
+
+{0x0DF4}	LOAD_STRING	'She had practiced for a while, but gave up when she got to the F chord.'
+
+{0x0DFE}	LOAD_STRING	'Miki'
+{0x0E00}	LOAD_STRING	'@v00010051"I-I'll try harder this time!"'
+
+{0x0E0A}	LOAD_STRING	'Chihiro'
+{0x0E0C}	LOAD_STRING	'@v00040036"So, Tatsumi... You'll be the bassist?"'
+
+{0x0E1A}	LOAD_STRING	'Tatsumi'
+{0x0E1C}	LOAD_STRING	'That's all that's left...'
+
+{0x0E26}	LOAD_STRING	'Miki'
+{0x0E28}	LOAD_STRING	'@v00010052"Tak-kun, don't be so uppity. Bass and drums are the backbone of the band, aren't they?"'
+
+{0x0E36}	LOAD_STRING	'Tatsumi'
+{0x0E38}	LOAD_STRING	'That's funny, a lead singer calling someone else "uppity"...'
+
+{0x0E48}	LOAD_STRING	'But you have a point. I'd be better at bass.'
+
+{0x0E52}	LOAD_STRING	'Chihiro'
+{0x0E54}	LOAD_STRING	'@v00040037"Okay, let's change the subject for a second. So..."'
+
+{0x0E5E}	LOAD_STRING	'Miki'
+{0x0E60}	LOAD_STRING	'@v00010053"What? Why? Tak-kun, do you have something more to add?"'
+
+{0x0EE2}	LOAD_STRING	'Passing through the school gate, you can see the basketball court we hang out at during lunchtime.'
+
+{0x0EF2}	LOAD_STRING	'I can already hear some girls laughing from our classroom.'
+
+{0x0F00}	LOAD_STRING	'Tatsumi'
+{0x0F02}	LOAD_STRING	'Oh, like a tour of the city's shrines and temples?'
+
+{0x0F44}	LOAD_STRING	'Miki'
+{0x0F46}	LOAD_STRING	'@v00010054"Eh, that's kinda tacky."'
+
+{0x0F54}	LOAD_STRING	'Tatsumi'
+{0x0F56}	LOAD_STRING	'Don't talk about shrines like they're boring, you'll incur the wrath of the gods.'
+
+{0x0F60}	LOAD_STRING	'Chihiro'
+{0x0F62}	LOAD_STRING	'@v00040038"What if we went to a restaurant on Otojima and ordered one of everything on the menu?"'
+
+{0x0F6C}	LOAD_STRING	'Miki'
+{0x0F6E}	LOAD_STRING	'@v00010055"Oh, that sounds good. Let's have an eating competition, just the three of us."'
+
+{0x0F78}	LOAD_STRING	'Chihiro'
+{0x0F7A}	LOAD_STRING	'@v00040039"Not a bad idea, but I can only imagine who'll come out in last place..."'
+
+{0x0F8A}	LOAD_STRING	'It's true that I eat less than these two, but...'
+
+{0x0F98}	LOAD_STRING	'Tatsumi'
+{0x0F9A}	LOAD_STRING	'Is being able to eat so much really that great?'
+
+{0x0FA4}	LOAD_STRING	'Chihiro'
+{0x0FA6}	LOAD_STRING	'@v00040040"Yeah... well, what do you think, should we try and do the Shirasudon bowl challenge in the shopping district instead?"'
+
+{0x0FB0}	LOAD_STRING	'Miki'
+{0x0FB2}	LOAD_STRING	'@v00010056"Chi-kun, all you talk about is food..."'
+
+{0x104C}	LOAD_STRING	'???'
+{0x104E}	LOAD_STRING	'@v00020040"Oh, um!"'
+
+{0x1074}	LOAD_STRING	'Miki'
+{0x1076}	LOAD_STRING	'@v00010057"Huh?"'
+
+{0x1080}	LOAD_STRING	'Chihiro'
+{0x1082}	LOAD_STRING	'@v00040041"Hm?"'
+
+{0x10A2}	LOAD_STRING	'Once we arrived at the front door of the classroom, a voice startled us, and we all turned to the direction of the voice.'
+
+{0x11B9}	LOAD_STRING	'???'
+{0x11BB}	LOAD_STRING	'@v00020041"Oh, um... If you're looking for a good Shirasudon, I recommend Gessanken's..."'
+
+{0x11C9}	LOAD_STRING	'Tatsumi'
+{0x11CB}	LOAD_STRING	'Oh.'
+
+{0x11D5}	LOAD_STRING	'Chihiro'
+{0x11D7}	LOAD_STRING	'@v00040042"You're..."'
+
+{0x11E1}	LOAD_STRING	'Miki'
+{0x11E3}	LOAD_STRING	'@v00010058"Um..."'
+
+{0x127B}	LOAD_STRING	'???'
+{0x127D}	LOAD_STRING	'@v00020042"The best way to have it is half-boiled, and half-fresh Shirasu."'
+
+{0x128B}	LOAD_STRING	'Tatsumi'
+{0x128D}	LOAD_STRING	'Huh, I see...'
+
+{0x1297}	LOAD_STRING	'Chihiro'
+{0x1299}	LOAD_STRING	'@v00040043"I knew that already, but thanks.@t0230@hCHIHIRO_A202KM3 Um..."'
+
+{0x12A3}	LOAD_STRING	'Miki'
+{0x12A5}	LOAD_STRING	'@v00010059"You're the transfer student from Class C, right?"'
+
+{0x12B5}	LOAD_STRING	'The girl nods her head.'
+
+{0x12BF}	LOAD_STRING	'Yui'
+{0x12C1}	LOAD_STRING	'@v00020043"That's right, my name is Yui Nakategawa.@t0290@h Good morning!"@k'
+
+{0x12E4}	LOAD_STRING	'She then bowed awkwardly.'
+
+{0x12EE}	LOAD_STRING	'Miki'
+{0x12F0}	LOAD_STRING	'@v00010060"Oh, that's right, Nakategawa-san!@t0270@hMIKI_A201EG3 Good morning!"@k'
+
+{0x130D}	LOAD_STRING	'Yui'
+{0x130F}	LOAD_STRING	'@v00020044"Y-yes! Today is a good day. I really wanted to tell you something!"'
+
+{0x1357}	LOAD_STRING	'She said this so loudly that it echoed around the entrance.'
+
+{0x135F}	LOAD_STRING	'Gaya11#'
+
+{0x137B}	LOAD_STRING	'The surrounding students turn their heads and wonder what's going on.'
+
+{0x1385}	LOAD_STRING	'Miki'
+{0x1387}	LOAD_STRING	'@v00010061"Okay, let's all settle down a little. What did you want to tell me?"'
+
+{0x1404}	LOAD_STRING	'As she said that, Miki follows Nakategawa's gaze.'
+
+{0x1414}	LOAD_STRING	'She's staring behind her, actually.'
+
+{0x142C}	LOAD_STRING	'Tatsumi'
+{0x142E}	LOAD_STRING	'...Me?'
+
+{0x145E}	LOAD_STRING	'Nakategawa-san nods and points at me.@k'
+
+{0x14D1}	LOAD_STRING	'Yui'
+{0x14D3}	LOAD_STRING	'@v00020045"Y-yes, you're Tatsumi Oikawa, aren't you? Well, actually..."'
+
+{0x14F1}	LOAD_STRING	'She called me by my full name and I felt something deep in my chest...'
+
+{0x1501}	LOAD_STRING	'Nakategawa-san fidgets her own hands.'
+
+{0x1511}	LOAD_STRING	'Seeing her expression, not only Miki and Chihiro, but the rest of the classmates begin to rustle.'
+
+{0x151B}	LOAD_STRING	'Yui'
+{0x151D}	LOAD_STRING	'@v00020046"So, well..."'
+
+{0x152D}	LOAD_STRING	'She notices everyone staring at her, and her face becomes redder.'
+
+{0x1537}	LOAD_STRING	'Yui'
+{0x1539}	LOAD_STRING	'@v00020047"Tatsumi-san, I, um..."'
+
+{0x15AD}	LOAD_STRING	'Again she calls me by my full name, and my heart skips a beat.'
+
+{0x15D1}	LOAD_STRING	'Now the students are starting to mumble to themselves.'
+
+{0x15DF}	LOAD_STRING	'Tatsumi'
+{0x15E1}	LOAD_STRING	'You want me to... what?'
+
+{0x15F1}	LOAD_STRING	'I feel myself choking on my own spit.'
+
+{0x1643}	LOAD_STRING	'Yui'
+{0x1645}	LOAD_STRING	'@v00020048"Y-yes... actually, I've been interested in you for some time... @t0800@hYUI_U201IK and..."'
+
+{0x1699}	LOAD_STRING	'Tatsumi'
+{0x169B}	LOAD_STRING	'Huh?'
+
+{0x16A5}	LOAD_STRING	'Miki'
+{0x16A7}	LOAD_STRING	'@v00010062"Whaaa?!"'
+
+{0x16B1}	LOAD_STRING	'Chihiro'
+{0x16B3}	LOAD_STRING	'@v00040044"Whaaa-?!"'
+
+{0x1713}	LOAD_STRING	'Yui'
+{0x1715}	LOAD_STRING	'@v00020049"Tatsumi-san, I have a favor to ask..."'
+
+{0x1723}	LOAD_STRING	'Tatsumi'
+{0x1725}	LOAD_STRING	'A favor... for me...?'
+
+{0x1749}	LOAD_STRING	'The students' murmur is now a dull roar, and their gaze is piercing my mind.'
+
+{0x1753}	LOAD_STRING	'Yui'
+{0x1755}	LOAD_STRING	'@v00020050"..."'
+
+{0x175F}	LOAD_STRING	'Yui'
+{0x1761}	LOAD_STRING	'@v00020051"Um..."'
+
+{0x1771}	LOAD_STRING	'Noticing the state of the room, she starts dropping her voice.'
+
+{0x1785}	LOAD_STRING	'Yui'
+{0x1787}	LOAD_STRING	'@v00020052"Well, it's a little embarassing... Can I tell you after school?"'
+
+{0x1795}	LOAD_STRING	'Tatsumi'
+{0x1797}	LOAD_STRING	'I don't mind, but...'
+
+{0x17A1}	LOAD_STRING	'Miki'
+{0x17A3}	LOAD_STRING	'@v00010063"Could this be...?"'
+
+{0x17AD}	LOAD_STRING	'Chihiro'
+{0x17AF}	LOAD_STRING	'@v00040045"Oh, could this be...?!"'
+
+{0x17BF}	LOAD_STRING	'I hear their voices simultaneously...'
+
+{0x17C9}	LOAD_STRING	'Yui'
+{0x17CB}	LOAD_STRING	'@v00020053"So, you'll meet me after school, on the rooftop?"'
+
+{0x17DB}	LOAD_STRING	'Even though she's shy, she seems equally as determined.'
+
+{0x17EB}	LOAD_STRING	'I felt I had no choice but to accept it.'
+
+{0x17F9}	LOAD_STRING	'Tatsumi'
+{0x17FB}	LOAD_STRING	'A-after school, um... Yeah, I think I'm free today.'
+
+{0x1805}	LOAD_STRING	'Miki'
+{0x1807}	LOAD_STRING	'@v00010064"Don't worry, I'll be sure he has nothing else on his schedule!"'
+
+{0x1811}	LOAD_STRING	'Chihiro'
+{0x1813}	LOAD_STRING	'@v00040046"Yeah, I'm thinking his schedule today was meant to be free, just to meet with you!"'
+
+{0x1823}	LOAD_STRING	'Things are heating up, and what these two are saying is so awkward.'
+
+{0x182D}	LOAD_STRING	'Yui'
+{0x182F}	LOAD_STRING	'@v00020054"O-okay, then I'll be waiting for you on the rooftop after school..."'
+
+{0x1839}	LOAD_STRING	'Yui'
+{0x183B}	LOAD_STRING	'@v00020055"I'll wait until you come..."'
+
+{0x1870}	LOAD_STRING	'Then, still blushing, Nakategawa-san runs into the elevator.'
+
+{0x1880}	LOAD_STRING	'As I watch her leave...'
+
+{0x191A}	LOAD_STRING	'Chihiro'
+{0x191C}	LOAD_STRING	'@v00040047"Hey, Ta-tsu-mi-kun."'
+
+{0x1926}	LOAD_STRING	'Miki'
+{0x1928}	LOAD_STRING	'@v00010065"Heheh, I'm so glad spring is here!"'
+
+{0x1936}	LOAD_STRING	'Tatsumi'
+{0x1938}	LOAD_STRING	'Oh, stop it! It's too hot.'
+
+{0x199C}	LOAD_STRING	'As I pulled away from these two, I felt my cheeks blushing, too.'
+
+{0x1A76}	LOAD_STRING	'Chihiro'
+{0x1A78}	LOAD_STRING	'@v00040048"As usual, nothing but long shots from you."'
+
+{0x1A88}	LOAD_STRING	'He says as he picks the basketball up with one hand.'
+
+{0x1A98}	LOAD_STRING	'I didn't have the strength to keep trying to go on the offensive.'
+
+{0x1AA2}	LOAD_STRING	'Miki'
+{0x1AA4}	LOAD_STRING	'@v00010066"Well, why don't you try again? Just do it like Tak-kun!"'
+
+{0x1AB4}	LOAD_STRING	'Miki calls out to Chihiro as she sits on the bench, legs dangling.'
+
+{0x1ABE}	LOAD_STRING	'Chihiro'
+{0x1AC0}	LOAD_STRING	'@v00040049"Nah, the best part of basketball is clashing under the basket."'
+
+{0x1ACA}	LOAD_STRING	'Chihiro'
+{0x1ACC}	LOAD_STRING	'@v00040050"You just need to know how to not get caught up."'
+
+{0x1AD6}	LOAD_STRING	'Miki'
+{0x1AD8}	LOAD_STRING	'@v00010067"Just the fact that you said that out loud constitutes a technical foul."'
+
+{0x1AF6}	LOAD_STRING	'Chihiro ignores Miki and passes me the ball.'
+
+{0x1B00}	LOAD_STRING	'Chihiro'
+{0x1B02}	LOAD_STRING	'@v00040051"Come on, let's go again."'
+
+{0x1B22}	LOAD_STRING	'And so, we go one-on-one like always.'
+
+{0x1B32}	LOAD_STRING	'I've been playing basketball during lunch every day since April, so this makes how many hundreds of rounds?'
+
+{0x1B90}	LOAD_STRING	'Miki'
+{0x1B92}	LOAD_STRING	'@v00010068"So, Tak-kun, what are you gonna do?"'
+
+{0x1BA0}	LOAD_STRING	'Tatsumi'
+{0x1BA2}	LOAD_STRING	'What do you mean, "What am I gonna do?"'
+
+{0x1BB2}	LOAD_STRING	'I say as I dribble the ball and try to fake Chihiro out.'
+
+{0x1BC2}	LOAD_STRING	'There's a big skill difference between us, so I have to be careful or else he'll steamroll me.'
+
+{0x1BCC}	LOAD_STRING	'Chihiro'
+{0x1BCE}	LOAD_STRING	'@v00040052"Let's talk after@t0170@hCHIHIRO_U201IK school!"@k'
+
+{0x1BEC}	LOAD_STRING	'As soon as I hear him say "after school", I'm distracted and Chihiro takes the ball.'
+
+{0x1BF6}	LOAD_STRING	'Chihiro'
+{0x1BF8}	LOAD_STRING	'@v00040053"Haha, you're so easy to mess with."'
+
+{0x1C53}	LOAD_STRING	'Okay, enough defense. I'm going to take the ball back from Chihiro.'
+
+{0x1C61}	LOAD_STRING	'Tatsumi'
+{0x1C63}	LOAD_STRING	'I'm not gonna fall for your tricks.'
+
+{0x1C73}	LOAD_STRING	'As I said that...'
+
+{0x1CB1}	LOAD_STRING	'Female students'
+{0x1CB3}	LOAD_STRING	'@v00090913"Hey, Sakaki-senpai~"'
+
+{0x1CC3}	LOAD_STRING	'From the window of the first floor classroom, several female students called out to Chihiro.'
+
+{0x1D31}	LOAD_STRING	'Chihiro'
+{0x1D33}	LOAD_STRING	'@v00040054"Heeeey."'
+
+{0x1D43}	LOAD_STRING	'Chihiro says this dismissively.'
+
+{0x1D73}	LOAD_STRING	'I see an opportunity to steal the ball...'
+
+{0x1D7D}	LOAD_STRING	'Chihiro'
+{0x1D7F}	LOAD_STRING	'@v00040055"Sweet, sweet. But you're one step too late."'
+
+{0x1DFB}	LOAD_STRING	'He switches it up and goes for a layup shot.'
+
+{0x1E0B}	LOAD_STRING	'The girls' cheering can be heard from the classroom as the ball clears the basket.'
+
+{0x1E80}	LOAD_STRING	'Mayu'
+{0x1E82}	LOAD_STRING	'@v00900019"Sigh...! Sakaki-senpai is so cool!"'
+
+{0x1E90}	LOAD_STRING	'Ayna'
+{0x1E92}	LOAD_STRING	'@v00900020"Hey, is Sakaki-senpai dating Kohsaka-senpai? They're always together, aren't they?"'
+
+{0x1EA0}	LOAD_STRING	'Yuzuki'
+{0x1EA2}	LOAD_STRING	'@v00900021"Well, that's not what I heard from an upperclassman."'
+
+{0x1EB0}	LOAD_STRING	'Ayna'
+{0x1EB2}	LOAD_STRING	'@v00900022"Oh, well, Kohsaka-senpai and... that way?"'
+
+{0x1EC0}	LOAD_STRING	'Mayu'
+{0x1EC2}	LOAD_STRING	'@v00900023"Ahaha, that girl is kinda boring. What do you think, Kotone?"'
+
+{0x1F10}	LOAD_STRING	'???'
+{0x1F12}	LOAD_STRING	'@v00030026"Huh...?"'
+
+{0x1F1C}	LOAD_STRING	'???'
+{0x1F1E}	LOAD_STRING	'@v00030027"Yeah, there's no way they're together."'
+
+{0x1F48}	LOAD_STRING	'Mayu'
+{0x1F4A}	LOAD_STRING	'@v00900024"Right? Hahaha."'
+
+{0x1FF6}	LOAD_STRING	'Yui'
+{0x1FF8}	LOAD_STRING	'@v00020056"Oh..."'
+
+{0x2078}	LOAD_STRING	'Miki'
+{0x207A}	LOAD_STRING	'@v00010069"Chi-kun, swap me."'
+
+{0x20C0}	LOAD_STRING	'The ball rolls to Miki's feet, and she picks it up and passes it to me.'
+
+{0x20D0}	LOAD_STRING	'And Chihiro moves to the bench where Miki was a moment ago.'
+
+{0x20EE}	LOAD_STRING	'Miki'
+{0x20F0}	LOAD_STRING	'@v00010070"Yui Nakategawa transferred to Class 2C this spring."'
+
+{0x2100}	LOAD_STRING	'Miki keeps her posture low as she starts talking.'
+
+{0x210A}	LOAD_STRING	'Miki'
+{0x210C}	LOAD_STRING	'@v00010071"I hear she's the mysterious type!"'
+
+{0x211C}	LOAD_STRING	'It looks like word has been going around since before lunchtime.'
+
+{0x2126}	LOAD_STRING	'Miki'
+{0x2128}	LOAD_STRING	'@v00010072"I heard she gets picked up and dropped off by a black luxury cruiser every day."'
+
+{0x2132}	LOAD_STRING	'Miki'
+{0x2134}	LOAD_STRING	'@v00010073"The lunches she brings are stacked bentos."'
+
+{0x2198}	LOAD_STRING	'Miki does a cut on me, and suddenly defense and offense are reversed.'
+
+{0x2221}	LOAD_STRING	'Miki'
+{0x2223}	LOAD_STRING	'@v00010074"The girl who shared lunch with her one time said, 'I've never been to one, but this looks like something out of an upscale Japanese restaurant!'"'
+
+{0x222D}	LOAD_STRING	'Chihiro'
+{0x222F}	LOAD_STRING	'@v00040056"She sounds the kind of 'bougie young lady' you only hear about in stories."'
+
+{0x2239}	LOAD_STRING	'Miki'
+{0x223B}	LOAD_STRING	'@v00010075"What's more, I heard that she attended Shichiyou Academy in Yokohama!"'
+
+{0x2249}	LOAD_STRING	'Tatsumi'
+{0x224B}	LOAD_STRING	'Huh?!'
+
+{0x22E1}	LOAD_STRING	'She takes advantage of the opportunity to change from a relaxed stance to go for an easy layup.'
+
+{0x2352}	LOAD_STRING	'Chihiro'
+{0x2354}	LOAD_STRING	'@v00040057"Isn't Shichiyou... A school for young ladies?"'
+
+{0x2364}	LOAD_STRING	'Chihiro's eyes widen.'
+
+{0x2374}	LOAD_STRING	'I'm already familiar with the Shichiyou Academy.'
+
+{0x2384}	LOAD_STRING	'It's a so-called "Gosanke", a school for young ladies that has graduated many celebrities, cultural figures, and entertainers.'
+
+{0x2394}	LOAD_STRING	'When I think about Nakategawa's behavior, it somehow makes sense.'
+
+{0x239E}	LOAD_STRING	'Chihiro'
+{0x23A0}	LOAD_STRING	'@v00040058"Hey, hey, since when have you known someone like that, Tatsumi?"'
+
+{0x23AE}	LOAD_STRING	'Tatsumi'
+{0x23B0}	LOAD_STRING	'...I don't remember.'
+
+{0x23C0}	LOAD_STRING	'It frustrates me that I can't remember.'
+
+{0x23CA}	LOAD_STRING	'Chihiro'
+{0x23CC}	LOAD_STRING	'@v00040059"I can tell you really can't remember."'
+
+{0x23D6}	LOAD_STRING	'Chihiro'
+{0x23D8}	LOAD_STRING	'@v00040060"But then again, why would she move from Shichiyou to out here in the boonies?"'
+
+{0x23E8}	LOAD_STRING	'Kurigaoka Academy, located on the coast, and Shichiyou Academy, located in the center of Yokohama, couldn't be further away from each other...'
+
+{0x2442}	LOAD_STRING	'Miki'
+{0x2444}	LOAD_STRING	'@v00010076"There's that mystery again..."'
+
+{0x2454}	LOAD_STRING	'Miki gives me a meaningful smile.'
+
+{0x245E}	LOAD_STRING	'Miki'
+{0x2460}	LOAD_STRING	'@v00010077"But you know, by the way this morning went, I had a stroke of genius!"'
+
+{0x246A}	LOAD_STRING	'Chihiro'
+{0x246C}	LOAD_STRING	'@v00040061"What do you mean by that?"'
+
+{0x247C}	LOAD_STRING	'It sounds like it's going to be more of a misguided spark.'
+
+{0x2486}	LOAD_STRING	'Miki'
+{0x2488}	LOAD_STRING	'@v00010078"I think that Nakategawa-san was chasing after Tak-kun, so she transferred!"'
+
+{0x2496}	LOAD_STRING	'Tatsumi'
+{0x2498}	LOAD_STRING	'Nah, that's...'
+
+{0x24A8}	LOAD_STRING	'I wouldn't say it's like that.'
+
+{0x24B2}	LOAD_STRING	'Chihiro'
+{0x24B4}	LOAD_STRING	'@v00040062"It's not impossible, is it? It wouldn't be strange for a young lady like her to fall for Tatsumi's kindness."'
+
+{0x24C2}	LOAD_STRING	'Tatsumi'
+{0x24C4}	LOAD_STRING	'I'm caught wide open by his phrasing.'
+
+{0x24D4}	LOAD_STRING	'I don't mean to be overly nice to people.'
+
+{0x24E4}	LOAD_STRING	'I'm just doing what I can.'
+
+{0x24EE}	LOAD_STRING	'Miki'
+{0x24F0}	LOAD_STRING	'@v00010079"So, what are you gonna do?"'
+
+{0x250E}	LOAD_STRING	'Miki shoots the ball at me with a testing look.'
+
+{0x251C}	LOAD_STRING	'Tatsumi'
+{0x251E}	LOAD_STRING	'Well, I'm going to, you know... I did promise.'
+
+{0x2528}	LOAD_STRING	'Chihiro'
+{0x252A}	LOAD_STRING	'@v00040063"Oh yeah? So you're finally gonna...?"'
+
+{0x2534}	LOAD_STRING	'Miki'
+{0x2536}	LOAD_STRING	'@v00010080"Tak-kun, spring has arrived!"@t0240@hMIKI_U201BS@k'
+
+{0x2558}	LOAD_STRING	'Miki steps in low to get the ball.'
+
+{0x2568}	LOAD_STRING	'Like always, she doesn't hold back.'
+
+{0x25AC}	LOAD_STRING	'I try to match her movements, dribbling backwards.'
+
+{0x25B6}	LOAD_STRING	'Chihiro'
+{0x25B8}	LOAD_STRING	'@v00040064"Go for it Tatsumi, go head-on towards her!"'
+
+{0x25C8}	LOAD_STRING	'I hear Chihiro's smartass instructions, but I don't follow them.'
+
+{0x25D2}	LOAD_STRING	'Miki'
+{0x25D4}	LOAD_STRING	'@v00010081"Tak-kun, this is serious business!"'
+
+{0x25E2}	LOAD_STRING	'Tatsumi'
+{0x25E4}	LOAD_STRING	'Even so...'
+
+{0x25F4}	LOAD_STRING	'Even if it's a sports match, directly touching a girl's body isn't something I can do.'
+
+{0x2604}	LOAD_STRING	'Especially with Miki, it's kind of embarrassing.'
+
+{0x2614}	LOAD_STRING	'Although, when we bump into each other accidentally, she's really soft...'
+
+{0x2624}	LOAD_STRING	'And she smells kinda nice.'
+
+{0x2634}	LOAD_STRING	'One of the reasons I've been able to hone my longshots is because of her outspoken nature.'
+
+{0x265E}	LOAD_STRING	'Just before I gain distance from Miki and shoot...'
+
+{0x2668}	LOAD_STRING	'Miki'
+{0x266A}	LOAD_STRING	'@v00010082"Oh, Nakategawa-san!"'
+
+{0x267A}	LOAD_STRING	'She shouted as she pointed toward the classroom.'
+
+{0x26BA}	LOAD_STRING	'Tatsumi'
+{0x26BC}	LOAD_STRING	'Oh...?'
+
+{0x26CC}	LOAD_STRING	'My hand loses control.'
+
+{0x26EA}	LOAD_STRING	'The ball leaves my hand and falls short of the ring.'
+
+{0x2744}	LOAD_STRING	'Miki'
+{0x2746}	LOAD_STRING	'@v00010083"Haha, it sounds like I'm just teasing you, but she really is there, right? Take a look!"'
+
+{0x2756}	LOAD_STRING	'While she teased me like a little kid, Miki points toward the building again.'
+
+{0x27CF}	LOAD_STRING	'Nakategawa-san, who was peeking out the window of the second-floor classroom, blushed and waved as her eyes met mine.'
+
+{0x27DF}	LOAD_STRING	'I tried to wave back, but all that came out was an awkward hand motion...'
+
+{0x27E9}	LOAD_STRING	'Chihiro'
+{0x27EB}	LOAD_STRING	'@v00040065"Hmm... this could be the real deal."'
+
+{0x27F5}	LOAD_STRING	'Miki'
+{0x27F7}	LOAD_STRING	'@v00010084"Maybe..."'
+
+{0x2807}	LOAD_STRING	'They looked up at the windows, mumbling to each other.'
+
+{0x2817}	LOAD_STRING	'Maybe Nakategawa-san has been eyeing me since April until today.'
+
+{0x2827}	LOAD_STRING	'Thinking about it makes my chest hurt a little.'
+
+{0x2837}	LOAD_STRING	'I can't believe I hadn't known how Nakategawa felt about me all this time.'
+
+{0x2847}	LOAD_STRING	'And just like that, lunch break was over, without me making even a single shot.'
+
+{0x28F1}	LOAD_STRING	'After school...'
+
+{0x2901}	LOAD_STRING	'When I arrived at the rooftop, Nakategawa-san was already there.'
+
+{0x29EF}	LOAD_STRING	'Yui'
+{0x29F1}	LOAD_STRING	'@v00020057"Oh, you really came..."'
+
+{0x29FF}	LOAD_STRING	'Tatsumi'
+{0x2A01}	LOAD_STRING	'Well, I did promise...'
+
+{0x2A11}	LOAD_STRING	'I'm trying not to get so wound up.'
+
+{0x2A21}	LOAD_STRING	'To be honest, I've been so out of it today that I haven't been able to concentrate in class.'
+
+{0x2A2B}	LOAD_STRING	'Yui'
+{0x2A2D}	LOAD_STRING	'@v00020058"Thank you..."'
+
+{0x2A3D}	LOAD_STRING	'Nakategawa bowed.'
+
+{0x2A4D}	LOAD_STRING	'As I watch her, there is a certain aura, a grace, in her every move.'
+
+{0x2A5D}	LOAD_STRING	'I guess it's not just a rumor that she transferred from Shichiyou Academy.'
+
+{0x2A6D}	LOAD_STRING	'Compared to Miki, she seems so much more... Grown-up.'
+
+{0x2A7D}	LOAD_STRING	'How does someone like this know me?'
+
+{0x2A8B}	LOAD_STRING	'Tatsumi'
+{0x2A8D}	LOAD_STRING	'...'
+
+{0x2A97}	LOAD_STRING	'Yui'
+{0x2A99}	LOAD_STRING	'@v00020059"..."'
+
+{0x2AA9}	LOAD_STRING	'An awkward, subtle silence falls between us.'
+
+{0x2AB3}	LOAD_STRING	'Yui & Tatsumi'
+{0x2AB5}	LOAD_STRING	'@v00020060"Um..."@k'
+
+{0x2AE9}	LOAD_STRING	'We both break the silence by uttering this one sound.'
+
+{0x2B13}	LOAD_STRING	'Tatsumi'
+{0x2B15}	LOAD_STRING	'P-please, go on...'
+
+{0x2B1F}	LOAD_STRING	'Yui'
+{0x2B21}	LOAD_STRING	'@v00020061"Please, you go on."'
+
+{0x2B2F}	LOAD_STRING	'Tatsumi'
+{0x2B31}	LOAD_STRING	'Okay, well, can you tell me why you called me here?'
+
+{0x2B41}	LOAD_STRING	'You called me here, and so here I am.'
+
+{0x2B51}	LOAD_STRING	'I'm sick of feeling inadequate, or put bluntly, pathetic.'
+
+{0x2B61}	LOAD_STRING	'But Nakategawa, who has no way of knowing how I feel, looks at me and opens her mouth.'
+
+{0x2BFF}	LOAD_STRING	'Yui'
+{0x2C01}	LOAD_STRING	'@v00020062"So, I've been wondering. For a while now..."'
+
+{0x2C11}	LOAD_STRING	'She fiddles with her fingers, cheeks blushing.'
+
+{0x2C21}	LOAD_STRING	'And the way the looks at me shyly...'
+
+{0x2C31}	LOAD_STRING	'I knew it.'
+
+{0x2C41}	LOAD_STRING	'I can't help but choke up as I realize what her attitude means.'
+
+{0x2C4F}	LOAD_STRING	'Tatsumi'
+{0x2C51}	LOAD_STRING	'Oh, yeah... Thank you.'
+
+{0x2C5F}	LOAD_STRING	'Tatsumi'
+{0x2C61}	LOAD_STRING	'I-I'm glad you feel that way...'
+
+{0x2C71}	LOAD_STRING	'I'm scared that my voice might sound shaky, but it looks like she hasn't noticed.'
+
+{0x2C81}	LOAD_STRING	'I can feel my body temperature rising, probably from the hot sun.'
+
+{0x2CF1}	LOAD_STRING	'Yui'
+{0x2CF3}	LOAD_STRING	'@v00020063"So, does that mean... you're saying 'yes'?!"'
+
+{0x2D03}	LOAD_STRING	'I'm about to blindly agree, but something inside me puts a stop to it.'
+
+{0x2D11}	LOAD_STRING	'Tatsumi'
+{0x2D13}	LOAD_STRING	'W-well, you see, I don't know you very well... Not yet, anyway.'
+
+{0x2D23}	LOAD_STRING	'It sounds avoidant to say this.'
+
+{0x2D33}	LOAD_STRING	'It's times like these that we shouldn't rush things, we should take a wise approach, we should...'
+
+{0x2D3D}	LOAD_STRING	'Yui'
+{0x2D3F}	LOAD_STRING	'@v00020064"Well, why don't we have a trial?"'
+
+{0x2D4D}	LOAD_STRING	'Tatsumi'
+{0x2D4F}	LOAD_STRING	'A trial...?'
+
+{0x2D5F}	LOAD_STRING	'In other words, start from friends?'
+
+{0x2D6D}	LOAD_STRING	'Tatsumi'
+{0x2D6F}	LOAD_STRING	'I see, well, we can try it...'
+
+{0x2D7D}	LOAD_STRING	'Tatsumi'
+{0x2D7F}	LOAD_STRING	'I guess that sounds fine...'
+
+{0x2D8F}	LOAD_STRING	'I don't know if I can respond to all of Nakategawa's wishes.'
+
+{0x2D9F}	LOAD_STRING	'We might go from being friends, to being more than that, or we might not.'
+
+{0x2DAF}	LOAD_STRING	'Above all, if there is a future where I'm dating Nakategawa-san...'
+
+{0x2DBF}	LOAD_STRING	'It might benefit Miki and Chihiro.'
+
+{0x2DC9}	LOAD_STRING	'Yui'
+{0x2DCB}	LOAD_STRING	'@v00020065"Oh, thank you so much!"'
+
+{0x2DDB}	LOAD_STRING	'Nakategawa-san is beaming.'
+
+{0x2DE5}	LOAD_STRING	'Yui'
+{0x2DE7}	LOAD_STRING	'@v00020066"Wow... I've never done something like this with someone else before!"'
+
+{0x2DF1}	LOAD_STRING	'Yui'
+{0x2DF3}	LOAD_STRING	'@v00020067"I know I'm kind of homely, but please take care of me!"@k'
+
+{0x2E1C}	LOAD_STRING	'Tatsumi'
+{0x2E1E}	LOAD_STRING	'...!'
+
+{0x2E2E}	LOAD_STRING	'Nakategawa-san says something else that makes me nervous.'
+
+{0x2E3E}	LOAD_STRING	'I see, so I'm the first...'
+
+{0x2E4E}	LOAD_STRING	'That means, she hasn't yet...'
+
+{0x2E5C}	LOAD_STRING	'Tatsumi'
+{0x2E5E}	LOAD_STRING	'That means that... Actually, you know, it's my first time too.'
+
+{0x2E68}	LOAD_STRING	'Yui'
+{0x2E6A}	LOAD_STRING	'@v00020068"What? Really? But I thought... You and Kohsaka-san..."'
+
+{0x2E78}	LOAD_STRING	'Tatsumi'
+{0x2E7A}	LOAD_STRING	'Huh?'
+
+{0x2E8A}	LOAD_STRING	'Miki's name suddenly comes up.'
+
+{0x2E94}	LOAD_STRING	'Yui'
+{0x2E96}	LOAD_STRING	'@v00020069"You and Kohsaka-san... Or, is it not like that?"'
+
+{0x2EA4}	LOAD_STRING	'Tatsumi'
+{0x2EA6}	LOAD_STRING	'No way!'
+
+{0x2EB0}	LOAD_STRING	'Yui'
+{0x2EB2}	LOAD_STRING	'@v00020070"Oh, really?"'
+
+{0x2EC2}	LOAD_STRING	'Nakategawa-san, does it look like Miki and I are dating?!'
+
+{0x2ED2}	LOAD_STRING	'If so, that's a huge misunderstanding...'
+
+{0x2EE2}	LOAD_STRING	'She's confessing her feelings, on top of this misunderstanding?'
+
+{0x2EF2}	LOAD_STRING	'I guess she's more uninhibited than I thought.'
+
+{0x2F00}	LOAD_STRING	'Tatsumi'
+{0x2F02}	LOAD_STRING	'Well, you know, Nakategawa-san...'
+
+{0x2F0C}	LOAD_STRING	'Yui'
+{0x2F0E}	LOAD_STRING	'@v00020071"Y-yes?"'
+
+{0x2F1E}	LOAD_STRING	'I try to pick my words carefully so it doesn't come across the wrong way.'
+
+{0x2F2C}	LOAD_STRING	'Tatsumi'
+{0x2F2E}	LOAD_STRING	'I don't know if I'm one to say this... But I think you shouldn't be so candid to those around you.'
+
+{0x2F3E}	LOAD_STRING	'I feel my words were hurried, but also subtle.'
+
+{0x2F4E}	LOAD_STRING	'To begin with, she said she had "never been with someone else before," and there shouldn't be any deeper meaning than that...'
+
+{0x2F5E}	LOAD_STRING	'But it can't be helped that boys our age have a wild imagination.'
+
+{0x2F68}	LOAD_STRING	'Yui'
+{0x2F6A}	LOAD_STRING	'@v00020072"What, was that so...?"'
+
+{0x2F78}	LOAD_STRING	'Tatsumi'
+{0x2F7A}	LOAD_STRING	'Yeah, I mean its my first time too, so I can't speak too much, but... Well, the two of us...'
+
+{0x2F8A}	LOAD_STRING	'I guess we both.... well, we're classmates... or we're dating... or...'
+
+{0x2F9A}	LOAD_STRING	'Why don't we carefully nurture our feelings over time?'
+
+{0x2FAA}	LOAD_STRING	'If I were going to say something like that...'
+
+{0x2FC6}	LOAD_STRING	'Yui'
+{0x2FC8}	LOAD_STRING	'@v00020073"But... everyone including me, will do it... Right?"'
+
+{0x2FD8}	LOAD_STRING	'Nakategawa-san blurted out such a thing.'
+
+{0x2FE6}	LOAD_STRING	'Tatsumi'
+{0x2FE8}	LOAD_STRING	'Everyone... Do... It...?'
+
+{0x2FF8}	LOAD_STRING	'Not again.'
+
+{0x3008}	LOAD_STRING	'This is bad. I'm young, I can't help it if my mind goes there.'
+
+{0x3012}	LOAD_STRING	'Yui'
+{0x3014}	LOAD_STRING	'@v00020074"Yes, you said earlier that Kohsaka-san is different..."'
+
+{0x301E}	LOAD_STRING	'Yui'
+{0x3020}	LOAD_STRING	'@v00020075"Tatsumi-san... Kohsaka-san and Sakaki-san told me earlier..."'
+
+{0x302A}	LOAD_STRING	'Yui'
+{0x302C}	LOAD_STRING	'@v00020076"I thought the three of you were... Maybe there are even more than three?"'
+
+{0x303A}	LOAD_STRING	'Tatsumi'
+{0x303C}	LOAD_STRING	'No! No! NO! That's not happening!@k'
+
+{0x3078}	LOAD_STRING	'Tatsumi'
+{0x307A}	LOAD_STRING	'I mean, three people?! That's a no-no.'
+
+{0x3084}	LOAD_STRING	'Yui'
+{0x3086}	LOAD_STRING	'@v00020077"Huh? Is it not a good arrangement?"'
+
+{0x3094}	LOAD_STRING	'Tatsumi'
+{0x3096}	LOAD_STRING	'No! Three people is not healthy!'
+
+{0x30A6}	LOAD_STRING	'Of course, I know there are people who do things with multiple people...'
+
+{0x30B6}	LOAD_STRING	'But that's not us at all!'
+
+{0x30C6}	LOAD_STRING	'Where did she get this idea?!'
+
+{0x30D0}	LOAD_STRING	'Yui'
+{0x30D2}	LOAD_STRING	'@v00020078"So, you're unhealthy...?"'
+
+{0x30E0}	LOAD_STRING	'Tatsumi'
+{0x30E2}	LOAD_STRING	'No, that's just crazy.'
+
+{0x30F2}	LOAD_STRING	'Nakategawa-san cocked her head at my attitude.'
+
+{0x30FC}	LOAD_STRING	'Yui'
+{0x30FE}	LOAD_STRING	'@v00020079"Maybe...@t0150@hYUI_A202OD your 'summer vacation' plans were unhealthy?"'
+
+{0x310E}	LOAD_STRING	'Hearing those words, I freeze up.'
+
+{0x311C}	LOAD_STRING	'Tatsumi'
+{0x311E}	LOAD_STRING	'Huh?'
+
+{0x317A}	LOAD_STRING	'Yui'
+{0x317C}	LOAD_STRING	'@v00020080"Hmm?"'
+
+{0x322A}	LOAD_STRING	'And a strange silence flows between us.'
+
+{0x3238}	LOAD_STRING	'Tatsumi'
+{0x323A}	LOAD_STRING	'L-let's sort this out a bit...'
+
+{0x3244}	LOAD_STRING	'Yui'
+{0x3246}	LOAD_STRING	'@v00020081"O-okay..."'
+
+{0x3256}	LOAD_STRING	'What? I get the feeling there is a tremendous conversational discrepancy going on here.'
+
+{0x32B6}	LOAD_STRING	'Tatsumi'
+{0x32B8}	LOAD_STRING	'Sorry, what did you want to say?'
+
+{0x32EC}	LOAD_STRING	'Yui'
+{0x32EE}	LOAD_STRING	'@v00020082"Tatsumi-san, you and Kohsaka-san and Sakaki-san were planning out your summer vacation, right?"'
+
+{0x32FC}	LOAD_STRING	'Tatsumi'
+{0x32FE}	LOAD_STRING	'Plans for a summer vacation...'
+
+{0x3308}	LOAD_STRING	'Yui'
+{0x330A}	LOAD_STRING	'@v00020083"Actually, I've overheard you guys talk about it..."'
+
+{0x3314}	LOAD_STRING	'Yui'
+{0x3316}	LOAD_STRING	'@v00020084"I was wondering if I could join you..."'
+
+{0x3320}	LOAD_STRING	'Yui'
+{0x3322}	LOAD_STRING	'@v00020085"Or maybe not... Unless?"'
+
+{0x333A}	LOAD_STRING	'Tatsumi'
+{0x333C}	LOAD_STRING	'...'
+
+{0x334C}	LOAD_STRING	'For a moment, the gears in my head stop spinning.'
+
+{0x335C}	LOAD_STRING	'And the next thing I know, I'm hit with a huge wave of embarrassment.'
+
+{0x3454}	LOAD_STRING	'Tatsumi'
+{0x3456}	LOAD_STRING	'@s0005Aaaaaaah...'
+
+{0x3466}	LOAD_STRING	'I can't keep myself from wincing...'
+
+{0x3476}	LOAD_STRING	'What the hell did I get so worked up for all day?'
+
+{0x3480}	LOAD_STRING	'Yui'
+{0x3482}	LOAD_STRING	'@v00020086"Um... Tatsumi-san?"'
+
+{0x3546}	LOAD_STRING	'Tatsumi'
+{0x3548}	LOAD_STRING	'No, no, it's nothing.'
+
+{0x3552}	LOAD_STRING	'Yui'
+{0x3554}	LOAD_STRING	'@v00020087"Did I say something... Weird?"'
+
+{0x3562}	LOAD_STRING	'Tatsumi'
+{0x3564}	LOAD_STRING	'You didn't say anything weird, I just misunderstood you.'
+
+{0x356E}	LOAD_STRING	'Yui'
+{0x3570}	LOAD_STRING	'@v00020088"Misunderstanding? About what?"'
+
+{0x357E}	LOAD_STRING	'Tatsumi'
+{0x3580}	LOAD_STRING	'Well, you said you're interested in me, or I'm your "first"...'
+
+{0x3590}	LOAD_STRING	'I thought it was a perfect confession.'
+
+{0x35A0}	LOAD_STRING	'No, wait, anyone would think that.'
+
+{0x35B0}	LOAD_STRING	'Yeah, even if just for my own sanity.'
+
+{0x35BA}	LOAD_STRING	'Yui'
+{0x35BC}	LOAD_STRING	'@v00020089"Huh? Well, that's... Um... What do you mean?"'
+
+{0x35E8}	LOAD_STRING	'I think it's finally clicking in her head.'
+
+{0x35F2}	LOAD_STRING	'Yui'
+{0x35F4}	LOAD_STRING	'@v00020090"Aaah! I-I'm sorry! I didn't mean it that way!"@k'
+
+{0x3615}	LOAD_STRING	'Tatsumi'
+{0x3617}	LOAD_STRING	'You didn't?'
+
+{0x3686}	LOAD_STRING	'Yui'
+{0x3688}	LOAD_STRING	'@v00020091"Ah, no, its just a little different,@t0380@hYUI_U201SK but different nonetheless!"@k'
+
+{0x36AD}	LOAD_STRING	'Yui'
+{0x36AF}	LOAD_STRING	'@v00020092"It's not that I'm not attracted to you! I'm just nervous and scared!"'
+
+{0x36D2}	LOAD_STRING	'She sounded like she was also choosing her words carefully, but also hurried in speaking them.'
+
+{0x36DC}	LOAD_STRING	'Yui'
+{0x36DE}	LOAD_STRING	'@v00020093"Well, I'm sorry for the misunderstanding anyway!"@t0230@h@k'
+
+{0x371A}	LOAD_STRING	'And then, she bows her head forcefully.'
+
+{0x3728}	LOAD_STRING	'Tatsumi'
+{0x372A}	LOAD_STRING	'No, don't worry, it was I who misunderstood, so I'm sorry.'
+
+{0x373A}	LOAD_STRING	'I mean, if a girl like Nakategawa-san stared at me and said "I'm curious about you" that would be confusing.'
+
+{0x374A}	LOAD_STRING	'A guy like me would misunderstand anyway.'
+
+{0x375A}	LOAD_STRING	'Yeah, no doubt.'
+
+{0x37BA}	LOAD_STRING	'Yui'
+{0x37BC}	LOAD_STRING	'@v00020094"N-no, I was all flustered too, and I left out some important details..."'
+
+{0x37CC}	LOAD_STRING	'Nakategawa-san's expression darkens.'
+
+{0x37DC}	LOAD_STRING	'I can tell she wasn't trying to make fun of me, she's not a bad person.'
+
+{0x37EC}	LOAD_STRING	'No, she seems... Pure, and gentle.'
+
+{0x37FA}	LOAD_STRING	'Tatsumi'
+{0x37FC}	LOAD_STRING	'Okay, let's stop apologizing back and forth.'
+
+{0x3806}	LOAD_STRING	'Yui'
+{0x3808}	LOAD_STRING	'@v00020095"O-okay."'
+
+{0x3816}	LOAD_STRING	'Tatsumi'
+{0x3818}	LOAD_STRING	'So, back to the summer vacation plans?'
+
+{0x3828}	LOAD_STRING	'Let's get back to the conversation at hand.'
+
+{0x3836}	LOAD_STRING	'Tatsumi'
+{0x3838}	LOAD_STRING	'I can't make the decision by myself, so I'll talk to Miki and Chihiro, okay?'
+
+{0x3842}	LOAD_STRING	'Yui'
+{0x3844}	LOAD_STRING	'@v00020096"Of course!"'
+
+{0x3858}	SPECIAL_TEXT	0xa	'"Tell me the details"'
+
+{0x387E}	LOAD_STRING	'Miki(Message)'
+{0x3882}	LOAD_CUSTOM_TEXT	0x1	'"Tell me the details"'
+
+{0x3919}	SPECIAL_TEXT	0xb	'"Spring has come?"'
+
+{0x393F}	LOAD_STRING	'Chihiro(Message)'
+{0x3943}	LOAD_CUSTOM_TEXT	0x1	'"Spring has come?"'
+
+{0x39DA}	SPECIAL_TEXT	0xc	'"Details please"'
+
+{0x3A00}	LOAD_STRING	'Miki(Message)'
+{0x3A04}	LOAD_CUSTOM_TEXT	0x1	'"Details please"'
+
+{0x3A9B}	SPECIAL_TEXT	0xd	'"So does Tatsumi have a gf now?  "'
+
+{0x3AC1}	LOAD_STRING	'Chihiro(Message)'
+{0x3AC5}	LOAD_CUSTOM_TEXT	0x1	'"So does Tatsumi have a gf now?  "'
+
+{0x3B5C}	SPECIAL_TEXT	0xe	'"Hurry over so you can introduce me! "'
+
+{0x3B82}	LOAD_STRING	'Miki(Message)'
+{0x3B86}	LOAD_CUSTOM_TEXT	0x1	'"Hurry over so you can introduce me! "'
+
+{0x3C1D}	SPECIAL_TEXT	0xf	'"Aren't you late?"'
+
+{0x3C43}	LOAD_STRING	'Chihiro(Message)'
+{0x3C47}	LOAD_CUSTOM_TEXT	0x1	'"Aren't you late?"'
+
+{0x3CDE}	SPECIAL_TEXT	0x10	'"Don't disregard me over that!  "'
+
+{0x3D04}	LOAD_STRING	'Miki(Message)'
+{0x3D08}	LOAD_CUSTOM_TEXT	0x1	'"Don't disregard me over that!"'
+
+{0x3DB3}	LOAD_STRING	'Tatsumi'
+{0x3DB5}	LOAD_STRING	'"..."'
+
+{0x3DC5}	LOAD_STRING	'I checked my phone and realized I had almost 10 unread messages from two people.'
+
+{0x3DD5}	LOAD_STRING	'These two...'
+
+{0x3DDD}	SPECIAL_TEXT	0x11	'(Wait and See Stamp)'
+
+{0x3E03}	LOAD_STRING	'Tatsumi(Message)'
+{0x3E07}	LOAD_CUSTOM_TEXT	0x1	'(Wait and See Stamp)'
+
+{0x3E96}	SPECIAL_TEXT	0x12	'"What's that?"'
+
+{0x3EBC}	LOAD_STRING	'Miki(Message)'
+{0x3EC0}	LOAD_CUSTOM_TEXT	0x1	'"What's that?"'
+
+{0x3F5F}	SPECIAL_TEXT	0x13	'"So profound"'
+
+{0x3F85}	LOAD_STRING	'Chihiro(Message)'
+{0x3F89}	LOAD_CUSTOM_TEXT	0x1	'"So profound"'
+
+{0x4038}	LOAD_STRING	'Tatsumi'
+{0x403A}	LOAD_STRING	'Let's go meet with them and discuss it.'
+
+{0x403E}	SPECIAL_TEXT	0x14	'"What, it went poorly?  "'
+
+{0x4064}	LOAD_STRING	'Miki(Message)'
+{0x4068}	LOAD_CUSTOM_TEXT	0x1	'"What, it went poorly?"'
+
+{0x4107}	SPECIAL_TEXT	0x15	'"He's going for it"'
+
+{0x412D}	LOAD_STRING	'Chihiro(Message)'
+{0x4131}	LOAD_CUSTOM_TEXT	0x1	'"He's going for it"'
+
+{0x41DC}	LOAD_STRING	'Yui'
+{0x41DE}	LOAD_STRING	'@v00020097"Yes, thank you very much!"'
+
+{0x41EE}	LOAD_STRING	'I'm going to take Nakategawa-san to see Miki and Chihiro. I'm nervous about this...'

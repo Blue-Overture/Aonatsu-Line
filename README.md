@@ -20,8 +20,8 @@ Original game developed by GIGA, published by [Entergram](https://www.entergram.
 You must have installed custom firmware `Atmosphere`.
 
 - Copy folders `exefs` and `romfs` from unpacked release to folder on sdcard (if any of those folders don't exist, create them yourself):
-  - For demo: `atmosphere/contents/010082E016CFC000/`
-  - For full game: `atmosphere/contents/01009B7015E68000/`
+  - For demo: Download `Demo.zip` and copy unpacked folders to `atmosphere/contents/010082E016CFC000/`
+  - For full game: Download `Full.zip` and copy unpacked folders to `atmosphere/contents/01009B7015E68000/`
 - Enjoy!
 
 ### Yuzu
@@ -30,10 +30,10 @@ You must have installed custom firmware `Atmosphere`.
 - Select `Open Mod Data Location`
 - A window will open showing the directory `yuzu\load\01009B7015E68000`
 - In this folder, create a new folder named `English`
-- Move folders `exefs` and `romfs` into `yuzu\load\01009B7015E68000\English` and close the window
+- If using the retail release, move contents of `Full.zip` into `yuzu\load\01009B7015E68000\English` and close the window
+- If using the demo version, move contents of `Demo.zip` into `yuzu\load\010082E016CFC000\English` and close the window
 - In Yuzu, right click `アオナツライン` and select `Properties`
 - In the `Add-Ons` tab, make sure `English` is checked and close the window
-- If using the demo version, the path will be `yuzu\load\010082E016CFC000` instead
 - Enjoy!
 For more information about using Yuzu mods, [check out their guide](https://yuzu-emu.org/help/feature/game-modding/).
 
@@ -41,7 +41,7 @@ For more information about using Yuzu mods, [check out their guide](https://yuzu
 
 ### How was this made possible?
 
-- It's important to note that we are a team of just two people, and this takes a large amount of meticulous work. This is our first time doing a translation of a video game, so keep that in mind too.
+- It's important to note that our core team consists of just two people, and this takes a large amount of meticulous work. This is our first time doing a translation of a video game, so keep that in mind too.
 
 - We reverse-engineered the game assets to unpack them for modification. Afterwards we used [DeepL](https://www.deepl.com/en/whydeepl) deep learning translation as a base for the dialogue. This was then cross-referenced by other translation software and proofread by people. While we strive for a high-quality translation, you may encounter small errors, and we encourage readers to open a pull request for any errors they find so we can patch it out.
 

@@ -1,0 +1,569 @@
+{0x025B}	SPECIAL_TEXT	0x0	'"Mayu?"'
+
+{0x0281}	LOAD_STRING	'???(Message)'
+{0x0285}	LOAD_CUSTOM_TEXT	0x1	'"Mayu?"'
+
+{0x031C}	SPECIAL_TEXT	0x1	'"It's all a big misunderstanding    "'
+
+{0x0342}	LOAD_STRING	'???(Message)'
+{0x0346}	LOAD_CUSTOM_TEXT	0x1	'"It's all a big misunderstanding"' 
+
+{0x03DD}	SPECIAL_TEXT	0x2	'"Hey, answer me"'
+
+{0x0403}	LOAD_STRING	'???(Message)'
+{0x0407}	LOAD_CUSTOM_TEXT	0x1	'"Hey, answer me"'
+
+{0x04AE}	LOAD_STRING	'???'
+{0x04B0}	LOAD_STRING	'@v00030033"...Why?"@k'
+
+{0x04F4}	LOAD_STRING	'How did this happen?'
+
+{0x0504}	LOAD_STRING	'Where did it all go wrong?'
+
+{0x0514}	LOAD_STRING	'I'm so unsure right now.'
+
+{0x0524}	SPECIAL_TEXT	0x3	'"Just ask Ayna, she'll tell you  "'
+
+{0x054A}	LOAD_STRING	'???(Message)'
+{0x054E}	LOAD_CUSTOM_TEXT	0x1	'"Just ask Ayna, she'll tell you"'
+
+{0x05E5}	SPECIAL_TEXT	0x4	'"Sorry"'
+
+{0x060B}	LOAD_STRING	'???(Message)'
+{0x060F}	LOAD_CUSTOM_TEXT	0x1	'"Sorry"'
+
+{0x06A6}	SPECIAL_TEXT	0x5	'"I really mean it..."'
+
+{0x06CC}	LOAD_STRING	'???(Message)'
+{0x06D0}	LOAD_CUSTOM_TEXT	0x1	'"I really mean it..."'
+
+{0x0767}	SPECIAL_TEXT	0x6	'"Mayu"'
+
+{0x078D}	LOAD_STRING	'???(Message)'
+{0x0791}	LOAD_CUSTOM_TEXT	0x1	'"Mayu"'
+
+{0x0872}	LOAD_STRING	'...'
+
+{0x0882}	LOAD_STRING	'...I'm...'
+
+{0x088C}	LOAD_STRING	'???'
+{0x088E}	LOAD_STRING	'@v00030034"...Mayu..."'
+
+{0x089E}	LOAD_STRING	'I'm smiling just like everyone else.'
+
+{0x08AE}	LOAD_STRING	'I'm just as interested in fashion and love as everyone else.'
+
+{0x08B8}	LOAD_STRING	'???'
+{0x08BA}	LOAD_STRING	'@v00030035"...?"@k'
+
+{0x08F4}	LOAD_STRING	'???'
+{0x08F6}	LOAD_STRING	'@v00030036"Why..."'
+
+{0x0906}	LOAD_STRING	'...Like any normal person...'
+
+{0x0916}	LOAD_STRING	'That's all I want, just to be a normal girl.'
+
+{0x0920}	LOAD_STRING	'???'
+{0x0922}	LOAD_STRING	'@v00030037"...wuh... ugh..."@k'
+
+{0x0960}	LOAD_STRING	'???'
+{0x0962}	LOAD_STRING	'@v00030038"...wuhhh... hooo..."'
+
+{0x096C}	LOAD_STRING	'???'
+{0x096E}	LOAD_STRING	'@v00030039"...uwahhh... ah..."'
+
+{0x098C}	LOAD_STRING	'Yui'
+{0x098E}	LOAD_STRING	'@v00020279"Um..."'
+
+{0x09AC}	LOAD_STRING	'???'
+{0x09AE}	LOAD_STRING	'@v00030040"...?!"@k'
+
+{0x0B39}	LOAD_STRING	'Yui'
+{0x0B3B}	LOAD_STRING	'@v00020280"What's wrong, why are you crying...?"'
+
+{0x0B45}	LOAD_STRING	'???'
+{0x0B47}	LOAD_STRING	'@v00030041"..."'
+
+{0x0B57}	LOAD_STRING	'...I recognize this person.'
+
+{0x0B67}	LOAD_STRING	'...Yeah, a senior, a transfer student who has been playing basketball in a group during lunchtime.'
+
+{0x0B71}	LOAD_STRING	'Yui'
+{0x0B73}	LOAD_STRING	'@v00020281"Hello...?"'
+
+{0x0B7D}	LOAD_STRING	'???'
+{0x0B7F}	LOAD_STRING	'@v00030042"...What?"'
+
+{0x0B89}	LOAD_STRING	'Yui'
+{0x0B8B}	LOAD_STRING	'@v00020282"If you stay in the rain, you'll catch a cold, won't you?"'
+
+{0x0BAB}	LOAD_STRING	'...'
+
+{0x0BBB}	LOAD_STRING	'...This person's kindness hurts me.'
+
+{0x0BCB}	LOAD_STRING	'The animosity I feel is keeping my heart from showing its goodwill.'
+
+{0x0BD5}	LOAD_STRING	'???'
+{0x0BD7}	LOAD_STRING	'@v00030043"...Alone..."'
+
+{0x0BE1}	LOAD_STRING	'Yui'
+{0x0BE3}	LOAD_STRING	'@v00020283"Huh...?"'
+
+{0x0C09}	LOAD_STRING	'???'
+{0x0C0B}	LOAD_STRING	'@v00030044"I said, leave me alone!"'
+
+{0x0C15}	LOAD_STRING	'Yui'
+{0x0C17}	LOAD_STRING	'@v00020284"..."'
+
+{0x0C21}	LOAD_STRING	'???'
+{0x0C23}	LOAD_STRING	'@v00030045"This... has nothing to do with you."'
+
+{0x0C2D}	LOAD_STRING	'Yui'
+{0x0C2F}	LOAD_STRING	'@v00020285"...Hehe, well, that's true. It might not be my business, but..."'
+
+{0x0C39}	LOAD_STRING	'Yui'
+{0x0C3B}	LOAD_STRING	'@v00020286"That's no good reason to leave it alone, is it?"'
+
+{0x0C45}	LOAD_STRING	'???'
+{0x0C47}	LOAD_STRING	'@v00030046"...Huh?"'
+
+{0x0C99}	LOAD_STRING	'Yui'
+{0x0C9B}	LOAD_STRING	'@v00020287"So, shall we go?"'
+
+{0x0CAB}	LOAD_STRING	'...But of course, she doesn't let up.'
+
+{0x0CBB}	LOAD_STRING	'...What is up with this girl?'
+
+{0x0E0F}	LOAD_STRING	'Mico calls itself an old homestyle cafe, but to be honest, the weather protection isn't great.'
+
+{0x0E1F}	LOAD_STRING	'Although it doesn't leak, the sound of raindrops hitting the roof is so loud that it seems to be the background music in the restaurant.'
+
+{0x0E2F}	LOAD_STRING	'But today it was quite pleasant.'
+
+{0x0E83}	LOAD_STRING	'Chihiro'
+{0x0E85}	LOAD_STRING	'@v00040164"This year's rainy season is gonna last forever."'
+
+{0x0E93}	LOAD_STRING	'Tatsumi'
+{0x0E95}	LOAD_STRING	'Well, the cherry blossoms did bloom early.'
+
+{0x0EA5}	LOAD_STRING	'The cherry blossoms in my neighborhood were in full bloom before the beginning of April.'
+
+{0x0EAF}	LOAD_STRING	'Miki'
+{0x0EB1}	LOAD_STRING	'@v00010190"That's why summer came early, right?"'
+
+{0x0EBB}	LOAD_STRING	'Chihiro'
+{0x0EBD}	LOAD_STRING	'@v00040165"That's not the way it works..."'
+
+{0x0EC9}	SPECIAL_TEXT	0x7	'"Hey, everyone still here? "'
+
+{0x0EEF}	LOAD_STRING	'Yui(Message)'
+{0x0EF3}	LOAD_CUSTOM_TEXT	0x1	'"Hey, everyone still here?"'
+
+{0x0F9A}	LOAD_STRING	'Tatsumi'
+{0x0F9C}	LOAD_STRING	'Hmm? Did something happen?'
+
+{0x0FA6}	LOAD_STRING	'Chihiro'
+{0x0FA8}	LOAD_STRING	'@v00040166"Did Nakategawa forget something?"'
+
+{0x0FCC}	LOAD_STRING	'Chihiro looks around the store, but doesn't see anything that looks like something Nakategawa forgot.'
+
+{0x0FD4}	SPECIAL_TEXT	0x8	'"Everyone's at Mico"'
+
+{0x0FFA}	LOAD_STRING	'Tatsumi(Message)'
+{0x0FFE}	LOAD_CUSTOM_TEXT	0x1	'"Everyone's at Mico"'
+
+{0x1095}	SPECIAL_TEXT	0x9	'"Okay, I'm headed there now   "'
+
+{0x10BB}	LOAD_STRING	'Yui(Message)'
+{0x10BF}	LOAD_CUSTOM_TEXT	0x1	'"Okay, I'm headed there now"'
+
+{0x1156}	SPECIAL_TEXT	0xa	'"Something wrong?"'
+
+{0x117C}	LOAD_STRING	'Miki(Message)'
+{0x1180}	LOAD_CUSTOM_TEXT	0x1	'"Something wrong?"'
+
+{0x121F}	SPECIAL_TEXT	0xb	'"It's a long story, but I'm bringing@n a soaking wet junior girl  "'
+
+{0x1245}	LOAD_STRING	'Yui(Message)'
+{0x1249}	LOAD_CUSTOM_TEXT	0x1	'"It's a long story,but I'm bringing@n a soaking wet junior girl"'
+
+{0x12F0}	LOAD_STRING	'Tatsumi'
+{0x12F2}	LOAD_STRING	'Junior... Girl...?'
+
+{0x12F6}	SPECIAL_TEXT	0xc	'"Okay, should I run the bath? "'
+
+{0x131C}	LOAD_STRING	'Miki(Message)'
+{0x1320}	LOAD_CUSTOM_TEXT	0x1	'"Okay, should I run the bath?"'
+
+{0x13B7}	SPECIAL_TEXT	0xd	'"Yes, thank you!"'
+
+{0x13DD}	LOAD_STRING	'Yui(Message)'
+{0x13E1}	LOAD_CUSTOM_TEXT	0x1	'"Yes, thank you!"'
+
+{0x1478}	SPECIAL_TEXT	0xe	'"Oh, no problem!"'
+
+{0x149E}	LOAD_STRING	'Miki(Message)'
+{0x14A2}	LOAD_CUSTOM_TEXT	0x1	'"Oh, no problem!"'
+
+{0x1561}	LOAD_STRING	'Chihiro'
+{0x1563}	LOAD_STRING	'@v00040167"She's... soaking wet?"'
+
+{0x1577}	LOAD_STRING	'This girl must have forgotten her umbrella.'
+
+{0x1585}	LOAD_STRING	'Tatsumi'
+{0x1587}	LOAD_STRING	'Nakategawa is kind of nosy.'
+
+{0x1591}	LOAD_STRING	'Chihiro'
+{0x1593}	LOAD_STRING	'@v00040168"She wouldn't want to hear that from you."'
+
+{0x15E5}	LOAD_STRING	'Miki'
+{0x15E7}	LOAD_STRING	'@v00010191"Okay Dad, I'm going to use the bath."'
+
+{0x15F5}	LOAD_STRING	'Miki's Dad'
+{0x15F7}	LOAD_STRING	'@v00900040"Okay. Should I close up shop?"'
+
+{0x1607}	LOAD_STRING	'Her Dad is willing to act fast.'
+
+{0x1611}	LOAD_STRING	'Miki'
+{0x1613}	LOAD_STRING	'@v00010192"Umm, let's wait until we actually see the girl before we do that.@t0390@hMIKI_U102HE Wait, we don't have any reservations left for today, right?"'
+
+{0x1621}	LOAD_STRING	'Miki's Dad'
+{0x1623}	LOAD_STRING	'@v00900041"..."'
+
+{0x1633}	LOAD_STRING	'Her Dad silently nodded.'
+
+{0x169F}	LOAD_STRING	'So half an hour had passed since Nakategawa and Miki had hurriedly brought the soaking wet girl into the bath.'
+
+{0x16C5}	LOAD_STRING	'Chihiro'
+{0x16C7}	LOAD_STRING	'@v00040169"Man, why do women take such long baths?"'
+
+{0x16D5}	LOAD_STRING	'Tatsumi'
+{0x16D7}	LOAD_STRING	'Well, I'm sure she's just washing up...'
+
+{0x16E1}	LOAD_STRING	'Chihiro'
+{0x16E3}	LOAD_STRING	'@v00040170"Washing what?"'
+
+{0x16F1}	LOAD_STRING	'Tatsumi'
+{0x16F3}	LOAD_STRING	'Her body... Obviously.'
+
+{0x16FD}	LOAD_STRING	'Chihiro'
+{0x16FF}	LOAD_STRING	'@v00040171"..."'
+
+{0x170F}	LOAD_STRING	'...'
+
+{0x171F}	LOAD_STRING	'What exactly are we discussing here?'
+
+{0x175B}	LOAD_STRING	'We were both having a cup of coffee and having a moment to ourselves.'
+
+{0x176B}	LOAD_STRING	'Of course, the 'Open' sign was flipped to 'Closed' on the front door.'
+
+{0x17D7}	LOAD_STRING	'Miki'
+{0x17D9}	LOAD_STRING	'@v00010193"Sorry to keep you waiting!"'
+
+{0x17E3}	LOAD_STRING	'Yui'
+{0x17E5}	LOAD_STRING	'@v00020288"Thank you for your patience."'
+
+{0x180B}	LOAD_STRING	'???'
+{0x180D}	LOAD_STRING	'@v00030047"..."'
+
+{0x181D}	LOAD_STRING	'The girls are back.'
+
+{0x18E9}	LOAD_STRING	'They managed to dry this girl's uniform while she bathed.'
+
+{0x18F9}	LOAD_STRING	'There was a faint smell of shampoo coming from her slightly wet hair.'
+
+{0x1909}	LOAD_STRING	'And from the color of the ribbon on her chest, I can tell she's a first-year student at Kurigaoka.'
+
+{0x1919}	LOAD_STRING	'Our uniform ribbons are yellow for first year, blue for second year, and green for third year.'
+
+{0x1973}	LOAD_STRING	'Miki'
+{0x1975}	LOAD_STRING	'@v00010194"Oh, what do you drink, Kotone-chan?"'
+
+{0x1985}	LOAD_STRING	'I see, so we finally learned her name.'
+
+{0x198F}	LOAD_STRING	'Kotone'
+{0x1991}	LOAD_STRING	'@v00030048"Oh... Anything..."'
+
+{0x199B}	LOAD_STRING	'Miki'
+{0x199D}	LOAD_STRING	'@v00010195"Okay. Dad, whip something up on the spot."'
+
+{0x19EE}	LOAD_STRING	'Miki's Dad'
+{0x19F0}	LOAD_STRING	'@v00900042"..."'
+
+{0x1A00}	LOAD_STRING	'Miki's Dad silently nods in response to this order.'
+
+{0x1A5A}	LOAD_STRING	'Chihiro'
+{0x1A5C}	LOAD_STRING	'@v00040172"So... What's the story?"'
+
+{0x1A6A}	LOAD_STRING	'Tatsumi'
+{0x1A6C}	LOAD_STRING	'You're not involved in some kind of incident, are you?'
+
+{0x1A7C}	LOAD_STRING	'All we know is that Nakategawa took care of a girl named 'Kotone-chan' who was crying without an umbrella.'
+
+{0x1A86}	LOAD_STRING	'Yui'
+{0x1A88}	LOAD_STRING	'@v00020289"So..."'
+
+{0x1AF9}	LOAD_STRING	'Kotone'
+{0x1AFB}	LOAD_STRING	'@v00030049"It has nothing to do with you seniors... You brought me here of your own accord."'
+
+{0x1B0B}	LOAD_STRING	'Nakategawa tried to explain, but Kotone-chan swiftly interrupts her.'
+
+{0x1B5D}	LOAD_STRING	'Chihiro'
+{0x1B5F}	LOAD_STRING	'@v00040173"..."'
+
+{0x1B6F}	LOAD_STRING	'Chihiro hates interruptions more than anything.'
+
+{0x1B79}	LOAD_STRING	'Chihiro'
+{0x1B7B}	LOAD_STRING	'@v00040174"If you feel that way, you should just leave."'
+
+{0x1B85}	LOAD_STRING	'Miki'
+{0x1B87}	LOAD_STRING	'@v00010196"Hey, Chi-kun!"'
+
+{0x1B91}	LOAD_STRING	'Chihiro'
+{0x1B93}	LOAD_STRING	'@v00040175"Nakategawa brought you all the way here, and Miki even bathed you and dried your uniform, right?"'
+
+{0x1B9D}	LOAD_STRING	'Chihiro'
+{0x1B9F}	LOAD_STRING	'@v00040176"And yet, you're here talking like we didn't do you a favor."'
+
+{0x1BAF}	LOAD_STRING	'Chihiro isn't upset for the way Kotone treated him.'
+
+{0x1BBF}	LOAD_STRING	'He's mad because Kotone implied Nakategawa and Miki did this for their own selfish reasons.'
+
+{0x1BCD}	LOAD_STRING	'Miki's Dad'
+{0x1BCF}	LOAD_STRING	'@v00900043"..."'
+
+{0x1C3D}	LOAD_STRING	'Miki's Dad shakes his head silently at Chihiro, then pours a cup of herbal tea in front of Kotone-chan.'
+
+{0x1C47}	LOAD_STRING	'Kotone'
+{0x1C49}	LOAD_STRING	'@v00030050"..."'
+
+{0x1C59}	LOAD_STRING	'Kotone-chan stares silently at Miki's Dad.'
+
+{0x1C67}	LOAD_STRING	'Miki's Dad'
+{0x1C69}	LOAD_STRING	'@v00900044"Hmm...@t0220 All right."'
+
+{0x1C79}	LOAD_STRING	'With a look at her expression, Miki's Dad returns to the kitchen satisfied.'
+
+{0x1C83}	LOAD_STRING	'Chihiro'
+{0x1C85}	LOAD_STRING	'@v00040177"...Tch."'
+
+{0x1C8F}	LOAD_STRING	'Yui'
+{0x1C91}	LOAD_STRING	'@v00020290"Well, Kotone-chan is..."'
+
+{0x1C9B}	LOAD_STRING	'Kotone'
+{0x1C9D}	LOAD_STRING	'@v00030051"Nakategawa-senpai... Don't worry about it."'
+
+{0x1CAD}	LOAD_STRING	'Kotone-chan tries to stop Nakategawa with a quiet voice.'
+
+{0x1CB7}	LOAD_STRING	'Miki'
+{0x1CB9}	LOAD_STRING	'@v00010197"To make a long story short, she got into a disagreement with her friends and was sad about it."'
+
+{0x1CC9}	LOAD_STRING	'This didn't stop Miki from continuing the explanation.'
+
+{0x1CD3}	LOAD_STRING	'Chihiro'
+{0x1CD5}	LOAD_STRING	'@v00040178"Heh, I see now..."'
+
+{0x1CE5}	LOAD_STRING	'Chihiro takes a teasing tone, or maybe he's following-up with a mean joke.'
+
+{0x1CEF}	LOAD_STRING	'Kotone'
+{0x1CF1}	LOAD_STRING	'@v00030052"...@t0170@hKOTONE_U101TN Hmph."'
+
+{0x1D01}	LOAD_STRING	'So that was the brief summary of the situation as told by Miki and Nakategawa.'
+
+{0x1DB5}	LOAD_STRING	'Ever since she enrolled at Kurigaoka Academy, Kotone-chan ― now known to us as Shiino Kotone, made new friends.'
+
+{0x1DC5}	LOAD_STRING	'And well, I don't like saying it like this, but... Her friends happen to be the so-called "cool" crowd.'
+
+{0x1DD5}	LOAD_STRING	'And as you might expect, they all use Messenger as their main form of communication.'
+
+{0x1DE5}	LOAD_STRING	'Miki begins to say something...'
+
+{0x1DEF}	LOAD_STRING	'Miki'
+{0x1DF1}	LOAD_STRING	'@v00010198"It's hard. Even a joke can be taken as malicious, and if you write something wrong even by mistake, people think it's meant as an insult."'
+
+{0x1E01}	LOAD_STRING	'Nakategawa chimes in...'
+
+{0x1E0B}	LOAD_STRING	'Yui'
+{0x1E0D}	LOAD_STRING	'@v00020291"It's a lot harder to communicate in texts alone than face-to-face directly."'
+
+{0x1E1D}	LOAD_STRING	'Well, I'm sure you can guess what took place.'
+
+{0x1E2D}	LOAD_STRING	'She originally had matching profile icons with the group leader, and she ended up changing it without asking if it was okay with her.'
+
+{0x1E3D}	LOAD_STRING	'She accidentally sent a private message that read 'I don't like her' and word got out. Then rumors began circulating.'
+
+{0x1E4D}	LOAD_STRING	'In the end, word had reached the leader of the group.'
+
+{0x1E5D}	LOAD_STRING	'It sounds like a common story.'
+
+{0x1E6D}	LOAD_STRING	'Small issues can sometimes evolve into bigger issues.'
+
+{0x1E7D}	LOAD_STRING	'In retrospect, it's not really a big deal.'
+
+{0x1E8D}	LOAD_STRING	'After all, this is just a small group of friends at school.'
+
+{0x1E9D}	LOAD_STRING	'But still...'
+
+{0x1F01}	LOAD_STRING	'Kotone'
+{0x1F03}	LOAD_STRING	'@v00030053"..."'
+
+{0x1F13}	LOAD_STRING	'It's cruel enough that she stood in the rain alone, crying.'
+
+{0x1F1D}	LOAD_STRING	'Chihiro'
+{0x1F1F}	LOAD_STRING	'@v00040179"It's not like they're bullying her, right?"'
+
+{0x1F29}	LOAD_STRING	'Miki'
+{0x1F2B}	LOAD_STRING	'@v00010199"Yeah, I guess so..."'
+
+{0x1F35}	LOAD_STRING	'Yui'
+{0x1F37}	LOAD_STRING	'@v00020292"It's kind of awkward, isn't it, Kotone-chan?"'
+
+{0x1F41}	LOAD_STRING	'Kotone'
+{0x1F43}	LOAD_STRING	'@v00030054"..."'
+
+{0x1F4D}	LOAD_STRING	'Chihiro'
+{0x1F4F}	LOAD_STRING	'@v00040180"So, what are you going to do?"'
+
+{0x1F5F}	LOAD_STRING	'I want to do something about it.'
+
+{0x1F6F}	LOAD_STRING	'If Shiino asks for my help, I'd like to lend a hand.'
+
+{0x1F79}	LOAD_STRING	'Kotone'
+{0x1F7B}	LOAD_STRING	'@v00030055"Nah, I'm just going to take some time off school."'
+
+{0x1F8B}	LOAD_STRING	'But her expression is stubborn.'
+
+{0x1F99}	LOAD_STRING	'Tatsumi'
+{0x1F9B}	LOAD_STRING	'Take a break, and then what?'
+
+{0x1FA5}	LOAD_STRING	'Kotone'
+{0x1FA7}	LOAD_STRING	'@v00030056"It doesn't concern you seniors, leave it alone."'
+
+{0x1FB1}	LOAD_STRING	'Chihiro'
+{0x1FB3}	LOAD_STRING	'@v00040181"..."'
+
+{0x1FBD}	LOAD_STRING	'Miki'
+{0x1FBF}	LOAD_STRING	'@v00010200"Hmm, if only the boys would just fight."'
+
+{0x2015}	LOAD_STRING	'Tatsumi'
+{0x2017}	LOAD_STRING	'Well, I guess it would at least end quickly.'
+
+{0x2021}	LOAD_STRING	'Chihiro'
+{0x2023}	LOAD_STRING	'@v00040182"Well, Tatsumi and I don't fight at all."'
+
+{0x2031}	LOAD_STRING	'Tatsumi'
+{0x2033}	LOAD_STRING	'I don't think I can win against you.'
+
+{0x203D}	LOAD_STRING	'Chihiro'
+{0x203F}	LOAD_STRING	'@v00040183"What, you're telling me you wouldn't at least try?"'
+
+{0x2049}	LOAD_STRING	'Miki'
+{0x204B}	LOAD_STRING	'@v00010201"Hey, stop it."'
+
+{0x20A5}	LOAD_STRING	'Kotone'
+{0x20A7}	LOAD_STRING	'@v00030057"That's why... I hate boys."'
+
+{0x20B1}	LOAD_STRING	'Chihiro'
+{0x20B3}	LOAD_STRING	'@v00040184"Wow, so you CAN say something other than 'It doesn't concern you'."'
+
+{0x20BD}	LOAD_STRING	'Kotone'
+{0x20BF}	LOAD_STRING	'@v00030058"...@t0070@hKOTONE_U101TN So annoying."'
+
+{0x20FD}	LOAD_STRING	'Miki'
+{0x20FF}	LOAD_STRING	'@v00010202"So, I was just discussing this with Yui just now."'
+
+{0x210F}	LOAD_STRING	'Miki and Nakategawa spun around and turned to me and Chihiro and said..."'
+
+{0x2135}	LOAD_STRING	'Yui'
+{0x2137}	LOAD_STRING	'@v00020293"Yes.@t0090@hYUI_U101EG2 Kotone-chan will be joining us at school tomorrow."'
+
+{0x2141}	LOAD_STRING	'Tatsumi＆Chihiro'
+{0x2143}	LOAD_STRING	'@v00040185"...Huh?"'
+
+{0x2179}	LOAD_STRING	'Kotone'
+{0x217B}	LOAD_STRING	'@v00030059"Are you... serious?"'
+
+{0x2185}	LOAD_STRING	'Miki'
+{0x2187}	LOAD_STRING	'@v00010203"It's a waste to miss school because of this. So please help us plan our summer vacation."'
+
+{0x2191}	LOAD_STRING	'Kotone'
+{0x2193}	LOAD_STRING	'@v00030060"Summer vacation...?"'
+
+{0x21E5}	LOAD_STRING	'Chihiro'
+{0x21E7}	LOAD_STRING	'@v00040186"Oh, come on, are you kidding? There's no point in keeping this chick around with us."'
+
+{0x21F1}	LOAD_STRING	'Yui'
+{0x21F3}	LOAD_STRING	'@v00020294"Isn't there? Five is better than four."'
+
+{0x21FD}	LOAD_STRING	'Chihiro'
+{0x21FF}	LOAD_STRING	'@v00040187"Wha...@t0060@hCHIHIRO_U102KM2 Ugh, you..."'
+
+{0x220F}	LOAD_STRING	'Chihiro protests Nakategawa's idea.'
+
+{0x2269}	LOAD_STRING	'Kotone'
+{0x226B}	LOAD_STRING	'@v00030061"Just please leave me alone...!"'
+
+{0x227B}	LOAD_STRING	'Shiino's eyes began watering again.'
+
+{0x2285}	LOAD_STRING	'Kotone'
+{0x2287}	LOAD_STRING	'@v00030062"I'm through. I was going to reset my school life."'
+
+{0x2295}	LOAD_STRING	'Tatsumi'
+{0x2297}	LOAD_STRING	'...Reset?'
+
+{0x22A7}	LOAD_STRING	'What is she talking about? It turns out she's still being mysterious.'
+
+{0x22B1}	LOAD_STRING	'Kotone'
+{0x22B3}	LOAD_STRING	'@v00030063"I've tried so hard to get along with everyone but... It's over now."'
+
+{0x2336}	LOAD_STRING	'Yui'
+{0x2338}	LOAD_STRING	'@v00020295"No. With us by your side, your school life will continue, okay?"'
+
+{0x2342}	LOAD_STRING	'Kotone'
+{0x2344}	LOAD_STRING	'@v00030064"Nakategawa... senpai..."'
+
+{0x234E}	LOAD_STRING	'Yui'
+{0x2350}	LOAD_STRING	'@v00020296"Kotone-chan, you're a first year student. The fun times are just beginning, right?"'
+
+{0x235A}	LOAD_STRING	'Kotone'
+{0x235C}	LOAD_STRING	'@v00030065"..."'
+
+{0x236C}	LOAD_STRING	'Nakategawa's smile seemed to ease Shiino's heart.'
+
+{0x2376}	LOAD_STRING	'Yui'
+{0x2378}	LOAD_STRING	'@v00020297"That's okay, right? Tatsumi-san, Chihiro-san?"'
+
+{0x2386}	LOAD_STRING	'Tatsumi'
+{0x2388}	LOAD_STRING	'Oh, um... Yeah...'
+
+{0x2392}	LOAD_STRING	'Chihiro'
+{0x2394}	LOAD_STRING	'@v00040188"Ah, do whatever you want."'
+
+{0x23A4}	LOAD_STRING	'Even Chihiro and I, though puzzled, had no choice but to accept Nakategawa and Miki's well-meaning proposal.'
+
+{0x23DE}	LOAD_STRING	'Miki'
+{0x23E0}	LOAD_STRING	'@v00010204"So, nice to meet you, Kotone-chan."'
+
+{0x23EA}	LOAD_STRING	'Kotone'
+{0x23EC}	LOAD_STRING	'@v00030066"H-hey, I still haven't..."'
+
+{0x23F6}	LOAD_STRING	'Yui'
+{0x23F8}	LOAD_STRING	'@v00020298"Oh, that's right. We still need to exchange Messenger info."'
+
+{0x2402}	LOAD_STRING	'Kotone'
+{0x2404}	LOAD_STRING	'@v00030067"But, Nakategawa-senpai... My story..."'
+
+{0x240E}	LOAD_STRING	'Miki'
+{0x2410}	LOAD_STRING	'@v00010205"It's okay. It's not gonna get any worse for you."'
+
+{0x2484}	LOAD_STRING	'As the two girls crowd around Shiino, she searches for an expression of reason, and finds herself looking over to Miki's Dad.'
+
+{0x2492}	LOAD_STRING	'Miki's Dad'
+{0x2494}	LOAD_STRING	'@v00900045"...Hmm."'
+
+{0x24A4}	LOAD_STRING	'But he just nods in satisfaction.'
+
+{0x24FE}	LOAD_STRING	'Kotone'
+{0x2500}	LOAD_STRING	'@v00030068"Well...@t0200@hKOTONE_U101TN Do what you need to do..."'
+
+{0x2510}	LOAD_STRING	'This was the way Shiino surrendered to the girls.'

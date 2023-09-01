@@ -1,0 +1,3954 @@
+[
+	{
+		"type": "STRING",
+		"string": "Aonatsu.exe"
+	},
+	{
+		"type": "STRING",
+		"string": "StartUpTool.exe"
+	},
+	{
+		"type": "STRING",
+		"string": "Filechk.exe"
+	},
+	{
+		"type": "STRING",
+		"string": "AutoUpdate.exe"
+	},
+	{
+		"type": "STRING",
+		"string": "Uninstall.exe"
+	},
+	{
+		"type": "STRING",
+		"string": "AuthTool.exe"
+	},
+	{
+		"type": "STRING",
+		"string": "AONATSU"
+	},
+	{
+		"type": "STRING",
+		"string": "アオナツライン"
+	},
+	{
+		"type": "STRING",
+		"string": "1.00"
+	},
+	{
+		"type": "STRING",
+		"string": "AONATSU"
+	},
+	{
+		"type": "STRING",
+		"string": "アオナツラインのGameDiscを入れて起動して下さい"
+	},
+	{
+		"type": "STRING",
+		"string": "GIGA\\Aonatsu\\"
+	},
+	{
+		"type": "STRING",
+		"string": "http://web-giga.sakura.ne.jp/support/auto_update/aonatsu.txt"
+	},
+	{
+		"type": "STRING",
+		"string": "http://products.web-giga.com/support/auto_update/aonatsu.txt"
+	},
+	{
+		"type": "STRING",
+		"string": ""
+	},
+	{
+		"type": "STRING",
+		"string": ""
+	},
+	{
+		"type": "STRING",
+		"string": ""
+	},
+	{
+		"type": "STRING",
+		"string": ""
+	},
+	{
+		"type": "STRING",
+		"string": ""
+	},
+	{
+		"type": "STRING",
+		"string": ""
+	},
+	{
+		"type": "STRING",
+		"string": "自動アップデート機能を有効にしますか？\n※この設定は起動設定ツール(StartUpTool.exe)からいつでも変更できます。"
+	},
+	{
+		"type": "STRING",
+		"string": "アップデートに失敗しました\n弊社サポートページ(<a href=\"http://www.web-giga.com/support/\">http://www.web-giga.com/support/</a>)をご確認ください"
+	},
+	{
+		"type": "STRING",
+		"string": "PanicMode.bmp"
+	},
+	{
+		"type": "STRING",
+		"string": "無題 - メモ帳"
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "STRING",
+		"string": "150"
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1920
+	},
+	{
+		"type": "VALUE",
+		"value": 1080
+	},
+	{
+		"type": "VALUE",
+		"value": 2580
+	},
+	{
+		"type": "VALUE",
+		"value": 1536
+	},
+	{
+		"type": "VALUE",
+		"value": 640
+	},
+	{
+		"type": "VALUE",
+		"value": 360
+	},
+	{
+		"type": "VALUE",
+		"value": 800
+	},
+	{
+		"type": "VALUE",
+		"value": 450
+	},
+	{
+		"type": "VALUE",
+		"value": 1024
+	},
+	{
+		"type": "VALUE",
+		"value": 576
+	},
+	{
+		"type": "VALUE",
+		"value": 1280
+	},
+	{
+		"type": "VALUE",
+		"value": 720
+	},
+	{
+		"type": "VALUE",
+		"value": 1600
+	},
+	{
+		"type": "VALUE",
+		"value": 900
+	},
+	{
+		"type": "VALUE",
+		"value": 1920
+	},
+	{
+		"type": "VALUE",
+		"value": 1080
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 270
+	},
+	{
+		"type": "VALUE",
+		"value": 1080
+	},
+	{
+		"type": "VALUE",
+		"value": 200
+	},
+	{
+		"type": "VALUE",
+		"value": 800
+	},
+	{
+		"type": "VALUE",
+		"value": 6
+	},
+	{
+		"type": "VALUE",
+		"value": 5
+	},
+	{
+		"type": "VALUE",
+		"value": 50
+	},
+	{
+		"type": "VALUE",
+		"value": 500
+	},
+	{
+		"type": "VALUE",
+		"value": 12
+	},
+	{
+		"type": "VALUE",
+		"value": 20
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 100
+	},
+	{
+		"type": "VALUE",
+		"value": 100
+	},
+	{
+		"type": "VALUE",
+		"value": 960
+	},
+	{
+		"type": "VALUE",
+		"value": 540
+	},
+	{
+		"type": "VALUE",
+		"value": 100
+	},
+	{
+		"type": "VALUE",
+		"value": 960
+	},
+	{
+		"type": "VALUE",
+		"value": 270
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "STRING",
+		"string": "System.bin"
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "STRING",
+		"string": "System.bin"
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "STRING",
+		"string": "System.bin"
+	},
+	{
+		"type": "VALUE",
+		"value": 2
+	},
+	{
+		"type": "STRING",
+		"string": "System.bin"
+	},
+	{
+		"type": "VALUE",
+		"value": 3
+	},
+	{
+		"type": "STRING",
+		"string": "System.bin"
+	},
+	{
+		"type": "VALUE",
+		"value": 4
+	},
+	{
+		"type": "STRING",
+		"string": "Title.bin"
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "STRING",
+		"string": "ReplayMode.bin"
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "STRING",
+		"string": "EventMode.bin"
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 2
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 16
+	},
+	{
+		"type": "VALUE",
+		"value": 16
+	},
+	{
+		"type": "VALUE",
+		"value": 16
+	},
+	{
+		"type": "VALUE",
+		"value": 8
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 16
+	},
+	{
+		"type": "VALUE",
+		"value": 16
+	},
+	{
+		"type": "VALUE",
+		"value": 16
+	},
+	{
+		"type": "VALUE",
+		"value": 32
+	},
+	{
+		"type": "VALUE",
+		"value": 16
+	},
+	{
+		"type": "STRING",
+		"string": "源真ゴシック等幅 Normal"
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 16
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 8
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 32
+	},
+	{
+		"type": "VALUE",
+		"value": 12
+	},
+	{
+		"type": "VALUE",
+		"value": 20
+	},
+	{
+		"type": "VALUE",
+		"value": 32
+	},
+	{
+		"type": "VALUE",
+		"value": 32
+	},
+	{
+		"type": "VALUE",
+		"value": 24
+	},
+	{
+		"type": "VALUE",
+		"value": 24
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 2
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 32
+	},
+	{
+		"type": "VALUE",
+		"value": 4
+	},
+	{
+		"type": "VALUE",
+		"value": 512
+	},
+	{
+		"type": "VALUE",
+		"value": 8
+	},
+	{
+		"type": "VALUE",
+		"value": 16384
+	},
+	{
+		"type": "VALUE",
+		"value": 8192
+	},
+	{
+		"type": "VALUE",
+		"value": 4096
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 16384
+	},
+	{
+		"type": "VALUE",
+		"value": 8
+	},
+	{
+		"type": "VALUE",
+		"value": 64
+	},
+	{
+		"type": "VALUE",
+		"value": 16
+	},
+	{
+		"type": "VALUE",
+		"value": 16777216
+	},
+	{
+		"type": "VALUE",
+		"value": 1024
+	},
+	{
+		"type": "VALUE",
+		"value": 2048
+	},
+	{
+		"type": "VALUE",
+		"value": 512
+	},
+	{
+		"type": "VALUE",
+		"value": 4
+	},
+	{
+		"type": "VALUE",
+		"value": 8388608
+	},
+	{
+		"type": "VALUE",
+		"value": 4194304
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 8
+	},
+	{
+		"type": "VALUE",
+		"value": 134217728
+	},
+	{
+		"type": "VALUE",
+		"value": 16
+	},
+	{
+		"type": "VALUE",
+		"value": 64
+	},
+	{
+		"type": "VALUE",
+		"value": 4
+	},
+	{
+		"type": "VALUE",
+		"value": 512
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 32
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "STRING",
+		"string": "PackList.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "Visual.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "Stand.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "StandPos.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "BGM.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "Scene.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "Char.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "Button.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "ButtonEx.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "ConfigString.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "FontColor.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "FontResource.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "SystemVoice.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "SystemVoiceFileName.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "VolumeTestFileName.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "Mascot.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "MascotVoice.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "MenuWallPaper.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "CGMode.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "MusicMode.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "ReplayMode.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "EventMode.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "CharaMode.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "CharaModeBG.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "Event.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "EventType.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "Key.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "KeyCommand.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "VoiceTab.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "WatchSystemFlg.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "WatchFlg.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "Trophy.datu8"
+	},
+	{
+		"type": "STRING",
+		"string": "Interface.spm"
+	},
+	{
+		"type": "STRING",
+		"string": "KeyboardButton.spm"
+	},
+	{
+		"type": "STRING",
+		"string": "BGMName.spm"
+	},
+	{
+		"type": "STRING",
+		"string": "PlayBGMName.spm"
+	},
+	{
+		"type": "STRING",
+		"string": "ExtraMode.spm"
+	},
+	{
+		"type": "STRING",
+		"string": "ExtraModeTabSelectButton.spm"
+	},
+	{
+		"type": "STRING",
+		"string": "ExtraModeTabButton.spm"
+	},
+	{
+		"type": "STRING",
+		"string": "EventName.spm"
+	},
+	{
+		"type": "STRING",
+		"string": "CharIcon.spm"
+	},
+	{
+		"type": "STRING",
+		"string": "CharaModeName.spm"
+	},
+	{
+		"type": "STRING",
+		"string": "CharaModeType.spm"
+	},
+	{
+		"type": "STRING",
+		"string": "CharaModePos.spm"
+	},
+	{
+		"type": "STRING",
+		"string": "CharaModeCostume.spm"
+	},
+	{
+		"type": "STRING",
+		"string": "CharaModePose.spm"
+	},
+	{
+		"type": "STRING",
+		"string": "CharaModeBG.spm"
+	},
+	{
+		"type": "STRING",
+		"string": "B"
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 5
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 2
+	},
+	{
+		"type": "VALUE",
+		"value": 3
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": 4
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 754
+	},
+	{
+		"type": "VALUE",
+		"value": 510
+	},
+	{
+		"type": "VALUE",
+		"value": 75
+	},
+	{
+		"type": "VALUE",
+		"value": 510
+	},
+	{
+		"type": "VALUE",
+		"value": 75
+	},
+	{
+		"type": "VALUE",
+		"value": -115
+	},
+	{
+		"type": "VALUE",
+		"value": 102
+	},
+	{
+		"type": "VALUE",
+		"value": 1095
+	},
+	{
+		"type": "VALUE",
+		"value": 1095
+	},
+	{
+		"type": "VALUE",
+		"value": 18
+	},
+	{
+		"type": "VALUE",
+		"value": 12
+	},
+	{
+		"type": "VALUE",
+		"value": 64
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 2
+	},
+	{
+		"type": "VALUE",
+		"value": 1590
+	},
+	{
+		"type": "VALUE",
+		"value": 243
+	},
+	{
+		"type": "VALUE",
+		"value": 3
+	},
+	{
+		"type": "VALUE",
+		"value": 1587
+	},
+	{
+		"type": "VALUE",
+		"value": 33
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": 75
+	},
+	{
+		"type": "VALUE",
+		"value": -105
+	},
+	{
+		"type": "VALUE",
+		"value": 40
+	},
+	{
+		"type": "VALUE",
+		"value": -40
+	},
+	{
+		"type": "VALUE",
+		"value": 90
+	},
+	{
+		"type": "VALUE",
+		"value": -40
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "STRING",
+		"string": ""
+	},
+	{
+		"type": "STRING",
+		"string": ""
+	},
+	{
+		"type": "VALUE",
+		"value": 5
+	},
+	{
+		"type": "VALUE",
+		"value": 6
+	},
+	{
+		"type": "VALUE",
+		"value": 7
+	},
+	{
+		"type": "VALUE",
+		"value": 8
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 375
+	},
+	{
+		"type": "VALUE",
+		"value": 750
+	},
+	{
+		"type": "VALUE",
+		"value": 375
+	},
+	{
+		"type": "VALUE",
+		"value": 750
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 162
+	},
+	{
+		"type": "VALUE",
+		"value": 36
+	},
+	{
+		"type": "VALUE",
+		"value": 162
+	},
+	{
+		"type": "VALUE",
+		"value": 36
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 469
+	},
+	{
+		"type": "VALUE",
+		"value": 1044
+	},
+	{
+		"type": "VALUE",
+		"value": 2
+	},
+	{
+		"type": "VALUE",
+		"value": 3
+	},
+	{
+		"type": "VALUE",
+		"value": 787
+	},
+	{
+		"type": "VALUE",
+		"value": 1044
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 2
+	},
+	{
+		"type": "VALUE",
+		"value": 3
+	},
+	{
+		"type": "VALUE",
+		"value": 4
+	},
+	{
+		"type": "VALUE",
+		"value": 5
+	},
+	{
+		"type": "VALUE",
+		"value": 6
+	},
+	{
+		"type": "VALUE",
+		"value": 6
+	},
+	{
+		"type": "VALUE",
+		"value": 7
+	},
+	{
+		"type": "VALUE",
+		"value": 8
+	},
+	{
+		"type": "VALUE",
+		"value": 8
+	},
+	{
+		"type": "VALUE",
+		"value": 9
+	},
+	{
+		"type": "VALUE",
+		"value": 10
+	},
+	{
+		"type": "VALUE",
+		"value": 11
+	},
+	{
+		"type": "VALUE",
+		"value": 960
+	},
+	{
+		"type": "VALUE",
+		"value": 540
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 505
+	},
+	{
+		"type": "VALUE",
+		"value": 475
+	},
+	{
+		"type": "STRING",
+		"string": "【"
+	},
+	{
+		"type": "STRING",
+		"string": "】"
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 2
+	},
+	{
+		"type": "VALUE",
+		"value": 3
+	},
+	{
+		"type": "VALUE",
+		"value": 4
+	},
+	{
+		"type": "VALUE",
+		"value": 5
+	},
+	{
+		"type": "VALUE",
+		"value": 12
+	},
+	{
+		"type": "VALUE",
+		"value": 13
+	},
+	{
+		"type": "VALUE",
+		"value": 175
+	},
+	{
+		"type": "VALUE",
+		"value": 52
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": 217
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": 6
+	},
+	{
+		"type": "VALUE",
+		"value": 7
+	},
+	{
+		"type": "VALUE",
+		"value": 8
+	},
+	{
+		"type": "VALUE",
+		"value": 9
+	},
+	{
+		"type": "VALUE",
+		"value": 10
+	},
+	{
+		"type": "VALUE",
+		"value": 11
+	},
+	{
+		"type": "VALUE",
+		"value": 532
+	},
+	{
+		"type": "VALUE",
+		"value": 25
+	},
+	{
+		"type": "VALUE",
+		"value": 18
+	},
+	{
+		"type": "VALUE",
+		"value": 45
+	},
+	{
+		"type": "VALUE",
+		"value": 64
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 2
+	},
+	{
+		"type": "VALUE",
+		"value": 3
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 555
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 2
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 745
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1100
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 1100
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1207
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1680
+	},
+	{
+		"type": "VALUE",
+		"value": 13
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 475
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 2
+	},
+	{
+		"type": "VALUE",
+		"value": 3
+	},
+	{
+		"type": "VALUE",
+		"value": 4
+	},
+	{
+		"type": "VALUE",
+		"value": 5
+	},
+	{
+		"type": "VALUE",
+		"value": 6
+	},
+	{
+		"type": "VALUE",
+		"value": 7
+	},
+	{
+		"type": "VALUE",
+		"value": 8
+	},
+	{
+		"type": "VALUE",
+		"value": 9
+	},
+	{
+		"type": "VALUE",
+		"value": 10
+	},
+	{
+		"type": "VALUE",
+		"value": 11
+	},
+	{
+		"type": "VALUE",
+		"value": 12
+	},
+	{
+		"type": "VALUE",
+		"value": 795
+	},
+	{
+		"type": "VALUE",
+		"value": 22
+	},
+	{
+		"type": "VALUE",
+		"value": 12
+	},
+	{
+		"type": "VALUE",
+		"value": 12
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1245
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 60
+	},
+	{
+		"type": "VALUE",
+		"value": 885
+	},
+	{
+		"type": "VALUE",
+		"value": 319
+	},
+	{
+		"type": "VALUE",
+		"value": 3
+	},
+	{
+		"type": "VALUE",
+		"value": 4
+	},
+	{
+		"type": "VALUE",
+		"value": 5
+	},
+	{
+		"type": "VALUE",
+		"value": 6
+	},
+	{
+		"type": "VALUE",
+		"value": 7
+	},
+	{
+		"type": "VALUE",
+		"value": 8
+	},
+	{
+		"type": "VALUE",
+		"value": 9
+	},
+	{
+		"type": "VALUE",
+		"value": 10
+	},
+	{
+		"type": "VALUE",
+		"value": 11
+	},
+	{
+		"type": "VALUE",
+		"value": 12
+	},
+	{
+		"type": "VALUE",
+		"value": 13
+	},
+	{
+		"type": "VALUE",
+		"value": 14
+	},
+	{
+		"type": "VALUE",
+		"value": 15
+	},
+	{
+		"type": "VALUE",
+		"value": 16
+	},
+	{
+		"type": "VALUE",
+		"value": 17
+	},
+	{
+		"type": "VALUE",
+		"value": 18
+	},
+	{
+		"type": "VALUE",
+		"value": 19
+	},
+	{
+		"type": "VALUE",
+		"value": 20
+	},
+	{
+		"type": "VALUE",
+		"value": 21
+	},
+	{
+		"type": "VALUE",
+		"value": 22
+	},
+	{
+		"type": "VALUE",
+		"value": 23
+	},
+	{
+		"type": "VALUE",
+		"value": 24
+	},
+	{
+		"type": "VALUE",
+		"value": 25
+	},
+	{
+		"type": "VALUE",
+		"value": 26
+	},
+	{
+		"type": "VALUE",
+		"value": 27
+	},
+	{
+		"type": "VALUE",
+		"value": 28
+	},
+	{
+		"type": "VALUE",
+		"value": 29
+	},
+	{
+		"type": "VALUE",
+		"value": 30
+	},
+	{
+		"type": "VALUE",
+		"value": 31
+	},
+	{
+		"type": "VALUE",
+		"value": 32
+	},
+	{
+		"type": "VALUE",
+		"value": 33
+	},
+	{
+		"type": "VALUE",
+		"value": 34
+	},
+	{
+		"type": "VALUE",
+		"value": 35
+	},
+	{
+		"type": "VALUE",
+		"value": 36
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 37
+	},
+	{
+		"type": "VALUE",
+		"value": 38
+	},
+	{
+		"type": "VALUE",
+		"value": 6
+	},
+	{
+		"type": "VALUE",
+		"value": 15
+	},
+	{
+		"type": "VALUE",
+		"value": 6
+	},
+	{
+		"type": "VALUE",
+		"value": 25
+	},
+	{
+		"type": "VALUE",
+		"value": 10
+	},
+	{
+		"type": "VALUE",
+		"value": 57
+	},
+	{
+		"type": "VALUE",
+		"value": 409
+	},
+	{
+		"type": "VALUE",
+		"value": 230
+	},
+	{
+		"type": "VALUE",
+		"value": 75
+	},
+	{
+		"type": "VALUE",
+		"value": 50
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 6
+	},
+	{
+		"type": "VALUE",
+		"value": 435
+	},
+	{
+		"type": "VALUE",
+		"value": 70
+	},
+	{
+		"type": "VALUE",
+		"value": 36
+	},
+	{
+		"type": "VALUE",
+		"value": 3
+	},
+	{
+		"type": "VALUE",
+		"value": 510
+	},
+	{
+		"type": "VALUE",
+		"value": 268
+	},
+	{
+		"type": "VALUE",
+		"value": 37
+	},
+	{
+		"type": "VALUE",
+		"value": 39
+	},
+	{
+		"type": "VALUE",
+		"value": 440
+	},
+	{
+		"type": "VALUE",
+		"value": 192
+	},
+	{
+		"type": "VALUE",
+		"value": 108
+	},
+	{
+		"type": "VALUE",
+		"value": 100
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 3
+	},
+	{
+		"type": "VALUE",
+		"value": 86
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 340
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1018
+	},
+	{
+		"type": "VALUE",
+		"value": 148
+	},
+	{
+		"type": "VALUE",
+		"value": 828
+	},
+	{
+		"type": "VALUE",
+		"value": 466
+	},
+	{
+		"type": "VALUE",
+		"value": 304
+	},
+	{
+		"type": "VALUE",
+		"value": 380
+	},
+	{
+		"type": "VALUE",
+		"value": 107
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "STRING",
+		"string": "Miki"
+	},
+	{
+		"type": "STRING",
+		"string": "This is a sample message."
+	},
+	{
+		"type": "STRING",
+		"string": "This is a sample message."
+	},
+	{
+		"type": "STRING",
+		"string": "Adjust Auto Mode speeds with the intervals shown."
+	},
+	{
+		"type": "STRING",
+		"string": ""
+	},
+	{
+		"type": "STRING",
+		"string": ""
+	},
+	{
+		"type": "STRING",
+		"string": ""
+	},
+	{
+		"type": "VALUE",
+		"value": 112
+	},
+	{
+		"type": "VALUE",
+		"value": 900
+	},
+	{
+		"type": "VALUE",
+		"value": 510
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": 108
+	},
+	{
+		"type": "VALUE",
+		"value": 109
+	},
+	{
+		"type": "VALUE",
+		"value": 110
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 2
+	},
+	{
+		"type": "VALUE",
+		"value": 3
+	},
+	{
+		"type": "VALUE",
+		"value": 4
+	},
+	{
+		"type": "VALUE",
+		"value": 5
+	},
+	{
+		"type": "VALUE",
+		"value": 6
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 2
+	},
+	{
+		"type": "VALUE",
+		"value": 3
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 2
+	},
+	{
+		"type": "VALUE",
+		"value": 3
+	},
+	{
+		"type": "VALUE",
+		"value": 4
+	},
+	{
+		"type": "VALUE",
+		"value": 8
+	},
+	{
+		"type": "VALUE",
+		"value": 6
+	},
+	{
+		"type": "VALUE",
+		"value": 8
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 2
+	},
+	{
+		"type": "VALUE",
+		"value": 3
+	},
+	{
+		"type": "VALUE",
+		"value": 4
+	},
+	{
+		"type": "VALUE",
+		"value": 5
+	},
+	{
+		"type": "VALUE",
+		"value": 300
+	},
+	{
+		"type": "VALUE",
+		"value": 65
+	},
+	{
+		"type": "VALUE",
+		"value": 64
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 2
+	},
+	{
+		"type": "VALUE",
+		"value": 3
+	},
+	{
+		"type": "VALUE",
+		"value": 4
+	},
+	{
+		"type": "VALUE",
+		"value": 5
+	},
+	{
+		"type": "VALUE",
+		"value": 6
+	},
+	{
+		"type": "VALUE",
+		"value": 7
+	},
+	{
+		"type": "VALUE",
+		"value": 8
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 106
+	},
+	{
+		"type": "VALUE",
+		"value": 112
+	},
+	{
+		"type": "VALUE",
+		"value": 114
+	},
+	{
+		"type": "VALUE",
+		"value": 107
+	},
+	{
+		"type": "VALUE",
+		"value": 4
+	},
+	{
+		"type": "VALUE",
+		"value": 3
+	},
+	{
+		"type": "VALUE",
+		"value": 4
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 2
+	},
+	{
+		"type": "VALUE",
+		"value": 3
+	},
+	{
+		"type": "VALUE",
+		"value": 4
+	},
+	{
+		"type": "VALUE",
+		"value": 5
+	},
+	{
+		"type": "VALUE",
+		"value": 6
+	},
+	{
+		"type": "VALUE",
+		"value": 7
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 3
+	},
+	{
+		"type": "VALUE",
+		"value": 400
+	},
+	{
+		"type": "VALUE",
+		"value": 70
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 150
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 195
+	},
+	{
+		"type": "VALUE",
+		"value": 25
+	},
+	{
+		"type": "VALUE",
+		"value": 40
+	},
+	{
+		"type": "STRING",
+		"string": "T_"
+	},
+	{
+		"type": "VALUE",
+		"value": 4
+	},
+	{
+		"type": "VALUE",
+		"value": 4
+	},
+	{
+		"type": "VALUE",
+		"value": 510
+	},
+	{
+		"type": "VALUE",
+		"value": 150
+	},
+	{
+		"type": "VALUE",
+		"value": 330
+	},
+	{
+		"type": "VALUE",
+		"value": 203
+	},
+	{
+		"type": "VALUE",
+		"value": 2
+	},
+	{
+		"type": "VALUE",
+		"value": 10
+	},
+	{
+		"type": "VALUE",
+		"value": 83
+	},
+	{
+		"type": "VALUE",
+		"value": 150
+	},
+	{
+		"type": "VALUE",
+		"value": 863
+	},
+	{
+		"type": "VALUE",
+		"value": 83
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 35
+	},
+	{
+		"type": "VALUE",
+		"value": 15
+	},
+	{
+		"type": "VALUE",
+		"value": 150
+	},
+	{
+		"type": "VALUE",
+		"value": 25
+	},
+	{
+		"type": "VALUE",
+		"value": 40
+	},
+	{
+		"type": "STRING",
+		"string": "RT_"
+	},
+	{
+		"type": "VALUE",
+		"value": 2
+	},
+	{
+		"type": "VALUE",
+		"value": 3
+	},
+	{
+		"type": "VALUE",
+		"value": 300
+	},
+	{
+		"type": "VALUE",
+		"value": 60
+	},
+	{
+		"type": "VALUE",
+		"value": 500
+	},
+	{
+		"type": "VALUE",
+		"value": 200
+	},
+	{
+		"type": "VALUE",
+		"value": 2
+	},
+	{
+		"type": "VALUE",
+		"value": 150
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 195
+	},
+	{
+		"type": "VALUE",
+		"value": 25
+	},
+	{
+		"type": "VALUE",
+		"value": 40
+	},
+	{
+		"type": "VALUE",
+		"value": 2
+	},
+	{
+		"type": "VALUE",
+		"value": 10
+	},
+	{
+		"type": "VALUE",
+		"value": 518
+	},
+	{
+		"type": "VALUE",
+		"value": 150
+	},
+	{
+		"type": "VALUE",
+		"value": 653
+	},
+	{
+		"type": "VALUE",
+		"value": 83
+	},
+	{
+		"type": "VALUE",
+		"value": 24
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 12
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 24
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 12
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 2
+	},
+	{
+		"type": "VALUE",
+		"value": 3
+	},
+	{
+		"type": "VALUE",
+		"value": 4
+	},
+	{
+		"type": "VALUE",
+		"value": 5
+	},
+	{
+		"type": "VALUE",
+		"value": 6
+	},
+	{
+		"type": "VALUE",
+		"value": 7
+	},
+	{
+		"type": "VALUE",
+		"value": 8
+	},
+	{
+		"type": "VALUE",
+		"value": 9
+	},
+	{
+		"type": "VALUE",
+		"value": 10
+	},
+	{
+		"type": "VALUE",
+		"value": 650
+	},
+	{
+		"type": "VALUE",
+		"value": 140
+	},
+	{
+		"type": "VALUE",
+		"value": 540
+	},
+	{
+		"type": "VALUE",
+		"value": 140
+	},
+	{
+		"type": "VALUE",
+		"value": 760
+	},
+	{
+		"type": "VALUE",
+		"value": 140
+	},
+	{
+		"type": "VALUE",
+		"value": 650
+	},
+	{
+		"type": "VALUE",
+		"value": 220
+	},
+	{
+		"type": "VALUE",
+		"value": 540
+	},
+	{
+		"type": "VALUE",
+		"value": 220
+	},
+	{
+		"type": "VALUE",
+		"value": 760
+	},
+	{
+		"type": "VALUE",
+		"value": 220
+	},
+	{
+		"type": "VALUE",
+		"value": 650
+	},
+	{
+		"type": "VALUE",
+		"value": 270
+	},
+	{
+		"type": "VALUE",
+		"value": 540
+	},
+	{
+		"type": "VALUE",
+		"value": 270
+	},
+	{
+		"type": "VALUE",
+		"value": 760
+	},
+	{
+		"type": "VALUE",
+		"value": 270
+	},
+	{
+		"type": "VALUE",
+		"value": 650
+	},
+	{
+		"type": "VALUE",
+		"value": 350
+	},
+	{
+		"type": "VALUE",
+		"value": 540
+	},
+	{
+		"type": "VALUE",
+		"value": 350
+	},
+	{
+		"type": "VALUE",
+		"value": 760
+	},
+	{
+		"type": "VALUE",
+		"value": 350
+	},
+	{
+		"type": "VALUE",
+		"value": 650
+	},
+	{
+		"type": "VALUE",
+		"value": 400
+	},
+	{
+		"type": "VALUE",
+		"value": 540
+	},
+	{
+		"type": "VALUE",
+		"value": 400
+	},
+	{
+		"type": "VALUE",
+		"value": 760
+	},
+	{
+		"type": "VALUE",
+		"value": 400
+	},
+	{
+		"type": "VALUE",
+		"value": 650
+	},
+	{
+		"type": "VALUE",
+		"value": 450
+	},
+	{
+		"type": "VALUE",
+		"value": 540
+	},
+	{
+		"type": "VALUE",
+		"value": 450
+	},
+	{
+		"type": "VALUE",
+		"value": 760
+	},
+	{
+		"type": "VALUE",
+		"value": 450
+	},
+	{
+		"type": "VALUE",
+		"value": 652
+	},
+	{
+		"type": "VALUE",
+		"value": 532
+	},
+	{
+		"type": "VALUE",
+		"value": 540
+	},
+	{
+		"type": "VALUE",
+		"value": 530
+	},
+	{
+		"type": "VALUE",
+		"value": 760
+	},
+	{
+		"type": "VALUE",
+		"value": 530
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 192
+	},
+	{
+		"type": "VALUE",
+		"value": 128
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 255
+	},
+	{
+		"type": "VALUE",
+		"value": 255
+	},
+	{
+		"type": "VALUE",
+		"value": 255
+	},
+	{
+		"type": "VALUE",
+		"value": 255
+	},
+	{
+		"type": "VALUE",
+		"value": 255
+	},
+	{
+		"type": "VALUE",
+		"value": 60
+	},
+	{
+		"type": "VALUE",
+		"value": 255
+	},
+	{
+		"type": "VALUE",
+		"value": 255
+	},
+	{
+		"type": "VALUE",
+		"value": 60
+	},
+	{
+		"type": "VALUE",
+		"value": 255
+	},
+	{
+		"type": "VALUE",
+		"value": 255
+	},
+	{
+		"type": "VALUE",
+		"value": 50
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 220
+	},
+	{
+		"type": "VALUE",
+		"value": 255
+	},
+	{
+		"type": "VALUE",
+		"value": 16
+	},
+	{
+		"type": "VALUE",
+		"value": 16
+	},
+	{
+		"type": "VALUE",
+		"value": 16
+	},
+	{
+		"type": "VALUE",
+		"value": 16
+	},
+	{
+		"type": "VALUE",
+		"value": 16
+	},
+	{
+		"type": "VALUE",
+		"value": 16
+	},
+	{
+		"type": "VALUE",
+		"value": 16
+	},
+	{
+		"type": "VALUE",
+		"value": 16
+	},
+	{
+		"type": "VALUE",
+		"value": 16
+	},
+	{
+		"type": "VALUE",
+		"value": 128
+	},
+	{
+		"type": "VALUE",
+		"value": 128
+	},
+	{
+		"type": "VALUE",
+		"value": 128
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 220
+	},
+	{
+		"type": "VALUE",
+		"value": 255
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 192
+	},
+	{
+		"type": "VALUE",
+		"value": 192
+	},
+	{
+		"type": "VALUE",
+		"value": 192
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 220
+	},
+	{
+		"type": "VALUE",
+		"value": 255
+	},
+	{
+		"type": "VALUE",
+		"value": 255
+	},
+	{
+		"type": "VALUE",
+		"value": 255
+	},
+	{
+		"type": "VALUE",
+		"value": 255
+	},
+	{
+		"type": "VALUE",
+		"value": 255
+	},
+	{
+		"type": "VALUE",
+		"value": 255
+	},
+	{
+		"type": "VALUE",
+		"value": 255
+	},
+	{
+		"type": "VALUE",
+		"value": 128
+	},
+	{
+		"type": "VALUE",
+		"value": 128
+	},
+	{
+		"type": "VALUE",
+		"value": 128
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 220
+	},
+	{
+		"type": "VALUE",
+		"value": 255
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 220
+	},
+	{
+		"type": "VALUE",
+		"value": 255
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 220
+	},
+	{
+		"type": "VALUE",
+		"value": 255
+	},
+	{
+		"type": "VALUE",
+		"value": 100
+	},
+	{
+		"type": "VALUE",
+		"value": 80
+	},
+	{
+		"type": "VALUE",
+		"value": 150
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 220
+	},
+	{
+		"type": "VALUE",
+		"value": 255
+	},
+	{
+		"type": "VALUE",
+		"value": 30
+	},
+	{
+		"type": "VALUE",
+		"value": 36
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 14
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": 33
+	},
+	{
+		"type": "VALUE",
+		"value": 40
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 14
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": 37
+	},
+	{
+		"type": "VALUE",
+		"value": 45
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 14
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": 40
+	},
+	{
+		"type": "VALUE",
+		"value": 49
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 14
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": 45
+	},
+	{
+		"type": "VALUE",
+		"value": 54
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 14
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": 49
+	},
+	{
+		"type": "VALUE",
+		"value": 58
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 14
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": 15
+	},
+	{
+		"type": "VALUE",
+		"value": 15
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": 37
+	},
+	{
+		"type": "VALUE",
+		"value": 45
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": 37
+	},
+	{
+		"type": "VALUE",
+		"value": 45
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": 21
+	},
+	{
+		"type": "VALUE",
+		"value": 25
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": 21
+	},
+	{
+		"type": "VALUE",
+		"value": 25
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": 21
+	},
+	{
+		"type": "VALUE",
+		"value": 25
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": 21
+	},
+	{
+		"type": "VALUE",
+		"value": 25
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": 37
+	},
+	{
+		"type": "VALUE",
+		"value": 45
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 24
+	},
+	{
+		"type": "VALUE",
+		"value": 28
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 5
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 21
+	},
+	{
+		"type": "VALUE",
+		"value": 25
+	},
+	{
+		"type": "VALUE",
+		"value": 4
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 24
+	},
+	{
+		"type": "VALUE",
+		"value": 25
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 24
+	},
+	{
+		"type": "VALUE",
+		"value": 30
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 24
+	},
+	{
+		"type": "VALUE",
+		"value": 29
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 5
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 24
+	},
+	{
+		"type": "VALUE",
+		"value": 29
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 24
+	},
+	{
+		"type": "VALUE",
+		"value": 29
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 4
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 24
+	},
+	{
+		"type": "VALUE",
+		"value": 29
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 5
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 24
+	},
+	{
+		"type": "VALUE",
+		"value": 29
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": -1
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 3
+	},
+	{
+		"type": "VALUE",
+		"value": 6
+	},
+	{
+		"type": "VALUE",
+		"value": 7
+	},
+	{
+		"type": "STRING",
+		"string": "アオナツライン"
+	},
+	{
+		"type": "STRING",
+		"string": "セーブデータ"
+	},
+	{
+		"type": "STRING",
+		"string": "「アオナツライン」セーブデータ"
+	},
+	{
+		"type": "VALUE",
+		"value": 8
+	},
+	{
+		"type": "VALUE",
+		"value": 4194304
+	},
+	{
+		"type": "VALUE",
+		"value": 8192
+	},
+	{
+		"type": "VALUE",
+		"value": 4096
+	},
+	{
+		"type": "VALUE",
+		"value": 8
+	},
+	{
+		"type": "VALUE",
+		"value": 16384
+	},
+	{
+		"type": "VALUE",
+		"value": 2048
+	},
+	{
+		"type": "VALUE",
+		"value": 1024
+	},
+	{
+		"type": "VALUE",
+		"value": 1
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	},
+	{
+		"type": "VALUE",
+		"value": 51200
+	},
+	{
+		"type": "VALUE",
+		"value": 100
+	},
+	{
+		"type": "VALUE",
+		"value": 0
+	}
+]

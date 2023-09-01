@@ -1,0 +1,403 @@
+{0x00F8}	LOAD_STRING	'Miki'
+{0x00FA}	LOAD_STRING	'@v00010758"So, my dad made a new one for me during the last vacation."'
+
+{0x0104}	LOAD_STRING	'Miki'
+{0x0106}	LOAD_STRING	'@v00010759"He's been studying it for years, and he's giving me a special recipe."'
+
+{0x0110}	LOAD_STRING	'Miki'
+{0x0112}	LOAD_STRING	'@v00010760"I'm going to make it for you guys next time, so look forward to it."'
+
+{0x0122}	LOAD_STRING	'As usual, Miki starts bragging about her dad as soon as we get out of school.'
+
+{0x0130}	LOAD_STRING	'Tatsumi'
+{0x0132}	LOAD_STRING	'Your dad studied for years... that's pretty exciting.'
+
+{0x0184}	LOAD_STRING	'Kotone'
+{0x0186}	LOAD_STRING	'@v00030392"Kohsaka-senpai's father is very sweet to her."'
+
+{0x0194}	LOAD_STRING	'Tatsumi'
+{0x0196}	LOAD_STRING	'I don't deny that.'
+
+{0x01A0}	LOAD_STRING	'Chihiro'
+{0x01A2}	LOAD_STRING	'@v00040642"Now that Mika went off to live in Tokyo, he's spending all his time pampering Miki..."'
+
+{0x01AC}	LOAD_STRING	'Kotone'
+{0x01AE}	LOAD_STRING	'@v00030393"To be honest, she doesn't seem like she's all that pampered."'
+
+{0x01B8}	LOAD_STRING	'Chihiro'
+{0x01BA}	LOAD_STRING	'@v00040643"Even so, the old man can be pretty unnerving."'
+
+{0x01C8}	LOAD_STRING	'Tatsumi'
+{0x01CA}	LOAD_STRING	'Oh, sure...'
+
+{0x01DA}	LOAD_STRING	'Her father is her opposite... Like, really strict.'
+
+{0x01EA}	LOAD_STRING	'They say the most loving father gets the angriest.'
+
+{0x01F4}	LOAD_STRING	'Kotone'
+{0x01F6}	LOAD_STRING	'@v00030394"I see, so they balance each other out, in a way."'
+
+{0x0200}	LOAD_STRING	'Chihiro'
+{0x0202}	LOAD_STRING	'@v00040644"Yeah... In a way..."'
+
+{0x0210}	LOAD_STRING	'Tatsumi'
+{0x0212}	LOAD_STRING	'"Just like binding carrots to stakes, I wonder if they're growing straight up."'
+
+{0x021C}	LOAD_STRING	'Kotone'
+{0x021E}	LOAD_STRING	'@v00030395"Straight up... or naive."'
+
+{0x0228}	LOAD_STRING	'Miki'
+{0x022A}	LOAD_STRING	'@v00010761"Huh? Tak-kun, Koto-chan, those are compliments, right?"'
+
+{0x029E}	LOAD_STRING	'With that kind of conversation, as we walked out of the school gate...'
+
+{0x02C8}	LOAD_STRING	'Yui'
+{0x02CA}	LOAD_STRING	'@v00020573"Miki-san... I envy you."'
+
+{0x02DA}	LOAD_STRING	'Nakategawa muttered with a sigh.'
+
+{0x02E4}	LOAD_STRING	'Yui'
+{0x02E6}	LOAD_STRING	'@v00020574"It's like he is your best friend, it's an ideal parent-child relationship.@t0680@hYUI_A102KN In comparison, my father..."'
+
+{0x02F4}	LOAD_STRING	'Tatsumi'
+{0x02F6}	LOAD_STRING	'Nah, I think Nakategawa's father is nice enough.'
+
+{0x0300}	LOAD_STRING	'Chihiro'
+{0x0302}	LOAD_STRING	'@v00040645"I know, right? He even let her transfer away from Shichiyou Academy to come here."'
+
+{0x030C}	LOAD_STRING	'Kotone'
+{0x030E}	LOAD_STRING	'@v00030396"Well, normally I wouldn't have allowed it. If I had an older sister or younger sister and she did something like Nakategawa-senpai, I would do everything in my power to stop her."'
+
+{0x0318}	LOAD_STRING	'Miki'
+{0x031A}	LOAD_STRING	'@v00010762"I also think your father is kind, Yui-chan."'
+
+{0x032A}	LOAD_STRING	'We follow up with that, but Nakategawa quietly shakes her head.'
+
+{0x0334}	LOAD_STRING	'Yui'
+{0x0336}	LOAD_STRING	'@v00020575"It's not true... he's too overprotective and hardly lets me do what I want."'
+
+{0x0340}	LOAD_STRING	'Yui'
+{0x0342}	LOAD_STRING	'@v00020576"I was given unreasonable conditions when I transferred."'
+
+{0x0350}	LOAD_STRING	'Tatsumi'
+{0x0352}	LOAD_STRING	'Oh, yeah...'
+
+{0x035C}	LOAD_STRING	'Kotone'
+{0x035E}	LOAD_STRING	'@v00030397"Unreasonable conditions... what conditions?"'
+
+{0x0368}	LOAD_STRING	'Yui'
+{0x036A}	LOAD_STRING	'@v00020577"First, never neglect your studies."'
+
+{0x03B0}	LOAD_STRING	'Kotone'
+{0x03B2}	LOAD_STRING	'@v00030398"...Isn't that what all parents tell their kids?"'
+
+{0x03BC}	LOAD_STRING	'Miki'
+{0x03BE}	LOAD_STRING	'@v00010763"Koto-chan... Yui-chan is always told that if she doesn't become the top student, she will be sent back to Shichiyou."'
+
+{0x03CE}	LOAD_STRING	'Shiino stops moving.'
+
+{0x03D8}	LOAD_STRING	'Kotone'
+{0x03DA}	LOAD_STRING	'@v00030399"That's just crazy..."'
+
+{0x03E4}	LOAD_STRING	'Chihiro'
+{0x03E6}	LOAD_STRING	'@v00040646"Well, she's achieving it..."'
+
+{0x03F0}	LOAD_STRING	'Kotone'
+{0x03F2}	LOAD_STRING	'@v00030400"Huh? Really?!"'
+
+{0x0400}	LOAD_STRING	'Tatsumi'
+{0x0402}	LOAD_STRING	'By a long shot.'
+
+{0x040C}	LOAD_STRING	'Kotone'
+{0x040E}	LOAD_STRING	'@v00030401"Huh... that's pretty great."'
+
+{0x041E}	LOAD_STRING	'Shiino looks at Nakategawa with respect.'
+
+{0x045C}	LOAD_STRING	'Yui'
+{0x045E}	LOAD_STRING	'@v00020578"Still... I wish that were the only stipulation."'
+
+{0x0468}	LOAD_STRING	'Chihiro'
+{0x046A}	LOAD_STRING	'@v00040647"Huh? Oh, did he give you any more conditions?"'
+
+{0x0530}	LOAD_STRING	'Yui'
+{0x0532}	LOAD_STRING	'@v00020579"Yes. One condition is..."'
+
+{0x0542}	LOAD_STRING	'Nakategawa looks a little reluctant to say it.'
+
+{0x0552}	LOAD_STRING	'Is it really such a damning condition?'
+
+{0x055C}	LOAD_STRING	'Miki'
+{0x055E}	LOAD_STRING	'@v00010764"The other condition is...?"'
+
+{0x056E}	LOAD_STRING	'Miki attempts to clear the air.'
+
+{0x0586}	LOAD_STRING	'Yui'
+{0x0588}	LOAD_STRING	'@v00020580"Premarital or deviant sexual activities will not be permitted. If I do, I'll be swiftly disowned."'
+
+{0x0596}	LOAD_STRING	'Tatsumi'
+{0x0598}	LOAD_STRING	'"O-oh..."'
+
+{0x05A2}	LOAD_STRING	'Kotone'
+{0x05A4}	LOAD_STRING	'@v00030402"Disowning... that comes up commonly these days."'
+
+{0x05AE}	LOAD_STRING	'Chihiro'
+{0x05B0}	LOAD_STRING	'@v00040648"Well, if it's Nakategawa's dad, I don't doubt he would say something like that."'
+
+{0x05C0}	LOAD_STRING	'In my head, I imagine Yui's father looking like a stubborn traditional Japanese father, complete with Kimono and Hakama trousers.'
+
+{0x05D0}	LOAD_STRING	'But this is the 21st century. I can't believe it's true, just like Shiino said.'
+
+{0x0622}	LOAD_STRING	'Yui'
+{0x0624}	LOAD_STRING	'@v00020581"How terrible is that? To be disowned, you know? My human rights are completely disregarded."'
+
+{0x0634}	LOAD_STRING	'Nakategawa puffing out her cheeks cutely.'
+
+{0x0644}	LOAD_STRING	'When you get close to her like that, her father comes along as a set.'
+
+{0x0654}	LOAD_STRING	'You'd have to be pretty prepared... I'd think.'
+
+{0x065E}	LOAD_STRING	'Yui'
+{0x0660}	LOAD_STRING	'@v00020582"Besides, a promise like that would be a lifelong disgrace to my father, too."'
+
+{0x066E}	LOAD_STRING	'Tatsumi'
+{0x0670}	LOAD_STRING	'Disgrace to your father? Why do you think so?'
+
+{0x0680}	LOAD_STRING	'I can understand Nakategawa's animosity towards her father's warning.'
+
+{0x068A}	LOAD_STRING	'Yui'
+{0x068C}	LOAD_STRING	'@v00020583"If my father had a healthy relationship with my mother and ended up getting married, I would leave it at that. But this is like a 'bat laughing at a swallow'!"'
+
+{0x0696}	LOAD_STRING	'Miki'
+{0x0698}	LOAD_STRING	'@v00010765"I don't get the proverb there, but if you feel so strongly about it then..."'
+
+{0x06A6}	LOAD_STRING	'Tatsumi'
+{0x06A8}	LOAD_STRING	'"Well, could it be that your parents are in some sort of born-again marriage?"'
+
+{0x06B2}	LOAD_STRING	'Kotone'
+{0x06B4}	LOAD_STRING	'@v00030403"Oikawa, I think it's called an "Endowment" now."'
+
+{0x06BE}	LOAD_STRING	'Yui'
+{0x06C0}	LOAD_STRING	'@v00020584"My father says it's a result based on solemn fact, but I think that's a convenient excuse!"'
+
+{0x06CA}	LOAD_STRING	'Miki'
+{0x06CC}	LOAD_STRING	'@v00010766"Eheheh... Yui-chan?"'
+
+{0x06DC}	LOAD_STRING	'Wow, we've only known each other for such a short amount of time, yet we're hearing the story of how Nakategawa was born?'
+
+{0x06E6}	LOAD_STRING	'Yui'
+{0x06E8}	LOAD_STRING	'@v00020585"There's no other way to put it. They had a 'Shotgun wedding!' That's indicative of premarital and deviant sexual activity, isn't it?"'
+
+{0x0752}	LOAD_STRING	'Miki'
+{0x0754}	LOAD_STRING	'@v00010767"Shotgun...? Why a shotgun?"'
+
+{0x075E}	LOAD_STRING	'Kotone'
+{0x0760}	LOAD_STRING	'@v00030404"U-um... that's like... Oh, is that supposed to be like a man's 'shotgun?'"'
+
+{0x076A}	LOAD_STRING	'Miki'
+{0x076C}	LOAD_STRING	'@v00010768"Hmm?"'
+
+{0x0776}	LOAD_STRING	'Yui'
+{0x0778}	LOAD_STRING	'@v00020586"Um, a shotgun is like this..."'
+
+{0x0788}	LOAD_STRING	'Time for Nakategawa's intelligence to shine.'
+
+{0x07DA}	LOAD_STRING	'Yui'
+{0x07DC}	LOAD_STRING	'@v00020587"Some time ago, even English-speaking countries weren't so tolerant of premarital sex."'
+
+{0x07E6}	LOAD_STRING	'Yui'
+{0x07E8}	LOAD_STRING	'@v00020588"They say the 'Shotgun wedding' got its name from a time when a father would point a shotgun at the man who got his daughter pregnant, and force him to take responsibility."'
+
+{0x07F2}	LOAD_STRING	'Miki'
+{0x07F4}	LOAD_STRING	'@v00010769"Haha, I see. That sounds like a foreign drama."'
+
+{0x07FE}	LOAD_STRING	'Kotone'
+{0x0800}	LOAD_STRING	'@v00030405"Oh, so that's what a shotgun is... I thought it was..."'
+
+{0x080A}	LOAD_STRING	'Yui'
+{0x080C}	LOAD_STRING	'@v00020589"Thought it was what?"'
+
+{0x0816}	LOAD_STRING	'Kotone'
+{0x0818}	LOAD_STRING	'@v00030406"Nevermind."'
+
+{0x0822}	LOAD_STRING	'Chihiro'
+{0x0824}	LOAD_STRING	'@v00040649"I see. I can see why Nakategawa might be apprehensive to what her strict dad says."'
+
+{0x0834}	LOAD_STRING	'Everyone nodded in agreement to Chihiro's sentiment.'
+
+{0x0886}	LOAD_STRING	'Miki'
+{0x0888}	LOAD_STRING	'@v00010770"You know, I bet Yui-chan's house has shotguns in it!"'
+
+{0x0892}	LOAD_STRING	'Yui'
+{0x0894}	LOAD_STRING	'@v00020590"Oh, yes. My father really likes shooting clay pigeons."'
+
+{0x089E}	LOAD_STRING	'Chihiro'
+{0x08A0}	LOAD_STRING	'@v00040650"Hahaha, you'll have to face the fury if you wanna be Nakategawa's boyfriend, Tatsumi."'
+
+{0x08AE}	LOAD_STRING	'Tatsumi'
+{0x08B0}	LOAD_STRING	'Why me?'
+
+{0x08BA}	LOAD_STRING	'Yui'
+{0x08BC}	LOAD_STRING	'@v00020591"...Of course, there are a few loopholes."'
+
+{0x0930}	LOAD_STRING	'Nakategawa sticks out her tongue as she says this, while we reach the station.'
+
+{0x0940}	LOAD_STRING	'That makes me a little nervous.'
+
+{0x096A}	LOAD_STRING	'Kotone'
+{0x096C}	LOAD_STRING	'@v00030407"Hmm? Are you okay?"'
+
+{0x097C}	LOAD_STRING	'Shiino looks at me unusually surprised.'
+
+{0x0986}	LOAD_STRING	'Chihiro'
+{0x0988}	LOAD_STRING	'@v00040651"You can feel the lead being loaded into the shotgun, can't you?"'
+
+{0x0992}	LOAD_STRING	'Kotone'
+{0x0994}	LOAD_STRING	'@v00030408"What a horrible thing to say..."'
+
+{0x099E}	LOAD_STRING	'Miki'
+{0x09A0}	LOAD_STRING	'@v00010771"What kind of loophole?"'
+
+{0x09E2}	LOAD_STRING	'Yui'
+{0x09E4}	LOAD_STRING	'@v00020592"Impure sexual activity is a no-go. So that means...@t0310@hYUI_A101EG3 Wholesome and pure sexual activity is okay!"'
+
+{0x09F2}	LOAD_STRING	'Tatsumi'
+{0x09F4}	LOAD_STRING	'I guess so...?'
+
+{0x0A04}	LOAD_STRING	'I understand what Nakategawa is saying, but...'
+
+{0x0AC5}	LOAD_STRING	'Miki'
+{0x0AC7}	LOAD_STRING	'@v00010772"What even is wholesome sex?"'
+
+{0x0AD1}	LOAD_STRING	'Kotone'
+{0x0AD3}	LOAD_STRING	'@v00030409"What is the distinction between "Pure" and "Impure," anyway?"'
+
+{0x0AE1}	LOAD_STRING	'Tatsumi'
+{0x0AE3}	LOAD_STRING	'I guess it would be something that "Crosses the line."'
+
+{0x0AED}	LOAD_STRING	'Miki'
+{0x0AEF}	LOAD_STRING	'@v00010773"Ah, crossing the line... Mhm..."'
+
+{0x0AF9}	LOAD_STRING	'Chihiro'
+{0x0AFB}	LOAD_STRING	'@v00040652"Y-yeah..."'
+
+{0x0B0B}	LOAD_STRING	'Miki and Chihiro blush.'
+
+{0x0B1B}	LOAD_STRING	'For some reason, these two aren't immune to this kind of thing.'
+
+{0x0B2B}	LOAD_STRING	'Of course... neither am I.'
+
+{0x0B35}	LOAD_STRING	'Kotone'
+{0x0B37}	LOAD_STRING	'@v00030410"Oh, what's that? Could it be that the senpais...?"'
+
+{0x0B41}	LOAD_STRING	'Miki'
+{0x0B43}	LOAD_STRING	'@v00010774"Huh? W-what are you talking about?"'
+
+{0x0B4D}	LOAD_STRING	'Chihiro'
+{0x0B4F}	LOAD_STRING	'@v00040653"Wh-what the hell..."'
+
+{0x0B59}	LOAD_STRING	'Kotone'
+{0x0B5B}	LOAD_STRING	'@v00030411"...Nah, nevermind.@t0290@hKOTONE_A101TN I think I might be onto something about the senpais, though."'
+
+{0x0B6B}	LOAD_STRING	'She was slightly surprised, but looked satisfied.'
+
+{0x0BA5}	LOAD_STRING	'Yui'
+{0x0BA7}	LOAD_STRING	'@v00020593"...I think Tatsumi is the one who was onto something."'
+
+{0x0BB7}	LOAD_STRING	'And then Nakategawa looked toward me.'
+
+{0x0C0D}	LOAD_STRING	'Yui'
+{0x0C0F}	LOAD_STRING	'@v00020594"However!"'
+
+{0x0C1F}	LOAD_STRING	'She looks at me with a flame burning in her eyes.'
+
+{0x0C2D}	LOAD_STRING	'Tatsumi'
+{0x0C2F}	LOAD_STRING	'U-uh...'
+
+{0x0C3F}	LOAD_STRING	'That look made my heart skip a beat.'
+
+{0x0CA3}	LOAD_STRING	'Yui'
+{0x0CA5}	LOAD_STRING	'@v00020595"Maybe it's not the external act which you need to focus on, but the emotions within, right?"'
+
+{0x0CB3}	LOAD_STRING	'Tatsumi'
+{0x0CB5}	LOAD_STRING	'Y-yeah, that's true.'
+
+{0x0CC5}	LOAD_STRING	'I don't know, but I nod like I do.'
+
+{0x0CCF}	LOAD_STRING	'Yui'
+{0x0CD1}	LOAD_STRING	'@v00020596"So, that means that crossing the line is what makes it pure after all!"'
+
+{0x0CDB}	LOAD_STRING	'Yui'
+{0x0CDD}	LOAD_STRING	'@v00020597"If you love each other and sincerely care for each other,@t0470@hYUI_A102IK2 then you can say that sexual relationship is pure, can't you?"'
+
+{0x0CE7}	LOAD_STRING	'Miki'
+{0x0CE9}	LOAD_STRING	'@v00010775"Yui-chan... you're talking too loudly..."'
+
+{0x0CF9}	LOAD_STRING	'Miki tries to calm Nakategawa down, but it seems like she wasn't heard.'
+
+{0x0D03}	LOAD_STRING	'Kotone'
+{0x0D05}	LOAD_STRING	'@v00030412"Um, Nakategawa-senpai... I think you're splitting hairs..."'
+
+{0x0D65}	LOAD_STRING	'Yui'
+{0x0D67}	LOAD_STRING	'@v00020598"It's just like 'The Winged Alliance' of loving vows!'"'
+
+{0x0D75}	LOAD_STRING	'Tatsumi'
+{0x0D77}	LOAD_STRING	'Uh...'
+
+{0x0D87}	LOAD_STRING	'Nakategawa suddenly took my hand and pulled it in front of her chest.'
+
+{0x0D91}	LOAD_STRING	'Yui'
+{0x0D93}	LOAD_STRING	'@v00020599"I mean, love is all you need... don't you think?"'
+
+{0x0DA1}	LOAD_STRING	'Tatsumi'
+{0x0DA3}	LOAD_STRING	'Y-yeah, I suppose...'
+
+{0x0DB3}	LOAD_STRING	'Nakategawa doesn't know when to quit.'
+
+{0x0DBD}	LOAD_STRING	'Yui'
+{0x0DBF}	LOAD_STRING	'@v00020600"I won't be stopped by my father's vague concept of deviant sex!"'
+
+{0x0DCD}	LOAD_STRING	'Tatsumi'
+{0x0DCF}	LOAD_STRING	'Yeah, good luck to you...'
+
+{0x0DD9}	LOAD_STRING	'Kotone'
+{0x0DDB}	LOAD_STRING	'@v00030413"Um... Nakategawa-senpai? You've been holding Oikawa-senpai's hand for a long time, now..."'
+
+{0x0DE5}	LOAD_STRING	'Yui'
+{0x0DE7}	LOAD_STRING	'@v00020601"Huh?"'
+
+{0x0DF5}	LOAD_STRING	'Tatsumi'
+{0x0DF7}	LOAD_STRING	'...'
+
+{0x0E4D}	LOAD_STRING	'Yui'
+{0x0E4F}	LOAD_STRING	'@v00020602"...Ah! I'm sorry!"@k'
+
+{0x0E8E}	LOAD_STRING	'Nakategawa quickly removes her hand and looks down with a fidgety gesture.'
+
+{0x0E98}	LOAD_STRING	'Miki'
+{0x0E9A}	LOAD_STRING	'@v00010776"Something... must have come over you, huh...?"'
+
+{0x0EA4}	LOAD_STRING	'Kotone'
+{0x0EA6}	LOAD_STRING	'@v00030414"Hmph, Nakategawa-senpai just gets like this sometimes..."'
+
+{0x0EB6}	LOAD_STRING	'She seems to be the type of person who suddenly becomes a fighter and forgets herself, especially when she's dealing with her father, who is a clueless man.'
+
+{0x0EC0}	LOAD_STRING	'Chihiro'
+{0x0EC2}	LOAD_STRING	'@v00040654"So, what are you going to do, Tatsumi?"'
+
+{0x0ED2}	LOAD_STRING	'Chihiro grins and gives me a nasty look.'
+
+{0x0EE0}	LOAD_STRING	'Tatsumi'
+{0x0EE2}	LOAD_STRING	'...I dunno.'
+
+{0x0EF2}	LOAD_STRING	'I can only reply with a few words.'
+
+{0x0EFC}	LOAD_STRING	'Yui'
+{0x0EFE}	LOAD_STRING	'@v00020603"Aah, are you taking this the wrong way, Chihiro-san?@t0480@hYUI_A102KM You're wrong, Tatsumi-san, we're still─"'
+
+{0x0F08}	LOAD_STRING	'Kotone'
+{0x0F0A}	LOAD_STRING	'@v00030415"'Still' what, eh?"'
+
+{0x0F14}	LOAD_STRING	'Yui'
+{0x0F16}	LOAD_STRING	'@v00020604"Aah, Kotone-chan! Please don't cut me off!"@k'
+
+{0x0F41}	LOAD_STRING	'Nakategawa stood next to me as she lit herself up again and again.'

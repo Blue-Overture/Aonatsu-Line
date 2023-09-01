@@ -1,0 +1,769 @@
+{0x00B5}	LOAD_STRING	'It's been a few days since Shiino joined our group.'
+
+{0x00C5}	LOAD_STRING	'There isn't any bad air between us.'
+
+{0x00D5}	LOAD_STRING	'Both Miki and Nakategawa look after her as her upperclassmen.'
+
+{0x00E5}	LOAD_STRING	'She can be a little cocky and troublesome, but I don't hate her either.'
+
+{0x00F5}	LOAD_STRING	'She's generally nice, but there's just one problem...'
+
+{0x0169}	LOAD_STRING	'Chihiro'
+{0x016B}	LOAD_STRING	'@v00040220"Huh? You started this whole dancing thing, didn't you?"'
+
+{0x0175}	LOAD_STRING	'Chihiro'
+{0x0177}	LOAD_STRING	'@v00040221"So why are you all, 'There's no point in doing it, because Tatsumi and Nakategawa are clumsy' all of a sudden?"'
+
+{0x0187}	LOAD_STRING	'The problem is the awkward atmosphere between Chihiro and Shiino.'
+
+{0x01D5}	LOAD_STRING	'Kotone'
+{0x01D7}	LOAD_STRING	'@v00030105"I'm the one who started it, but I did say that it would just be impossible."'
+
+{0x01E7}	LOAD_STRING	'Without skipping a beat, Shiino continues.'
+
+{0x01F1}	LOAD_STRING	'Kotone'
+{0x01F3}	LOAD_STRING	'@v00030106"You know, if it were just us girls, it would work out much better."'
+
+{0x0203}	LOAD_STRING	'The air instantly sours between Chihiro and Shiino.'
+
+{0x020D}	LOAD_STRING	'Yui'
+{0x020F}	LOAD_STRING	'@v00020327"Um... Please settle down."'
+
+{0x0219}	LOAD_STRING	'Miki'
+{0x021B}	LOAD_STRING	'@v00010234"Yeah, Chi-kun, don't get so worked up about this."'
+
+{0x0229}	LOAD_STRING	'Tatsumi'
+{0x022B}	LOAD_STRING	'Shiino didn't really mean it.'
+
+{0x023B}	LOAD_STRING	'There was no clear trigger as to how this happened.'
+
+{0x024B}	LOAD_STRING	'We discussed our summer vacation plans until after dark, and Chihiro and Shiino's opinions gradually became more and more divisive.'
+
+{0x025B}	LOAD_STRING	'The discomfort between the two, which has been gradually accumulating, is about to explode at any moment.'
+
+{0x02B5}	LOAD_STRING	'Chihiro'
+{0x02B7}	LOAD_STRING	'@v00040222"Are you guys seriously defending her? She's making fun of both of you, Tatsumi and Nakategawa."'
+
+{0x02C5}	LOAD_STRING	'Tatsumi'
+{0x02C7}	LOAD_STRING	'Well, I'm sure I have no sense of rhythm.'
+
+{0x02D7}	LOAD_STRING	'I specialize mainly in listening to music, and I'm aware that my sense of rhythm is below average.'
+
+{0x02E7}	LOAD_STRING	'I failed at playing bass because, above all, I was strictly a rhythm keeper.'
+
+{0x02F1}	LOAD_STRING	'Yui'
+{0x02F3}	LOAD_STRING	'@v00020328"Yes, and there's no doubt that I'm a klutz."'
+
+{0x02FD}	LOAD_STRING	'Chihiro'
+{0x02FF}	LOAD_STRING	'@v00040223"You're missing the point..."'
+
+{0x030F}	LOAD_STRING	'Chihiro mouthed it in disgust, but immediately turned his sharp gaze on Shiino.'
+
+{0x0319}	LOAD_STRING	'Chihiro'
+{0x031B}	LOAD_STRING	'@v00040224"You can't get away with talking to seniors like that."'
+
+{0x032B}	LOAD_STRING	'Chihiro isn't usually one to discuss the respect you give to upperclassmen, but it looks like he's resorting to it now.'
+
+{0x033B}	LOAD_STRING	'I didn't really want our relationship to be based in a seniority-based hierarchy...'
+
+{0x0389}	LOAD_STRING	'Kotone'
+{0x038B}	LOAD_STRING	'@v00030107"I think for a senpai, you really emit kohai energy. I wonder if that's how you talk to girls?"'
+
+{0x039B}	LOAD_STRING	'Shiino continues to speak without looking away from Chihiro, but...'
+
+{0x03AD}	LOAD_STRING	'Kotone'
+{0x03AF}	LOAD_STRING	'@v00030108"I bet that's why they only notice your face."'
+
+{0x03BF}	LOAD_STRING	'Those words weren't right to say, regardless of seniority.'
+
+{0x03CD}	LOAD_STRING	'Tatsumi'
+{0x03CF}	LOAD_STRING	'Shiino, that's too much...'
+
+{0x03DF}	LOAD_STRING	'When I tried to scold her for what she said...'
+
+{0x0441}	LOAD_STRING	'Chihiro'
+{0x0443}	LOAD_STRING	'@v00040225"Oh, I see... If that's the case, it doesn't matter if you're a senior, junior, girl, boy, or anything else."'
+
+{0x0453}	LOAD_STRING	'I heard Chihiro's low voice.'
+
+{0x04AD}	LOAD_STRING	'Chihiro'
+{0x04AF}	LOAD_STRING	'@v00040226"I know what kind of person you really are."'
+
+{0x04B9}	LOAD_STRING	'Kotone'
+{0x04BB}	LOAD_STRING	'@v00030109"...That's quite the thing to say.@t0240@hKOTONE_A101IK2 SaKaKi-sEnPai?"'
+
+{0x04CB}	LOAD_STRING	'Shiino says this sarcastically.'
+
+{0x04D5}	LOAD_STRING	'Yui'
+{0x04D7}	LOAD_STRING	'@v00020329"Oh, um..."'
+
+{0x04E7}	LOAD_STRING	'Nakategawa, sitting in front of me, almost opens her mouth to follow up.'
+
+{0x04F1}	LOAD_STRING	'Chihiro'
+{0x04F3}	LOAD_STRING	'@v00040227"Girls like you are the same no matter where you go."'
+
+{0x0503}	LOAD_STRING	'Chihiro's lips twist sarcastically.'
+
+{0x0513}	LOAD_STRING	'The expression on his face reminds me of the 'not so good' days he used to have.'
+
+{0x051D}	LOAD_STRING	'Kotone'
+{0x051F}	LOAD_STRING	'@v00030110"...What are you talking about?"'
+
+{0x053B}	LOAD_STRING	'Chihiro'
+{0x053D}	LOAD_STRING	'@v00040228"You think you're in with that group, and you're getting along, and then the next day you're fighting, and of course, you leave them."'
+
+{0x0547}	LOAD_STRING	'Chihiro'
+{0x0549}	LOAD_STRING	'@v00040229"And then you join this group, and you hurt someone else in the same way, and then you feel uncomfortable somehow, so you join another group."'
+
+{0x0553}	LOAD_STRING	'Miki'
+{0x0555}	LOAD_STRING	'@v00010235"Hey, Chi-kun!"'
+
+{0x055F}	LOAD_STRING	'Kotone'
+{0x0561}	LOAD_STRING	'@v00030111"..."'
+
+{0x0571}	LOAD_STRING	'The tone was stronger than one would normally expect from Miki, but that didn't stop Chihiro.'
+
+{0x057B}	LOAD_STRING	'Chihiro'
+{0x057D}	LOAD_STRING	'@v00040230"That's how you're drifting through the school. You're headed that way with us anyway, aren't you?"'
+
+{0x0587}	LOAD_STRING	'Chihiro'
+{0x0589}	LOAD_STRING	'@v00040231"I don't know who you're gonna hurt this time, though."'
+
+{0x05F1}	LOAD_STRING	'Kotone'
+{0x05F3}	LOAD_STRING	'@v00030112"T-That's not...!"'
+
+{0x0603}	LOAD_STRING	'Shiino gets up and tries to argue.'
+
+{0x060D}	LOAD_STRING	'Chihiro'
+{0x060F}	LOAD_STRING	'@v00040232"Hah, I'm right, aren't I? That's why you're such a cunt."'
+
+{0x0619}	LOAD_STRING	'Kotone'
+{0x061B}	LOAD_STRING	'@v00030113"...Please... Stop..."@k'
+
+{0x063E}	LOAD_STRING	'Gradually weakening Shiino's voice.'
+
+{0x064C}	LOAD_STRING	'Tatsumi'
+{0x064E}	LOAD_STRING	'That's enough, Chihiro...!'
+
+{0x065E}	LOAD_STRING	'But that doesn't stop Chihiro.'
+
+{0x0668}	LOAD_STRING	'Chihiro'
+{0x066A}	LOAD_STRING	'@v00040233"Let me clue you in on something.@t0280 The reason you don't have a place is because you don't have a personality. That's why you can't have a real friend."'
+
+{0x0674}	LOAD_STRING	'Chihiro'
+{0x0676}	LOAD_STRING	'@v00040234"And you don't even have the courage to be alone. You want someone to bother you, someone to be there for you only when it's convenient for you."'
+
+{0x0680}	LOAD_STRING	'Kotone'
+{0x0682}	LOAD_STRING	'@v00030114"...Stop..."@k'
+
+{0x069F}	LOAD_STRING	'Chihiro'
+{0x06A1}	LOAD_STRING	'@v00040235"That's just who you are.@t0310 Unfortunately, there isn't anyone in the world who will be convenient enough for you!"'
+
+{0x06AB}	LOAD_STRING	'Yui'
+{0x06AD}	LOAD_STRING	'@v00020330"Chihiro-san! You're going overboard!"'
+
+{0x06BD}	LOAD_STRING	'Chihiro raises a small eyebrow at Nakategawa's unexpectedly strong tone.'
+
+{0x06C7}	LOAD_STRING	'Miki'
+{0x06C9}	LOAD_STRING	'@v00010236"Koto-chan... Just don't mind him, he's just a little salty─"'
+
+{0x06D9}	LOAD_STRING	'Miki tries to put her hand on Shiino's shoulder as if to comfort her.'
+
+{0x06E3}	LOAD_STRING	'Kotone'
+{0x06E5}	LOAD_STRING	'@v00030115"!!!"@k'
+
+{0x0736}	LOAD_STRING	'Shaking off her hand, Shiino runs out of Mico.'
+
+{0x0746}	LOAD_STRING	'I caught a glimpse of her face, and it was terribly pale.'
+
+{0x078E}	LOAD_STRING	'Tatsumi'
+{0x0790}	LOAD_STRING	'Oh man.'
+
+{0x07A0}	LOAD_STRING	'I chased after her while shouting behind me.'
+
+{0x07AE}	LOAD_STRING	'Tatsumi'
+{0x07B0}	LOAD_STRING	'Hey, I'll talk to you guys later on Messenger!'
+
+{0x07D6}	LOAD_STRING	'Miki'
+{0x07D8}	LOAD_STRING	'@v00010237"Yes please, Tak-kun!"'
+
+{0x07FE}	LOAD_STRING	'Yui'
+{0x0800}	LOAD_STRING	'@v00020331"Let me know if I can help, Tatsumi-san."'
+
+{0x085A}	LOAD_STRING	'Chihiro'
+{0x085C}	LOAD_STRING	'@v00040236"..."'
+
+{0x086C}	LOAD_STRING	'Chihiro doesn't say a word.'
+
+{0x087C}	LOAD_STRING	'His face is smeared with regret.'
+
+{0x088A}	LOAD_STRING	'Tatsumi'
+{0x088C}	LOAD_STRING	'Apologize to Shiino tomorrow.'
+
+{0x0896}	LOAD_STRING	'Chihiro'
+{0x0898}	LOAD_STRING	'@v00040237"...If I feel like it."'
+
+{0x08A8}	LOAD_STRING	'With those words, I left the store.'
+
+{0x098C}	LOAD_STRING	'Tatsumi'
+{0x098E}	LOAD_STRING	'Shiino!'
+
+{0x099E}	LOAD_STRING	'It wasn't much trouble to catch up with her.'
+
+{0x09AE}	LOAD_STRING	'It's not so much the difference in physical strength between men and women, but rather the fact that it's quite dangerous to run as fast as you can down the steep downhill of Kurigaoka, even if you're not a child.'
+
+{0x0A21}	LOAD_STRING	'Tatsumi'
+{0x0A23}	LOAD_STRING	'Hey, Shiino...'
+
+{0x0A33}	LOAD_STRING	'But the biggest problem is...'
+
+{0x0A3D}	LOAD_STRING	'Kotone'
+{0x0A3F}	LOAD_STRING	'@v00030116"..."@k'
+
+{0x0A87}	LOAD_STRING	'No matter how much you call out, Shiino will probably not respond.'
+
+{0x0A91}	LOAD_STRING	'Kotone'
+{0x0A93}	LOAD_STRING	'@v00030117"...Sob..."'
+
+{0x0AA3}	LOAD_STRING	'I can't see Shiino's expression because her back is turned.'
+
+{0x0AB3}	LOAD_STRING	'Still, from her trembling shoulders and breath, I could easily imagine that she was crying.'
+
+{0x0AC1}	LOAD_STRING	'Tatsumi'
+{0x0AC3}	LOAD_STRING	'Hey, can we talk for a minute?@k'
+
+{0x0AFD}	LOAD_STRING	'Kotone'
+{0x0AFF}	LOAD_STRING	'@v00030118"Please leave me alone..."'
+
+{0x0B0F}	LOAD_STRING	'I finally heard Shiino's words: rejection.'
+
+{0x0B1F}	LOAD_STRING	'Still, I'd say we've only taken one step forward.'
+
+{0x0B2D}	LOAD_STRING	'Tatsumi'
+{0x0B2F}	LOAD_STRING	'Shiino, wait a moment. Back there, that was all a big mistake...'
+
+{0x0B39}	LOAD_STRING	'Kotone'
+{0x0B3B}	LOAD_STRING	'@v00030119"Please stop!!!"'
+
+{0x0B4B}	LOAD_STRING	'This time the rejection was so clear that I flinched.'
+
+{0x0B55}	LOAD_STRING	'Kotone'
+{0x0B57}	LOAD_STRING	'@v00030120"Please leave me alone... I... I'm..."'
+
+{0x0B65}	LOAD_STRING	'Tatsumi'
+{0x0B67}	LOAD_STRING	'Shiino...?'
+
+{0x0B71}	LOAD_STRING	'Kotone'
+{0x0B73}	LOAD_STRING	'@v00030121"It's okay... It doesn't matter, so..."'
+
+{0x0B81}	LOAD_STRING	'Tatsumi'
+{0x0B83}	LOAD_STRING	'Shiino!@k'
+
+{0x0BBF}	LOAD_STRING	'Kotone'
+{0x0BC1}	LOAD_STRING	'@v00030122"!"@k'
+
+{0x0C09}	LOAD_STRING	'By the time I realized it, it was too late, and I had already grabbed Shiino's wrist.'
+
+{0x0C19}	LOAD_STRING	'It was a thin, cold, soft hand.'
+
+{0x0C23}	LOAD_STRING	'Kotone'
+{0x0C25}	LOAD_STRING	'@v00030123"...Hey, please let go of me..."@k'
+
+{0x0C63}	LOAD_STRING	'Tatsumi'
+{0x0C65}	LOAD_STRING	'But, Shiino, are you sure...?'
+
+{0x0C6F}	LOAD_STRING	'Kotone'
+{0x0C71}	LOAD_STRING	'@v00030124"Please stop... I'm going to scream, okay?"'
+
+{0x0C81}	LOAD_STRING	'To be honest, it's troublesome, and I may be doing something that can't be helped even if I'm shouted at.'
+
+{0x0C91}	LOAD_STRING	'...'
+
+{0x0CA1}	LOAD_STRING	'Still, I...'
+
+{0x0CBD}	LOAD_STRING	'Tatsumi'
+{0x0CBF}	LOAD_STRING	'If I don't do this, it'll all be over.'
+
+{0x0CC9}	LOAD_STRING	'Kotone'
+{0x0CCB}	LOAD_STRING	'@v00030125"..."@k'
+
+{0x0D28}	LOAD_STRING	'Tatsumi'
+{0x0D2A}	LOAD_STRING	'I can't talk to you, and neither can anyone else...'
+
+{0x0D38}	LOAD_STRING	'Tatsumi'
+{0x0D3A}	LOAD_STRING	'Are you sure you're okay with that?'
+
+{0x0D44}	LOAD_STRING	'Kotone'
+{0x0D46}	LOAD_STRING	'@v00030126"..."'
+
+{0x0D54}	LOAD_STRING	'Tatsumi'
+{0x0D56}	LOAD_STRING	'Our "line" is falling apart... Is that really okay...?'
+
+{0x0D60}	LOAD_STRING	'Kotone'
+{0x0D62}	LOAD_STRING	'@v00030127"..."'
+
+{0x0D72}	LOAD_STRING	'I suddenly remembered Nakategawa's story sometime ago about the "line" leading to the past, present and future.'
+
+{0x0D82}	LOAD_STRING	'That's... My words are too sudden and out of place to talk about here.'
+
+{0x0D92}	LOAD_STRING	'I wasn't at all sure if it would be a force to hold Shiino together, but...'
+
+{0x0D9C}	LOAD_STRING	'Kotone'
+{0x0D9E}	LOAD_STRING	'@v00030128"..."'
+
+{0x0DAC}	LOAD_STRING	'Tatsumi'
+{0x0DAE}	LOAD_STRING	'Shiino...'
+
+{0x0DBE}	LOAD_STRING	'I can feel the force of her tension slowly relaxing.'
+
+{0x0DC8}	LOAD_STRING	'Kotone'
+{0x0DCA}	LOAD_STRING	'@v00030129"...Huh.@t0340 You're persistent, aren't you, Oikawa-san?'
+
+{0x0DD8}	LOAD_STRING	'Tatsumi'
+{0x0DDA}	LOAD_STRING	'Shiino... I'm glad.'
+
+{0x0DEA}	LOAD_STRING	'It seems that the "line" between us and Shiino has not yet been untied.'
+
+{0x0DF4}	LOAD_STRING	'Kotone'
+{0x0DF6}	LOAD_STRING	'@v00030130"I won't run away anymore. Can you let go of my hand?"@k'
+
+{0x0E34}	LOAD_STRING	'Tatsumi'
+{0x0E36}	LOAD_STRING	'...Oh, uh... Sorry...'
+
+{0x0EA4}	LOAD_STRING	'Kotone'
+{0x0EA6}	LOAD_STRING	'@v00030131"Thank you. Now we can talk calmly."'
+
+{0x0EB6}	LOAD_STRING	'The calmness has returned to Shiino's face. Maybe I have that same look on my face, too.'
+
+{0x0EC4}	LOAD_STRING	'Tatsumi'
+{0x0EC6}	LOAD_STRING	'Well, Chihiro was certainly expressing his emotions...'
+
+{0x0ED6}	LOAD_STRING	'I regain my composure and speak soothingly.'
+
+{0x0EE4}	LOAD_STRING	'Tatsumi'
+{0x0EE6}	LOAD_STRING	'He didn't mean to say that stuff. I'll definitely make him apologize tomorrow, so please forgive him.'
+
+{0x0EF0}	LOAD_STRING	'Kotone'
+{0x0EF2}	LOAD_STRING	'@v00030132"..."'
+
+{0x0FA2}	LOAD_STRING	'Surely Shiino had said too much as well.'
+
+{0x0FB2}	LOAD_STRING	'Still, Chihiro's words were too harsh for the underclassman girl.'
+
+{0x0FC2}	LOAD_STRING	'It clearly went way past the category of "respecting your elders."'
+
+{0x1020}	LOAD_STRING	'Tatsumi'
+{0x1022}	LOAD_STRING	'So, well, I can't tell you to... let bygones be bygones.'
+
+{0x1032}	LOAD_STRING	'Making up after one night can be difficult, unless you're a small child.'
+
+{0x1042}	LOAD_STRING	'Even more so when they're our age.'
+
+{0x1050}	LOAD_STRING	'Tatsumi'
+{0x1052}	LOAD_STRING	'From now on, could you try and be a little closer with Chihiro?'
+
+{0x1062}	LOAD_STRING	'There is no doubt that there are relationships between people that don't fit.'
+
+{0x1072}	LOAD_STRING	'And in some cases it can be the cause of a definite disconnect.'
+
+{0x1082}	LOAD_STRING	'But when it came to Chihiro and Shiino, there was a sense that this was not the case.'
+
+{0x10EF}	LOAD_STRING	'Kotone'
+{0x10F1}	LOAD_STRING	'@v00030133"Oikawa-senpai..."'
+
+{0x1101}	LOAD_STRING	'Shiino's voice is so quiet it's almost drowned out by the sound of the waves.'
+
+{0x1111}	LOAD_STRING	'The voice still trembling in my ears on the beach breeze.'
+
+{0x115D}	LOAD_STRING	'Tatsumi'
+{0x115F}	LOAD_STRING	'Shiino... I'm...'
+
+{0x116F}	LOAD_STRING	'What do I say in this situation?'
+
+{0x117F}	LOAD_STRING	'Before I could figure it out, I was interrupted by Shiino's little confession.'
+
+{0x1189}	LOAD_STRING	'Kotone'
+{0x118B}	LOAD_STRING	'@v00030134"Actually... What Sakaki-senpai said... is right."'
+
+{0x11F1}	LOAD_STRING	'Tatsumi'
+{0x11F3}	LOAD_STRING	'Huh?'
+
+{0x11FD}	LOAD_STRING	'Kotone'
+{0x11FF}	LOAD_STRING	'@v00030135"I have no real individuality... and no real friends."'
+
+{0x1209}	LOAD_STRING	'Kotone'
+{0x120B}	LOAD_STRING	'@v00030136"It's kind of funny that what Sakaki-senpai said ended up being right...@t0730@hKOTONE_A101EG I couldn't handle the truth in my own face."'
+
+{0x121B}	LOAD_STRING	'I couldn't easily disprove the point she was making.'
+
+{0x122B}	LOAD_STRING	'Then again, maybe she didn't want me to.'
+
+{0x1239}	LOAD_STRING	'Tatsumi'
+{0x123B}	LOAD_STRING	'I see. For what it's worth... I didn't think that about you.'
+
+{0x12F7}	LOAD_STRING	'So I'm just going to speak honestly.'
+
+{0x1307}	LOAD_STRING	'I shouldn't embellish my words, especially not to Shiino, who is trying to let out her grievances.'
+
+{0x141D}	LOAD_STRING	'We slowly walk along the beach at night, in the direction of the station.'
+
+{0x142B}	LOAD_STRING	'Tatsumi'
+{0x142D}	LOAD_STRING	'I guess the vibe you wanted to give off is one of "the modern girl of the group."'
+
+{0x148B}	LOAD_STRING	'Kotone'
+{0x148D}	LOAD_STRING	'@v00030137"That's not true... You know, until last year, I was a goody two-shoes."'
+
+{0x1497}	LOAD_STRING	'Kotone'
+{0x1499}	LOAD_STRING	'@v00030138"Of course, my friends also feel the same as I do. Talking about novels and comics in the corner of the classroom...@t1210@hKOTONE_A101EG It's common, isn't it?"'
+
+{0x14A9}	LOAD_STRING	'After saying that much, I noticed Shiino smiled a little.'
+
+{0x14B3}	LOAD_STRING	'Kotone'
+{0x14B5}	LOAD_STRING	'@v00030139"I wanted to change myself up, so I tried a lot of things. I studied makeup, went to famous beauty salons, and listened to trendy music."'
+
+{0x14BF}	LOAD_STRING	'Kotone'
+{0x14C1}	LOAD_STRING	'@v00030140"You get it, right? You go on to school and make your 'debut' at school."'
+
+{0x14CF}	LOAD_STRING	'Tatsumi'
+{0x14D1}	LOAD_STRING	'Yeah.'
+
+{0x150D}	LOAD_STRING	'That's exactly how many people I know do it, too.'
+
+{0x151D}	LOAD_STRING	'"When I go to school, I'll change my hair, my fashion, the genre of music I listen to - even the friends I hang out with."'
+
+{0x152D}	LOAD_STRING	'So that's what Shiino meant when she talked about "resetting."'
+
+{0x15F3}	LOAD_STRING	'Kotone'
+{0x15F5}	LOAD_STRING	'@v00030141"Right after school started...@t0260@hKOTONE_U101BS Around April or May, I think..."'
+
+{0x15FF}	LOAD_STRING	'Kotone'
+{0x1601}	LOAD_STRING	'@v00030142"I was able to have a normal time in what you'd call a group of modern girls."'
+
+{0x1611}	LOAD_STRING	'After saying that much, Shiino cuts off her words.'
+
+{0x163D}	LOAD_STRING	'I guess the word "but" continues in her mind.'
+
+{0x1697}	LOAD_STRING	'Kotone'
+{0x1699}	LOAD_STRING	'@v00030143"The others have been popular for a long time. So it was different with me, with no previous notoriety or anything."'
+
+{0x16A3}	LOAD_STRING	'Kotone'
+{0x16A5}	LOAD_STRING	'@v00030144"My knowledge is trivial and I have zero experience. That's when it hit me... I didn't really belong there."'
+
+{0x16B5}	LOAD_STRING	'This is a pretty common thing.'
+
+{0x16BF}	LOAD_STRING	'Kotone'
+{0x16C1}	LOAD_STRING	'@v00030145"Still, I believed I had to be patient and try to fit in with my surroundings.@t0650@hKOTONE_A101NK So, I..."'
+
+{0x16CF}	LOAD_STRING	'Tatsumi'
+{0x16D1}	LOAD_STRING	'I think you reached your breaking point...'
+
+{0x16E1}	LOAD_STRING	'Shiino gave a small nod at my words.@k'
+
+{0x1704}	LOAD_STRING	'So it was Nakategawa who found her at that limit.'
+
+{0x170E}	LOAD_STRING	'Kotone'
+{0x1710}	LOAD_STRING	'@v00030146"Ugh... Why did this have to happen?"'
+
+{0x1720}	LOAD_STRING	'Shiino lightly kicks up the sand at her feet and lets out a small breath.'
+
+{0x172A}	LOAD_STRING	'Kotone'
+{0x172C}	LOAD_STRING	'@v00030147"I just wanted to live a normal school life, you know? I wasn't expecting anything crazy like in novels or manga."'
+
+{0x1736}	LOAD_STRING	'Kotone'
+{0x1738}	LOAD_STRING	'@v00030148"Laugh at silly things with friends,@t0300@hKOTONE_A101MH maybe fall in love..."'
+
+{0x1742}	LOAD_STRING	'Kotone'
+{0x1744}	LOAD_STRING	'@v00030149"I just wanted... to live such a normal life."'
+
+{0x1818}	LOAD_STRING	'Shiino's words cut off there, with only the sound of the waves enveloping us.'
+
+{0x187A}	LOAD_STRING	'Tatsumi'
+{0x187C}	LOAD_STRING	'I see... You did your best, Shiino.'
+
+{0x1886}	LOAD_STRING	'Kotone'
+{0x1888}	LOAD_STRING	'@v00030150"Yes... I did a pretty good job, too."'
+
+{0x1896}	LOAD_STRING	'Tatsumi'
+{0x1898}	LOAD_STRING	'Well, you can relax now, can't you?'
+
+{0x18A8}	LOAD_STRING	'Working hard is a virtue. But not in this case.'
+
+{0x18B8}	LOAD_STRING	'If you crush yourself, your hard work is a net negative.'
+
+{0x18C6}	LOAD_STRING	'Tatsumi'
+{0x18C8}	LOAD_STRING	'Also, Shiino... when you said you didn't have a "self", I don't think that's true.'
+
+{0x18D2}	LOAD_STRING	'Kotone'
+{0x18D4}	LOAD_STRING	'@v00030151"I don't... think it's not true."'
+
+{0x18E2}	LOAD_STRING	'Tatsumi'
+{0x18E4}	LOAD_STRING	'Changing yourself to fit your surroundings is part of who you are.'
+
+{0x18F4}	LOAD_STRING	'"I choose to change... because it's part of who I am."'
+
+{0x18FE}	LOAD_STRING	'Kotone'
+{0x1900}	LOAD_STRING	'@v00030152"That's so... ironic."'
+
+{0x190E}	LOAD_STRING	'Tatsumi'
+{0x1910}	LOAD_STRING	'Well, I wouldn't say that. Besides, it's not so bad that your hobbies are novels and manga, is it?'
+
+{0x191A}	LOAD_STRING	'Kotone'
+{0x191C}	LOAD_STRING	'@v00030153"Oh, no. You don't know how dorky I used to look, so you can't say that just yet."'
+
+{0x192A}	LOAD_STRING	'Tatsumi'
+{0x192C}	LOAD_STRING	'What kind of dorky look... are you talking about?'
+
+{0x1986}	LOAD_STRING	'Kotone'
+{0x1988}	LOAD_STRING	'@v00030154"I'll never show you."'
+
+{0x1998}	LOAD_STRING	'Shiino clutches her phone tightly.'
+
+{0x19C2}	LOAD_STRING	'Tatsumi'
+{0x19C4}	LOAD_STRING	'Well, anyway... Cool, uncool, that's up to the people around the school, isn't it?'
+
+{0x19D2}	LOAD_STRING	'Tatsumi'
+{0x19D4}	LOAD_STRING	'Now and then, you are still you. You try hard to change, fail, and sometimes bite your seniors.'
+
+{0x19DE}	LOAD_STRING	'Kotone'
+{0x19E0}	LOAD_STRING	'@v00030155"You think so...?"'
+
+{0x19F0}	LOAD_STRING	'She sounded frightened, which was unusual for her.'
+
+{0x1A00}	LOAD_STRING	'That's why I answer with an all-out affirmation.'
+
+{0x1A3A}	LOAD_STRING	'Tatsumi'
+{0x1A3C}	LOAD_STRING	'There are very few things in this world the demand you do them exactly one way.'
+
+{0x1A4A}	LOAD_STRING	'Tatsumi'
+{0x1A4C}	LOAD_STRING	'As for everything else, you can live exactly how you want to.'
+
+{0x1A5C}	LOAD_STRING	'As far as I'm concerned, anyway.'
+
+{0x1A6C}	LOAD_STRING	'If conforming to the world is an option, then the opposite is just another option.'
+
+{0x1A7C}	LOAD_STRING	'Of course, it's up to you which one you choose.'
+
+{0x1A8C}	LOAD_STRING	'It would also be a good idea to switch from time to time and situation to situation.'
+
+{0x1AD6}	LOAD_STRING	'Kotone'
+{0x1AD8}	LOAD_STRING	'@v00030156"Do you think I can do that?"'
+
+{0x1AE6}	LOAD_STRING	'Tatsumi'
+{0x1AE8}	LOAD_STRING	'Do you think so?'
+
+{0x1AF2}	LOAD_STRING	'Kotone'
+{0x1AF4}	LOAD_STRING	'@v00030157"...@t0190@hKOTONE_A101EG Hehe..."'
+
+{0x1B04}	LOAD_STRING	'Shiino laughs in response.'
+
+{0x1B0E}	LOAD_STRING	'Kotone'
+{0x1B10}	LOAD_STRING	'@v00030158"Oikawa-senpai... Sometimes you say such harsh things."'
+
+{0x1B1E}	LOAD_STRING	'Tatsumi'
+{0x1B20}	LOAD_STRING	'That's not true. I'm just saying that because it's you.'
+
+{0x1BE6}	LOAD_STRING	'Kotone'
+{0x1BE8}	LOAD_STRING	'@v00030159"Me...?"'
+
+{0x1BF6}	LOAD_STRING	'Tatsumi'
+{0x1BF8}	LOAD_STRING	'And that... Well...'
+
+{0x1C08}	LOAD_STRING	'I'm not sure if I should say anything for a minute. It's not in my character, and more importantly, it's pretty embarrassing.'
+
+{0x1C18}	LOAD_STRING	'Even so... I decided that it was something I should say to Shiino.'
+
+{0x1C26}	LOAD_STRING	'Tatsumi'
+{0x1C28}	LOAD_STRING	'You think you're rather plain, but I don't think so.'
+
+{0x1C32}	LOAD_STRING	'Kotone'
+{0x1C34}	LOAD_STRING	'@v00030160"That's only because you know who I am now."'
+
+{0x1C42}	LOAD_STRING	'Tatsumi'
+{0x1C44}	LOAD_STRING	'I don't think that's it.'
+
+{0x1C54}	LOAD_STRING	'I don't know much about girls fashion, but I think Shiino is pretty cool, actually.'
+
+{0x1C64}	LOAD_STRING	'In other words, what she was trying so hard to be... It turns out, that's who she was all along anyway.'
+
+{0x1C72}	LOAD_STRING	'Tatsumi'
+{0x1C74}	LOAD_STRING	'You can't tell that you're wearing makeup from just a glance... I think you're cute.'
+
+{0x1C7E}	LOAD_STRING	'Kotone'
+{0x1C80}	LOAD_STRING	'@v00030161"C-cute...?!"'
+
+{0x1C90}	LOAD_STRING	'Ah, totally out of my character.'
+
+{0x1CA0}	LOAD_STRING	'Complimenting a girl is too hard for me.'
+
+{0x1CAE}	LOAD_STRING	'Tatsumi'
+{0x1CB0}	LOAD_STRING	'What, don't people say that about you?'
+
+{0x1CBA}	LOAD_STRING	'Kotone'
+{0x1CBC}	LOAD_STRING	'@v00030162"That's the first time anyone has said that to my face..."'
+
+{0x1CCA}	LOAD_STRING	'Tatsumi'
+{0x1CCC}	LOAD_STRING	'Uh, what? Are the underclassmen asleep at the wheel or something? If I were them, I wouldn't leave you alone.'
+
+{0x1CDC}	LOAD_STRING	'Whoa... I feel like I'm letting loose.'
+
+{0x1CE6}	LOAD_STRING	'Kotone'
+{0x1CE8}	LOAD_STRING	'@v00030163"Senpai is a second-year, so are you going to leave me alone too?"'
+
+{0x1CF6}	LOAD_STRING	'Tatsumi'
+{0x1CF8}	LOAD_STRING	'It's not like that, but... isn't that weird...?'
+
+{0x1D52}	LOAD_STRING	'Kotone'
+{0x1D54}	LOAD_STRING	'@v00030164"Hah... Well, okay. I got what you wanted to say with your compliment."'
+
+{0x1D62}	LOAD_STRING	'Tatsumi'
+{0x1D64}	LOAD_STRING	'Y-yeah. I admire fashionable people like you and Nakategawa, so why don't you take the time to teach me more?'
+
+{0x1D6E}	LOAD_STRING	'Kotone'
+{0x1D70}	LOAD_STRING	'@v00030165"I'll think about it..."'
+
+{0x1D7E}	LOAD_STRING	'Tatsumi'
+{0x1D80}	LOAD_STRING	'Miki was also happy about you because it seemed like she had a cute little sister.'
+
+{0x1D8A}	LOAD_STRING	'Kotone'
+{0x1D8C}	LOAD_STRING	'@v00030166"I think Kohsaka-senpai is the youngest soul in the group."'
+
+{0x1D9A}	LOAD_STRING	'Tatsumi'
+{0x1D9C}	LOAD_STRING	'I won't deny that.'
+
+{0x1DAC}	LOAD_STRING	'As the youngest child, Miki seems to admire her younger sister.'
+
+{0x1DBC}	LOAD_STRING	'It would be similar to how I, as an only child, sometimes wish I had a younger brother.'
+
+{0x1DCA}	LOAD_STRING	'Tatsumi'
+{0x1DCC}	LOAD_STRING	'Chihiro is an idiot and has a difficult personality, but he is a very nice guy at heart.'
+
+{0x1DD6}	LOAD_STRING	'Kotone'
+{0x1DD8}	LOAD_STRING	'@v00030167"I guess so. Somehow, I understand."'
+
+{0x1DE6}	LOAD_STRING	'Tatsumi'
+{0x1DE8}	LOAD_STRING	'Actually, he has a sister.'
+
+{0x1DF2}	LOAD_STRING	'Kotone'
+{0x1DF4}	LOAD_STRING	'@v00030168"What? Really?"'
+
+{0x1E02}	LOAD_STRING	'Tatsumi'
+{0x1E04}	LOAD_STRING	'So, maybe it's like looking at your own sister and wanting to say things.'
+
+{0x1E0E}	LOAD_STRING	'Kotone'
+{0x1E10}	LOAD_STRING	'@v00030169"..."'
+
+{0x1E1E}	LOAD_STRING	'Tatsumi'
+{0x1E20}	LOAD_STRING	'Well, it doesn't matter what the circumstances are right now. You can choose to be whoever you want.'
+
+{0x1E30}	LOAD_STRING	'Who to associate with and who to distance yourself from. That choice is an important one in life.'
+
+{0x1E3E}	LOAD_STRING	'Tatsumi'
+{0x1E40}	LOAD_STRING	'Even so... Everyone wants to be closer with you, Shiino.'
+
+{0x1E4A}	LOAD_STRING	'Kotone'
+{0x1E4C}	LOAD_STRING	'@v00030170"That's... Including you, Oikawa-senpai?"'
+
+{0x1E5A}	LOAD_STRING	'Tatsumi'
+{0x1E5C}	LOAD_STRING	'Of course.'
+
+{0x1E66}	LOAD_STRING	'Kotone'
+{0x1E68}	LOAD_STRING	'@v00030171"...@t0130@hKOTONE_A101MH I see."'
+
+{0x1E88}	LOAD_STRING	'Maybe it's just selfishness.'
+
+{0x1E98}	LOAD_STRING	'Even so, it's definitely my honest wish right now.'
+
+{0x1EA6}	LOAD_STRING	'Tatsumi'
+{0x1EA8}	LOAD_STRING	'So, for a little longer...'
+
+{0x1EB6}	LOAD_STRING	'Tatsumi'
+{0x1EB8}	LOAD_STRING	'Will you stay with us, at least until the end of summer?'
+
+{0x1EDC}	LOAD_STRING	'The moment I say those words, Shiino's feet stop.'
+
+{0x1EEC}	LOAD_STRING	'She slowly turns around and...'
+
+{0x1F5D}	LOAD_STRING	'Kotone'
+{0x1F5F}	LOAD_STRING	'@v00030172"It can't be helped...@t0250@hKOTONE_U101EG If that's the case, I'll stay a little longer, okay?"'
+
+{0x1F6F}	LOAD_STRING	'A little awkwardly, she gives me a little smile.'
+
+{0x1F7D}	LOAD_STRING	'Tatsumi'
+{0x1F7F}	LOAD_STRING	'Thank you, I'll definitely make Chihiro apologize tomorrow. If he starts dallying with me, I'll kick his ass.'
+
+{0x1F89}	LOAD_STRING	'Kotone'
+{0x1F8B}	LOAD_STRING	'@v00030173"Hehe,@t0140@hKOTONE_U101TR are you sure about that?"'
+
+{0x1F9B}	LOAD_STRING	'Cheeky as usual, but I'm not mad.'
+
+{0x1FAB}	LOAD_STRING	'I guess it's a sign that she's trying to get back on her feet, if not completely back on her feet already.'
+
+{0x1FB9}	LOAD_STRING	'Tatsumi'
+{0x1FBB}	LOAD_STRING	'So, it's good to have you back.'
+
+{0x1FC5}	LOAD_STRING	'Kotone'
+{0x1FC7}	LOAD_STRING	'@v00030174"Yes, thank you..."'
+
+{0x1FD7}	LOAD_STRING	'And surely one day she will choose.'
+
+{0x1FE7}	LOAD_STRING	'Where she has to go.'
+
+{0x2051}	SPECIAL_TEXT	0x0	'"Critical news!"'
+
+{0x2077}	LOAD_STRING	'Yuzuki(Message)'
+{0x207B}	LOAD_CUSTOM_TEXT	0x1	'"Critical news!"'
+
+{0x2112}	SPECIAL_TEXT	0x1	'"Kotone was on the beach  @nwith that lame senior"'
+
+{0x2138}	LOAD_STRING	'Yuzuki(Message)'
+{0x213C}	LOAD_CUSTOM_TEXT	0x1	'"Kotone was on the beach@nwith that lame senior"'
+
+{0x21D3}	SPECIAL_TEXT	0x2	'"Huh? Not Sakaki-senpai? "'
+
+{0x21F9}	LOAD_STRING	'Ayna(Message)'
+{0x21FD}	LOAD_CUSTOM_TEXT	0x1	'"Huh? Not Sakaki-senpai?"'
+
+{0x2294}	SPECIAL_TEXT	0x3	'"No, the plain one!"'
+
+{0x22BA}	LOAD_STRING	'Yuzuki(Message)'
+{0x22BE}	LOAD_CUSTOM_TEXT	0x1	'"No, the plain one!"'
+
+{0x2355}	SPECIAL_TEXT	0x4	'"Impossible..."'
+
+{0x237B}	LOAD_STRING	'Mayu(Message)'
+{0x237F}	LOAD_CUSTOM_TEXT	0x1	'"Impossible..."'
+
+{0x2416}	SPECIAL_TEXT	0x5	'"You have to tell the others, right?  "'
+
+{0x243C}	LOAD_STRING	'Ayna(Message)'
+{0x2440}	LOAD_CUSTOM_TEXT	0x1	'"You have to tell the others, right?"'
+
+{0x24D7}	SPECIAL_TEXT	0x6	'"If you tell Nezu-senpai  @nit'll spread quickly"'
+
+{0x24FD}	LOAD_STRING	'Mayu(Message)'
+{0x2501}	LOAD_CUSTOM_TEXT	0x1	'"If you tell Nezu-senpai@nitll spread quickly"'
+
+{0x2598}	SPECIAL_TEXT	0x7	'"Oh, maybe"'
+
+{0x25BE}	LOAD_STRING	'Ayna(Message)'
+{0x25C2}	LOAD_CUSTOM_TEXT	0x1	'"Oh, maybe"'
+
+{0x2659}	SPECIAL_TEXT	0x8	'"Hey, won't Nezu-senpai lose his temper?   "'
+
+{0x267F}	LOAD_STRING	'Yuzuki(Message)'
+{0x2683}	LOAD_CUSTOM_TEXT	0x1	'"Hey, won't Nezu-senpai lose his temper?"'
+
+{0x271A}	SPECIAL_TEXT	0x9	'"It doesn't matter"'
+
+{0x2740}	LOAD_STRING	'Mayu(Message)'
+{0x2744}	LOAD_CUSTOM_TEXT	0x1	'"It doesn't matter"'
+
+{0x27DB}	SPECIAL_TEXT	0xa	'"Right?"'
+
+{0x2801}	LOAD_STRING	'Ayna(Message)'
+{0x2805}	LOAD_CUSTOM_TEXT	0x1	'"Right?"'
+
+{0x289C}	SPECIAL_TEXT	0xb	'"Kotone needs to be sorry"'
+
+{0x28C2}	LOAD_STRING	'Mayu(Message)'
+{0x28C6}	LOAD_CUSTOM_TEXT	0x1	'"Kotone needs to be sorry"'

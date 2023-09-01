@@ -1,0 +1,82 @@
+{
+	"TABLE": [
+		1,
+		2,
+		2,
+		2
+	],
+	"ENTRIES": [
+		{
+			"STRING": "Regular Event",
+			"DATA": "ff000000ff000000ff000000"
+		},
+		{
+			"STRING": "Significant Event",
+			"DATA": "ff0000002000000020000000"
+		},
+		{
+			"STRING": "Forced Event",
+			"DATA": "0000000060000000ff000000"
+		},
+		{
+			"STRING": "Conditional Forced Event",
+			"DATA": "0000000060000000ff000000"
+		},
+		{
+			"STRING": "Character Route Event",
+			"DATA": "ff0000006000000000000000"
+		},
+		{
+			"STRING": "Miki Route Event",
+			"DATA": "ff0000006000000000000000"
+		},
+		{
+			"STRING": "Yui Route Event",
+			"DATA": "ff0000006000000000000000"
+		},
+		{
+			"STRING": "Kotone Route Event",
+			"DATA": "ff0000006000000000000000"
+		},
+		{
+			"STRING": "Epilogue Event",
+			"DATA": "ff0000006000000000000000"
+		},
+		{
+			"STRING": "Normal Ending Event",
+			"DATA": "ff0000006000000000000000"
+		},
+		{
+			"STRING": "True Ending Event",
+			"DATA": "ff0000006000000000000000"
+		},
+		{
+			"STRING": "Bad Ending Event",
+			"DATA": "ff0000006000000000000000"
+		},
+		{
+			"STRING": "Grand Finale Event",
+			"DATA": "ff0000006000000000000000"
+		},
+		{
+			"STRING": "Miki Finale Event",
+			"DATA": "ff0000006000000000000000"
+		},
+		{
+			"STRING": "Yui Finale Event",
+			"DATA": "ff0000006000000000000000"
+		},
+		{
+			"STRING": "Kotone Finale Event",
+			"DATA": "ff0000006000000000000000"
+		},
+		{
+			"STRING": "Extra Event",
+			"DATA": "00000000ff000000ff000000"
+		},
+		{
+			"STRING": "Phase Event",
+			"DATA": "00000000ff000000ff000000"
+		}
+	]
+}

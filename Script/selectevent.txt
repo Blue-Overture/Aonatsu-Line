@@ -1,0 +1,35 @@
+{0x0009}	LOAD_STRING	'【May Phase01】'
+
+{0x00F8}	LOAD_STRING	'【June Phase01】'
+
+{0x01DF}	LOAD_STRING	'【June Phase02】'
+
+{0x02C6}	LOAD_STRING	'【July Phase01】'
+
+{0x03AD}	LOAD_STRING	'【July Phase02】'
+
+{0x0494}	LOAD_STRING	'【July Phase03】'
+
+{0x057B}	LOAD_STRING	'【Character Selection】'
+
+{0x063E}	LOAD_STRING	'Unable to save/load'
+
+{0x06FD}	SPECIAL_TEXT	0x4	'Miki'
+
+{0x0705}	SPECIAL_TEXT	0x4	'Yui'
+
+{0x070D}	SPECIAL_TEXT	0x4	'Kotone'
+
+{0x0923}	LOAD_STRING	'Miki'
+
+{0x0939}	LOAD_STRING	'Yui'
+
+{0x094F}	LOAD_STRING	'Kotone'
+
+{0x096E}	LOAD_STRING	'Character Selection'
+
+{0x0981}	LOAD_STRING	'Character Selection'
+
+{0x0A4E}	LOAD_STRING	'Back to the beginning.'
+
+{0x0A54}	LOAD_STRING	'Unable to save/load'

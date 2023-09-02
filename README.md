@@ -43,7 +43,7 @@ For more information about using Yuzu mods, [check out their guide](https://yuzu
 
 - It's important to note that our core team consists of just two people, and this takes a large amount of meticulous work. This is our first time doing a translation of a video game, so keep that in mind too.
 
-- We reverse-engineered the game assets to unpack them for modification. Afterwards we used [DeepL](https://www.deepl.com/en/whydeepl) deep learning translation as a base for the dialogue. This was then cross-referenced by other translation software and proofread (including translation check) by people. While we strive for a high-quality translation, you may encounter small errors, and we encourage readers to open a pull request for any errors they find so we can patch it out.
+- We reverse-engineered the game assets to unpack them for modification. Afterwards we used [DeepL](https://www.deepl.com/en/whydeepl) deep learning translation as a base for the dialogue, to get general feel for the scenario. This was then translation-checked, proofread and edited by human editors and volunteer native speakers. While we strive for a high-quality translation, you may encounter small errors, and we encourage readers to open a pull request for any errors they find so we can patch it out.
 
 ### Will this patch work with the PS4, PSVita or Steam release?
 

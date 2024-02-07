@@ -9,9 +9,8 @@ Original game developed by GIGA, published by [Entergram](https://www.entergram.
 - Tatsumi and his childhood friends Miki and Chihiro talked every day about what they would do during the upcoming summer vacation. By chance, they befriended the overly-honest ojou-sama Yui, who transferred to their school since she admired the co-education system, as well as kouhai Kotone, who had failed to make lasting friendships after trying too hard to fit in. This new group of five friends (?) began to plan for a memorable bittersweet summer vacation that happens only once in a lifetime.
 ## Requirements
 
-- Aonatsu Line Demo Version for Nintendo Switch
-- Retail version also works, but so far only the content found in the demo will be translated.
-
+- Aonatsu Line (Retail or Demo Version) for Nintendo Switch.
+- Demo version is fully translated, please check the releases for retail version progress.
 
 ## Installation
 

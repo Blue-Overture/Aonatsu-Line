@@ -23,19 +23,6 @@ You must have installed custom firmware `Atmosphere`.
   - For full game: Download `Full.zip` and copy unpacked folders to `atmosphere/contents/01009B7015E68000/`
 - Enjoy!
 
-### Yuzu
-
-- In Yuzu, right-click `アオナツライン` in your games directory
-- Select `Open Mod Data Location`
-- A window will open showing the directory `yuzu\load\01009B7015E68000`
-- In this folder, create a new folder named `English`
-- If using the retail release, move contents of `Full.zip` into `yuzu\load\01009B7015E68000\English` and close the window
-- If using the demo version, move contents of `Demo.zip` into `yuzu\load\010082E016CFC000\English` and close the window
-- In Yuzu, right click `アオナツライン` and select `Properties`
-- In the `Add-Ons` tab, make sure `English` is checked and close the window
-- Enjoy!
-For more information about using Yuzu mods, [check out their guide](https://yuzu-emu.org/help/feature/game-modding/).
-
 ## FAQ
 
 ### How was this made possible?
@@ -68,6 +55,5 @@ Blue Overture will continue developing the English language patch of Aonatsu Lin
 ## Tools Used
 
 - [DeepL](https://www.deepl.com/en/whydeepl)
-- [Yuzu](https://yuzu-emu.org/)
 - [GIMP](https://www.gimp.org/)
 - [Python](https://www.python.org/)

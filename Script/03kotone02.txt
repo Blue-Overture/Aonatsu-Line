@@ -1,0 +1,578 @@
+{0x00D7}	LOAD_STRING	'As with any regular day walking home from school,'
+
+{0x00E7}	LOAD_STRING	'it begins with a casual conversation.'
+
+{0x00EF}	LOAD_STRING	'Walk02#'
+
+{0x010B}	LOAD_STRING	'Walk02#'
+
+{0x0175}	LOAD_STRING	'Miki'
+{0x0177}	LOAD_STRING	'@v00010872"Ugh, today's pop-quiz was so hard!"'
+
+{0x0181}	LOAD_STRING	'Chihiro'
+{0x0183}	LOAD_STRING	'@v00040735"And anyone who scored less than 50 points has to take remedial classes... I can't imagine anything more cruel."'
+
+{0x018D}	LOAD_STRING	'Miki'
+{0x018F}	LOAD_STRING	'@v00010873"They should at least let us know ahead of time if we have a test coming up. We really need the time to study."'
+
+{0x019D}	LOAD_STRING	'Tatsumi'
+{0x019F}	LOAD_STRING	'"I know it kind of sucks, but it's not like we didn't go over the material beforehand."'
+
+{0x01A9}	LOAD_STRING	'Yui'
+{0x01AB}	LOAD_STRING	'@v00020790"I'm sorry you had such a hard time with it... Pop-quizzes can be a real pain."'
+
+{0x01BB}	LOAD_STRING	'Nakategawa has a sympathetic tone to her voice.'
+
+{0x021D}	LOAD_STRING	'Miki'
+{0x021F}	LOAD_STRING	'@v00010874"But in your case, Yui-chan, it's just a minor inconvenience, isn't it?"'
+
+{0x0229}	LOAD_STRING	'Chihiro'
+{0x022B}	LOAD_STRING	'@v00040736"It seemed like something you could ace, no problem."'
+
+{0x0235}	LOAD_STRING	'Yui'
+{0x0237}	LOAD_STRING	'@v00020791"That's not true, I don't always get perfect scores, you know."'
+
+{0x0241}	LOAD_STRING	'Miki'
+{0x0243}	LOAD_STRING	'@v00010875"So then... How did you do on it?"'
+
+{0x024D}	LOAD_STRING	'Yui'
+{0x024F}	LOAD_STRING	'@v00020792"93 points."'
+
+{0x0259}	LOAD_STRING	'Miki'
+{0x025B}	LOAD_STRING	'@v00010876"Uwah, Yui-chan got one over on us!"'
+
+{0x0265}	LOAD_STRING	'Chihiro'
+{0x0267}	LOAD_STRING	'@v00040737"Hah, I feel pathetic now."'
+
+{0x0271}	LOAD_STRING	'Yui'
+{0x0273}	LOAD_STRING	'@v00020793"Huh? I-I'm sorry!"'
+
+{0x0281}	LOAD_STRING	'Tatsumi'
+{0x0283}	LOAD_STRING	'"Come on, guys. You shouldn't bully Nakategawa over this..."'
+
+{0x0291}	LOAD_STRING	'Tatsumi'
+{0x0293}	LOAD_STRING	'"After all, it's really our jobs as students to review the material frequently so we can be on top of pop-quizzes, isn't it?"'
+
+{0x029D}	LOAD_STRING	'Miki'
+{0x029F}	LOAD_STRING	'@v00010877"The truth can hurt so much. Right, Tak-kun?"'
+
+{0x02A9}	LOAD_STRING	'Chihiro'
+{0x02AB}	LOAD_STRING	'@v00040738"Tatsumi-san isn't innocent, either. Didn't you get 83 points?"'
+
+{0x02B5}	LOAD_STRING	'Yui'
+{0x02B7}	LOAD_STRING	'@v00020794"Tatsumi-san, that is so good!"'
+
+{0x02C5}	LOAD_STRING	'Tatsumi'
+{0x02C7}	LOAD_STRING	'"Nah, it's not that good of a grade."'
+
+{0x02D7}	LOAD_STRING	'She's praising me even though she got 93 points.'
+
+{0x0365}	LOAD_STRING	'Kotone'
+{0x0367}	LOAD_STRING	'@v00030556"..."'
+
+{0x0377}	LOAD_STRING	'As I pass by the school gate, I notice something.'
+
+{0x0387}	LOAD_STRING	'Shiino has been pretty quiet lately.'
+
+{0x0397}	LOAD_STRING	'After the incident with Nezu-senpai, we began talking regularly.'
+
+{0x03E9}	LOAD_STRING	'Miki'
+{0x03EB}	LOAD_STRING	'@v00010878"By the way, Koto-chan, does your class do pop-quizzes too?"'
+
+{0x03F5}	LOAD_STRING	'Kotone'
+{0x03F7}	LOAD_STRING	'@v00030557"I guess so..."'
+
+{0x0401}	LOAD_STRING	'Chihiro'
+{0x0403}	LOAD_STRING	'@v00040739"I bet with how cocky she is, she probably outclasses us all."'
+
+{0x040D}	LOAD_STRING	'Yui'
+{0x040F}	LOAD_STRING	'@v00020795"That's true, the tsundere-types usually have excellent grades."'
+
+{0x041D}	LOAD_STRING	'Tatsumi'
+{0x041F}	LOAD_STRING	'"Mind if I ask you how you did?"'
+
+{0x0429}	LOAD_STRING	'Kotone'
+{0x042B}	LOAD_STRING	'@v00030558"The last time I took a pop-quiz...@t0220@hKOTONE_A101TN I got 45 points."'
+
+{0x0435}	LOAD_STRING	'Miki'
+{0x0437}	LOAD_STRING	'@v00010879"Whoa, 45 out of 50 points?!"'
+
+{0x0447}	LOAD_STRING	'Some teachers grade tests on a score out of 50 possible points.'
+
+{0x0457}	LOAD_STRING	'So 45 points out of 50 would be a score of 90%, enough to make Miki and Chihiro jealous.'
+
+{0x0461}	LOAD_STRING	'Chihiro'
+{0x0463}	LOAD_STRING	'@v00040740"All right. So is everyone here a wiz except me and Miki?"'
+
+{0x0471}	LOAD_STRING	'Tatsumi'
+{0x0473}	LOAD_STRING	'"Don't put us into a group opposing you."'
+
+{0x047D}	LOAD_STRING	'Miki'
+{0x047F}	LOAD_STRING	'@v00010880"And don't group me in with you, Chi-kun!"'
+
+{0x04A3}	LOAD_STRING	'Miki and Chihiro start to bicker...'
+
+{0x04FD}	LOAD_STRING	'Kotone'
+{0x04FF}	LOAD_STRING	'@v00030559"45 out of 100, okay?"'
+
+{0x050F}	LOAD_STRING	'She mumbled softly.'
+
+{0x051D}	LOAD_STRING	'Tatsumi'
+{0x051F}	LOAD_STRING	'"Huh? Are you serious?"'
+
+{0x052F}	LOAD_STRING	'I felt that there was a slight possibility that she was telling th truth.'
+
+{0x0539}	LOAD_STRING	'Kotone'
+{0x053B}	LOAD_STRING	'@v00030560"...Hahaha. Go ahead, just laugh at me."'
+
+{0x0553}	LOAD_STRING	'Kotone'
+{0x0555}	LOAD_STRING	'@v00030561"It's true. I was so focused on making my 'debut' at Kurigaoka that I ended up flunking my classes."'
+
+{0x055F}	LOAD_STRING	'Kotone'
+{0x0561}	LOAD_STRING	'@v00030562"So Yui, go ahead and laugh at me for somehow failing both my debut and grades."'
+
+{0x0571}	LOAD_STRING	'Shiino is easy to understand, even though she comes off as a jerk sometimes.'
+
+{0x0581}	LOAD_STRING	'She's got this pouty freshman kind of look that makes me smile.'
+
+{0x058B}	LOAD_STRING	'Chihiro'
+{0x058D}	LOAD_STRING	'@v00040741"Hahaha! What the hell? Shiino is on our side after all!"'
+
+{0x0597}	LOAD_STRING	'Miki'
+{0x0599}	LOAD_STRING	'@v00010881"Don't worry, Koto-chan! Our real worth surpasses any dumb test score we might get!"'
+
+{0x05A3}	LOAD_STRING	'Kotone'
+{0x05A5}	LOAD_STRING	'@v00030563"Thank you for encouraging me, but I don't want to be on Sakaki-senpai's side of anything."'
+
+{0x05B5}	LOAD_STRING	'As long as you study enough, anyone should be able to get a good test score...'
+
+{0x0627}	LOAD_STRING	'Yui'
+{0x0629}	LOAD_STRING	'@v00020796"But... that can be a bit of a problem..."'
+
+{0x0633}	LOAD_STRING	'Miki'
+{0x0635}	LOAD_STRING	'@v00010882"Nah, first-year grades aren't that useful."'
+
+{0x063F}	LOAD_STRING	'Chihiro'
+{0x0641}	LOAD_STRING	'@v00040742"All that matters is if you get into university or not."'
+
+{0x064B}	LOAD_STRING	'Miki'
+{0x064D}	LOAD_STRING	'@v00010883"Not true! University is just a stepping stone.@t0360@hMIKI_A102IK2 What really matters is what you can accomplish before you die!"'
+
+{0x0657}	LOAD_STRING	'Chihiro'
+{0x0659}	LOAD_STRING	'@v00040743"Miki... You're thinking on way too big of a scale!"'
+
+{0x0679}	LOAD_STRING	'Now they're both getting way too pumped up.'
+
+{0x0689}	LOAD_STRING	'I get the sentiment that Nakategawa is trying to convey.'
+
+{0x0697}	LOAD_STRING	'Tatsumi'
+{0x0699}	LOAD_STRING	'"45 points... that's just above a red mark, isn't it?"'
+
+{0x06A9}	LOAD_STRING	'At Kurigaoka, a red mark is a score below 40 points.'
+
+{0x06CF}	LOAD_STRING	'Miki'
+{0x06D1}	LOAD_STRING	'@v00010884"A red mark means nothing anyway. Don't the teachers grade all the papers with a red pen anyway?"'
+
+{0x06E1}	LOAD_STRING	'Miki tries to swat away Nakategawa's concerns with a theory that makes no sense.'
+
+{0x0733}	LOAD_STRING	'Yui'
+{0x0735}	LOAD_STRING	'@v00020797"If you manage to get a red mark on the final exam of any one class, don't you have to take a make-up test?"'
+
+{0x073F}	LOAD_STRING	'Chihiro'
+{0x0741}	LOAD_STRING	'@v00040744"Yeah, that's right."'
+
+{0x074F}	LOAD_STRING	'Tatsumi'
+{0x0751}	LOAD_STRING	'"Last summer, I cried while preparing for the test."'
+
+{0x0761}	LOAD_STRING	'The issue is the timeframe for the study hall.'
+
+{0x076F}	LOAD_STRING	'Tatsumi'
+{0x0771}	LOAD_STRING	'"You only get one week to study for the make-up test, right? That means we won't be able to see Shiino during that time."'
+
+{0x077B}	LOAD_STRING	'Miki'
+{0x077D}	LOAD_STRING	'@v00010885"That sucks! It's summer, we have to hang out with Koto-chan!"'
+
+{0x0787}	LOAD_STRING	'Yui'
+{0x0789}	LOAD_STRING	'@v00020798"By the way... How are you feeling about your ability to pass your finals, Kotone-chan?"'
+
+{0x0793}	LOAD_STRING	'Kotone'
+{0x0795}	LOAD_STRING	'@v00030564"...I'm not sure."'
+
+{0x07A5}	LOAD_STRING	'Shiino looks away and mumbles.'
+
+{0x07AF}	LOAD_STRING	'Miki'
+{0x07B1}	LOAD_STRING	'@v00010886"Hey, Tak-kun, can't we do something to help?@t0420@hMIKI_A101KM2 Maybe there's a way to bash this problem away."'
+
+{0x07BF}	LOAD_STRING	'Tatsumi'
+{0x07C1}	LOAD_STRING	'"There is no other way. The answer is constant studying. The same goes for you and Chihiro."'
+
+{0x07CB}	LOAD_STRING	'Miki'
+{0x07CD}	LOAD_STRING	'@v00010887"Ugh, I hate studying!"'
+
+{0x07D7}	LOAD_STRING	'Chihiro'
+{0x07D9}	LOAD_STRING	'@v00040745"When the time comes, we can rely on good old Tatsumi-sensei."'
+
+{0x07E3}	LOAD_STRING	'Miki'
+{0x07E5}	LOAD_STRING	'@v00010888"That's right!@t0280@hMIKI_A102EG2 And now we have Yui-chan, too!"'
+
+{0x07EF}	LOAD_STRING	'Yui'
+{0x07F1}	LOAD_STRING	'@v00020799"Ah! So we've decided to study as a group? Let's do it!"'
+
+{0x0801}	LOAD_STRING	'It seems Nakategawa is quite fond of the idea of a study group.'
+
+{0x0811}	LOAD_STRING	'Though it's clear that Miki and Chihiro didn't have the will to do it themselves.'
+
+{0x081B}	LOAD_STRING	'Yui'
+{0x081D}	LOAD_STRING	'@v00020800"As they say, 'Strike while the iron is hot!' Let's begin tomorrow!"'
+
+{0x086F}	LOAD_STRING	'Kotone'
+{0x0871}	LOAD_STRING	'@v00030565"Huh? Tomorrow?"'
+
+{0x087B}	LOAD_STRING	'Yui'
+{0x087D}	LOAD_STRING	'@v00020801"Yes. If we start preparing now, the final exam should be a cinch, right?"'
+
+{0x0887}	LOAD_STRING	'Kotone'
+{0x0889}	LOAD_STRING	'@v00030566"I mean, it's just a bit..."'
+
+{0x08FD}	LOAD_STRING	'As we approach the station, Nakategawa has an eager look to her.'
+
+{0x090D}	LOAD_STRING	'Shiino looked at me as if she had something to say.'
+
+{0x095F}	LOAD_STRING	'Kotone'
+{0x0961}	LOAD_STRING	'@v00030567"Isn't there a proper way to study effectively? I haven't learned how to do that yet..."'
+
+{0x096B}	LOAD_STRING	'Kotone'
+{0x096D}	LOAD_STRING	'@v00030568"Even if Nakategawa-senpai wants to take me under her wing, won't it be useless if I don't know the basics?"'
+
+{0x09DB}	LOAD_STRING	'Yui'
+{0x09DD}	LOAD_STRING	'@v00020802"Don't worry, I'll teach you everything! You don't mind if I do take you under my wing, then?"'
+
+{0x0A09}	LOAD_STRING	'Nakategawa starts breathing heavily towards Shiino.'
+
+{0x0A1F}	LOAD_STRING	'Kotone'
+{0x0A21}	LOAD_STRING	'@v00030569"B-but, it's bad to ask so much of you..."'
+
+{0x0A31}	LOAD_STRING	'Shiino backs away slightly.'
+
+{0x0A3B}	LOAD_STRING	'Kotone'
+{0x0A3D}	LOAD_STRING	'@v00030570"Oh, why don't we do this...!"'
+
+{0x0A43}	LOAD_STRING	'Nuno01'
+
+{0x0AA1}	LOAD_STRING	'Tatsumi'
+{0x0AA3}	LOAD_STRING	'"Eh?"'
+
+{0x0AB3}	LOAD_STRING	'I feel a soft touch on my arm and flinch.'
+
+{0x0AC3}	LOAD_STRING	'Shiino hugs my arm tightly.'
+
+{0x0ACD}	LOAD_STRING	'Kotone'
+{0x0ACF}	LOAD_STRING	'@v00030571"Why don't I learn the basics from Oikawa-senpai, and then learn the rest from Nakategawa-senpai?"'
+
+{0x0ADD}	LOAD_STRING	'Tatsumi'
+{0x0ADF}	LOAD_STRING	'"Wait, that's..."'
+
+{0x0AE9}	LOAD_STRING	'Kotone'
+{0x0AEB}	LOAD_STRING	'@v00030572"You study for a test right after school, right? If Nakategawa-senpai stays with me for too long, it might be a problem..."'
+
+{0x0AF9}	LOAD_STRING	'Tatsumi'
+{0x0AFB}	LOAD_STRING	'"Oh, I get it."'
+
+{0x0B0B}	LOAD_STRING	'I understand where she is going with this.'
+
+{0x0B1B}	LOAD_STRING	'Nakategawa lives far away from the school.'
+
+{0x0B2B}	LOAD_STRING	'Even though the days are longer at the end of June, Nakategawa might end up studying too late and end up getting home at night.'
+
+{0x0B35}	LOAD_STRING	'Kotone'
+{0x0B37}	LOAD_STRING	'@v00030573"So, maybe Oikawa-senpai can tutor me at my house..."'
+
+{0x0B45}	LOAD_STRING	'Tatsumi'
+{0x0B47}	LOAD_STRING	'"H-huh? At your house?"'
+
+{0x0B57}	LOAD_STRING	'Shiino's house is further from Fuji Beach, in the opposite direction from school than Nakategawa's'
+
+{0x0B67}	LOAD_STRING	'I wouldn't want both girls to end up studying afterschool so late and have to walk home in the dark.'
+
+{0x0B77}	LOAD_STRING	'Only men would feel comfortable walking home at night around here.'
+
+{0x0B81}	LOAD_STRING	'Kotone'
+{0x0B83}	LOAD_STRING	'@v00030574"Doesn't it make more sense to study with Nakategawa-senpai during the week before the test?"'
+
+{0x0B8D}	LOAD_STRING	'Kotone'
+{0x0B8F}	LOAD_STRING	'@v00030575"During that week, I'll be free in the afternoon."'
+
+{0x0BE1}	LOAD_STRING	'Yui'
+{0x0BE3}	LOAD_STRING	'@v00020803"Hmm... Kotone-chan, you have a point."'
+
+{0x0BF3}	LOAD_STRING	'Nakategawa puts her hand on her cheek and nods intuitively.'
+
+{0x0BFD}	LOAD_STRING	'Yui'
+{0x0BFF}	LOAD_STRING	'@v00020804"In that case, I'll start preparing some study materials!"'
+
+{0x0C09}	LOAD_STRING	'Miki'
+{0x0C0B}	LOAD_STRING	'@v00010889"Ohh~ Yui-chan, that's great!"'
+
+{0x0C15}	LOAD_STRING	'Chihiro'
+{0x0C17}	LOAD_STRING	'@v00040746"I'm rooting for you!"'
+
+{0x0C21}	LOAD_STRING	'Yui'
+{0x0C23}	LOAD_STRING	'@v00020805"Until then, Tatsumi-san, please take good care of Kotone-chan!"'
+
+{0x0C31}	LOAD_STRING	'Tatsumi'
+{0x0C33}	LOAD_STRING	'"O-oh, but... Is that really okay with you, Shiino?"'
+
+{0x0C43}	LOAD_STRING	'I didn't expect to be visiting Shiino at her house...'
+
+{0x0CB4}	LOAD_STRING	'Kotone'
+{0x0CB6}	LOAD_STRING	'@v00030576"It'll be nice!@t0200@hKOTONE_U101EG Please be my tutor!"'
+
+{0x0CC6}	LOAD_STRING	'I flinch as Shiino squeezes my arm seductively.'
+
+{0x0D42}	LOAD_STRING	'The next day, after school.'
+
+{0x0DC2}	LOAD_STRING	'Kotone'
+{0x0DC4}	LOAD_STRING	'@v00030577"I've always been bad at math and English."'
+
+{0x0DD4}	LOAD_STRING	'On the train, headed to Shiino's house.'
+
+{0x0DDA}	LOAD_STRING	'Nuno02'
+
+{0x0E01}	LOAD_STRING	'As she says this, she leans her body close to me.'
+
+{0x0E07}	LOAD_STRING	'Nuno01'
+
+{0x0E19}	LOAD_STRING	'Kotone'
+{0x0E1B}	LOAD_STRING	'@v00030578"That's where we should focus then, right?"'
+
+{0x0E2B}	LOAD_STRING	'So close, that I could almost...'
+
+{0x0E39}	LOAD_STRING	'Tatsumi'
+{0x0E3B}	LOAD_STRING	'"Hey Shiino, why don't you sit down? There's an empty seat right there."'
+
+{0x0E4B}	LOAD_STRING	'There are plenty of empty seats on the train, she doesn't need to stand in front of me.'
+
+{0x0E55}	LOAD_STRING	'Kotone'
+{0x0E57}	LOAD_STRING	'@v00030579"What, you don't like it when I stand next to you, senpai?"'
+
+{0x0E65}	LOAD_STRING	'Tatsumi'
+{0x0E67}	LOAD_STRING	'"It's not like that, but..."'
+
+{0x0E71}	LOAD_STRING	'Kotone'
+{0x0E73}	LOAD_STRING	'@v00030580"Then there's no problem, right?"'
+
+{0x0E83}	LOAD_STRING	'No, there is a problem. A personal problem.'
+
+{0x0E8D}	LOAD_STRING	'Kotone'
+{0x0E8F}	LOAD_STRING	'@v00030581"What's wrong, Oikawa-senpai?"'
+
+{0x0E95}	LOAD_STRING	'Nuno01'
+
+{0x0EF9}	LOAD_STRING	'Shiino stares at me, like she's peering into my soul.'
+
+{0x0F09}	LOAD_STRING	'I'm feeling like something is... different.'
+
+{0x0F19}	LOAD_STRING	'I've always thought Shiino was a beautiful girl, but I feel like something has changed...'
+
+{0x0F27}	LOAD_STRING	'Tatsumi'
+{0x0F29}	LOAD_STRING	'"Hey, did you... change the color of your cosmetics?"'
+
+{0x0F33}	LOAD_STRING	'Kotone'
+{0x0F35}	LOAD_STRING	'@v00030582"It's called 'makeup'!"'
+
+{0x0F45}	LOAD_STRING	'Shiino puffs her cheeks in frustration.'
+
+{0x0F4F}	LOAD_STRING	'Kotone'
+{0x0F51}	LOAD_STRING	'@v00030583"To put it simply, it's the natural look."'
+
+{0x0F5F}	LOAD_STRING	'Tatsumi'
+{0x0F61}	LOAD_STRING	'"I see. It really suits you, Shiino."'
+
+{0x0F6B}	LOAD_STRING	'Kotone'
+{0x0F6D}	LOAD_STRING	'@v00030584"T-thank you..."'
+
+{0x0F7D}	LOAD_STRING	'Up until now, the um... makeup, really felt like a coat of armor to hide the true Shiino.'
+
+{0x0F8D}	LOAD_STRING	'Now, it feels like Shiino's makeup is extending her own natural charm.'
+
+{0x0F97}	LOAD_STRING	'Kotone'
+{0x0F99}	LOAD_STRING	'@v00030585"I changed it for senpai."'
+
+{0x0FA7}	LOAD_STRING	'Tatsumi'
+{0x0FA9}	LOAD_STRING	'"Uh, what?"'
+
+{0x0FB3}	LOAD_STRING	'Kotone'
+{0x0FB5}	LOAD_STRING	'@v00030586"Nevermind."'
+
+{0x1045}	LOAD_STRING	'Shiino's house is a five minute walk from the station at Shohokudai. It's a nice house in a quiet residential area.'
+
+{0x10E5}	LOAD_STRING	'Shiino's mother welcomed me warmly and showed us to her room.'
+
+{0x10F5}	LOAD_STRING	'I can't remember the last time I've been in a girl's room, other than Miki's.'
+
+{0x1105}	LOAD_STRING	'It seems really good.'
+
+{0x1115}	LOAD_STRING	'In addition to the sea breeze, Shiino's room has a smiliar citrusy-scent like Miki's.'
+
+{0x1125}	LOAD_STRING	'As well as the color of the walls, the placement of wall ornaments and furnishings... it is all so different than what I'm used to.'
+
+{0x1177}	LOAD_STRING	'Kotone'
+{0x1179}	LOAD_STRING	'@v00030587"Why are you looking around? Come and sit down with me."'
+
+{0x117F}	LOAD_STRING	'Nuno01'
+
+{0x11D8}	LOAD_STRING	'Tatsumi'
+{0x11DA}	LOAD_STRING	'"O-oh, yeah. Good call."'
+
+{0x11E4}	LOAD_STRING	'Kotone'
+{0x11E6}	LOAD_STRING	'@v00030588"You wanna sit on the bed, then?"'
+
+{0x11F4}	LOAD_STRING	'Tatsumi'
+{0x11F6}	LOAD_STRING	'"Ah! Sorry! Where should I..."'
+
+{0x11FC}	LOAD_STRING	'Nuno02'
+
+{0x123A}	LOAD_STRING	'Kotone'
+{0x123C}	LOAD_STRING	'@v00030589"...Well, anywhere is fine."'
+
+{0x1278}	LOAD_STRING	'After some awkwardness, we finally settled on sitting down on the carpet.'
+
+{0x1288}	LOAD_STRING	'After drinking some of the tea her mother prepared me, I felt more comfortable.'
+
+{0x1292}	LOAD_STRING	'Paper01'
+
+{0x12EA}	LOAD_STRING	'Kotone'
+{0x12EC}	LOAD_STRING	'@v00030590"Um, so here it is..."'
+
+{0x12FC}	LOAD_STRING	'The study sesson finally begins as the sun peeks in through the window.'
+
+{0x1396}	LOAD_STRING	'Nuno01'
+
+{0x13AE}	LOAD_STRING	'Shiino leans in closer to me while playing with her hair.'
+
+{0x13BE}	LOAD_STRING	'As soon as that happens, I smell a faintly sweet scent.'
+
+{0x13CE}	LOAD_STRING	'Girls smell so nice... is this just something that men can sense?'
+
+{0x13DE}	LOAD_STRING	'As someone who is inexperienced, I can't tell if this is the smell of perfume, or if it's Shiino's natural scent.'
+
+{0x13E8}	LOAD_STRING	'Kotone'
+{0x13EA}	LOAD_STRING	'@v00030591"Oikawa-senpai?"@k'
+
+{0x13F0}	LOAD_STRING	'Nuno02'
+
+{0x1436}	LOAD_STRING	'Tatsumi'
+{0x1438}	LOAD_STRING	'"Huh? Oh, the tenses match. This is pretty difficult, isn't it?"'
+
+{0x1448}	LOAD_STRING	'My last thought was a little too much, but I'm not worried about that anymore.'
+
+{0x1456}	LOAD_STRING	'Tatsumi'
+{0x1458}	LOAD_STRING	'"...As a general rule, you should separate the inside and outside."@k'
+
+{0x1496}	LOAD_STRING	'Tatsumi'
+{0x1498}	LOAD_STRING	'"The outside... that is, the biggest part, the skeleton in a sentence, is the main clause. The contents of the main clause and the detailed parts are the subordinate clauses."'
+
+{0x14A8}	LOAD_STRING	'I then go to trace the example sentences with my fingertip.'
+
+{0x14B6}	LOAD_STRING	'Tatsumi'
+{0x14B8}	LOAD_STRING	'"The most important part of this sentence is the 'I think' part, right?"'
+
+{0x14C2}	LOAD_STRING	'Kotone'
+{0x14C4}	LOAD_STRING	'@v00030592"That's right... 'He likes dogs' is one of the finer details."@k'
+
+{0x150A}	LOAD_STRING	'Tatsumi'
+{0x150C}	LOAD_STRING	'"To give you a rough idea, the last verb in the Japanese translation is the most important main clause."'
+
+{0x151A}	LOAD_STRING	'Tatsumi'
+{0x151C}	LOAD_STRING	'"For example... the sentence, 'He said he liked her.'"'
+
+{0x1526}	LOAD_STRING	'Kotone'
+{0x1528}	LOAD_STRING	'@v00030593"The main clause is 'he said,' right?"'
+
+{0x1536}	LOAD_STRING	'Tatsumi'
+{0x1538}	LOAD_STRING	'"That's right. Just match the tense of the main clause with the subordinate clause."'
+
+{0x1548}	LOAD_STRING	'Of course, tense-matching isn't a rule in Japanese grammar, so it's understandable to be a little confused at first.'
+
+{0x1558}	LOAD_STRING	'It's just an example of something you just have to remember.'
+
+{0x1562}	LOAD_STRING	'Kotone'
+{0x1564}	LOAD_STRING	'@v00030594"I see...@t0250@h Oikawa-senpai, you are so good at teaching."@k'
+
+{0x15AA}	LOAD_STRING	'Tatsumi'
+{0x15AC}	LOAD_STRING	'"I've already got two problem children to deal with..."'
+
+{0x15B6}	LOAD_STRING	'Kotone'
+{0x15B8}	LOAD_STRING	'@v00030595"Heheh..."'
+
+{0x15F4}	LOAD_STRING	'I didn't say their names, but Shiino obviously knew who I was talking about and laughs.'
+
+{0x1604}	LOAD_STRING	'If only she smiled like this more often, she would get along better with everyone.'
+
+{0x160E}	LOAD_STRING	'Kotone'
+{0x1610}	LOAD_STRING	'@v00030596"Um, well, the next English sentence is..."'
+
+{0x1620}	LOAD_STRING	'And just like that, our study session progressed slowly.'
+
+{0x16A6}	LOAD_STRING	'Kotone'
+{0x16A8}	LOAD_STRING	'@v00030597"Thank you for helping me today. I can't wait to keep studying with you tomorrow, okay?"'
+
+{0x16B6}	LOAD_STRING	'Tatsumi'
+{0x16B8}	LOAD_STRING	'"Nah, don't mention it."'
+
+{0x16F4}	LOAD_STRING	'Time passes, and it's dinnertime at Shiino's place.'
+
+{0x1704}	LOAD_STRING	'The study session ends and Shiino bows gracefully and thanks me.'
+
+{0x1714}	LOAD_STRING	'She's usually so cocky that when I see her bowing and thanking me humbly, I feel confused.'
+
+{0x1766}	LOAD_STRING	'Kotone'
+{0x1768}	LOAD_STRING	'@v00030598"If we keep this up, things will work out for me... right?"'
+
+{0x1776}	LOAD_STRING	'Tatsumi'
+{0x1778}	LOAD_STRING	'"Maybe so. Remember, right before the test, you'll be taught by a way better teacher than me."'
+
+{0x1782}	LOAD_STRING	'Kotone'
+{0x1784}	LOAD_STRING	'@v00030599"That's not true. Oikawa-senpai, you're more than enough for me."'
+
+{0x1794}	LOAD_STRING	'This was unimaginably high praise from Shiino, conidering what our relationship looked like not long ago.'
+
+{0x179E}	LOAD_STRING	'Kotone'
+{0x17A0}	LOAD_STRING	'@v00030600"But...@t0140@hKOTONE_A102DY Senpai, you should get more comfortable around girls, don't you think?"'
+
+{0x17AE}	LOAD_STRING	'Tatsumi'
+{0x17B0}	LOAD_STRING	'"Gulp..."'
+
+{0x17C0}	LOAD_STRING	'Crap, she knew all along.'
+
+{0x1818}	LOAD_STRING	'Well, there's no need to put on a serious face with this girl anymore.'
+
+{0x1828}	LOAD_STRING	'Shiino smiles mischievously, an expression I think is cute for some reason.'
+
+{0x1836}	LOAD_STRING	'Tatsumi'
+{0x1838}	LOAD_STRING	'"What gave it away...?"'
+
+{0x188A}	LOAD_STRING	'Kotone'
+{0x188C}	LOAD_STRING	'@v00030601"It's so obvious. You get so nervous whenever I get close to you."'
+
+{0x189A}	LOAD_STRING	'Tatsumi'
+{0x189C}	LOAD_STRING	'"Um, well... maybe we can talk about this in the future."'
+
+{0x18AC}	LOAD_STRING	'I don't know how I will be able to clear this up.'
+
+{0x18B6}	LOAD_STRING	'Kotone'
+{0x18B8}	LOAD_STRING	'@v00030602"Oooh, that senior who made that long shot is sooo dreamy."'
+
+{0x18C6}	LOAD_STRING	'Tatsumi'
+{0x18C8}	LOAD_STRING	'"If you keep saying it like that, it'll lose its meaning."'
+
+{0x18D2}	LOAD_STRING	'Kotone'
+{0x18D4}	LOAD_STRING	'@v00030603"Hehe, that's true... but..."'
+
+{0x18E2}	LOAD_STRING	'Tatsumi'
+{0x18E4}	LOAD_STRING	'"But...?"'
+
+{0x1959}	LOAD_STRING	'Kotone'
+{0x195B}	LOAD_STRING	'@v00030604"If Oikawa-senpai was always so cool... I'd be in trouble too."'
+
+{0x196B}	LOAD_STRING	'Shiino smiled shyly as she said that.'

@@ -290,7 +290,7 @@
 {0x0B45}	LOAD_STRING	'Tatsumi'
 {0x0B47}	LOAD_STRING	'"H-huh? At your house?"'
 
-{0x0B57}	LOAD_STRING	'Shiino's house is further from Fuji Beach, in the opposite direction from school than Nakategawa's'
+{0x0B57}	LOAD_STRING	'Shiino's house is further from Fuji Beach, in the opposite direction from school than Nakategawa's.'
 
 {0x0B67}	LOAD_STRING	'I wouldn't want both girls to end up studying afterschool so late and have to walk home in the dark.'
 
